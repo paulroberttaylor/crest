@@ -1,0 +1,16 @@
+{
+  "total_emails": 864,
+  "relevant_emails": 337,
+  "complaint_emails": 82,
+  "render_emails": 37,
+  "path_emails": 67,
+  "violations_by_category": {
+    "reservation": 7,
+    "changes": 67,
+    "completion": 6,
+    "after_sales": 14,
+    "complaints_process": 165,
+    "defects": 71,
+    "responsiveness": 42
+  }
+}

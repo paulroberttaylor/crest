@@ -1,0 +1,778 @@
+# PDF Attachments Summary
+
+Total emails processed: 1723
+Total PDFs extracted: 234
+
+
+## crestnicholson.com (52 PDFs)
+
+- **Fri, 1 Mar** - 34 Albany Wood - complaint assessment and response 01-03-24
+  - File: 2024-03-01_1700_34 Albany Wood - complaint assessment and response_34 Albany Wood - Complaint assessment and response 01 03 24.pdf
+  - Size: 56,030 bytes
+- **Fri, 10 Ja** - 0034 Albany Wood Complaint Acknowledgement 10-01-2025
+  - File: 2025-01-10_1912_0034 Albany Wood Complaint Acknowledgement 10-01-2_0034 Albany Wood Complaint Acknowledgement 10 01 25.pdf
+  - Size: 126,626 bytes
+- **Fri, 17 Ja** - 0034 Albany Wood complaint pathway to resolution 17-01-25
+  - File: 2025-01-17_1656_0034 Albany Wood complaint pathway to resolution 1_0034 Albany Wood Complaint pathway to resolution 17 01 25.pdf
+  - Size: 124,379 bytes
+- **Fri, 17 Ja** - 0034 Albany Wood Complaint Assessment & Interim Update 17-01-25
+  - File: 2025-01-17_1714_0034 Albany Wood Complaint Assessment & Interim Up_0034 Albany Wood Complaint assessment and interim upadate 17 01
+ 25.pdf
+  - Size: 145,726 bytes
+- **Fri, 2 Aug** - 034 Albany Wood - Complaint pathway to resolution 02-08-24
+  - File: 2024-08-02_1504_034 Albany Wood - Complaint pathway to resolution _034 Albany Wood - Complaint Pathway to Resolution 02 08 24.pdf
+  - Size: 65,446 bytes
+- **Fri, 23 Ju** - 34 Albany Wood
+  - File: 2023-06-23_1102_34 Albany Wood_Plot 34 - Albany Wood - Signed Res.pdf
+  - Size: 1,902,312 bytes
+- **Fri, 26 Ju** - RE: [EXTERNAL] Fwd: 0034 Albany Wood - water pressure and dishwasher
+  - File: 2024-07-26_1803_RE_ [EXTERNAL] Fwd_ 0034 Albany Wood - water press_034 Albany Wood - Complaint Acknowledgement 26 07 24.pdf
+  - Size: 21,054 bytes
+- **Fri, 28 Fe** - 0034 Albany Wood Complaint interim update 28-02-25
+  - File: 2025-02-28_1517_0034 Albany Wood Complaint interim update 28-02-25_0034 Albany Wood Complaint interim upadate 28 02 25.pdf
+  - Size: 145,973 bytes
+- **Fri, 28 Ma** - 0034 Albany Wood Complaint interim update 28-03-25
+  - File: 2025-03-28_1030_0034 Albany Wood Complaint interim update 28-03-25_0034 Albany Wood Complaint interim update 28 03 25.pdf
+  - Size: 98,519 bytes
+- **Fri, 30 Au** - 034 Albany Wood - Complaint Assessment and Response 30-08-24
+  - File: 2024-08-30_1915_034 Albany Wood - Complaint Assessment and Respons_034 Albany Wood - Complaint Assessment and Response 30 08 24.pdf
+  - Size: 67,465 bytes
+- **Fri, 31 Ja** - 034 Albany Wood complaint update and final response 31-01-25
+  - File: 2025-01-31_1701_034 Albany Wood complaint update and final respons_0034 Albany Wood Complaint update and final repsonse 31 01 25
+ (002).pdf
+  - Size: 125,023 bytes
+- **Mon, 12 Ju** - Plot 34 - Albany Wood
+  - File: 2023-06-12_1331_Plot 34 - Albany Wood_Plot 34 - Albany Wood - Signed checklist.pdf
+  - Size: 1,026,705 bytes
+- **Mon, 12 Ju** - Plot 34 - Albany Wood
+  - File: 2023-06-12_1331_Plot 34 - Albany Wood_Plot 34 - Albany Wood - Signed Res.pdf
+  - Size: 1,902,773 bytes
+- **Mon, 12 Ju** - Plot 34 - Albany Wood
+  - File: 2023-06-12_1331_Plot 34 - Albany Wood_Plot 34-Albany Wood-Affordability Guide.pdf
+  - Size: 429,349 bytes
+- **Mon, 12 Ju** - Plot 34 - Albany Wood
+  - File: 2023-06-12_1331_Plot 34 - Albany Wood_3.CN_GENERIC-SPECIFICATIONS_1-2-3-4-5-BEDROOM-HOMES_2PPP_v03_AW.pdf
+  - Size: 615,493 bytes
+- **Mon, 12 Ju** - Plot 34 - Albany Wood
+  - File: 2023-06-12_1331_Plot 34 - Albany Wood_5. Home Owners Guide.pdf
+  - Size: 5,143,823 bytes
+- **Mon, 12 Ju** - Plot 34 - Albany Wood
+  - File: 2023-06-12_1331_Plot 34 - Albany Wood_7 - Development Factsheet - ALBANY WOOD.pdf
+  - Size: 169,128 bytes
+- **Mon, 12 Ju** - Plot 34 - Albany Wood
+  - File: 2023-06-12_1331_Plot 34 - Albany Wood_8 - NEW Albany Wood FREEHOLD INFORMATION GUIDE.pdf
+  - Size: 320,099 bytes
+- **Mon, 12 Ju** - Plot 34 - Albany Wood
+  - File: 2023-06-12_1331_Plot 34 - Albany Wood_9. Albany Wood Post Reservation Contact.pdf
+  - Size: 112,429 bytes
+- **Mon, 12 Ju** - Plot 34 - Albany Wood
+  - File: 2023-06-12_1331_Plot 34 - Albany Wood_10.1 NHBC Warranty Note.pdf
+  - Size: 69,066 bytes
+- **Mon, 12 Ju** - Plot 34 - Albany Wood
+  - File: 2023-06-12_1331_Plot 34 - Albany Wood_10.2 Welcome to NHBC Buildmark.pdf
+  - Size: 641,761 bytes
+- **Mon, 12 Ju** - Plot 34 - Albany Wood
+  - File: 2023-06-12_1331_Plot 34 - Albany Wood_10.3 NHBC Guide To Your New Home.pdf
+  - Size: 6,489,560 bytes
+- **Mon, 12 Ju** - Plot 34 - Albany Wood
+  - File: 2023-06-12_1331_Plot 34 - Albany Wood_11. Crest Nicholson Warranty Guide.pdf
+  - Size: 1,537,288 bytes
+- **Mon, 12 Ju** - Plot 34 - Albany Wood
+  - File: 2023-06-12_1331_Plot 34 - Albany Wood_4. ALBANY-WOOD_BROCHURE-SET_JAN-2023-UPDATE.pdf
+  - Size: 4,450,079 bytes
+- **Mon, 13 Ma** - RE: [EXTERNAL] Use of heavy machinery
+  - File: 2024-05-13_1523_RE_ [EXTERNAL] Use of heavy machinery_240430-Crest Nicholson South-Resident Notice-Topsoil Delivery.pdf
+  - Size: 375,901 bytes
+- **Mon, 18 Ma** - 34 Albany Wood - Complaint assessment and response 18-03-24
+  - File: 2024-03-18_2012_34 Albany Wood - Complaint assessment and response_34 Albany Wood - Complaint assesment and response 18 03 24.pdf
+  - Size: 24,044 bytes
+- **Mon, 22 Ja** - RE: [EXTERNAL] 10 Colt View Legal Contract
+  - File: 2024-01-22_1651_RE_ [EXTERNAL] 10 Colt View Legal Contract_34 AW - Complaint Acknowledgement 22-01-24.pdf
+  - Size: 31,931 bytes
+- **Mon, 29 Ja** - 34 Albany Wood - Complaint Pathway to resolution 29-01-24
+  - File: 2024-01-29_1728_34 Albany Wood - Complaint Pathway to resolution 2_34 Albany Wood - Complaint Pathway to resolution 29-01-24.pdf
+  - Size: 62,372 bytes
+- **Mon, 3 Feb** - 0034 Albany Wood Complaint assessment and interim update 03-02-25
+  - File: 2025-02-03_1430_0034 Albany Wood Complaint assessment and interim _0034 Albany Wood Complaint assessment and interim upadate 03 02
+ 25.pdf
+  - Size: 121,579 bytes
+- **Mon, 5 Feb** - 34 Albany Wood - complaint pathway to resolution 29-01-24 - 2
+  - File: 2024-02-05_1104_34 Albany Wood - complaint pathway to resolution 2_34 Albany Wood - Complaint Pathway to resolution 29-01-24 - 2.pdf
+  - Size: 188,239 bytes
+- **Mon, 9 Sep** - Plot 34 Albany Wood - Settlement Offer and Settlement Letter
+  - File: 2024-09-09_1631_Plot 34 Albany Wood - Settlement Offer and Settlem_Plot 34 Albany Wood settlment Offer 09-09-24.pdf
+  - Size: 104,885 bytes
+- **Mon, 9 Sep** - Plot 34 Albany Wood - Settlement Offer and Settlement Letter
+  - File: 2024-09-09_1631_Plot 34 Albany Wood - Settlement Offer and Settlem_Plot 34 Albany Wood settlment Letter 09-09-24.pdf
+  - Size: 126,375 bytes
+- **Sat, 23 De** - Plot 34 Albany Wood NHBC Cover Note
+  - File: 2023-12-23_1132_Plot 34 Albany Wood NHBC Cover Note_Plot 34 NHBC Cover Note Albany Wood.pdf
+  - Size: 209,244 bytes
+- **Thu, 1 Jun** - 34 Albany Wood
+  - File: 2023-06-01_1626_34 Albany Wood_Draft Reservation Agreement for 34 Albany Wood.pdf
+  - Size: 168,192 bytes
+- **Thu, 12 Se** - Signed settlement agreement
+  - File: 2024-09-12_0911_Signed settlement agreement_S2382324091209310.pdf
+  - Size: 111,590 bytes
+- **Thu, 22 Ju** - RE: [EXTERNAL] Re: Plot 34 Choices appointment
+  - File: 2023-06-22_0853_RE_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Options signed.pdf
+  - Size: 339,511 bytes
+- **Thu, 22 Ju** - RE: [EXTERNAL] Re: Plot 34 Choices appointment
+  - File: 2023-06-22_0853_RE_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Choices signed.pdf
+  - Size: 144,035 bytes
+- **Thu, 22 Ju** - RE: [EXTERNAL] Re: Plot 34 Choices appointment
+  - File: 2023-06-22_0853_RE_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Wardrobes confirmation signed.pdf
+  - Size: 364,215 bytes
+- **Thu, 22 Ju** - Confirmation of Reservation Letter - Plot 34 Albany Wood
+  - File: 2023-06-22_1048_Confirmation of Reservation Letter - Plot 34 Alban_34 Albany Wood Reservation Letter.pdf
+  - Size: 94,107 bytes
+- **Thu, 24 Ap** - 0034 Albany Wood Complaint Interim Update 24-04-25
+  - File: 2025-04-24_1928_0034 Albany Wood Complaint Interim Update 24-04-25_0034 Albany Wood Complaint interim update 24 04 25.pdf
+  - Size: 104,830 bytes
+- **Thu, 25 Ap** - 034 Albany Wood - complaint assessment and response 25-04-24
+  - File: 2024-04-25_1935_034 Albany Wood - complaint assessment and respons_034 Albany Wood - Complaint assesment and response 25 04 24.pdf
+  - Size: 25,352 bytes
+- **Thu, 25 Ap** - 034 Albany Wood - complaint assessment and response 25-04-24
+  - File: 2024-04-25_1935_034 Albany Wood - complaint assessment and respons_2403019 - 34 Albany Wood Bishops Waltham.pdf
+  - Size: 303,996 bytes
+- **Thu, 27 Ma** - 34 Albany Wood,  Albany Road Development - Another Bin
+  - File: 2025-03-27_2038_34 Albany Wood,  Albany Road Development - Another_Albany Wood landscape drawing 14672-5105.pdf
+  - Size: 922,829 bytes
+- **Thu, 29 Au** - 034 Albany Wood - Complaint Acknowledgement 29-08-24
+  - File: 2024-08-29_1319_034 Albany Wood - Complaint Acknowledgement 29-08-_034 Albany Wood - Complaint Acknowledgement 29 08 24.pdf
+  - Size: 17,580 bytes
+- **Thu, 29 Au** - RE: [EXTERNAL] Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-08-29_1807_RE_ [EXTERNAL] Fwd_ NHOS-2024-000302 _ Complaint a_034 Albany Wood - Complaint Pathway to Resolution  29 08 24.pdf
+  - Size: 110,218 bytes
+- **Thu, 4 Apr** - 0034 Albany Wood
+  - File: 2024-04-04_1705_0034 Albany Wood_Plot 34 Overlay.pdf
+  - Size: 278,256 bytes
+- **Thu, 4 Jan** - Confirmation of Completion Letter - Plot 34 Albany Wood
+  - File: 2024-01-04_0950_Confirmation of Completion Letter - Plot 34 Albany_34 Albany Wood Completion Letter.pdf
+  - Size: 124,060 bytes
+- **Tue, 9 Jan** - Plot 34 Albany Wood Site Pro Snag List
+  - File: 2024-01-09_1128_Plot 34 Albany Wood Site Pro Snag List_Plot 34 Pro Snag List Lynns Version.pdf
+  - Size: 1,059,494 bytes
+- **Wed, 10 Ja** - 34 AW complaint pathway to resolution for 05010240-34AW
+  - File: 2024-01-10_1725_34 AW complaint pathway to resolution for 05010240_34 AW complaint pathway to resolution for 0501240-34-AW.pdf
+  - Size: 119,404 bytes
+- **Wed, 20 No** - RE: Scaffolding removal - render scar
+  - File: 2024-11-20_1750_RE_ Scaffolding removal - render scar_Other - Plot 34 Albany Wood, Crest Nicholson. (VO S14672PA0112) -
+ [GCC76819]-GEN Customer Care.pdf
+  - Size: 13,271,434 bytes
+- **Wed, 21 Ma** - 0034 Albany Wood Complaint Interim Update21-05-25
+  - File: 2025-05-21_1655_0034 Albany Wood Complaint Interim Update21-05-25_0034 Albany Wood Complaint interim update 21 05 25 (002).pdf
+  - Size: 111,271 bytes
+- **Wed, 4 Sep** - Mr & Mrs Taylor - Settlement Offer
+  - File: 2024-09-04_1652_Mr & Mrs Taylor - Settlement Offer_Mr and Mrs Taylor - Settlement Offer.pdf
+  - Size: 122,972 bytes
+
+## nhos.org.uk (4 PDFs)
+
+- **Tue, 20 Ma** - NHOS-2024-000512/P Taylor
+  - File: 2025-05-20_1340_NHOS-2024-000512_P Taylor_1. Email exchange between Developer and Customer - 21 March to 30
+ April 2025.pdf
+  - Size: 877,367 bytes
+- **Tue, 20 Ma** - NHOS-2024-000512/P Taylor
+  - File: 2025-05-20_1340_NHOS-2024-000512_P Taylor_2. Letter from Developer to Customer - 24 April 2025.pdf
+  - Size: 104,830 bytes
+- **Tue, 20 Ma** - NHOS-2024-000512/P Taylor
+  - File: 2025-05-20_1340_NHOS-2024-000512_P Taylor_3. Email from Developer to Ombudsman - 13 May 2025.pdf
+  - Size: 1,093,144 bytes
+- **Tue, 22 Ap** - NHOS-2024-000512/P Taylor
+  - File: 2025-04-22_1057_NHOS-2024-000512_P Taylor_=_utf-8_B_UmVzcG9uc2UgdG8gT21idWRzbWFu4oCZcyBRdWVyaWVzIGRhdGVkIDE0IEFw_=
+ =_utf-8_Q_ril_2025.pdf_=
+  - Size: 103,148 bytes
+
+## bramsdonandchilds.com (51 PDFs)
+
+- **Fri, 1 Sep** - FW: Plot 34 Albany Wood and buy back of 25 Abbots Road
+  - File: 2023-09-01_0944_FW_ Plot 34 Albany Wood and buy back of 25 Abbots _DOC PRE RESERVATION CHECKLIST.pdf
+  - Size: 1,026,705 bytes
+- **Fri, 1 Sep** - FW: Plot 34 Albany Wood and buy back of 25 Abbots Road
+  - File: 2023-09-01_0944_FW_ Plot 34 Albany Wood and buy back of 25 Abbots _DOC RESERVATION FORM.pdf
+  - Size: 1,902,773 bytes
+- **Fri, 1 Sep** - FW: Plot 34 Albany Wood and buy back of 25 Abbots Road
+  - File: 2023-09-01_0944_FW_ Plot 34 Albany Wood and buy back of 25 Abbots _PLAN 1.pdf
+  - Size: 1,783,291 bytes
+- **Fri, 1 Sep** - FW: Plot 34 Albany Wood and buy back of 25 Abbots Road
+  - File: 2023-09-01_0944_FW_ Plot 34 Albany Wood and buy back of 25 Abbots _PLAN 2.pdf
+  - Size: 2,803,652 bytes
+- **Fri, 13 Oc** - FW: Mr and Mrs Taylor  - 25 Abbots Road/34 Albany Wood - subject to
+ contract
+  - File: 2023-10-13_0729_FW_ Mr and Mrs Taylor  - 25 Abbots Road_34 Albany _Memorandum of Agreement - 25 Abbots Road signed by Taylors - 24 May
+ 2023.pdf
+  - Size: 169,697 bytes
+- **Fri, 15 De** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-12-15_1725_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_COMPstatement Purchase DRAFT.pdf
+  - Size: 51,816 bytes
+- **Fri, 15 De** - Purchase (Buy Back): 25 Abbots Road, Bishops Waltham, Southampton,
+ SO32 1RE
+  - File: 2023-12-15_1726_Purchase (Buy Back)_ 25 Abbots Road, Bishops Walth_COMPstatement Purchase (buy back) DRAFT.pdf
+  - Size: 29,098 bytes
+- **Fri, 23 Ju** - RE: Reservation Agreement for Plot 34
+  - File: 2023-06-23_1124_RE_ Reservation Agreement for Plot 34_Plot 34 Albany Wood - Signed Reservation Agreement.pdf
+  - Size: 1,935,900 bytes
+- **Fri, 26 Ma** - FW: 34 Albany Wood - Mr & Mrs Taylor
+  - File: 2023-05-26_1125_FW_ 34 Albany Wood - Mr & Mrs Taylor_Draft Reservation Form - 34 Albany Wood.pdf
+  - Size: 226,604 bytes
+- **Fri, 8 Dec** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-12-08_1727_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_A Contract for Buyback of 25 Abbots Road.pdf
+  - Size: 135,545 bytes
+- **Fri, 8 Dec** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-12-08_1727_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_Albany Wood Transfer.pdf
+  - Size: 263,311 bytes
+- **Fri, 8 Dec** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-12-08_1727_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_TR1 25 Abbots Road.pdf
+  - Size: 110,290 bytes
+- **Fri, 8 Dec** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-12-08_1727_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_A Contract for Plot 34 Albany Wood.pdf
+  - Size: 235,918 bytes
+- **Fri, 8 Dec** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-12-08_1727_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_Licence to Occupy.pdf
+  - Size: 55,062 bytes
+- **Mon, 11 De** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-12-11_1038_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_Authority letter to be signed.pdf
+  - Size: 30,672 bytes
+- **Mon, 18 De** - Purchase (Buy Back): 25 Abbots Road, Bishops Waltham, Southampton,
+ SO32 1RE
+  - File: 2023-12-18_1301_Purchase (Buy Back)_ 25 Abbots Road, Bishops Walth_COMPstatement Purchase (buy back).pdf
+  - Size: 29,089 bytes
+- **Mon, 18 De** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-12-18_1303_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_COMPstatement Purchase.pdf
+  - Size: 51,814 bytes
+- **Mon, 27 No** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-11-27_1133_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_EPC_Plot 034.pdf
+  - Size: 136,433 bytes
+- **Thu, 1 Jun** - RE: Crest reservation agreement
+  - File: 2023-06-01_1345_RE_ Crest reservation agreement_Draft Reservation Agreement for 34 Albany Wood.pdf
+  - Size: 168,192 bytes
+- **Thu, 3 Aug** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-08-03_1159_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_4. ALBANY-WOOD_BROCHURE-SET_JAN-2023-UPDATE.pdf
+  - Size: 4,450,079 bytes
+- **Thu, 3 Aug** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-08-03_1159_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_11. Crest Nicholson Warranty Guide.pdf
+  - Size: 1,537,288 bytes
+- **Thu, 3 Aug** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-08-03_1159_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_10.3 NHBC Guide To Your New Home.pdf
+  - Size: 6,489,560 bytes
+- **Thu, 3 Aug** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-08-03_1159_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_10.2 Welcome to NHBC Buildmark.pdf
+  - Size: 641,761 bytes
+- **Thu, 3 Aug** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-08-03_1159_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_10.1 NHBC Warranty Note.pdf
+  - Size: 69,066 bytes
+- **Thu, 3 Aug** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-08-03_1159_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_9. Albany Wood Post Reservation Contact.pdf
+  - Size: 112,429 bytes
+- **Thu, 3 Aug** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-08-03_1159_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_8 - NEW Albany Wood FREEHOLD INFORMATION GUIDE.pdf
+  - Size: 320,099 bytes
+- **Thu, 3 Aug** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-08-03_1159_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_7 - Development Factsheet - ALBANY WOOD.pdf
+  - Size: 169,128 bytes
+- **Thu, 3 Aug** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-08-03_1159_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_5. Home Owners Guide.pdf
+  - Size: 5,143,823 bytes
+- **Thu, 3 Aug** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-08-03_1159_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_3.CN_GENERIC-SPECIFICATIONS_1-2-3-4-5-BEDROOM-HOMES_2PPP_v03_AW.pdf
+  - Size: 615,493 bytes
+- **Thu, 3 Aug** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-08-03_1159_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_Plot 34-Albany Wood-Affordability Guide.pdf
+  - Size: 429,349 bytes
+- **Thu, 3 Aug** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-08-03_1159_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_Plot 34 - Albany Wood - Signed Res.pdf
+  - Size: 1,902,773 bytes
+- **Thu, 8 Jun** - RE: Plot 34 Crest
+  - File: 2023-06-08_0825_RE_ Plot 34 Crest_RE_ 34 Albany Wood - Mr & Mrs Taylor.pdf
+  - Size: 263,412 bytes
+- **Thu, 8 Jun** - FW: 34 Albany Wood - Mr & Mrs Taylor
+  - File: 2023-06-08_0947_FW_ 34 Albany Wood - Mr & Mrs Taylor_34 Albany Wood reservation last edited FINAL 08.06.23.pdf
+  - Size: 147,017 bytes
+- **Tue, 12 De** - RE: [EXTERNAL] URGENT: 10 Colt View
+  - File: 2023-12-12_1353_RE_ [EXTERNAL] URGENT_ 10 Colt View_Signed letter to NHBC.pdf
+  - Size: 96,664 bytes
+- **Tue, 25 Ap** - Your Dispute with Crest Nicholson
+  - File: 2023-04-25_1025_Your Dispute with Crest Nicholson_Advice sheet - Legal Expenses Insurance - January 2016
+ revision.pdf
+  - Size: 124,917 bytes
+- **Tue, 25 Ap** - Your Dispute with Crest Nicholson
+  - File: 2023-04-25_1025_Your Dispute with Crest Nicholson_Enclosures to Rule 2 - November 2021.pdf
+  - Size: 763,410 bytes
+- **Tue, 25 Ap** - Your Dispute with Crest Nicholson
+  - File: 2023-04-25_1025_Your Dispute with Crest Nicholson_Litigation Client Care.pdf
+  - Size: 170,308 bytes
+- **Wed, 13 De** - RE: [EXTERNAL] URGENT: 10 Colt View
+  - File: 2023-12-13_1328_RE_ [EXTERNAL] URGENT_ 10 Colt View_PLAN 1 - amended_.pdf
+  - Size: 684,705 bytes
+- **Wed, 18 Oc** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-10-18_1257_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_Drainage+&+Water+Search+(CON29DW).pdf
+  - Size: 429,402 bytes
+- **Wed, 18 Oc** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-10-18_1257_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_Official+Local+Authority+Search+(CON29R).pdf
+  - Size: 150,479 bytes
+- **Wed, 18 Oc** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-10-18_1257_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_Groundsure+Homebuyers.pdf
+  - Size: 1,015,610 bytes
+- **Wed, 18 Oc** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-10-18_1257_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_PinPoint+Chancel+Check+(0+-+2.02+ha)+-+0+-+2.02+ha.pdf
+  - Size: 295,958 bytes
+- **Wed, 18 Oc** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-10-18_1257_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_PinPoint Information_ PinPoint Chancel Check (0 - 2.02 ha) - 0 -
+ 2.02 ha.pdf
+  - Size: 1,285,781 bytes
+- **Wed, 18 Oc** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-10-18_1257_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_Groundsure_ Groundsure Homebuyers.pdf
+  - Size: 2,423,770 bytes
+- **Wed, 18 Oc** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-10-18_1257_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_Winchester City Council_ Official Local Authority Search
+ (CON29R).pdf
+  - Size: 599,077 bytes
+- **Wed, 18 Oc** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-10-18_1257_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_PLAN 2.pdf
+  - Size: 2,803,652 bytes
+- **Wed, 18 Oc** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2023-10-18_1257_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_PLAN 1.pdf
+  - Size: 1,783,291 bytes
+- **Wed, 20 Ma** - Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32
+ 1RE)
+  - File: 2024-03-20_0911_Purchase - Plot 34 Albany Wood (10 Colt View, Bish_nw-residential-mortgage-deed-new.pdf
+  - Size: 135,639 bytes
+- **Wed, 24 Ma** - RE: 25 Abbots Road - Crest Nicholson
+  - File: 2023-05-24_1006_RE_ 25 Abbots Road - Crest Nicholson_Memorandum of Agreement - 25 Abbots Road - 24 May 2023.pdf
+  - Size: 756,316 bytes
+- **Wed, 26 Ap** - RE: Your Dispute with Crest Nicholson
+  - File: 2023-04-26_0759_RE_ Your Dispute with Crest Nicholson_Letter - Southsea to Mr Paul Robert Taylor & Mrs Jade Taylor.pdf
+  - Size: 106,688 bytes
+- **Wed, 26 Ap** - RE: Your Dispute with Crest Nicholson
+  - File: 2023-04-26_0759_RE_ Your Dispute with Crest Nicholson_Memorandum of Agreement - 25 Abbots Road.pdf
+  - Size: 80,022 bytes
+
+## other (127 PDFs)
+
+- **Fri, 1 Sep** - Fwd: [EXTERNAL] Fwd: Plot 34 Albany Road
+  - File: 2023-09-01_1258_Fwd_ [EXTERNAL] Fwd_ Plot 34 Albany Road_Quotation Taylor SO321RE 070823 (1).pdf
+  - Size: 73,002 bytes
+- **Fri, 12 Ma** - Re: 25 Abbots Road - Crest Nicholson
+  - File: 2023-05-12_1057_Re_ 25 Abbots Road - Crest Nicholson_Land_Registry.pdf
+  - Size: 1,805,254 bytes
+- **Fri, 13 Oc** - Re: FW: Mr and Mrs Taylor  - 25 Abbots Road/34 Albany Wood - subject
+ to contract
+  - File: 2023-10-13_1245_Re_ FW_ Mr and Mrs Taylor  - 25 Abbots Road_34 Alb_Redemption Statement Taylor.pdf
+  - Size: 114,899 bytes
+- **Fri, 13 Oc** - Re: FW: Mr and Mrs Taylor  - 25 Abbots Road/34 Albany Wood - subject
+ to contract
+  - File: 2023-10-13_1245_Re_ FW_ Mr and Mrs Taylor  - 25 Abbots Road_34 Alb_Not Portable - Section 9.pdf
+  - Size: 118,067 bytes
+- **Fri, 13 Oc** - Fwd: FW: Mr and Mrs Taylor  - 25 Abbots Road/34 Albany Wood - subject
+ to contract
+  - File: 2023-10-13_1246_Fwd_ FW_ Mr and Mrs Taylor  - 25 Abbots Road_34 Al_Redemption Statement Taylor.pdf
+  - Size: 114,899 bytes
+- **Fri, 13 Oc** - Fwd: FW: Mr and Mrs Taylor  - 25 Abbots Road/34 Albany Wood - subject
+ to contract
+  - File: 2023-10-13_1246_Fwd_ FW_ Mr and Mrs Taylor  - 25 Abbots Road_34 Al_Not Portable - Section 9.pdf
+  - Size: 118,067 bytes
+- **Fri, 22 No** - Re: Access to Bridal Path - Crest Nicholson
+  - File: 2024-11-22_1452_Re_ Access to Bridal Path - Crest Nicholson_FOI PT 2024.pdf
+  - Size: 3,104,428 bytes
+- **Fri, 23 Ju** - Fwd: 34 Albany Wood
+  - File: 2023-06-23_1229_Fwd_ 34 Albany Wood_Plot 34 - Albany Wood - Signed Res.pdf
+  - Size: 1,902,312 bytes
+- **Fri, 23 Ju** - Fwd: [EXTERNAL] Re: Plot 34 Choices appointment
+  - File: 2023-06-23_1232_Fwd_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Options signed.pdf
+  - Size: 339,511 bytes
+- **Fri, 23 Ju** - Fwd: [EXTERNAL] Re: Plot 34 Choices appointment
+  - File: 2023-06-23_1232_Fwd_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Choices signed.pdf
+  - Size: 144,035 bytes
+- **Fri, 23 Ju** - Fwd: [EXTERNAL] Re: Plot 34 Choices appointment
+  - File: 2023-06-23_1232_Fwd_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Wardrobes confirmation signed.pdf
+  - Size: 364,215 bytes
+- **Fri, 23 Ju** - Fwd: [EXTERNAL] Re: Plot 34 Choices appointment
+  - File: 2023-06-23_1238_Fwd_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Options signed.pdf
+  - Size: 339,511 bytes
+- **Fri, 23 Ju** - Fwd: [EXTERNAL] Re: Plot 34 Choices appointment
+  - File: 2023-06-23_1238_Fwd_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Choices signed.pdf
+  - Size: 144,035 bytes
+- **Fri, 23 Ju** - Fwd: [EXTERNAL] Re: Plot 34 Choices appointment
+  - File: 2023-06-23_1238_Fwd_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Wardrobes confirmation signed.pdf
+  - Size: 364,215 bytes
+- **Fri, 23 Ju** - Fwd: 34 Albany Wood
+  - File: 2023-06-23_1238_Fwd_ 34 Albany Wood_Plot 34 - Albany Wood - Signed Res.pdf
+  - Size: 1,902,312 bytes
+- **Fri, 27 Oc** - RE: Construction Assessment Report - 10 Croft View, Bishops
+ Waltham
+  - File: 2023-10-27_0749_RE_ Construction Assessment Report - 10 Croft View_B23-1403 - 10 Croft View,
+ Bishops Waltham - Construction Assessment Report.pdf
+  - Size: 663,041 bytes
+- **Fri, 27 Oc** - RE: Construction Assessment Report - 10 Croft View, Bishops
+ Waltham
+  - File: 2023-10-27_0749_RE_ Construction Assessment Report - 10 Croft View_CN Topo Survey.pdf
+  - Size: 193,111 bytes
+- **Fri, 27 Oc** - Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham
+  - File: 2023-10-27_0853_Fwd_ Construction Assessment Report - 10 Croft Vie_B23-1403 - 10 Croft View, Bishops Waltham - Construction Assessment Report.pdf
+  - Size: 663,041 bytes
+- **Fri, 27 Oc** - Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham
+  - File: 2023-10-27_0853_Fwd_ Construction Assessment Report - 10 Croft Vie_CN Topo Survey.pdf
+  - Size: 193,111 bytes
+- **Fri, 27 Oc** - Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham
+  - File: 2023-10-27_1232_Fwd_ Construction Assessment Report - 10 Croft Vie_CN Topo Survey.pdf
+  - Size: 193,111 bytes
+- **Fri, 27 Oc** - Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham
+  - File: 2023-10-27_1232_Fwd_ Construction Assessment Report - 10 Croft Vie_B23-1403 - 10 Croft View, Bishops Waltham - Construction Assessment Report (1).pdf
+  - Size: 663,041 bytes
+- **Fri, 8 Dec** - Removals
+  - File: 2023-12-08_1343_Removals_White and Co - Removal Quotation.pdf
+  - Size: 305,207 bytes
+- **Mon, 11 De** - Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham
+ SO32 1RE)
+  - File: 2023-12-11_1153_Re_ Purchase - Plot 34 Albany Wood (10 Colt View, _Authority letter to be signed.pdf
+  - Size: 32,489 bytes
+- **Mon, 11 De** - Fwd: FW: Mr and Mrs Taylor  - 25 Abbots Road/34 Albany Wood - subject
+ to contract
+  - File: 2023-12-11_1523_Fwd_ FW_ Mr and Mrs Taylor  - 25 Abbots Road_34 Al_Redemption Statement Taylor.pdf
+  - Size: 114,899 bytes
+- **Mon, 11 De** - Fwd: FW: Mr and Mrs Taylor  - 25 Abbots Road/34 Albany Wood - subject
+ to contract
+  - File: 2023-12-11_1523_Fwd_ FW_ Mr and Mrs Taylor  - 25 Abbots Road_34 Al_Not Portable - Section 9.pdf
+  - Size: 118,067 bytes
+- **Mon, 18 De** - Fwd: Mortgage Invoice
+  - File: 2023-12-18_1301_Fwd_ Mortgage Invoice_Invoice.pdf
+  - Size: 206,318 bytes
+- **Mon, 19 Au** - Re: Case on hold
+  - File: 2024-08-19_1107_Re_ Case on hold_CN Topo Survey.pdf
+  - Size: 193,111 bytes
+- **Mon, 19 Au** - Re: Case on hold
+  - File: 2024-08-19_1107_Re_ Case on hold_Appendix B - Existing Site Levels - 10 Croft View BW.pdf
+  - Size: 127,519 bytes
+- **Mon, 19 Au** - Re: Case on hold
+  - File: 2024-08-19_1107_Re_ Case on hold_Plot 34 Overlay.pdf
+  - Size: 278,256 bytes
+- **Mon, 19 Au** - Re: Case on hold
+  - File: 2024-08-19_1107_Re_ Case on hold_2403019 - 34 Albany Wood Bishops Waltham.pdf
+  - Size: 303,996 bytes
+- **Mon, 19 Au** - Re: Case on hold
+  - File: 2024-08-19_1107_Re_ Case on hold_trinity_crest_garden_levels.pdf
+  - Size: 144,164 bytes
+- **Mon, 22 Ja** - Fwd: [EXTERNAL] 10 Colt View Legal Contract
+  - File: 2024-01-22_1653_Fwd_ [EXTERNAL] 10 Colt View Legal Contract_34 AW - Complaint Acknowledgement 22-01-24.pdf
+  - Size: 31,931 bytes
+- **Mon, 3 Feb** - NHOS-2024-000512 | update from Crest
+  - File: 2025-02-03_1513_NHOS-2024-000512 _ update from Crest_0034 Albany Wood Complaint assessment and interim upadate 03 02 25 (1).pdf
+  - Size: 121,579 bytes
+- **Mon, 30 Oc** - 25 Abbots Road - 10 Colt View
+  - File: 2023-10-30_1139_25 Abbots Road - 10 Colt View_Consent Letter (18-08-2021) (17-18).pdf
+  - Size: 75,883 bytes
+- **Mon, 9 Oct** - Fwd: [EXTERNAL] Re: Plot 34 Albany Road
+  - File: 2023-10-09_1118_Fwd_ [EXTERNAL] Re_ Plot 34 Albany Road_Quotation Taylor SO321RE 290923.pdf
+  - Size: 74,196 bytes
+- **Sat, 20 Ja** - 10 Colt View Legal Contract
+  - File: 2024-01-20_1457_10 Colt View Legal Contract_Appendix B - Existing Site Levels - 10 Croft View BW.pdf
+  - Size: 127,519 bytes
+- **Sat, 20 Ja** - 10 Colt View Legal Contract
+  - File: 2024-01-20_1457_10 Colt View Legal Contract_CN Topo Survey.pdf
+  - Size: 193,111 bytes
+- **Sat, 20 Ja** - 10 Colt View Legal Contract
+  - File: 2024-01-20_1457_10 Colt View Legal Contract_trinity_crest_garden_levels.pdf
+  - Size: 144,164 bytes
+- **Sat, 20 Ja** - Fwd: 10 Colt View Legal Contract
+  - File: 2024-01-20_1627_Fwd_ 10 Colt View Legal Contract_Appendix B - Existing Site Levels - 10 Croft View BW.pdf
+  - Size: 127,519 bytes
+- **Sat, 20 Ja** - Fwd: 10 Colt View Legal Contract
+  - File: 2024-01-20_1627_Fwd_ 10 Colt View Legal Contract_CN Topo Survey.pdf
+  - Size: 193,111 bytes
+- **Sat, 20 Ja** - Fwd: 10 Colt View Legal Contract
+  - File: 2024-01-20_1627_Fwd_ 10 Colt View Legal Contract_trinity_crest_garden_levels.pdf
+  - Size: 144,164 bytes
+- **Sun, 02 Oc** - 25 Abbots Road - Cancelled appointment tomorrow
+  - File: 2022-10-02_1848_25 Abbots Road - Cancelled appointment tomorrow_Private referral TAYLOR, Jade
+ (Mrs) 26-Sep-2022.pdf
+  - Size: 66,857 bytes
+- **Thu, 1 Jun** - Fwd: Crest reservation agreement
+  - File: 2023-06-01_1503_Fwd_ Crest reservation agreement_Draft Reservation Agreement for 34 Albany Wood.pdf
+  - Size: 168,192 bytes
+- **Thu, 10 Au** - Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham
+ SO32 1RE)
+  - File: 2023-08-10_1236_Re_ Purchase - Plot 34 Albany Wood (10 Colt View, _Quotation Taylor SO321RE 070823.pdf
+  - Size: 73,002 bytes
+- **Thu, 11 Ja** - Fwd: FW: Plot 34 Albany Wood and buy back of 25 Abbots Road
+  - File: 2024-01-11_0909_Fwd_ FW_ Plot 34 Albany Wood and buy back of 25 Ab_DOC PRE RESERVATION CHECKLIST.pdf
+  - Size: 1,026,705 bytes
+- **Thu, 11 Ja** - Fwd: FW: Plot 34 Albany Wood and buy back of 25 Abbots Road
+  - File: 2024-01-11_0909_Fwd_ FW_ Plot 34 Albany Wood and buy back of 25 Ab_DOC RESERVATION FORM.pdf
+  - Size: 1,902,773 bytes
+- **Thu, 11 Ja** - Fwd: FW: Plot 34 Albany Wood and buy back of 25 Abbots Road
+  - File: 2024-01-11_0909_Fwd_ FW_ Plot 34 Albany Wood and buy back of 25 Ab_PLAN 1.pdf
+  - Size: 1,783,291 bytes
+- **Thu, 11 Ja** - Fwd: FW: Plot 34 Albany Wood and buy back of 25 Abbots Road
+  - File: 2024-01-11_0909_Fwd_ FW_ Plot 34 Albany Wood and buy back of 25 Ab_PLAN 2.pdf
+  - Size: 2,803,652 bytes
+- **Thu, 12 Se** - Fwd: Plot 34 Albany Wood - Settlement Offer and Settlement Letter
+  - File: 2024-09-12_1319_Fwd_ Plot 34 Albany Wood - Settlement Offer and Se_Plot 34 Albany Wood settlement Letter 09-09-24.pdf
+  - Size: 126,364 bytes
+- **Thu, 2 Feb** - Re: Fiat 500C Dolcevita Dew Green
+  - File: 2023-02-02_1127_Re_ Fiat 500C Dolcevita Dew Green_1539_001.pdf
+  - Size: 65,447 bytes
+- **Thu, 2 Feb** - Fwd: Fiat 500C Dolcevita Dew Green
+  - File: 2023-02-02_1150_Fwd_ Fiat 500C Dolcevita Dew Green_1539_001.pdf
+  - Size: 65,447 bytes
+- **Thu, 22 Ju** - Reservation Agreement for Plot 34
+  - File: 2023-06-22_1250_Reservation Agreement for Plot 34_10_Colt_View_Reservation_Agreement.pdf
+  - Size: 1,344,777 bytes
+- **Thu, 26 Oc** - Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham
+  - File: 2023-10-26_1234_Fwd_ Construction Assessment Report - 10 Croft Vie_B23-1403 - 10 Croft View, Bishops Waltham - Construction Assessment Report.pdf
+  - Size: 1,953,422 bytes
+- **Thu, 26 Oc** - Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham
+  - File: 2023-10-26_1234_Fwd_ Construction Assessment Report - 10 Croft Vie_Appendix A - Schedule of Distortions 10 Croft View BW.pdf
+  - Size: 51,008 bytes
+- **Thu, 26 Oc** - Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham
+  - File: 2023-10-26_1234_Fwd_ Construction Assessment Report - 10 Croft Vie_Appendix B - Existing Site Levels - 10 Croft View BW.pdf
+  - Size: 127,519 bytes
+- **Thu, 29 Au** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-08-29_0738_Fwd_ NHOS-2024-000302 _ Complaint accepted._CN Topo Survey.pdf
+  - Size: 193,111 bytes
+- **Thu, 29 Au** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-08-29_0738_Fwd_ NHOS-2024-000302 _ Complaint accepted._Appendix B - Existing Site Levels - 10 Croft View BW.pdf
+  - Size: 127,519 bytes
+- **Thu, 29 Au** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-08-29_0738_Fwd_ NHOS-2024-000302 _ Complaint accepted._Plot 34 Overlay.pdf
+  - Size: 278,256 bytes
+- **Thu, 29 Au** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-08-29_0738_Fwd_ NHOS-2024-000302 _ Complaint accepted._2403019 - 34 Albany Wood Bishops Waltham.pdf
+  - Size: 303,996 bytes
+- **Thu, 29 Au** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-08-29_0738_Fwd_ NHOS-2024-000302 _ Complaint accepted._trinity_crest_garden_levels.pdf
+  - Size: 144,164 bytes
+- **Thu, 29 Au** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-08-29_0740_Fwd_ NHOS-2024-000302 _ Complaint accepted._CN Topo Survey.pdf
+  - Size: 193,111 bytes
+- **Thu, 29 Au** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-08-29_0740_Fwd_ NHOS-2024-000302 _ Complaint accepted._Appendix B - Existing Site Levels - 10 Croft View BW.pdf
+  - Size: 127,519 bytes
+- **Thu, 29 Au** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-08-29_0740_Fwd_ NHOS-2024-000302 _ Complaint accepted._Plot 34 Overlay.pdf
+  - Size: 278,256 bytes
+- **Thu, 29 Au** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-08-29_0740_Fwd_ NHOS-2024-000302 _ Complaint accepted._2403019 - 34 Albany Wood Bishops Waltham.pdf
+  - Size: 303,996 bytes
+- **Thu, 29 Au** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-08-29_0740_Fwd_ NHOS-2024-000302 _ Complaint accepted._trinity_crest_garden_levels.pdf
+  - Size: 144,164 bytes
+- **Thu, 29 Au** - Fwd: [EXTERNAL] Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-08-29_2258_Fwd_ [EXTERNAL] Fwd_ NHOS-2024-000302 _ Complaint _034 Albany Wood - Complaint Pathway to Resolution  29 08 24.pdf
+  - Size: 110,218 bytes
+- **Thu, 4 Apr** - Fwd: 0034 Albany Wood
+  - File: 2024-04-04_1835_Fwd_ 0034 Albany Wood_Plot 34 Overlay.pdf
+  - Size: 278,256 bytes
+- **Thu, 5 Oct** - Re: [EXTERNAL] Re: Plot 34 Albany Road
+  - File: 2023-10-05_1212_Re_ [EXTERNAL] Re_ Plot 34 Albany Road_Memorandum of Agreement - 25 Abbots Road - 24 May 2023.pdf
+  - Size: 756,316 bytes
+- **Thu, 9 May** - pdf
+  - File: 2024-05-09_1524_pdf_paul.pdf
+  - Size: 6,435,751 bytes
+- **Tue, 10 Oc** - Updated Removals Quote
+  - File: 2023-10-10_1700_Updated Removals Quote_Quotation Taylor SO321RE 101023.pdf
+  - Size: 74,222 bytes
+- **Tue, 10 Se** - Re: Plot 34 Albany Wood - Settlement Offer and Settlement Letter
+  - File: 2024-09-10_1228_Re_ Plot 34 Albany Wood - Settlement Offer and Set_Plot 34 Albany Wood settlement Letter 09-09-24.pdf
+  - Size: 126,364 bytes
+- **Tue, 16 Ju** - Re: Problem creating complaint
+  - File: 2024-07-16_1711_Re_ Problem creating complaint_034 Albany Wood - Complaint assesment and response 25 04 24.pdf
+  - Size: 25,352 bytes
+- **Tue, 16 Ju** - Re: Problem creating complaint
+  - File: 2024-07-16_1711_Re_ Problem creating complaint_Plot 34 - Albany Wood - Signed Res.pdf
+  - Size: 1,902,312 bytes
+- **Tue, 19 Ma** - Fwd: 34 Albany Wood - Complaint assessment and response 18-03-24
+  - File: 2024-03-19_0806_Fwd_ 34 Albany Wood - Complaint assessment and res_34 Albany Wood - Complaint assesment and response 18 03 24.pdf
+  - Size: 24,044 bytes
+- **Tue, 23 Ju** - Re: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-07-23_1528_Re_ NHOS-2024-000302 _ Complaint accepted._CN Topo Survey.pdf
+  - Size: 193,111 bytes
+- **Tue, 23 Ju** - Re: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-07-23_1528_Re_ NHOS-2024-000302 _ Complaint accepted._Appendix B - Existing Site Levels - 10 Croft View BW.pdf
+  - Size: 127,519 bytes
+- **Tue, 23 Ju** - Re: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-07-23_1528_Re_ NHOS-2024-000302 _ Complaint accepted._Plot 34 Overlay.pdf
+  - Size: 278,256 bytes
+- **Tue, 23 Ju** - Re: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-07-23_1528_Re_ NHOS-2024-000302 _ Complaint accepted._2403019 - 34 Albany Wood Bishops Waltham.pdf
+  - Size: 303,996 bytes
+- **Tue, 23 Ju** - Re: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-07-23_1528_Re_ NHOS-2024-000302 _ Complaint accepted._trinity_crest_garden_levels.pdf
+  - Size: 144,164 bytes
+- **Tue, 31 Ja** - Fiat 500C Dolcevita Dew Green
+  - File: 2023-01-31_1648_Fiat 500C Dolcevita Dew Green_doc_63d9434ad7196.pdf
+  - Size: 180,599 bytes
+- **Wed, 10 Ja** - Fwd: 34 AW complaint pathway to resolution for 05010240-34AW
+  - File: 2024-01-10_1741_Fwd_ 34 AW complaint pathway to resolution for 050_34 AW complaint pathway to resolution for 0501240-34-AW.pdf
+  - Size: 119,404 bytes
+- **Wed, 11 De** - NHOS-2024-000512/P Taylor
+  - File: 2024-12-11_1149_NHOS-2024-000512_P Taylor_16_01322_FUL-SITE_LAYOUT-1294060 (1).pdf
+  - Size: 4,329,593 bytes
+- **Wed, 11 Se** - Fwd: Plot 34 Albany Wood - Settlement Offer and Settlement Letter
+  - File: 2024-09-11_1153_Fwd_ Plot 34 Albany Wood - Settlement Offer and Se_Plot 34 Albany Wood settlement Letter 09-09-24.pdf
+  - Size: 126,364 bytes
+- **Wed, 13 De** - Mortgage Invoice
+  - File: 2023-12-13_1344_Mortgage Invoice_Invoice.pdf
+  - Size: 206,318 bytes
+- **Wed, 13 De** - =?UTF-8?Q?Mortgage_arrangement_fee=3A_=C2=A31495?=
+  - File: 2023-12-13_1352_=_UTF-8_Q_Mortgage_arrangement_fee=3A_=C2=A31495_=_84671399.BrokerOffer.pdf
+  - Size: 135,283 bytes
+- **Wed, 13 De** - Re: [EXTERNAL] URGENT: 10 Colt View
+  - File: 2023-12-13_1427_Re_ [EXTERNAL] URGENT_ 10 Colt View_Statement.pdf
+  - Size: 130,628 bytes
+- **Wed, 13 De** - Fwd: [EXTERNAL] URGENT: 10 Colt View
+  - File: 2023-12-13_1502_Fwd_ [EXTERNAL] URGENT_ 10 Colt View_009_9100265471_L0000000201715213.pdf
+  - Size: 129,096 bytes
+- **Wed, 17 Ja** - Fwd: 34 Albany Wood
+  - File: 2024-01-17_1653_Fwd_ 34 Albany Wood_Draft Reservation Agreement for 34 Albany Wood.pdf
+  - Size: 168,192 bytes
+- **Wed, 17 Ja** - Re:
+  - File: 2024-01-17_1737_Re__Appendix B - Existing Site Levels - 10 Croft View BW.pdf
+  - Size: 127,519 bytes
+- **Wed, 17 Ja** - Re:
+  - File: 2024-01-17_1737_Re__CN Topo Survey.pdf
+  - Size: 193,111 bytes
+- **Wed, 17 Ja** - Re:
+  - File: 2024-01-17_1737_Re__trinity_crest_garden_levels.pdf
+  - Size: 144,164 bytes
+- **Wed, 17 Ja** - Fwd: 
+  - File: 2024-01-17_1737_Fwd_ _Appendix B - Existing Site Levels - 10 Croft View BW.pdf
+  - Size: 127,519 bytes
+- **Wed, 17 Ja** - Fwd: 
+  - File: 2024-01-17_1737_Fwd_ _CN Topo Survey.pdf
+  - Size: 193,111 bytes
+- **Wed, 17 Ja** - Fwd: 
+  - File: 2024-01-17_1737_Fwd_ _trinity_crest_garden_levels.pdf
+  - Size: 144,164 bytes
+- **Wed, 23 Oc** - Re: Access to Bridal Path - Crest Nicholson
+  - File: 2024-10-23_1523_Re_ Access to Bridal Path - Crest Nicholson_1006-north-A0.pdf
+  - Size: 1,217,804 bytes
+- **Wed, 23 Oc** - Re: Access to Bridal Path - Crest Nicholson
+  - File: 2024-10-23_1523_Re_ Access to Bridal Path - Crest Nicholson_1015-NORTH-dwelling.pdf
+  - Size: 654,014 bytes
+- **Wed, 23 Oc** - Re: Access to Bridal Path - Crest Nicholson
+  - File: 2024-10-23_1523_Re_ Access to Bridal Path - Crest Nicholson_22505-development-layout.pdf
+  - Size: 4,754,997 bytes
+- **Wed, 23 Oc** - Re: Access to Bridal Path - Crest Nicholson
+  - File: 2024-10-23_1523_Re_ Access to Bridal Path - Crest Nicholson_16_01322_FUL-SITE_LAYOUT-1294060.pdf
+  - Size: 4,329,593 bytes
+- **Wed, 23 Oc** - Fwd: Access to Bridal Path - Crest Nicholson
+  - File: 2024-10-23_1524_Fwd_ Access to Bridal Path - Crest Nicholson_16_01322_FUL-SECTION_106_AGREEMENT_PT600375-1367646.pdf
+  - Size: 20,674,375 bytes
+- **Wed, 24 Ju** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-07-24_0837_Fwd_ NHOS-2024-000302 _ Complaint accepted._CN Topo Survey.pdf
+  - Size: 193,111 bytes
+- **Wed, 24 Ju** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-07-24_0837_Fwd_ NHOS-2024-000302 _ Complaint accepted._Appendix B - Existing Site Levels - 10 Croft View BW.pdf
+  - Size: 127,519 bytes
+- **Wed, 24 Ju** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-07-24_0837_Fwd_ NHOS-2024-000302 _ Complaint accepted._Plot 34 Overlay.pdf
+  - Size: 278,256 bytes
+- **Wed, 24 Ju** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-07-24_0837_Fwd_ NHOS-2024-000302 _ Complaint accepted._2403019 - 34 Albany Wood Bishops Waltham.pdf
+  - Size: 303,996 bytes
+- **Wed, 24 Ju** - Fwd: NHOS-2024-000302 | Complaint accepted.
+  - File: 2024-07-24_0837_Fwd_ NHOS-2024-000302 _ Complaint accepted._trinity_crest_garden_levels.pdf
+  - Size: 144,164 bytes
+- **Wed, 25 Oc** - Construction Assessment Report - 10 Croft View, Bishops Waltham
+  - File: 2023-10-25_1817_Construction Assessment Report - 10 Croft View, Bi_B23-1403 - 10 Croft View,
+ Bishops Waltham - Construction Assessment Report.pdf
+  - Size: 1,953,422 bytes
+- **Wed, 25 Oc** - Construction Assessment Report - 10 Croft View, Bishops Waltham
+  - File: 2023-10-25_1817_Construction Assessment Report - 10 Croft View, Bi_Appendix A - Schedule of
+ Distortions 10 Croft View BW.pdf
+  - Size: 51,008 bytes
+- **Wed, 25 Oc** - Construction Assessment Report - 10 Croft View, Bishops Waltham
+  - File: 2023-10-25_1817_Construction Assessment Report - 10 Croft View, Bi_Appendix B - Existing Site
+ Levels - 10 Croft View BW.pdf
+  - Size: 127,519 bytes
+- **Wed, 26 Ap** - Fwd: Your Dispute with Crest Nicholson
+  - File: 2023-04-26_0845_Fwd_ Your Dispute with Crest Nicholson_Advice sheet - Legal Expenses Insurance - January 2016 revision.pdf
+  - Size: 124,917 bytes
+- **Wed, 26 Ap** - Fwd: Your Dispute with Crest Nicholson
+  - File: 2023-04-26_0845_Fwd_ Your Dispute with Crest Nicholson_Enclosures to Rule 2 - November 2021.pdf
+  - Size: 763,410 bytes
+- **Wed, 26 Ap** - Fwd: Your Dispute with Crest Nicholson
+  - File: 2023-04-26_0845_Fwd_ Your Dispute with Crest Nicholson_Litigation Client Care.pdf
+  - Size: 170,308 bytes
+- **Wed, 27 No** - Re: NHOS-2024-000512/P Taylor
+  - File: 2024-11-27_1230_Re_ NHOS-2024-000512_P Taylor_Plot 34 - Albany Wood - Signed Res.pdf
+  - Size: 1,902,312 bytes
+- **Wed, 27 No** - Re: NHOS-2024-000512/P Taylor
+  - File: 2024-11-27_1230_Re_ NHOS-2024-000512_P Taylor_Crest - render - final response.pdf
+  - Size: 399,767 bytes
+- **Wed, 27 No** - Re: NHOS-2024-000512/P Taylor
+  - File: 2024-11-27_1516_Re_ NHOS-2024-000512_P Taylor_17th Jan 2024 - render crack first report.pdf
+  - Size: 262,396 bytes
+- **Wed, 27 No** - Re: NHOS-2024-000512/P Taylor
+  - File: 2024-11-27_1516_Re_ NHOS-2024-000512_P Taylor_render chaser 20th Jan 2024.pdf
+  - Size: 339,336 bytes
+- **Wed, 27 No** - Re: NHOS-2024-000512/P Taylor
+  - File: 2024-11-27_1516_Re_ NHOS-2024-000512_P Taylor_render chase on 19th and 20th June 2024.pdf
+  - Size: 389,842 bytes
+- **Wed, 27 No** - Re: NHOS-2024-000512/P Taylor
+  - File: 2024-11-27_1516_Re_ NHOS-2024-000512_P Taylor_render chase 20th June 2024 afternoon.pdf
+  - Size: 188,329 bytes
+- **Wed, 27 No** - Re: NHOS-2024-000512/P Taylor
+  - File: 2024-11-27_1516_Re_ NHOS-2024-000512_P Taylor_render chase 24th June 2024.pdf
+  - Size: 192,005 bytes
+- **Wed, 27 No** - Re: NHOS-2024-000512/P Taylor
+  - File: 2024-11-27_1516_Re_ NHOS-2024-000512_P Taylor_render Crest response 20th June 2024.pdf
+  - Size: 411,135 bytes
+- **Wed, 27 No** - Re: NHOS-2024-000512/P Taylor
+  - File: 2024-11-27_1516_Re_ NHOS-2024-000512_P Taylor_render chase 15th July 2024.pdf
+  - Size: 94,174 bytes
+- **Wed, 4 Dec** - Re: NHOS-2024-000512/P Taylor
+  - File: 2024-12-04_1042_Re_ NHOS-2024-000512_P Taylor_FOI PT 2024 (2).pdf
+  - Size: 3,104,428 bytes
+- **Wed, 4 Dec** - Re: NHOS-2024-000512/P Taylor
+  - File: 2024-12-04_1216_Re_ NHOS-2024-000512_P Taylor_1006-north-A0 (1).pdf
+  - Size: 1,217,804 bytes
+- **Wed, 4 Dec** - Re: NHOS-2024-000512/P Taylor
+  - File: 2024-12-04_1216_Re_ NHOS-2024-000512_P Taylor_Path - Foyle - final response.pdf
+  - Size: 422,073 bytes
+- **Wed, 4 Dec** - Re: NHOS-2024-000512/P Taylor
+  - File: 2024-12-04_1216_Re_ NHOS-2024-000512_P Taylor_FOI PT 2024 (2).pdf
+  - Size: 3,104,428 bytes
+- **Wed, 4 Dec** - Fwd: NHOS-2024-000512/P Taylor
+  - File: 2024-12-04_1239_Fwd_ NHOS-2024-000512_P Taylor_16_01322_FUL-DESIGN___ACCESS_STATEMENT-1271648.pdf
+  - Size: 5,162,776 bytes
+- **Wed, 4 Dec** - Fwd: NHOS-2024-000512/P Taylor
+  - File: 2024-12-04_1239_Fwd_ NHOS-2024-000512_P Taylor_16_01322_FUL-DESIGN___ACCESS_STATEMENT-1271647.pdf
+  - Size: 5,145,437 bytes
+- **Wed, 4 Dec** - NHOS-2024-000512/P Taylor
+  - File: 2024-12-04_1241_NHOS-2024-000512_P Taylor_16_01322_FUL-DESIGN___ACCESS_STATEMENT-1271648.pdf
+  - Size: 5,162,776 bytes
+- **Wed, 4 Dec** - NHOS-2024-000512/P Taylor
+  - File: 2024-12-04_1241_NHOS-2024-000512_P Taylor_16_01322_FUL-DESIGN___ACCESS_STATEMENT-1271647.pdf
+  - Size: 5,145,437 bytes

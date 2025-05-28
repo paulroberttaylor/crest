@@ -1,0 +1,11 @@
+{
+  "total_emails": 1102,
+  "by_domain": {
+    "nhos.org.uk": 117,
+    "crestnicholson.com": 442
+  },
+  "date_range": {
+    "earliest": "2021-11-08T09:11:21+00:00",
+    "latest": "2025-05-27T14:21:24+01:00"
+  }
+}

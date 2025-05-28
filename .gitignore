@@ -1,0 +1,35 @@
+# MBOX files (too large)
+*.mbox
+
+# HTML browser files
+archive_browser.html
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Personal/sensitive data
+personal_notes.txt
+private/

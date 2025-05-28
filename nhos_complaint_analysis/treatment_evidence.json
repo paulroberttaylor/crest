@@ -1,0 +1,287 @@
+{
+  "purchase_journey": [],
+  "communication_failures": [
+    {
+      "date": "2023-11-30T14:29:19+00:00",
+      "subject": "URGENT:  Trinity Rose",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-05T14:01:10+00:00",
+      "subject": "URGENT:  10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-05T16:31:05+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-06T10:35:29+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-06T11:38:55+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-07T15:14:05+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-07T15:14:29+00:00",
+      "subject": "Automatic reply: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-08T09:10:17+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T11:08:18+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T11:11:03+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty <hr@bramsdonandchilds.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T11:19:13+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T11:27:26+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T11:29:13+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T11:33:53+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T11:37:18+00:00",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T11:42:33+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T11:49:54+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T13:53:20+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty <hr@bramsdonandchilds.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T14:56:58+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T15:55:02+00:00",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T15:56:57+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty <hr@bramsdonandchilds.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T16:11:44+00:00",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T16:37:12+00:00",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-12T16:40:41+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T10:50:02+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T11:54:00+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T12:43:09+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T12:58:30+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T13:03:13+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T13:06:20+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T13:15:54+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T13:21:16+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T14:15:45+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T14:52:44+00:00",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T15:27:48+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T15:55:05+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T16:10:02+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T16:17:46+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T16:20:09+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2023-12-13T16:57:24+00:00",
+      "subject": "URGENT - EXCHANGE",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2024-07-03T11:46:18+00:00",
+      "subject": "Information Required - Final Chaser",
+      "from": "NHOS Customer Services <customer.services@nhos.org.uk>",
+      "evidence": "Customer had to chase for response"
+    },
+    {
+      "date": "2025-05-27T14:21:24+01:00",
+      "subject": "URGENT UPDATE & New Evidence - NHOS Case Ref: NHOS-2024-000512 -\n Render & Path Issues",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response"
+    }
+  ],
+  "broken_promises": [],
+  "delays": [],
+  "poor_responses": [],
+  "key_events": [
+    {
+      "date": "2023-06-08T13:54:23+01:00",
+      "event": "Property reserved",
+      "details": "Plot 34 Reservation"
+    },
+    {
+      "date": "2024-01-04T09:50:17+00:00",
+      "event": "Property completed",
+      "details": "Confirmation of Completion Letter - Plot 34 Albany Wood"
+    },
+    {
+      "date": "2024-01-10T17:25:20+00:00",
+      "event": "First formal complaint",
+      "details": "34 AW complaint pathway to resolution for 05010240-34AW"
+    },
+    {
+      "date": "2024-09-04T16:52:45+00:00",
+      "event": "Settlement offered",
+      "details": "Mr & Mrs Taylor - Settlement Offer"
+    },
+    {
+      "date": "2025-05-21T16:55:21+00:00",
+      "event": "Complaint still ongoing",
+      "details": "Complaint has been active for 496 days"
+    }
+  ]
+}
