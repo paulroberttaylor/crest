@@ -1,0 +1,573 @@
+{
+  "broken_promises": [],
+  "delays": [
+    {
+      "date": "2023-05-18T10:56:54+01:00",
+      "subject": "Fwd: [EXTERNAL] Fwd: Memorandum of Agreement",
+      "evidence": "Crest took 12 days to respond",
+      "thread": "Fwd: Memorandum of Agreement",
+      "response_date": "2023-05-31T08:19:22+00:00"
+    },
+    {
+      "date": "2023-10-07T11:59:11+01:00",
+      "subject": "Fwd: 34 Albany Wood",
+      "evidence": "Crest took 163 days to respond",
+      "thread": "34 Albany Wood",
+      "response_date": "2024-03-18T11:32:54+00:00"
+    },
+    {
+      "date": "2023-12-13T16:18:15+00:00",
+      "subject": "",
+      "evidence": "Crest took 26 days to respond",
+      "thread": "",
+      "response_date": "2024-01-09T09:11:54+00:00"
+    },
+    {
+      "date": "2023-09-01T10:15:50+01:00",
+      "subject": "Fwd: Plot 34 Albany Road",
+      "evidence": "Crest took 26 days to respond",
+      "thread": "Plot 34 Albany Road",
+      "response_date": "2023-09-28T04:28:38+00:00"
+    },
+    {
+      "date": "2024-03-28T15:18:11+00:00",
+      "subject": "Re: 0034 Albany Wood",
+      "evidence": "Crest took 7 days to respond",
+      "thread": "0034 Albany Wood",
+      "response_date": "2024-04-04T17:05:49+00:00"
+    },
+    {
+      "date": "2024-04-05T19:14:48+01:00",
+      "subject": "Re: 0034 Albany Wood",
+      "evidence": "Crest took 16 days to respond",
+      "thread": "0034 Albany Wood",
+      "response_date": "2024-04-22T08:27:41+00:00"
+    },
+    {
+      "date": "2024-07-29T16:15:49+01:00",
+      "subject": "Re: 0034 Albany Wood",
+      "evidence": "Crest took 9 days to respond",
+      "thread": "0034 Albany Wood",
+      "response_date": "2024-08-08T07:36:36+00:00"
+    },
+    {
+      "date": "2024-11-14T10:53:29+00:00",
+      "subject": "Fwd: 0034 Albany Wood",
+      "evidence": "Crest took 15 days to respond",
+      "thread": "0034 Albany Wood",
+      "response_date": "2024-11-29T11:43:17+00:00"
+    },
+    {
+      "date": "2024-12-05T11:56:47+00:00",
+      "subject": "Re: 0034 Albany Wood",
+      "evidence": "Crest took 7 days to respond",
+      "thread": "0034 Albany Wood",
+      "response_date": "2024-12-13T11:07:51+00:00"
+    },
+    {
+      "date": "2024-03-07T13:13:17+00:00",
+      "subject": "Re: [EXTERNAL] Fwd: 0034 Albany Wood",
+      "evidence": "Crest took 253 days to respond",
+      "thread": "Fwd: 0034 Albany Wood",
+      "response_date": "2024-11-15T15:54:05+00:00"
+    },
+    {
+      "date": "2024-06-20T08:28:34+01:00",
+      "subject": "Fwd: 0034 Albany Wood, 10 Colt View",
+      "evidence": "Crest took 299 days to respond",
+      "thread": "0034 Albany Wood, 10 Colt View",
+      "response_date": "2025-04-15T13:45:09+00:00"
+    },
+    {
+      "date": "2024-12-19T14:51:47+00:00",
+      "subject": "Re: 0034 Albany Wood Window/fascia clean",
+      "evidence": "Crest took 24 days to respond",
+      "thread": "0034 Albany Wood Window/fascia clean",
+      "response_date": "2025-01-13T11:48:22+00:00"
+    },
+    {
+      "date": "2025-03-19T12:56:39+00:00",
+      "subject": "Re: 0034 Albany Wood, 10 Colt View,",
+      "evidence": "Crest took 14 days to respond",
+      "thread": "0034 Albany Wood, 10 Colt View,",
+      "response_date": "2025-04-03T10:57:19+00:00"
+    }
+  ],
+  "poor_workmanship": [
+    {
+      "date": "2024-01-24T07:16:21+00:00",
+      "subject": "Re: Wardrobe door issue - 10 Colt View Bishops Waltham Southampton\n SO32 1TF",
+      "evidence": "Defect in construction/fitting",
+      "thread": "Wardrobe door issue - 10 Colt View Bishops Waltham Southampton\n SO32 1TF"
+    },
+    {
+      "date": "2024-01-24T08:54:41+00:00",
+      "subject": "RE: Wardrobe door issue - 10 Colt View Bishops Waltham Southampton\n SO32 1TF",
+      "evidence": "Defect in construction/fitting",
+      "thread": "Wardrobe door issue - 10 Colt View Bishops Waltham Southampton\n SO32 1TF"
+    }
+  ],
+  "having_to_chase": [
+    {
+      "date": "2023-11-30T14:29:19+00:00",
+      "subject": "URGENT:  Trinity Rose",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>, \n\tSerhan Handani <sh@bramsdonandchilds.com>, Hannah Rafferty <hr@bramsdonandchilds.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT:  Trinity Rose"
+    },
+    {
+      "date": "2023-12-05T14:01:10+00:00",
+      "subject": "URGENT:  10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>, \n\tSerhan Handani <sh@bramsdonandchilds.com>, Hannah Rafferty <hr@bramsdonandchilds.com>, \n\tAdrian Sims <Adrian.Sims@crestnicholson.com>, Eileen.Guihen@crestnicholson.com, \n\tPETER.TRUSCOTT@crestnicholson.com",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT:  10 Colt View"
+    },
+    {
+      "date": "2023-12-05T16:31:05+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "to": "Paul Taylor <paulroberttaylor@gmail.com>, Serhan Handani\n\t<sh@bramsdonandchilds.com>, Hannah Rafferty <hr@bramsdonandchilds.com>,\n\tAdrian Sims <Adrian.Sims@crestnicholson.com>, Eileen Guihen\n\t<Eileen.Guihen@crestnicholson.com>, Peter Truscott\n\t<Peter.Truscott@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-06T10:35:29+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-06T11:38:55+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-07T15:14:05+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-07T15:14:29+00:00",
+      "subject": "Automatic reply: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "to": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "Automatic reply: [EXTERNAL] URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-08T09:10:17+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "to": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T11:08:18+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "to": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T11:11:03+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty <hr@bramsdonandchilds.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>, Paul Taylor\n\t<paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T11:19:13+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "to": "Hannah Rafferty <hr@bramsdonandchilds.com>, Paul Taylor\n\t<paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T11:27:26+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>, \n\tPeter Truscott <PETER.TRUSCOTT@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T11:29:13+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Hannah Rafferty <hr@bramsdonandchilds.com>, Serhan Handani <sh@bramsdonandchilds.com>, \n\tNatalie Haigh <Natalie.Haigh@crestnicholson.com>, \n\tEileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T11:33:53+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "to": "Paul Taylor <paulroberttaylor@gmail.com>, Peter Truscott\n\t<Peter.Truscott@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T11:37:18+00:00",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>, \n\tPeter Truscott <PETER.TRUSCOTT@crestnicholson.com>, \n\tHannah Rafferty <hr@bramsdonandchilds.com>, Serhan Handani <sh@bramsdonandchilds.com>, \n\tEileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T11:42:33+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "to": "Paul Taylor <paulroberttaylor@gmail.com>, Peter Truscott\n\t<Peter.Truscott@crestnicholson.com>, Hannah Rafferty\n\t<hr@bramsdonandchilds.com>, Serhan Handani <sh@bramsdonandchilds.com>, Eileen\n Guihen <Eileen.Guihen@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T11:49:54+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T13:53:20+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty <hr@bramsdonandchilds.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>, Paul Taylor\n\t<paulroberttaylor@gmail.com>, Peter Truscott\n\t<Peter.Truscott@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T14:56:58+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Hannah Rafferty <hr@bramsdonandchilds.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T15:55:02+00:00",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Hannah Rafferty <hr@bramsdonandchilds.com>, \n\t\"Cc: Natalie Haigh\" <Natalie.Haigh@crestnicholson.com>, \n\tPeter Truscott <Peter.Truscott@crestnicholson.com>, \n\tSerhan Handani <sh@bramsdonandchilds.com>, Eileen Guihen <Eileen.Guihen@crestnicholson.com>, \n\tCaroline Conacher <Caroline.Conacher@shma.co.uk>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T15:56:57+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty <hr@bramsdonandchilds.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>, Paul Taylor\n\t<paulroberttaylor@gmail.com>, Peter Truscott\n\t<Peter.Truscott@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T16:11:44+00:00",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T16:37:12+00:00",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-12T16:40:41+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Hannah Rafferty <hr@bramsdonandchilds.com>, \n\t\"Cc: Natalie Haigh\" <Natalie.Haigh@crestnicholson.com>, \n\tPeter Truscott <Peter.Truscott@crestnicholson.com>, \n\tSerhan Handani <sh@bramsdonandchilds.com>, Eileen Guihen <Eileen.Guihen@crestnicholson.com>, \n\tCaroline Conacher <Caroline.Conacher@shma.co.uk>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T10:50:02+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Hannah Rafferty <hr@bramsdonandchilds.com>, \n\t\"Cc: Natalie Haigh\" <Natalie.Haigh@crestnicholson.com>, \n\tPeter Truscott <Peter.Truscott@crestnicholson.com>, \n\tSerhan Handani <sh@bramsdonandchilds.com>, Eileen Guihen <Eileen.Guihen@crestnicholson.com>, \n\tCaroline Conacher <Caroline.Conacher@shma.co.uk>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T11:54:00+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Hannah Rafferty <hr@bramsdonandchilds.com>, \n\t\"Cc: Natalie Haigh\" <Natalie.Haigh@crestnicholson.com>, \n\tPeter Truscott <Peter.Truscott@crestnicholson.com>, \n\tSerhan Handani <sh@bramsdonandchilds.com>, Eileen Guihen <Eileen.Guihen@crestnicholson.com>, \n\tCaroline Conacher <Caroline.Conacher@shma.co.uk>, IAIN.FERGUSON@crestnicholson.com, \n\tDUNCAN.COOPER@crestnicholson.com",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T12:43:09+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Hannah Rafferty <hr@bramsdonandchilds.com>, \n\t\"Cc: Natalie Haigh\" <Natalie.Haigh@crestnicholson.com>, \n\tPeter Truscott <Peter.Truscott@crestnicholson.com>, \n\tSerhan Handani <sh@bramsdonandchilds.com>, Eileen Guihen <Eileen.Guihen@crestnicholson.com>, \n\tCaroline Conacher <Caroline.Conacher@shma.co.uk>, IAIN.FERGUSON@crestnicholson.com, \n\tDUNCAN.COOPER@crestnicholson.com",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T12:58:30+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "to": "Paul Taylor <paulroberttaylor@gmail.com>, Hannah Rafferty\n\t<hr@bramsdonandchilds.com>, Serhan Handani <sh@bramsdonandchilds.com>, Eileen\n Guihen <Eileen.Guihen@crestnicholson.com>, Caroline Conacher\n\t<Caroline.Conacher@shma.co.uk>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T13:03:13+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T13:06:20+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "to": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T13:15:54+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Natalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T13:21:16+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "to": "Paul Taylor <paulroberttaylor@gmail.com>, Hannah Rafferty\n\t<hr@bramsdonandchilds.com>, Natalie Haigh <Natalie.Haigh@crestnicholson.com>,\n\tPeter Truscott <Peter.Truscott@crestnicholson.com>, Serhan Handani\n\t<sh@bramsdonandchilds.com>, Caroline Conacher <Caroline.Conacher@shma.co.uk>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T14:15:45+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T14:52:44+00:00",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>, \n\tPeter Truscott <PETER.TRUSCOTT@crestnicholson.com>, \n\tCaroline Conacher <Caroline.Conacher@shma.co.uk>, Hannah Rafferty <hr@bramsdonandchilds.com>, \n\tNatalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T15:27:48+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>, \n\tPeter Truscott <PETER.TRUSCOTT@crestnicholson.com>, \n\tCaroline Conacher <Caroline.Conacher@shma.co.uk>, Hannah Rafferty <hr@bramsdonandchilds.com>, \n\tNatalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T15:55:05+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>, \n\tPeter Truscott <PETER.TRUSCOTT@crestnicholson.com>, \n\tCaroline Conacher <Caroline.Conacher@shma.co.uk>, Hannah Rafferty <hr@bramsdonandchilds.com>, \n\tNatalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T16:10:02+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>, \n\tPeter Truscott <PETER.TRUSCOTT@crestnicholson.com>, \n\tCaroline Conacher <Caroline.Conacher@shma.co.uk>, Hannah Rafferty <hr@bramsdonandchilds.com>, \n\tNatalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T16:17:46+00:00",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "to": "Paul Taylor <paulroberttaylor@gmail.com>, Peter Truscott\n\t<Peter.Truscott@crestnicholson.com>, Caroline Conacher\n\t<Caroline.Conacher@shma.co.uk>, Hannah Rafferty <hr@bramsdonandchilds.com>,\n\tNatalie Haigh <Natalie.Haigh@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T16:20:09+00:00",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT: 10 Colt View"
+    },
+    {
+      "date": "2023-12-13T16:57:24+00:00",
+      "subject": "URGENT - EXCHANGE",
+      "from": "Paul Taylor <paulroberttaylor@gmail.com>",
+      "to": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "URGENT - EXCHANGE"
+    },
+    {
+      "date": "2024-07-03T11:46:18+00:00",
+      "subject": "Information Required - Final Chaser",
+      "from": "NHOS Customer Services <customer.services@nhos.org.uk>",
+      "to": "\"paulroberttaylor@gmail.com\" <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "Information Required - Final Chaser"
+    },
+    {
+      "date": "2025-03-11T16:07:37+00:00",
+      "subject": "follow up on call",
+      "from": "Angela Conaghan <Angela.Conaghan@nhos.org.uk>",
+      "to": "\"paulroberttaylor@gmail.com\" <paulroberttaylor@gmail.com>",
+      "evidence": "Customer had to chase for response",
+      "thread": "follow up on call"
+    }
+  ],
+  "documentation_issues": [
+    {
+      "date": "2023-12-23T11:32:02+00:00",
+      "subject": "Plot 34 Albany Wood NHBC Cover Note",
+      "evidence": "Issues with documentation/certification",
+      "thread": "Plot 34 Albany Wood NHBC Cover Note"
+    },
+    {
+      "date": "2023-12-23T12:41:07+00:00",
+      "subject": "Re: Plot 34 Albany Wood NHBC Cover Note",
+      "evidence": "Issues with documentation/certification",
+      "thread": "Plot 34 Albany Wood NHBC Cover Note"
+    },
+    {
+      "date": "2023-12-23T12:42:14+00:00",
+      "subject": "Automatic reply: [EXTERNAL] Re: Plot 34 Albany Wood NHBC Cover Note",
+      "evidence": "Issues with documentation/certification",
+      "thread": "Automatic reply: [EXTERNAL] Re: Plot 34 Albany Wood NHBC Cover Note"
+    },
+    {
+      "date": "2023-12-23T13:15:30+00:00",
+      "subject": "RE: [EXTERNAL] Re: Plot 34 Albany Wood NHBC Cover Note",
+      "evidence": "Issues with documentation/certification",
+      "thread": "Re: Plot 34 Albany Wood NHBC Cover Note"
+    },
+    {
+      "date": "2023-12-23T13:38:29+00:00",
+      "subject": "RE: [EXTERNAL] Re: Plot 34 Albany Wood NHBC Cover Note",
+      "evidence": "Issues with documentation/certification",
+      "thread": "Re: Plot 34 Albany Wood NHBC Cover Note"
+    },
+    {
+      "date": "2023-12-23T14:06:56+00:00",
+      "subject": "Re: [EXTERNAL] Re: Plot 34 Albany Wood NHBC Cover Note",
+      "evidence": "Issues with documentation/certification",
+      "thread": "Re: Plot 34 Albany Wood NHBC Cover Note"
+    }
+  ],
+  "dismissive_responses": [
+    {
+      "date": "2024-03-01T17:00:40+00:00",
+      "subject": "34 Albany Wood - complaint assessment and response 01-03-24",
+      "from": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "evidence": "Complaint response from Crest",
+      "thread": "34 Albany Wood - complaint assessment and response 01-03-24"
+    },
+    {
+      "date": "2024-03-04T12:30:43+00:00",
+      "subject": "Automatic reply: [EXTERNAL] Re: 34 Albany Wood - complaint assessment\n and response 01-03-24",
+      "from": "Leanne Poingdestre <Leanne.Poingdestre@crestnicholson.com>",
+      "evidence": "Complaint response from Crest",
+      "thread": "Automatic reply: [EXTERNAL] Re: 34 Albany Wood - complaint assessment\n and response 01-03-24"
+    },
+    {
+      "date": "2024-03-18T20:12:10+00:00",
+      "subject": "34 Albany Wood - Complaint assessment and response 18-03-24",
+      "from": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "evidence": "Complaint response from Crest",
+      "thread": "34 Albany Wood - Complaint assessment and response 18-03-24"
+    },
+    {
+      "date": "2024-04-25T19:35:55+00:00",
+      "subject": "034 Albany Wood - complaint assessment and response 25-04-24",
+      "from": "Eileen Guihen <Eileen.Guihen@crestnicholson.com>",
+      "evidence": "Complaint response from Crest",
+      "thread": "034 Albany Wood - complaint assessment and response 25-04-24"
+    },
+    {
+      "date": "2024-08-30T19:15:37+00:00",
+      "subject": "034 Albany Wood - Complaint Assessment and Response 30-08-24",
+      "from": "Mark Foyle <Mark.Foyle@crestnicholson.com>",
+      "evidence": "Complaint response from Crest",
+      "thread": "034 Albany Wood - Complaint Assessment and Response 30-08-24"
+    },
+    {
+      "date": "2025-01-17T17:14:07+00:00",
+      "subject": "0034 Albany Wood Complaint Assessment & Interim Update 17-01-25",
+      "from": "Mark Foyle <Mark.Foyle@crestnicholson.com>",
+      "evidence": "Complaint response from Crest",
+      "thread": "0034 Albany Wood Complaint Assessment & Interim Update 17-01-25"
+    },
+    {
+      "date": "2025-01-30T13:05:24+00:00",
+      "subject": "AutoResponse: [EXTERNAL] Re: 0034 Albany Wood Complaint Assessment\n & Interim Update 17-01-25",
+      "from": "\"Customer Service SO\" <customerserviceso@crestnicholson.com>",
+      "evidence": "Complaint response from Crest",
+      "thread": "AutoResponse: [EXTERNAL] Re: 0034 Albany Wood Complaint Assessment\n & Interim Update 17-01-25"
+    },
+    {
+      "date": "2025-01-30T13:05:30+00:00",
+      "subject": "Automatic reply: [EXTERNAL] Re: 0034 Albany Wood Complaint Assessment\n & Interim Update 17-01-25",
+      "from": "Donna Hack <Donna.Hack@crestnicholson.com>",
+      "evidence": "Complaint response from Crest",
+      "thread": "Automatic reply: [EXTERNAL] Re: 0034 Albany Wood Complaint Assessment\n & Interim Update 17-01-25"
+    },
+    {
+      "date": "2025-01-31T17:01:52+00:00",
+      "subject": "034 Albany Wood complaint update and final response 31-01-25",
+      "from": "Mark Foyle <Mark.Foyle@crestnicholson.com>",
+      "evidence": "Complaint response from Crest",
+      "thread": "034 Albany Wood complaint update and final response 31-01-25"
+    },
+    {
+      "date": "2025-01-31T17:23:00+00:00",
+      "subject": "AutoResponse: [EXTERNAL] Re: 034 Albany Wood complaint update and\n final response 31-01-25",
+      "from": "\"Customer Service SO\" <customerserviceso@crestnicholson.com>",
+      "evidence": "Complaint response from Crest",
+      "thread": "AutoResponse: [EXTERNAL] Re: 034 Albany Wood complaint update and\n final response 31-01-25"
+    },
+    {
+      "date": "2025-02-03T14:30:42+00:00",
+      "subject": "0034 Albany Wood Complaint assessment and interim update 03-02-25",
+      "from": "Mark Foyle <Mark.Foyle@crestnicholson.com>",
+      "evidence": "Complaint response from Crest",
+      "thread": "0034 Albany Wood Complaint assessment and interim update 03-02-25"
+    }
+  ],
+  "timeline_violations": [
+    {
+      "date": "2024-01-04T09:50:17+00:00",
+      "subject": "Confirmation of Completion Letter - Plot 34 Albany Wood",
+      "evidence": "Completion process issue",
+      "thread": "Confirmation of Completion Letter - Plot 34 Albany Wood"
+    }
+  ]
+}

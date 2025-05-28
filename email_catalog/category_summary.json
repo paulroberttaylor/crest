@@ -1,0 +1,121 @@
+{
+  "purchase_process": {
+    "email_count": 87,
+    "threads": 29,
+    "key_people": [
+      "Eileen Guihen",
+      "Lynn Carrington",
+      "Mark Foyle"
+    ]
+  },
+  "survey_certification": {
+    "email_count": 22,
+    "threads": 12,
+    "key_people": []
+  },
+  "poor_service": {
+    "email_count": 42,
+    "threads": 7,
+    "key_people": [
+      "Eileen Guihen"
+    ]
+  },
+  "defects": {
+    "email_count": 35,
+    "threads": 12,
+    "key_people": [
+      "Lynn Carrington"
+    ]
+  },
+  "warranty": {
+    "email_count": 6,
+    "threads": 3,
+    "key_people": [
+      "Eileen Guihen",
+      "Lynn Carrington"
+    ]
+  },
+  "legal_contract": {
+    "email_count": 4,
+    "threads": 2,
+    "key_people": [
+      "Eileen Guihen"
+    ]
+  },
+  "render_issue": {
+    "email_count": 37,
+    "threads": 12,
+    "key_people": [
+      "Lynn Carrington",
+      "Mark Foyle"
+    ]
+  },
+  "complaint_pathway": {
+    "email_count": 7,
+    "threads": 6,
+    "key_people": [
+      "Eileen Guihen",
+      "Mark Foyle"
+    ]
+  },
+  "path_access": {
+    "email_count": 67,
+    "threads": 19,
+    "key_people": [
+      "Eileen Guihen",
+      "Lynn Carrington",
+      "Mark Foyle"
+    ]
+  },
+  "complaint_assessment": {
+    "email_count": 15,
+    "threads": 9,
+    "key_people": [
+      "Eileen Guihen",
+      "Mark Foyle"
+    ]
+  },
+  "garden_levels": {
+    "email_count": 10,
+    "threads": 7,
+    "key_people": [
+      "Eileen Guihen",
+      "Mark Foyle"
+    ]
+  },
+  "nhos_escalation": {
+    "email_count": 131,
+    "threads": 41,
+    "key_people": [
+      "Mark Foyle"
+    ]
+  },
+  "complaint_general": {
+    "email_count": 55,
+    "threads": 16,
+    "key_people": [
+      "Mark Foyle"
+    ]
+  },
+  "complaint_acknowledgement": {
+    "email_count": 2,
+    "threads": 2,
+    "key_people": [
+      "Mark Foyle"
+    ]
+  },
+  "settlement": {
+    "email_count": 14,
+    "threads": 6,
+    "key_people": [
+      "Mark Foyle"
+    ]
+  },
+  "complaint_final": {
+    "email_count": 3,
+    "threads": 2,
+    "key_people": [
+      "Mark Foyle"
+    ]
+  }
+}

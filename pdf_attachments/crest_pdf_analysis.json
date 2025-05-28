@@ -1,0 +1,883 @@
+{
+  "total_pdfs": 52,
+  "categories": {
+    "reservation": [
+      {
+        "filename": "2023-06-01_1626_34 Albany Wood_Draft Reservation Agreement for 34 Albany Wood.pdf",
+        "date": "2023-06-01",
+        "subject": "34 Albany Wood",
+        "original_name": "Draft Reservation Agreement for 34 Albany Wood",
+        "size": 168192
+      },
+      {
+        "filename": "2023-06-12_1331_Plot 34 - Albany Wood_11. Crest Nicholson Warranty Guide.pdf",
+        "date": "2023-06-12",
+        "subject": "Plot 34 - Albany Wood",
+        "original_name": "11. Crest Nicholson Warranty Guide",
+        "size": 1537288
+      },
+      {
+        "filename": "2023-06-12_1331_Plot 34 - Albany Wood_9. Albany Wood Post Reservation Contact.pdf",
+        "date": "2023-06-12",
+        "subject": "Plot 34 - Albany Wood",
+        "original_name": "9. Albany Wood Post Reservation Contact",
+        "size": 112429
+      },
+      {
+        "filename": "2023-06-12_1331_Plot 34 - Albany Wood_Plot 34 - Albany Wood - Signed Res.pdf",
+        "date": "2023-06-12",
+        "subject": "Plot 34 - Albany Wood",
+        "original_name": "Plot 34 - Albany Wood - Signed Res",
+        "size": 1902773
+      },
+      {
+        "filename": "2023-06-22_1048_Confirmation of Reservation Letter - Plot 34 Alban_34 Albany Wood Reservation Letter.pdf",
+        "date": "2023-06-22",
+        "subject": "Confirmation of Reservation Letter - Plot 34 Alban",
+        "original_name": "34 Albany Wood Reservation Letter",
+        "size": 94107
+      },
+      {
+        "filename": "2023-06-23_1102_34 Albany Wood_Plot 34 - Albany Wood - Signed Res.pdf",
+        "date": "2023-06-23",
+        "subject": "34 Albany Wood",
+        "original_name": "Plot 34 - Albany Wood - Signed Res",
+        "size": 1902312
+      },
+      {
+        "filename": "2024-05-13_1523_RE_ [EXTERNAL] Use of heavy machinery_240430-Crest Nicholson South-Resident Notice-Topsoil Delivery.pdf",
+        "date": "2024-05-13",
+        "subject": "RE",
+        "original_name": " [EXTERNAL] Use of heavy machinery_240430-Crest Nicholson South-Resident Notice-Topsoil Delivery",
+        "size": 375901
+      },
+      {
+        "filename": "2024-11-20_1750_RE_ Scaffolding removal - render scar_Other - Plot 34 Albany Wood, Crest Nicholson. (VO S14672PA0112) -\r\n [GCC76819]-GEN Customer Care.pdf",
+        "date": "2024-11-20",
+        "subject": "RE",
+        "original_name": " Scaffolding removal - render scar_Other - Plot 34 Albany Wood, Crest Nicholson. (VO S14672PA0112) -\r\n [GCC76819]-GEN Customer Care",
+        "size": 13271434
+      }
+    ],
+    "warranty": [
+      {
+        "filename": "2023-06-12_1331_Plot 34 - Albany Wood_10.1 NHBC Warranty Note.pdf",
+        "date": "2023-06-12",
+        "subject": "Plot 34 - Albany Wood",
+        "original_name": "10.1 NHBC Warranty Note",
+        "size": 69066
+      },
+      {
+        "filename": "2023-06-12_1331_Plot 34 - Albany Wood_10.2 Welcome to NHBC Buildmark.pdf",
+        "date": "2023-06-12",
+        "subject": "Plot 34 - Albany Wood",
+        "original_name": "10.2 Welcome to NHBC Buildmark",
+        "size": 641761
+      },
+      {
+        "filename": "2023-06-12_1331_Plot 34 - Albany Wood_10.3 NHBC Guide To Your New Home.pdf",
+        "date": "2023-06-12",
+        "subject": "Plot 34 - Albany Wood",
+        "original_name": "10.3 NHBC Guide To Your New Home",
+        "size": 6489560
+      },
+      {
+        "filename": "2023-12-23_1132_Plot 34 Albany Wood NHBC Cover Note_Plot 34 NHBC Cover Note Albany Wood.pdf",
+        "date": "2023-12-23",
+        "subject": "Plot 34 Albany Wood NHBC Cover Note",
+        "original_name": "Plot 34 NHBC Cover Note Albany Wood",
+        "size": 209244
+      }
+    ],
+    "other": [
+      {
+        "filename": "2023-06-12_1331_Plot 34 - Albany Wood_3.CN_GENERIC-SPECIFICATIONS_1-2-3-4-5-BEDROOM-HOMES_2PPP_v03_AW.pdf",
+        "date": "2023-06-12",
+        "subject": "Plot 34 - Albany Wood",
+        "original_name": "3.CN_GENERIC-SPECIFICATIONS_1-2-3-4-5-BEDROOM-HOMES_2PPP_v03_AW",
+        "size": 615493
+      },
+      {
+        "filename": "2023-06-12_1331_Plot 34 - Albany Wood_7 - Development Factsheet - ALBANY WOOD.pdf",
+        "date": "2023-06-12",
+        "subject": "Plot 34 - Albany Wood",
+        "original_name": "7 - Development Factsheet - ALBANY WOOD",
+        "size": 169128
+      },
+      {
+        "filename": "2023-06-12_1331_Plot 34 - Albany Wood_Plot 34 - Albany Wood - Signed checklist.pdf",
+        "date": "2023-06-12",
+        "subject": "Plot 34 - Albany Wood",
+        "original_name": "Plot 34 - Albany Wood - Signed checklist",
+        "size": 1026705
+      }
+    ],
+    "information_guides": [
+      {
+        "filename": "2023-06-12_1331_Plot 34 - Albany Wood_4. ALBANY-WOOD_BROCHURE-SET_JAN-2023-UPDATE.pdf",
+        "date": "2023-06-12",
+        "subject": "Plot 34 - Albany Wood",
+        "original_name": "4. ALBANY-WOOD_BROCHURE-SET_JAN-2023-UPDATE",
+        "size": 4450079
+      },
+      {
+        "filename": "2023-06-12_1331_Plot 34 - Albany Wood_5. Home Owners Guide.pdf",
+        "date": "2023-06-12",
+        "subject": "Plot 34 - Albany Wood",
+        "original_name": "5. Home Owners Guide",
+        "size": 5143823
+      },
+      {
+        "filename": "2023-06-12_1331_Plot 34 - Albany Wood_8 - NEW Albany Wood FREEHOLD INFORMATION GUIDE.pdf",
+        "date": "2023-06-12",
+        "subject": "Plot 34 - Albany Wood",
+        "original_name": "8 - NEW Albany Wood FREEHOLD INFORMATION GUIDE",
+        "size": 320099
+      },
+      {
+        "filename": "2023-06-12_1331_Plot 34 - Albany Wood_Plot 34-Albany Wood-Affordability Guide.pdf",
+        "date": "2023-06-12",
+        "subject": "Plot 34 - Albany Wood",
+        "original_name": "Plot 34-Albany Wood-Affordability Guide",
+        "size": 429349
+      }
+    ],
+    "customer_choices": [
+      {
+        "filename": "2023-06-22_0853_RE_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Choices signed.pdf",
+        "date": "2023-06-22",
+        "subject": "RE",
+        "original_name": " [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Choices signed",
+        "size": 144035
+      },
+      {
+        "filename": "2023-06-22_0853_RE_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Options signed.pdf",
+        "date": "2023-06-22",
+        "subject": "RE",
+        "original_name": " [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Options signed",
+        "size": 339511
+      },
+      {
+        "filename": "2023-06-22_0853_RE_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Wardrobes confirmation signed.pdf",
+        "date": "2023-06-22",
+        "subject": "RE",
+        "original_name": " [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Wardrobes confirmation signed",
+        "size": 364215
+      }
+    ],
+    "completion": [
+      {
+        "filename": "2024-01-04_0950_Confirmation of Completion Letter - Plot 34 Albany_34 Albany Wood Completion Letter.pdf",
+        "date": "2024-01-04",
+        "subject": "Confirmation of Completion Letter - Plot 34 Albany",
+        "original_name": "34 Albany Wood Completion Letter",
+        "size": 124060
+      }
+    ],
+    "snag_list": [
+      {
+        "filename": "2024-01-09_1128_Plot 34 Albany Wood Site Pro Snag List_Plot 34 Pro Snag List Lynns Version.pdf",
+        "date": "2024-01-09",
+        "subject": "Plot 34 Albany Wood Site Pro Snag List",
+        "original_name": "Plot 34 Pro Snag List Lynns Version",
+        "size": 1059494
+      }
+    ],
+    "complaint_correspondence": [
+      {
+        "filename": "2024-01-10_1725_34 AW complaint pathway to resolution for 05010240_34 AW complaint pathway to resolution for 0501240-34-AW.pdf",
+        "date": "2024-01-10",
+        "subject": "34 AW complaint pathway to resolution for 05010240",
+        "original_name": "34 AW complaint pathway to resolution for 0501240-34-AW",
+        "size": 119404
+      },
+      {
+        "filename": "2024-01-22_1651_RE_ [EXTERNAL] 10 Colt View Legal Contract_34 AW - Complaint Acknowledgement 22-01-24.pdf",
+        "date": "2024-01-22",
+        "subject": "RE",
+        "original_name": " [EXTERNAL] 10 Colt View Legal Contract_34 AW - Complaint Acknowledgement 22-01-24",
+        "size": 31931
+      },
+      {
+        "filename": "2024-01-29_1728_34 Albany Wood - Complaint Pathway to resolution 2_34 Albany Wood - Complaint Pathway to resolution 29-01-24.pdf",
+        "date": "2024-01-29",
+        "subject": "34 Albany Wood - Complaint Pathway to resolution 2",
+        "original_name": "34 Albany Wood - Complaint Pathway to resolution 29-01-24",
+        "size": 62372
+      },
+      {
+        "filename": "2024-02-05_1104_34 Albany Wood - complaint pathway to resolution 2_34 Albany Wood - Complaint Pathway to resolution 29-01-24 - 2.pdf",
+        "date": "2024-02-05",
+        "subject": "34 Albany Wood - complaint pathway to resolution 2",
+        "original_name": "34 Albany Wood - Complaint Pathway to resolution 29-01-24 - 2",
+        "size": 188239
+      },
+      {
+        "filename": "2024-03-01_1700_34 Albany Wood - complaint assessment and response_34 Albany Wood - Complaint assessment and response 01 03 24.pdf",
+        "date": "2024-03-01",
+        "subject": "34 Albany Wood - complaint assessment and response",
+        "original_name": "34 Albany Wood - Complaint assessment and response 01 03 24",
+        "size": 56030
+      },
+      {
+        "filename": "2024-03-18_2012_34 Albany Wood - Complaint assessment and response_34 Albany Wood - Complaint assesment and response 18 03 24.pdf",
+        "date": "2024-03-18",
+        "subject": "34 Albany Wood - Complaint assessment and response",
+        "original_name": "34 Albany Wood - Complaint assesment and response 18 03 24",
+        "size": 24044
+      },
+      {
+        "filename": "2024-04-25_1935_034 Albany Wood - complaint assessment and respons_034 Albany Wood - Complaint assesment and response 25 04 24.pdf",
+        "date": "2024-04-25",
+        "subject": "034 Albany Wood - complaint assessment and respons",
+        "original_name": "034 Albany Wood - Complaint assesment and response 25 04 24",
+        "size": 25352
+      },
+      {
+        "filename": "2024-04-25_1935_034 Albany Wood - complaint assessment and respons_2403019 - 34 Albany Wood Bishops Waltham.pdf",
+        "date": "2024-04-25",
+        "subject": "034 Albany Wood - complaint assessment and respons",
+        "original_name": "2403019 - 34 Albany Wood Bishops Waltham",
+        "size": 303996
+      },
+      {
+        "filename": "2024-07-26_1803_RE_ [EXTERNAL] Fwd_ 0034 Albany Wood - water press_034 Albany Wood - Complaint Acknowledgement 26 07 24.pdf",
+        "date": "2024-07-26",
+        "subject": "RE",
+        "original_name": " [EXTERNAL] Fwd_ 0034 Albany Wood - water press_034 Albany Wood - Complaint Acknowledgement 26 07 24",
+        "size": 21054
+      },
+      {
+        "filename": "2024-08-02_1504_034 Albany Wood - Complaint pathway to resolution _034 Albany Wood - Complaint Pathway to Resolution 02 08 24.pdf",
+        "date": "2024-08-02",
+        "subject": "034 Albany Wood - Complaint pathway to resolution ",
+        "original_name": "034 Albany Wood - Complaint Pathway to Resolution 02 08 24",
+        "size": 65446
+      },
+      {
+        "filename": "2024-08-29_1319_034 Albany Wood - Complaint Acknowledgement 29-08-_034 Albany Wood - Complaint Acknowledgement 29 08 24.pdf",
+        "date": "2024-08-29",
+        "subject": "034 Albany Wood - Complaint Acknowledgement 29-08-",
+        "original_name": "034 Albany Wood - Complaint Acknowledgement 29 08 24",
+        "size": 17580
+      },
+      {
+        "filename": "2024-08-29_1807_RE_ [EXTERNAL] Fwd_ NHOS-2024-000302 _ Complaint a_034 Albany Wood - Complaint Pathway to Resolution  29 08 24.pdf",
+        "date": "2024-08-29",
+        "subject": "RE",
+        "original_name": " [EXTERNAL] Fwd_ NHOS-2024-000302 _ Complaint a_034 Albany Wood - Complaint Pathway to Resolution  29 08 24",
+        "size": 110218
+      },
+      {
+        "filename": "2024-08-30_1915_034 Albany Wood - Complaint Assessment and Respons_034 Albany Wood - Complaint Assessment and Response 30 08 24.pdf",
+        "date": "2024-08-30",
+        "subject": "034 Albany Wood - Complaint Assessment and Respons",
+        "original_name": "034 Albany Wood - Complaint Assessment and Response 30 08 24",
+        "size": 67465
+      },
+      {
+        "filename": "2025-01-10_1912_0034 Albany Wood Complaint Acknowledgement 10-01-2_0034 Albany Wood Complaint Acknowledgement 10 01 25.pdf",
+        "date": "2025-01-10",
+        "subject": "0034 Albany Wood Complaint Acknowledgement 10-01-2",
+        "original_name": "0034 Albany Wood Complaint Acknowledgement 10 01 25",
+        "size": 126626
+      },
+      {
+        "filename": "2025-01-17_1656_0034 Albany Wood complaint pathway to resolution 1_0034 Albany Wood Complaint pathway to resolution 17 01 25.pdf",
+        "date": "2025-01-17",
+        "subject": "0034 Albany Wood complaint pathway to resolution 1",
+        "original_name": "0034 Albany Wood Complaint pathway to resolution 17 01 25",
+        "size": 124379
+      },
+      {
+        "filename": "2025-01-17_1714_0034 Albany Wood Complaint Assessment & Interim Up_0034 Albany Wood Complaint assessment and interim upadate 17 01\r\n 25.pdf",
+        "date": "2025-01-17",
+        "subject": "0034 Albany Wood Complaint Assessment & Interim Up",
+        "original_name": "0034 Albany Wood Complaint assessment and interim upadate 17 01\r\n 25",
+        "size": 145726
+      },
+      {
+        "filename": "2025-01-31_1701_034 Albany Wood complaint update and final respons_0034 Albany Wood Complaint update and final repsonse 31 01 25\r\n (002).pdf",
+        "date": "2025-01-31",
+        "subject": "034 Albany Wood complaint update and final respons",
+        "original_name": "0034 Albany Wood Complaint update and final repsonse 31 01 25\r\n (002)",
+        "size": 125023
+      },
+      {
+        "filename": "2025-02-03_1430_0034 Albany Wood Complaint assessment and interim _0034 Albany Wood Complaint assessment and interim upadate 03 02\r\n 25.pdf",
+        "date": "2025-02-03",
+        "subject": "0034 Albany Wood Complaint assessment and interim ",
+        "original_name": "0034 Albany Wood Complaint assessment and interim upadate 03 02\r\n 25",
+        "size": 121579
+      },
+      {
+        "filename": "2025-02-28_1517_0034 Albany Wood Complaint interim update 28-02-25_0034 Albany Wood Complaint interim upadate 28 02 25.pdf",
+        "date": "2025-02-28",
+        "subject": "0034 Albany Wood Complaint interim update 28-02-25",
+        "original_name": "0034 Albany Wood Complaint interim upadate 28 02 25",
+        "size": 145973
+      },
+      {
+        "filename": "2025-03-28_1030_0034 Albany Wood Complaint interim update 28-03-25_0034 Albany Wood Complaint interim update 28 03 25.pdf",
+        "date": "2025-03-28",
+        "subject": "0034 Albany Wood Complaint interim update 28-03-25",
+        "original_name": "0034 Albany Wood Complaint interim update 28 03 25",
+        "size": 98519
+      },
+      {
+        "filename": "2025-04-24_1928_0034 Albany Wood Complaint Interim Update 24-04-25_0034 Albany Wood Complaint interim update 24 04 25.pdf",
+        "date": "2025-04-24",
+        "subject": "0034 Albany Wood Complaint Interim Update 24-04-25",
+        "original_name": "0034 Albany Wood Complaint interim update 24 04 25",
+        "size": 104830
+      },
+      {
+        "filename": "2025-05-21_1655_0034 Albany Wood Complaint Interim Update21-05-25_0034 Albany Wood Complaint interim update 21 05 25 (002).pdf",
+        "date": "2025-05-21",
+        "subject": "0034 Albany Wood Complaint Interim Update21-05-25",
+        "original_name": "0034 Albany Wood Complaint interim update 21 05 25 (002)",
+        "size": 111271
+      }
+    ],
+    "technical_drawings": [
+      {
+        "filename": "2024-04-04_1705_0034 Albany Wood_Plot 34 Overlay.pdf",
+        "date": "2024-04-04",
+        "subject": "0034 Albany Wood",
+        "original_name": "Plot 34 Overlay",
+        "size": 278256
+      },
+      {
+        "filename": "2025-03-27_2038_34 Albany Wood,  Albany Road Development - Another_Albany Wood landscape drawing 14672-5105.pdf",
+        "date": "2025-03-27",
+        "subject": "34 Albany Wood,  Albany Road Development - Another",
+        "original_name": "Albany Wood landscape drawing 14672-5105",
+        "size": 922829
+      }
+    ],
+    "settlement": [
+      {
+        "filename": "2024-09-04_1652_Mr & Mrs Taylor - Settlement Offer_Mr and Mrs Taylor - Settlement Offer.pdf",
+        "date": "2024-09-04",
+        "subject": "Mr & Mrs Taylor - Settlement Offer",
+        "original_name": "Mr and Mrs Taylor - Settlement Offer",
+        "size": 122972
+      },
+      {
+        "filename": "2024-09-09_1631_Plot 34 Albany Wood - Settlement Offer and Settlem_Plot 34 Albany Wood settlment Letter 09-09-24.pdf",
+        "date": "2024-09-09",
+        "subject": "Plot 34 Albany Wood - Settlement Offer and Settlem",
+        "original_name": "Plot 34 Albany Wood settlment Letter 09-09-24",
+        "size": 126375
+      },
+      {
+        "filename": "2024-09-09_1631_Plot 34 Albany Wood - Settlement Offer and Settlem_Plot 34 Albany Wood settlment Offer 09-09-24.pdf",
+        "date": "2024-09-09",
+        "subject": "Plot 34 Albany Wood - Settlement Offer and Settlem",
+        "original_name": "Plot 34 Albany Wood settlment Offer 09-09-24",
+        "size": 104885
+      },
+      {
+        "filename": "2024-09-12_0911_Signed settlement agreement_S2382324091209310.pdf",
+        "date": "2024-09-12",
+        "subject": "Signed settlement agreement",
+        "original_name": "S2382324091209310",
+        "size": 111590
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "filename": "2023-06-01_1626_34 Albany Wood_Draft Reservation Agreement for 34 Albany Wood.pdf",
+      "date": "2023-06-01",
+      "subject": "34 Albany Wood",
+      "original_name": "Draft Reservation Agreement for 34 Albany Wood",
+      "size": 168192
+    },
+    {
+      "filename": "2023-06-12_1331_Plot 34 - Albany Wood_10.1 NHBC Warranty Note.pdf",
+      "date": "2023-06-12",
+      "subject": "Plot 34 - Albany Wood",
+      "original_name": "10.1 NHBC Warranty Note",
+      "size": 69066
+    },
+    {
+      "filename": "2023-06-12_1331_Plot 34 - Albany Wood_10.2 Welcome to NHBC Buildmark.pdf",
+      "date": "2023-06-12",
+      "subject": "Plot 34 - Albany Wood",
+      "original_name": "10.2 Welcome to NHBC Buildmark",
+      "size": 641761
+    },
+    {
+      "filename": "2023-06-12_1331_Plot 34 - Albany Wood_10.3 NHBC Guide To Your New Home.pdf",
+      "date": "2023-06-12",
+      "subject": "Plot 34 - Albany Wood",
+      "original_name": "10.3 NHBC Guide To Your New Home",
+      "size": 6489560
+    },
+    {
+      "filename": "2023-06-12_1331_Plot 34 - Albany Wood_11. Crest Nicholson Warranty Guide.pdf",
+      "date": "2023-06-12",
+      "subject": "Plot 34 - Albany Wood",
+      "original_name": "11. Crest Nicholson Warranty Guide",
+      "size": 1537288
+    },
+    {
+      "filename": "2023-06-12_1331_Plot 34 - Albany Wood_3.CN_GENERIC-SPECIFICATIONS_1-2-3-4-5-BEDROOM-HOMES_2PPP_v03_AW.pdf",
+      "date": "2023-06-12",
+      "subject": "Plot 34 - Albany Wood",
+      "original_name": "3.CN_GENERIC-SPECIFICATIONS_1-2-3-4-5-BEDROOM-HOMES_2PPP_v03_AW",
+      "size": 615493
+    },
+    {
+      "filename": "2023-06-12_1331_Plot 34 - Albany Wood_4. ALBANY-WOOD_BROCHURE-SET_JAN-2023-UPDATE.pdf",
+      "date": "2023-06-12",
+      "subject": "Plot 34 - Albany Wood",
+      "original_name": "4. ALBANY-WOOD_BROCHURE-SET_JAN-2023-UPDATE",
+      "size": 4450079
+    },
+    {
+      "filename": "2023-06-12_1331_Plot 34 - Albany Wood_5. Home Owners Guide.pdf",
+      "date": "2023-06-12",
+      "subject": "Plot 34 - Albany Wood",
+      "original_name": "5. Home Owners Guide",
+      "size": 5143823
+    },
+    {
+      "filename": "2023-06-12_1331_Plot 34 - Albany Wood_7 - Development Factsheet - ALBANY WOOD.pdf",
+      "date": "2023-06-12",
+      "subject": "Plot 34 - Albany Wood",
+      "original_name": "7 - Development Factsheet - ALBANY WOOD",
+      "size": 169128
+    },
+    {
+      "filename": "2023-06-12_1331_Plot 34 - Albany Wood_8 - NEW Albany Wood FREEHOLD INFORMATION GUIDE.pdf",
+      "date": "2023-06-12",
+      "subject": "Plot 34 - Albany Wood",
+      "original_name": "8 - NEW Albany Wood FREEHOLD INFORMATION GUIDE",
+      "size": 320099
+    },
+    {
+      "filename": "2023-06-12_1331_Plot 34 - Albany Wood_9. Albany Wood Post Reservation Contact.pdf",
+      "date": "2023-06-12",
+      "subject": "Plot 34 - Albany Wood",
+      "original_name": "9. Albany Wood Post Reservation Contact",
+      "size": 112429
+    },
+    {
+      "filename": "2023-06-12_1331_Plot 34 - Albany Wood_Plot 34 - Albany Wood - Signed Res.pdf",
+      "date": "2023-06-12",
+      "subject": "Plot 34 - Albany Wood",
+      "original_name": "Plot 34 - Albany Wood - Signed Res",
+      "size": 1902773
+    },
+    {
+      "filename": "2023-06-12_1331_Plot 34 - Albany Wood_Plot 34 - Albany Wood - Signed checklist.pdf",
+      "date": "2023-06-12",
+      "subject": "Plot 34 - Albany Wood",
+      "original_name": "Plot 34 - Albany Wood - Signed checklist",
+      "size": 1026705
+    },
+    {
+      "filename": "2023-06-12_1331_Plot 34 - Albany Wood_Plot 34-Albany Wood-Affordability Guide.pdf",
+      "date": "2023-06-12",
+      "subject": "Plot 34 - Albany Wood",
+      "original_name": "Plot 34-Albany Wood-Affordability Guide",
+      "size": 429349
+    },
+    {
+      "filename": "2023-06-22_0853_RE_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Choices signed.pdf",
+      "date": "2023-06-22",
+      "subject": "RE",
+      "original_name": " [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Choices signed",
+      "size": 144035
+    },
+    {
+      "filename": "2023-06-22_0853_RE_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Options signed.pdf",
+      "date": "2023-06-22",
+      "subject": "RE",
+      "original_name": " [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Options signed",
+      "size": 339511
+    },
+    {
+      "filename": "2023-06-22_0853_RE_ [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Wardrobes confirmation signed.pdf",
+      "date": "2023-06-22",
+      "subject": "RE",
+      "original_name": " [EXTERNAL] Re_ Plot 34 Choices appointment_Plot 34 Taylors Wardrobes confirmation signed",
+      "size": 364215
+    },
+    {
+      "filename": "2023-06-22_1048_Confirmation of Reservation Letter - Plot 34 Alban_34 Albany Wood Reservation Letter.pdf",
+      "date": "2023-06-22",
+      "subject": "Confirmation of Reservation Letter - Plot 34 Alban",
+      "original_name": "34 Albany Wood Reservation Letter",
+      "size": 94107
+    },
+    {
+      "filename": "2023-06-23_1102_34 Albany Wood_Plot 34 - Albany Wood - Signed Res.pdf",
+      "date": "2023-06-23",
+      "subject": "34 Albany Wood",
+      "original_name": "Plot 34 - Albany Wood - Signed Res",
+      "size": 1902312
+    },
+    {
+      "filename": "2023-12-23_1132_Plot 34 Albany Wood NHBC Cover Note_Plot 34 NHBC Cover Note Albany Wood.pdf",
+      "date": "2023-12-23",
+      "subject": "Plot 34 Albany Wood NHBC Cover Note",
+      "original_name": "Plot 34 NHBC Cover Note Albany Wood",
+      "size": 209244
+    },
+    {
+      "filename": "2024-01-04_0950_Confirmation of Completion Letter - Plot 34 Albany_34 Albany Wood Completion Letter.pdf",
+      "date": "2024-01-04",
+      "subject": "Confirmation of Completion Letter - Plot 34 Albany",
+      "original_name": "34 Albany Wood Completion Letter",
+      "size": 124060
+    },
+    {
+      "filename": "2024-01-09_1128_Plot 34 Albany Wood Site Pro Snag List_Plot 34 Pro Snag List Lynns Version.pdf",
+      "date": "2024-01-09",
+      "subject": "Plot 34 Albany Wood Site Pro Snag List",
+      "original_name": "Plot 34 Pro Snag List Lynns Version",
+      "size": 1059494
+    },
+    {
+      "filename": "2024-01-10_1725_34 AW complaint pathway to resolution for 05010240_34 AW complaint pathway to resolution for 0501240-34-AW.pdf",
+      "date": "2024-01-10",
+      "subject": "34 AW complaint pathway to resolution for 05010240",
+      "original_name": "34 AW complaint pathway to resolution for 0501240-34-AW",
+      "size": 119404
+    },
+    {
+      "filename": "2024-01-22_1651_RE_ [EXTERNAL] 10 Colt View Legal Contract_34 AW - Complaint Acknowledgement 22-01-24.pdf",
+      "date": "2024-01-22",
+      "subject": "RE",
+      "original_name": " [EXTERNAL] 10 Colt View Legal Contract_34 AW - Complaint Acknowledgement 22-01-24",
+      "size": 31931
+    },
+    {
+      "filename": "2024-01-29_1728_34 Albany Wood - Complaint Pathway to resolution 2_34 Albany Wood - Complaint Pathway to resolution 29-01-24.pdf",
+      "date": "2024-01-29",
+      "subject": "34 Albany Wood - Complaint Pathway to resolution 2",
+      "original_name": "34 Albany Wood - Complaint Pathway to resolution 29-01-24",
+      "size": 62372
+    },
+    {
+      "filename": "2024-02-05_1104_34 Albany Wood - complaint pathway to resolution 2_34 Albany Wood - Complaint Pathway to resolution 29-01-24 - 2.pdf",
+      "date": "2024-02-05",
+      "subject": "34 Albany Wood - complaint pathway to resolution 2",
+      "original_name": "34 Albany Wood - Complaint Pathway to resolution 29-01-24 - 2",
+      "size": 188239
+    },
+    {
+      "filename": "2024-03-01_1700_34 Albany Wood - complaint assessment and response_34 Albany Wood - Complaint assessment and response 01 03 24.pdf",
+      "date": "2024-03-01",
+      "subject": "34 Albany Wood - complaint assessment and response",
+      "original_name": "34 Albany Wood - Complaint assessment and response 01 03 24",
+      "size": 56030
+    },
+    {
+      "filename": "2024-03-18_2012_34 Albany Wood - Complaint assessment and response_34 Albany Wood - Complaint assesment and response 18 03 24.pdf",
+      "date": "2024-03-18",
+      "subject": "34 Albany Wood - Complaint assessment and response",
+      "original_name": "34 Albany Wood - Complaint assesment and response 18 03 24",
+      "size": 24044
+    },
+    {
+      "filename": "2024-04-04_1705_0034 Albany Wood_Plot 34 Overlay.pdf",
+      "date": "2024-04-04",
+      "subject": "0034 Albany Wood",
+      "original_name": "Plot 34 Overlay",
+      "size": 278256
+    },
+    {
+      "filename": "2024-04-25_1935_034 Albany Wood - complaint assessment and respons_034 Albany Wood - Complaint assesment and response 25 04 24.pdf",
+      "date": "2024-04-25",
+      "subject": "034 Albany Wood - complaint assessment and respons",
+      "original_name": "034 Albany Wood - Complaint assesment and response 25 04 24",
+      "size": 25352
+    },
+    {
+      "filename": "2024-04-25_1935_034 Albany Wood - complaint assessment and respons_2403019 - 34 Albany Wood Bishops Waltham.pdf",
+      "date": "2024-04-25",
+      "subject": "034 Albany Wood - complaint assessment and respons",
+      "original_name": "2403019 - 34 Albany Wood Bishops Waltham",
+      "size": 303996
+    },
+    {
+      "filename": "2024-05-13_1523_RE_ [EXTERNAL] Use of heavy machinery_240430-Crest Nicholson South-Resident Notice-Topsoil Delivery.pdf",
+      "date": "2024-05-13",
+      "subject": "RE",
+      "original_name": " [EXTERNAL] Use of heavy machinery_240430-Crest Nicholson South-Resident Notice-Topsoil Delivery",
+      "size": 375901
+    },
+    {
+      "filename": "2024-07-26_1803_RE_ [EXTERNAL] Fwd_ 0034 Albany Wood - water press_034 Albany Wood - Complaint Acknowledgement 26 07 24.pdf",
+      "date": "2024-07-26",
+      "subject": "RE",
+      "original_name": " [EXTERNAL] Fwd_ 0034 Albany Wood - water press_034 Albany Wood - Complaint Acknowledgement 26 07 24",
+      "size": 21054
+    },
+    {
+      "filename": "2024-08-02_1504_034 Albany Wood - Complaint pathway to resolution _034 Albany Wood - Complaint Pathway to Resolution 02 08 24.pdf",
+      "date": "2024-08-02",
+      "subject": "034 Albany Wood - Complaint pathway to resolution ",
+      "original_name": "034 Albany Wood - Complaint Pathway to Resolution 02 08 24",
+      "size": 65446
+    },
+    {
+      "filename": "2024-08-29_1319_034 Albany Wood - Complaint Acknowledgement 29-08-_034 Albany Wood - Complaint Acknowledgement 29 08 24.pdf",
+      "date": "2024-08-29",
+      "subject": "034 Albany Wood - Complaint Acknowledgement 29-08-",
+      "original_name": "034 Albany Wood - Complaint Acknowledgement 29 08 24",
+      "size": 17580
+    },
+    {
+      "filename": "2024-08-29_1807_RE_ [EXTERNAL] Fwd_ NHOS-2024-000302 _ Complaint a_034 Albany Wood - Complaint Pathway to Resolution  29 08 24.pdf",
+      "date": "2024-08-29",
+      "subject": "RE",
+      "original_name": " [EXTERNAL] Fwd_ NHOS-2024-000302 _ Complaint a_034 Albany Wood - Complaint Pathway to Resolution  29 08 24",
+      "size": 110218
+    },
+    {
+      "filename": "2024-08-30_1915_034 Albany Wood - Complaint Assessment and Respons_034 Albany Wood - Complaint Assessment and Response 30 08 24.pdf",
+      "date": "2024-08-30",
+      "subject": "034 Albany Wood - Complaint Assessment and Respons",
+      "original_name": "034 Albany Wood - Complaint Assessment and Response 30 08 24",
+      "size": 67465
+    },
+    {
+      "filename": "2024-09-04_1652_Mr & Mrs Taylor - Settlement Offer_Mr and Mrs Taylor - Settlement Offer.pdf",
+      "date": "2024-09-04",
+      "subject": "Mr & Mrs Taylor - Settlement Offer",
+      "original_name": "Mr and Mrs Taylor - Settlement Offer",
+      "size": 122972
+    },
+    {
+      "filename": "2024-09-09_1631_Plot 34 Albany Wood - Settlement Offer and Settlem_Plot 34 Albany Wood settlment Letter 09-09-24.pdf",
+      "date": "2024-09-09",
+      "subject": "Plot 34 Albany Wood - Settlement Offer and Settlem",
+      "original_name": "Plot 34 Albany Wood settlment Letter 09-09-24",
+      "size": 126375
+    },
+    {
+      "filename": "2024-09-09_1631_Plot 34 Albany Wood - Settlement Offer and Settlem_Plot 34 Albany Wood settlment Offer 09-09-24.pdf",
+      "date": "2024-09-09",
+      "subject": "Plot 34 Albany Wood - Settlement Offer and Settlem",
+      "original_name": "Plot 34 Albany Wood settlment Offer 09-09-24",
+      "size": 104885
+    },
+    {
+      "filename": "2024-09-12_0911_Signed settlement agreement_S2382324091209310.pdf",
+      "date": "2024-09-12",
+      "subject": "Signed settlement agreement",
+      "original_name": "S2382324091209310",
+      "size": 111590
+    },
+    {
+      "filename": "2024-11-20_1750_RE_ Scaffolding removal - render scar_Other - Plot 34 Albany Wood, Crest Nicholson. (VO S14672PA0112) -\r\n [GCC76819]-GEN Customer Care.pdf",
+      "date": "2024-11-20",
+      "subject": "RE",
+      "original_name": " Scaffolding removal - render scar_Other - Plot 34 Albany Wood, Crest Nicholson. (VO S14672PA0112) -\r\n [GCC76819]-GEN Customer Care",
+      "size": 13271434
+    },
+    {
+      "filename": "2025-01-10_1912_0034 Albany Wood Complaint Acknowledgement 10-01-2_0034 Albany Wood Complaint Acknowledgement 10 01 25.pdf",
+      "date": "2025-01-10",
+      "subject": "0034 Albany Wood Complaint Acknowledgement 10-01-2",
+      "original_name": "0034 Albany Wood Complaint Acknowledgement 10 01 25",
+      "size": 126626
+    },
+    {
+      "filename": "2025-01-17_1656_0034 Albany Wood complaint pathway to resolution 1_0034 Albany Wood Complaint pathway to resolution 17 01 25.pdf",
+      "date": "2025-01-17",
+      "subject": "0034 Albany Wood complaint pathway to resolution 1",
+      "original_name": "0034 Albany Wood Complaint pathway to resolution 17 01 25",
+      "size": 124379
+    },
+    {
+      "filename": "2025-01-17_1714_0034 Albany Wood Complaint Assessment & Interim Up_0034 Albany Wood Complaint assessment and interim upadate 17 01\r\n 25.pdf",
+      "date": "2025-01-17",
+      "subject": "0034 Albany Wood Complaint Assessment & Interim Up",
+      "original_name": "0034 Albany Wood Complaint assessment and interim upadate 17 01\r\n 25",
+      "size": 145726
+    },
+    {
+      "filename": "2025-01-31_1701_034 Albany Wood complaint update and final respons_0034 Albany Wood Complaint update and final repsonse 31 01 25\r\n (002).pdf",
+      "date": "2025-01-31",
+      "subject": "034 Albany Wood complaint update and final respons",
+      "original_name": "0034 Albany Wood Complaint update and final repsonse 31 01 25\r\n (002)",
+      "size": 125023
+    },
+    {
+      "filename": "2025-02-03_1430_0034 Albany Wood Complaint assessment and interim _0034 Albany Wood Complaint assessment and interim upadate 03 02\r\n 25.pdf",
+      "date": "2025-02-03",
+      "subject": "0034 Albany Wood Complaint assessment and interim ",
+      "original_name": "0034 Albany Wood Complaint assessment and interim upadate 03 02\r\n 25",
+      "size": 121579
+    },
+    {
+      "filename": "2025-02-28_1517_0034 Albany Wood Complaint interim update 28-02-25_0034 Albany Wood Complaint interim upadate 28 02 25.pdf",
+      "date": "2025-02-28",
+      "subject": "0034 Albany Wood Complaint interim update 28-02-25",
+      "original_name": "0034 Albany Wood Complaint interim upadate 28 02 25",
+      "size": 145973
+    },
+    {
+      "filename": "2025-03-27_2038_34 Albany Wood,  Albany Road Development - Another_Albany Wood landscape drawing 14672-5105.pdf",
+      "date": "2025-03-27",
+      "subject": "34 Albany Wood,  Albany Road Development - Another",
+      "original_name": "Albany Wood landscape drawing 14672-5105",
+      "size": 922829
+    },
+    {
+      "filename": "2025-03-28_1030_0034 Albany Wood Complaint interim update 28-03-25_0034 Albany Wood Complaint interim update 28 03 25.pdf",
+      "date": "2025-03-28",
+      "subject": "0034 Albany Wood Complaint interim update 28-03-25",
+      "original_name": "0034 Albany Wood Complaint interim update 28 03 25",
+      "size": 98519
+    },
+    {
+      "filename": "2025-04-24_1928_0034 Albany Wood Complaint Interim Update 24-04-25_0034 Albany Wood Complaint interim update 24 04 25.pdf",
+      "date": "2025-04-24",
+      "subject": "0034 Albany Wood Complaint Interim Update 24-04-25",
+      "original_name": "0034 Albany Wood Complaint interim update 24 04 25",
+      "size": 104830
+    },
+    {
+      "filename": "2025-05-21_1655_0034 Albany Wood Complaint Interim Update21-05-25_0034 Albany Wood Complaint interim update 21 05 25 (002).pdf",
+      "date": "2025-05-21",
+      "subject": "0034 Albany Wood Complaint Interim Update21-05-25",
+      "original_name": "0034 Albany Wood Complaint interim update 21 05 25 (002)",
+      "size": 111271
+    }
+  ],
+  "key_documents": [
+    {
+      "filename": "2024-01-04_0950_Confirmation of Completion Letter - Plot 34 Albany_34 Albany Wood Completion Letter.pdf",
+      "date": "2024-01-04",
+      "subject": "Confirmation of Completion Letter - Plot 34 Albany",
+      "original_name": "34 Albany Wood Completion Letter",
+      "size": 124060
+    },
+    {
+      "filename": "2024-01-10_1725_34 AW complaint pathway to resolution for 05010240_34 AW complaint pathway to resolution for 0501240-34-AW.pdf",
+      "date": "2024-01-10",
+      "subject": "34 AW complaint pathway to resolution for 05010240",
+      "original_name": "34 AW complaint pathway to resolution for 0501240-34-AW",
+      "size": 119404
+    },
+    {
+      "filename": "2024-01-22_1651_RE_ [EXTERNAL] 10 Colt View Legal Contract_34 AW - Complaint Acknowledgement 22-01-24.pdf",
+      "date": "2024-01-22",
+      "subject": "RE",
+      "original_name": " [EXTERNAL] 10 Colt View Legal Contract_34 AW - Complaint Acknowledgement 22-01-24",
+      "size": 31931
+    },
+    {
+      "filename": "2024-01-29_1728_34 Albany Wood - Complaint Pathway to resolution 2_34 Albany Wood - Complaint Pathway to resolution 29-01-24.pdf",
+      "date": "2024-01-29",
+      "subject": "34 Albany Wood - Complaint Pathway to resolution 2",
+      "original_name": "34 Albany Wood - Complaint Pathway to resolution 29-01-24",
+      "size": 62372
+    },
+    {
+      "filename": "2024-02-05_1104_34 Albany Wood - complaint pathway to resolution 2_34 Albany Wood - Complaint Pathway to resolution 29-01-24 - 2.pdf",
+      "date": "2024-02-05",
+      "subject": "34 Albany Wood - complaint pathway to resolution 2",
+      "original_name": "34 Albany Wood - Complaint Pathway to resolution 29-01-24 - 2",
+      "size": 188239
+    },
+    {
+      "filename": "2024-03-01_1700_34 Albany Wood - complaint assessment and response_34 Albany Wood - Complaint assessment and response 01 03 24.pdf",
+      "date": "2024-03-01",
+      "subject": "34 Albany Wood - complaint assessment and response",
+      "original_name": "34 Albany Wood - Complaint assessment and response 01 03 24",
+      "size": 56030
+    },
+    {
+      "filename": "2024-03-18_2012_34 Albany Wood - Complaint assessment and response_34 Albany Wood - Complaint assesment and response 18 03 24.pdf",
+      "date": "2024-03-18",
+      "subject": "34 Albany Wood - Complaint assessment and response",
+      "original_name": "34 Albany Wood - Complaint assesment and response 18 03 24",
+      "size": 24044
+    },
+    {
+      "filename": "2024-07-26_1803_RE_ [EXTERNAL] Fwd_ 0034 Albany Wood - water press_034 Albany Wood - Complaint Acknowledgement 26 07 24.pdf",
+      "date": "2024-07-26",
+      "subject": "RE",
+      "original_name": " [EXTERNAL] Fwd_ 0034 Albany Wood - water press_034 Albany Wood - Complaint Acknowledgement 26 07 24",
+      "size": 21054
+    },
+    {
+      "filename": "2024-08-02_1504_034 Albany Wood - Complaint pathway to resolution _034 Albany Wood - Complaint Pathway to Resolution 02 08 24.pdf",
+      "date": "2024-08-02",
+      "subject": "034 Albany Wood - Complaint pathway to resolution ",
+      "original_name": "034 Albany Wood - Complaint Pathway to Resolution 02 08 24",
+      "size": 65446
+    },
+    {
+      "filename": "2024-08-29_1319_034 Albany Wood - Complaint Acknowledgement 29-08-_034 Albany Wood - Complaint Acknowledgement 29 08 24.pdf",
+      "date": "2024-08-29",
+      "subject": "034 Albany Wood - Complaint Acknowledgement 29-08-",
+      "original_name": "034 Albany Wood - Complaint Acknowledgement 29 08 24",
+      "size": 17580
+    },
+    {
+      "filename": "2024-08-29_1807_RE_ [EXTERNAL] Fwd_ NHOS-2024-000302 _ Complaint a_034 Albany Wood - Complaint Pathway to Resolution  29 08 24.pdf",
+      "date": "2024-08-29",
+      "subject": "RE",
+      "original_name": " [EXTERNAL] Fwd_ NHOS-2024-000302 _ Complaint a_034 Albany Wood - Complaint Pathway to Resolution  29 08 24",
+      "size": 110218
+    },
+    {
+      "filename": "2024-08-30_1915_034 Albany Wood - Complaint Assessment and Respons_034 Albany Wood - Complaint Assessment and Response 30 08 24.pdf",
+      "date": "2024-08-30",
+      "subject": "034 Albany Wood - Complaint Assessment and Respons",
+      "original_name": "034 Albany Wood - Complaint Assessment and Response 30 08 24",
+      "size": 67465
+    },
+    {
+      "filename": "2024-09-04_1652_Mr & Mrs Taylor - Settlement Offer_Mr and Mrs Taylor - Settlement Offer.pdf",
+      "date": "2024-09-04",
+      "subject": "Mr & Mrs Taylor - Settlement Offer",
+      "original_name": "Mr and Mrs Taylor - Settlement Offer",
+      "size": 122972
+    },
+    {
+      "filename": "2024-09-09_1631_Plot 34 Albany Wood - Settlement Offer and Settlem_Plot 34 Albany Wood settlment Letter 09-09-24.pdf",
+      "date": "2024-09-09",
+      "subject": "Plot 34 Albany Wood - Settlement Offer and Settlem",
+      "original_name": "Plot 34 Albany Wood settlment Letter 09-09-24",
+      "size": 126375
+    },
+    {
+      "filename": "2024-09-09_1631_Plot 34 Albany Wood - Settlement Offer and Settlem_Plot 34 Albany Wood settlment Offer 09-09-24.pdf",
+      "date": "2024-09-09",
+      "subject": "Plot 34 Albany Wood - Settlement Offer and Settlem",
+      "original_name": "Plot 34 Albany Wood settlment Offer 09-09-24",
+      "size": 104885
+    },
+    {
+      "filename": "2024-09-12_0911_Signed settlement agreement_S2382324091209310.pdf",
+      "date": "2024-09-12",
+      "subject": "Signed settlement agreement",
+      "original_name": "S2382324091209310",
+      "size": 111590
+    },
+    {
+      "filename": "2025-01-10_1912_0034 Albany Wood Complaint Acknowledgement 10-01-2_0034 Albany Wood Complaint Acknowledgement 10 01 25.pdf",
+      "date": "2025-01-10",
+      "subject": "0034 Albany Wood Complaint Acknowledgement 10-01-2",
+      "original_name": "0034 Albany Wood Complaint Acknowledgement 10 01 25",
+      "size": 126626
+    },
+    {
+      "filename": "2025-01-17_1656_0034 Albany Wood complaint pathway to resolution 1_0034 Albany Wood Complaint pathway to resolution 17 01 25.pdf",
+      "date": "2025-01-17",
+      "subject": "0034 Albany Wood complaint pathway to resolution 1",
+      "original_name": "0034 Albany Wood Complaint pathway to resolution 17 01 25",
+      "size": 124379
+    }
+  ]
+}
