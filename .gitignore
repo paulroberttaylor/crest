@@ -18,6 +18,10 @@ __pycache__/
 env/
 venv/
 .env
+email_indexer_env/
+
+# ChromaDB
+chromadb_emails/
 
 # IDE
 .vscode/
@@ -33,3 +37,4 @@ venv/
 # Personal/sensitive data
 personal_notes.txt
 private/
+chromadb_emails_quick

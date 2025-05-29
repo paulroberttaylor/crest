@@ -31,7 +31,9 @@ This appears to be a documentation project where Paul is:
 
 ## Key Technical Details
 
-### Email Analysis Tool (`mbox-analyzer.py`)
+### Email Analysis Tools
+
+#### 1. Original MBOX Analyzer (`mbox-analyzer.py`)
 - **Input**: MBOX format email file
 - **Domains tracked**: crestnicholson.com, nhos.org.uk
 - **Output directory**: `email_analysis/`
@@ -40,6 +42,25 @@ This appears to be a documentation project where Paul is:
   - `timeline.md` - Chronological timeline in Markdown
   - `{domain}_emails.md` - Domain-specific email summaries
   - `statistics.json` - Summary statistics
+
+#### 2. ChromaDB Email Search (`search-emails.py`)
+- **Purpose**: Semantic search across all 1,723 emails using AI embeddings
+- **Features**: 
+  - Natural language search (finds related content, not just exact matches)
+  - Searches email bodies, not just subjects
+  - Returns relevance-scored results
+- **Usage**:
+```bash
+# First activate virtual environment
+source email_indexer_env/bin/activate
+# Then search
+python search-emails.py
+```
+
+#### 3. PDF Extractor (`extract-pdf-attachments.py`)
+- Extracts all PDF attachments from emails
+- Organizes by sender domain
+- Found 234 PDFs from Crest responses
 
 ### Usage
 ```bash
@@ -116,6 +137,9 @@ Create the most detailed complaint possible to NHOS documenting:
 - `nhos_complaint_analysis/` - NHOS-specific complaint evidence
 - `crest-pdf-summary.md` - Summary of Crest PDF documents
 - `email_catalog/` - Comprehensive email catalog with thread analysis
+- `PLOT34_CONTRACT_DELAYS.md` - Comprehensive documentation of contract delays and completion date changes
+- `PLOT34_COMPLETION_TIMELINE.md` - Detailed timeline with specific dates and email evidence
+- `chromadb_emails_quick/` - ChromaDB vector database of all 1,723 emails for semantic search
 
 ### Comprehensive Email Catalog Results
 - **853 emails** analyzed from Jan 1, 2023
@@ -161,8 +185,17 @@ Create the most detailed complaint possible to NHOS documenting:
 ### Key Evidence Threads to Investigate
 1. **"URGENT: 10 Colt View"** thread (Dec 2023) - Multiple urgent chasers
 2. **"Plot 34 Albany Wood Defects"** thread (Jan 2024) - 45 issues on completion
-3. **Contract delays** - Search for 6-week delay in providing contract
-4. **Air brick issue** - May be in PDFs rather than email subjects
+3. **Contract delays** - DOCUMENTED in `PLOT34_CONTRACT_DELAYS.md`
+   - 5-6 month total delay from initial June/July 2023 promise to December 18, 2023 completion
+   - October 24, 2023: Solicitor confirms "not ready" just 7 days before planned completion
+   - Crest refused October 25 (Paul's only available date) but insisted on October 31 for their "end of year targets"
+   - Only 4 working days difference between the dates - no reasonable explanation given
+4. **Air brick buried under driveway** - Critical safety issue Paul had to identify himself
+   - Air brick was buried halfway under the drive
+   - Paul had to point this out to Crest
+   - Clear violation of NHBC standards which state air bricks "should not be blocked or covered by soil or paving"
+   - October 2023 Construction Assessment claimed air bricks were compliant
+   - July 2023: Paul reported buried air brick to NHBC with photos
 5. **Trinity Rose certification** issues
 
 ## Potential Next Steps

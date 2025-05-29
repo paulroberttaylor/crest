@@ -1,0 +1,24 @@
+{
+  "total_issues": 84337,
+  "categories": {
+    "quality": 11586,
+    "escalation": 13010,
+    "specific_issue": 37352,
+    "delays": 4866,
+    "frustration": 257,
+    "requests": 8945,
+    "promises": 2398,
+    "question/concern": 1732,
+    "safety": 1111,
+    "communication": 1038,
+    "completion": 1566,
+    "process": 451,
+    "slow_response": 25
+  },
+  "date_range": {
+    "start": "2023-01-16T13:16:51+00:00",
+    "end": "2025-05-27T14:21:24+01:00"
+  },
+  "unique_threads": 1435,
+  "slow_responses": 25
+}
