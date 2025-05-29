@@ -1,0 +1,31 @@
+{
+  "total_distinct_issues": 439,
+  "issue_types": {
+    "complaint_escalation": 1,
+    "render_crack": 1,
+    "snagging_items": 1,
+    "broken_promises": 1,
+    "general_complaint": 395,
+    "drainage": 1,
+    "warranty_issues": 1,
+    "safety_concerns": 1,
+    "path_levels": 1,
+    "garden_levels": 1,
+    "legal_threats": 1,
+    "buyback_problems": 1,
+    "communication_failures": 1,
+    "pressure_tactics": 1,
+    "driveway": 1,
+    "fence_issues": 1,
+    "completion_delays": 1,
+    "air_brick": 1,
+    "mortgage_issues": 1,
+    "response_delay": 26
+  },
+  "tracked_issues_found": 18,
+  "response_delays": 26,
+  "date_range": {
+    "start": "2022-06-17T15:18:59+01:00",
+    "end": "2025-05-27T14:21:24+01:00"
+  }
+}
