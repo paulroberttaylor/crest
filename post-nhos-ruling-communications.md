@@ -6,7 +6,11 @@
 
 Dear Board Members,
 
-Well done. I didn't think it was possible to take on a CEO more incompetent or devious than Peter Truscott. I just wanted to take the time to inform you, now that the NHOS has ruled in my favour, that I am currently in the process of building an online presence specifically targeted at Crest customers, with the intent of informing them of their rights, how Crest will manipulate them, even bully them, I'm talking about Adrian Simms, and how they use the system that was built to help them, like it helped my family and I. 
+Well done. I didn't think it was possible to take on a CEO more incompetent or devious than Peter Truscott. I just wanted to take the time to inform you, now that the NHOS has ruled in my favour, that I am currently in the process of building an online presence specifically targeted at Crest customers, with the intent of informing them of their rights, how Crest will manipulate them, even bully them, and how they use the system that was built to help them, like it helped my family and I.
+
+I should mention that I contacted your new CEO Martyn Clark directly about this situation. He was fully aware of the case details, the history with our previous property, and the existing NDA. Despite this knowledge, he chose to ignore my correspondence and instead had Charlie Joseph misrepresent their own surveyor's findings to the NHOS. This was a deliberate choice made at the highest level of your organization. 
+
+It's disappointing that I cannot share some of the more concerning examples of Crest's customer treatment due to NDA restrictions, though I suspect prospective buyers would find Adrian Simms' approach... educational.
 
 I'm targeting those living in the following areas:
 - Campbell Wharf, Milton Keynes
@@ -27,6 +31,31 @@ Paul Taylor
 
 ---
 
+## Message 1 Alternative (More Scathing Version):
+
+**Subject: NHOS Ruling NHOS-2024-000512 - A Personal Thank You**
+
+Dear Board Members,
+
+Congratulations on achieving what I genuinely believed was impossible - finding leadership even more ethically challenged than Peter Truscott. Quite an accomplishment.
+
+I wanted to personally thank you for the masterclass in corporate dishonesty you've provided through case NHOS-2024-000512. What made it particularly impressive was that your new CEO Martyn Clark was personally informed of the situation, fully briefed on our history and the existing NDA, yet still chose to have Charlie Joseph misrepresent their own structural engineer's findings to the ombudsman. The artistry with which you transformed "will lead to early failure" into "no adverse effects" deserves recognition - especially knowing it was a deliberate strategy approved at CEO level.
+
+Now that NHOS has confirmed what we all knew - that your company operates with breathtaking contempt for both customers and regulators - I thought you should know about my little thank-you project.
+
+I'm creating a comprehensive digital memorial to your customer service excellence, targeting every soul unfortunate enough to be considering a Crest home. Facebook ads, Google campaigns, a beautiful website documenting your... techniques. It's such a shame our NDA prevents me from sharing some of the more colorful examples of your team's approach - I'm sure Adrian Simms' methods would be particularly instructive for prospective buyers.
+
+Given your impressive £22.4m profit margin and those delightful April loan covenant concerns, I imagine every lost sale will be... meaningful.
+
+Oh, and regarding our previous NDA - your refusal to honor your own agreement by blocking NHOS discussions was the perfect finale. Thank you for that final demonstration of your integrity.
+
+I do hope you'll visit CrestNicholsonReviews.co.uk when it launches. I've worked so hard on it.
+
+Warmest regards,
+Paul Taylor
+
+---
+
 ## Message 2: To Crest Nicholson Institutional Investors
 
 **Subject: Material Governance Concerns - NHOS Ruling Against Crest Nicholson**
@@ -40,6 +69,9 @@ The New Homes Ombudsman Service has ruled in my favor (Case: NHOS-2024-000512) a
 - Misrepresented their own structural engineer's findings to the regulator
 - Dismissed structural defects as "cosmetic" for 18 months
 - Proposed remediation they knew would fail
+
+**CEO Involvement:**
+I contacted CEO Martyn Clark directly regarding this matter. He was fully briefed on the case details, our previous property history, and existing NDA obligations. Despite this direct communication and knowledge, Mr. Clark chose to ignore my correspondence and instead authorized Charlie Joseph to misrepresent their expert's findings to NHOS. This demonstrates willful misconduct at the highest executive level.
 
 **Material Concerns:**
 
