@@ -210,3 +210,43 @@ Create the most detailed complaint possible to NHOS documenting:
 - Email privacy should be maintained - the analyzer extracts relevant emails based on domains
 - The MBOX format is standard for email archives and supported by most email clients
 - The project appears to be in early stages with minimal documentation currently
+
+## Crest's Tactics and Patterns (Updated June 2025)
+
+### The MJA Report Saga
+- **June 2025**: MJA Consulting report confirms structural defects requiring movement joints
+- **Key Finding**: "cracking to the render may accelerate the degradation of the finish and lead to an early failure of the render"
+- **Crest's Response**: Still calling it "superficial" and a "goodwill gesture" despite expert evidence
+- **Pattern**: Even when their own commissioned expert contradicts them, they misrepresent findings to NHOS
+
+### Identified Corporate Strategy
+1. **Denial Phase**: Dismiss all concerns as "minor settlement" or "cosmetic" for 18+ months
+2. **Forced Action**: Only act when complaint reaches NHOS or legal threat
+3. **Inadequate Solutions**: Propose fixes that will fail after warranty expires (e.g., re-render without movement joints)
+4. **Misrepresentation**: Deliberately mischaracterize expert reports to regulatory bodies
+5. **War of Attrition**: Exhaust complainants through delays until they give up or accept inadequate settlement
+
+### Key Personnel Behavior
+- **Charlie Joseph** (Regional MD): Continues misrepresentation even after MJA report
+- **Mark Foyle** (Group MD): Pattern of "goodwill gestures" that avoid admitting fault
+- **Martyn Clark** (CEO): New CEO but continuing same tactics despite opportunity to change approach
+
+### Emotional Toll Evidence
+- Paul's language evolution: From controlled anger to "begging" and "heartbreaking"
+- 4 years of disputes, 2 under NDA they won't discuss
+- Previous property (25 Abbots Road) also had issues requiring NDA
+- Family suffering acknowledged multiple times
+
+### NHOS Process Issues
+- Case NHOS-2024-000512 active for 500+ days
+- NHOS moving slowly while family lives with defects
+- Crest using process delays as additional weapon
+
+### Critical Insight
+Crest appears to have calculated that the cost of proper fixes exceeds the cost of wearing down customers. They're betting on:
+- Customer exhaustion
+- NHOS process delays
+- Fear of legal costs
+- Emotional toll forcing acceptance of inadequate solutions
+
+The MJA report is a smoking gun - it proves Crest knew their proposed solution would fail, yet they continued to misrepresent it as adequate. This isn't incompetence; it's strategy.
