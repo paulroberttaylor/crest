@@ -157,6 +157,8 @@ Create the most detailed complaint possible to NHOS documenting:
 7. **Defects**: 35 emails (12 threads)
 
 ### Key Crest Personnel
+- **Martyn Clark** - CEO (New CEO as of 2025, directly contacted by Paul with MJA report evidence)
+- **Charlie Joseph** - Regional Managing Director (replaced previous regional managers, misrepresented MJA findings)
 - **Mark Foyle** - Managing Director (heavily involved in complaints, NHOS, settlement)
 - **Eileen Guihen** - Sales & Marketing Director/Deputy MD (early complaints, purchase)
 - **Lynn Carrington** - (defects, practical issues)
@@ -219,6 +221,13 @@ Create the most detailed complaint possible to NHOS documenting:
 - **Crest's Response**: Still calling it "superficial" and a "goodwill gesture" despite expert evidence
 - **Pattern**: Even when their own commissioned expert contradicts them, they misrepresent findings to NHOS
 
+### NHBC Standards Bombshell (July 4, 2025)
+- **Discovery**: NHBC 2014 Standards (which Crest claims to have built to) explicitly state: "Walls over 6000mm in length require movement joints"
+- **Paul's Property**: Both affected elevations (east and west) exceed 6000mm
+- **Smoking Gun**: Movement joints were MANDATORY under Crest's own claimed standards, not "goodwill"
+- **Charlie Joseph's Lie**: Called work "unnecessary" when it's literally required by the standards Crest claims to follow
+- **Sent to NHOS**: July 4, 2025 - Proving Crest violated even 2014 standards on a 2023 build
+
 ### Identified Corporate Strategy
 1. **Denial Phase**: Dismiss all concerns as "minor settlement" or "cosmetic" for 18+ months
 2. **Forced Action**: Only act when complaint reaches NHOS or legal threat
@@ -230,6 +239,10 @@ Create the most detailed complaint possible to NHOS documenting:
 - **Charlie Joseph** (Regional MD): Continues misrepresentation even after MJA report
 - **Mark Foyle** (Group MD): Pattern of "goodwill gestures" that avoid admitting fault
 - **Martyn Clark** (CEO): New CEO but continuing same tactics despite opportunity to change approach
+  - **June 23, 2025**: Received direct email from Paul with MJA report proving structural defects
+  - Personally informed of issues but chose to ignore them
+  - Authorized misrepresentation to NHOS through Charlie Joseph
+  - Paul making this personal: "You are ultimately responsible for this"
 
 ### Emotional Toll Evidence
 - Paul's language evolution: From controlled anger to "begging" and "heartbreaking"
@@ -250,3 +263,61 @@ Crest appears to have calculated that the cost of proper fixes exceeds the cost 
 - Emotional toll forcing acceptance of inadequate solutions
 
 The MJA report is a smoking gun - it proves Crest knew their proposed solution would fail, yet they continued to misrepresent it as adequate. This isn't incompetence; it's strategy.
+
+## CEO Accountability Campaign (July 2025)
+
+### Public Pressure Strategy
+Paul has developed a comprehensive campaign to pressure CEO Martyn Clark:
+
+#### Digital Infrastructure
+- **Website**: crestnicholsonreviews.co.uk (ready to launch)
+- **Reddit Community**: r/CrestNicholsonReviews (planned)
+- **Social Media Campaign**: Targeting all Crest developments with Facebook ads
+- **Target Developments**: Campbell Wharf, Windsor Gate, Finberry, and 7+ others
+
+#### Direct Pressure Tactics
+1. **NHBC Claim**: Filed July 4, 2025 to maintain pressure alongside NHOS case
+   - Seeking acknowledgment that work is "necessary not goodwill"
+   - Forces Crest to admit 18 months of lies or fight NHBC
+2. **Board Communications**: Draft letter to directors highlighting CEO's direct knowledge
+3. **Investor Outreach**: Targeting BlackRock, Vanguard, and other major shareholders
+4. **Financial Vulnerability**: Exploiting Crest's £22.4m profit and potential April 2025 loan covenant breach
+5. **Medical Evidence**: Planning to send health impact documentation directly to CEO
+
+#### Key Messages
+- CEO was **personally contacted** on June 23, 2025 with MJA report
+- CEO **authorized misrepresentation** to NHOS (calling structural defects "superficial")
+- Positioning as **"willful misconduct at the highest executive level"**
+- Documenting pattern of CEO ignoring customer safety for profit
+
+### Timeline of CEO Involvement
+- **June 23, 2025**: Paul emails CEO directly with MJA report evidence
+- **June 24, 2025**: CEO ignores email despite damning evidence
+- **July 2025**: Paul preparing public campaign focusing on CEO accountability
+- Strategy: Launch campaign immediately after NHOS ruling (expected soon)
+
+The campaign represents an escalation from documentation to active public pressure, with the CEO as the primary target for accountability.
+
+### New Strategic Tools (July 2025)
+
+#### NHOS Complaint Generator App
+- **Purpose**: Enable other Crest victims to file effective NHOS complaints
+- **Features**:
+  - Simple questionnaire mapping issues to NHOS violation codes
+  - Pre-written templates based on Paul's successful complaints
+  - Automatic timeline generation
+  - Evidence checklist
+- **Key Innovation**: Transforms one complaint into potentially hundreds
+
+#### Urgent Messaging for Website
+- **Critical Warning**: "START YOUR FORMAL COMPLAINT TODAY"
+- **Why**: NHOS requires attempting resolution with builder first
+- **56-day clock**: Starts from first formal complaint email
+- **Template**: Provides exact wording for formal complaint email
+- **Impact**: Prevents others from making Paul's mistake of waiting 18 months
+
+### Financial Context
+- **Previous property (25 Abbots Road)**: Crest paid £690k buyback (£85k profit to Paul)
+- **Total cost to Crest**: £155k including resale loss
+- **Confidentiality**: Memorandum of Agreement restricts discussing details with third parties
+- **Key Loophole**: Paul can discuss everything with CEO as he's not a "third party"
