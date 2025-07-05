@@ -1,6 +1,6 @@
 # Emails from nhos.org.uk
 
-Total: 117 emails
+Total: 125 emails
 
 ## 2024-06-19 03:52: NHOS: Activation of your account with NHOS
 **From:** NHOS Customer Services <customer.services@nhos.org.uk>
@@ -2402,6 +2402,180 @@ Main number: 0330 808 4286
 
 
 The New Homes Ombudsman Service is operated by The Dispute Service Limited. Registered in England number 4851694. Registered office: West Wing, First F...
+
+---
+
+## 2025-06-09 13:25: NHOS-E-00427982: We have received your email
+**From:** NHOS Customer Services <noreply@nhos.org.uk>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+NHOS-E-00427982
+
+Dear Paul Taylor
+Thank you for contacting the New Homes Ombudsman Service.
+We have received your email and one of our team will respond to you as soon as possible.
+Kind regards,
+NHOS Customer Service Team
+t: 03308084286
+e: customer.services@nhos.org.uk
+
+
+New Homes Ombudsman Service is operated by The Dispute Service Ltd, which is a company registered in England and Wales with number 4851694.
+The New Homes Ombudsman Service is operated by The Dispute Service Limited. ...
+
+---
+
+## 2025-06-09 15:51: RE: URGENT UPDATE & New Evidence - NHOS Case Ref: NHOS-2024-000512 -
+ Render & Path Issues
+**From:** Casework Team <casework@nhos.org.uk>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Good Afternoon,
+
+The information provided in your emails dated 27th of May, 6th of June and two received today, has been added to your case.
+
+At this stage of the process, whilst the ombudsman is reviewing the case, additional information is only accepted if specifically requested so as such it will be at the ombudsman’s discretion if what you have provided in the above emails is considered.
+
+Kind Regards,
+
+James Meaney
+Caseworker | New Homes Ombudsman Service | www.nhos.org.uk<http://w...
+
+---
+
+## 2025-06-19 10:13: RE: NHOS-2024-000512
+**From:** Casework Team <casework@nhos.org.uk>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Good Morning,
+
+Thanks for your email.
+
+The ombudsman is still currently reviewing this case and compiling their report.
+
+Whilst doing so they have identified that further information is required from the developer, which has now been requested, and will be shared with you for comment once it has been provided.
+
+Your continued patience throughout this process is sincerely appreciated.
+
+Kind Regards,
+
+James Meaney
+Caseworker | New Homes Ombudsman Service | www.nhos.org.uk<http://www.n...
+
+---
+
+## 2025-06-23 17:23: NHOS-E-00444963: We have received your email
+**From:** NHOS Customer Services <noreply@nhos.org.uk>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+NHOS-E-00444963
+
+Dear Paul Taylor
+Thank you for contacting the New Homes Ombudsman Service.
+We have received your email and one of our team will respond to you as soon as possible.
+Kind regards,
+NHOS Customer Service Team
+t: 03308084286
+e: customer.services@nhos.org.uk
+
+
+New Homes Ombudsman Service is operated by The Dispute Service Ltd, which is a company registered in England and Wales with number 4851694.
+The New Homes Ombudsman Service is operated by The Dispute Service Limited. ...
+
+---
+
+## 2025-06-25 09:27: NHOS-2024-000512/P Taylor
+**From:** Casework Team <casework@nhos.org.uk>
+**To:** "paulroberttaylor+render@gmail.com" <paulroberttaylor+render@gmail.com>
+
+Good Morning,
+
+The ombudsman recently requested additional information from the developer, whilst reviewing this case.
+
+I have attached what the developer provided to this email.
+
+Should you wish to comment on what they have provided, please do so by 5pm Wednesday 2nd June, in reply to this email.
+
+Kind Regards,
+
+James Meaney
+Caseworker | New Homes Ombudsman Service | www.nhos.org.uk<http://www.nhos.org.uk/>
+E:  casework@nhos.org.uk<mailto:casework@nhos.org.uk>
+Main number: 0330 808...
+
+---
+
+## 2025-06-25 10:41: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+**From:** NHOS Customer Service <customer.services@nhos.org.uk>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good Morning,
+
+Thank you for your email.
+
+I have passed it on to your caseworker.
+
+Kind Regards
+
+
+
+Angela Conaghan
+Customer Service Advisor | New Homes Ombudsman Service | www.nhos.org.uk
+Main number: 0330 808 4286
+
+
+
+
+
+--------------- Original Message ---------------
+From: Paul Taylor [paulroberttaylor@gmail.com]
+Sent: 23/06/2025, 18:22
+To: casework@nhos.org.uk; customer.services@nhos.org.uk; martyn.clark@crestnicholson.com
+Subject: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10...
+
+---
+
+## 2025-06-25 10:42: We welcome your feedback
+**From:** NHOS Customer Service <customer.services@nhos.org.uk>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+<<NHOS LOGO>> [https://0883v.mjt.lu/tplimg/0883v/b/ml30m/74moo.jpeg]
+
+
+
+ 
+
+Dear Paul Taylor,
+
+ 
+
+Thank you for contacting the New Homes Ombudsman Service today. Your opinion is important to us and if you have a couple of moments to complete a short survey on your experience with us today we would greatly value your feedback. The feedback you provide will help us to improve our service.
+
+Please click on the link to complete the survey:
+
+https://portal.nhos.org.uk/survey/runtimeApp.a...
+
+---
+
+## 2025-06-26 09:25: RE: Mr Taylor - 0034 Albany Wood
+**From:** Casework Team <casework@nhos.org.uk>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Nigel Cates
+	<Nigel.Cates@nhos.org.uk>
+
+Good Morning,
+
+Thanks for your email.
+
+I have added the information you provided in your previous email to this case and also brought this to the attention of the ombudsman who is currently reviewing it.
+
+My apologies for the length of time this process is taking, and your continued patience is sincerely appreciated.
+
+Kind Regards,
+
+James Meaney
+Caseworker | New Homes Ombudsman Service | www.nhos.org.uk<http://www.nhos.org.uk/>
+E:  casework@nhos.org.uk<mailto:casework@nhos.org.uk>
+M...
 
 ---
 

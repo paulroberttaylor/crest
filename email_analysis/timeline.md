@@ -1,7 +1,198 @@
 # Email Timeline
 
 
+## July 2021
+
+**2021-07-16 13:51**
+- Subject: Plot 35
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Steve.Smith@crestnicholson.com
+
+**2021-07-16 12:53**
+- Subject: RE: [EXTERNAL] Plot 35
+- From: Steve Smith <Steve.Smith@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-07-19 08:09**
+- Subject: Fwd: Purchase of 25 Abbots Wood Lane, Fair Oak, SO32 1RE
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: New Homes Team <NewHomesTeam@parissmith.co.uk>
+
+**2021-07-20 11:10**
+- Subject: Plot 35 Tangier Gardens
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Danielle.Green@crestnicholson.com, 
+	New Homes Team <NewHomesTeam@parissmith.co.uk>
+
+
+## September 2021
+
+**2021-09-13 12:37**
+- Subject: Side windows
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Steve.Smith@crestnicholson.com
+
+**2021-09-13 15:07**
+- Subject: FW: Plot 35
+- From: Steve Smith <Steve.Smith@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+
+## October 2021
+
+**2021-10-09 12:32**
+- Subject: Plot 35
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Steve.Smith@crestnicholson.com
+
+**2021-10-09 11:37**
+- Subject: RE: [EXTERNAL] Plot 35
+- From: Steve Smith <Steve.Smith@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-10-11 10:21**
+- Subject: Fwd: Plot 35
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Steve.Smith@crestnicholson.com
+
+**2021-10-11 09:59**
+- Subject: RE: [EXTERNAL] Fwd: Plot 35
+- From: Steve Smith <Steve.Smith@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-10-11 11:12**
+- Subject: Fwd: Plot 35
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Steve.Smith@crestnicholson.com, Jade Taylor <jade@dancepower.org>
+
+**2021-10-11 10:57**
+- Subject: RE: [EXTERNAL] Fwd: Plot 35
+- From: Steve Smith <Steve.Smith@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-10-11 17:43**
+- Subject: Kitchen doors
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Steve.Smith@crestnicholson.com, Jade Taylor <jade@dancepower.org>
+
+**2021-10-18 16:59**
+- Subject: Plot 35 Tangier
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com
+
+**2021-10-20 15:48**
+- Subject: Re: Plot 35 Tangier
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com
+
+**2021-10-22 16:37**
+- Subject: RE: [EXTERNAL] Plot 35 Tangier
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>
+
+**2021-10-27 10:22**
+- Subject: Plot 35 Tangier
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com
+
+**2021-10-28 11:54**
+- Subject: Plot 35 Tangier
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com
+
+**2021-10-28 11:10**
+- Subject: RE: [EXTERNAL] Plot 35 Tangier
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-10-28 13:29**
+- Subject: Tangier Plot 35
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com
+
+**2021-10-30 11:15**
+- Subject: 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com
+
+**2021-10-31 13:31**
+- Subject: General
+- From: Steve Smith <Steve.Smith@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-10-31 13:35**
+- Subject: Re: General
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Steve Smith <Steve.Smith@crestnicholson.com>
+
+
 ## November 2021
+
+**2021-11-01 13:52**
+- Subject: Confirmation of Completion Letter- Plot 35 Tangier Gardens
+- From: Isabelle Hochet <Isabelle.Hochet@crestnicholson.com>
+- To: "jade@dancepower.org" <jade@dancepower.org>, "paulroberttaylor@gmail.com"
+	<paulroberttaylor@gmail.com>
+
+**2021-11-01 16:51**
+- Subject: Fibre Internet
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, 
+	Steve Smith <Steve.Smith@crestnicholson.com>
+
+**2021-11-01 20:26**
+- Subject: Fly issue in loft
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com
+
+**2021-11-02 09:26**
+- Subject: RE: [EXTERNAL] Fibre Internet
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Steve Smith
+	<Steve.Smith@crestnicholson.com>
+
+**2021-11-02 14:16**
+- Subject: RE: [EXTERNAL] 25 Abbots Road
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-11-02 16:37**
+- Subject: Plot 35 Tangier - wardrobe
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com
+
+**2021-11-03 12:34**
+- Subject: 25 Abbots Road - main bedroom wardrobe
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com
+
+**2021-11-05 14:05**
+- Subject: Plot 35 Tangier
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com
+
+**2021-11-08 08:55**
+- Subject: Visit with MD
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com
+
+**2021-11-08 08:57**
+- Subject: RE: [EXTERNAL] Visit with MD
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+**2021-11-08 09:01**
+- Subject: Plot 35 Tangier
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com, Jade
+ Taylor <jade.millington@hotmail.co.uk>
+
+**2021-11-08 09:03**
+- Subject: [EXTERNAL] Visit with MD
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <Paul.Haigh@crestnicholson.com>
 
 **2021-11-08 09:11**
 - Subject: Kitchen Patio Doors
@@ -16,6 +207,11 @@
 	<Helen.Morley@crestnicholson.com>, Paul Vincent
 	<Paul.Vincent@crestnicholson.com>
 
+**2021-11-08 09:32**
+- Subject: Flies in loft
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com
+
 **2021-11-08 09:55**
 - Subject: [EXTERNAL] Kitchen Patio Doors
 - From: Paul Taylor <paulroberttaylor@gmail.com>
@@ -27,11 +223,52 @@
 - To: paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com, Jade
  Taylor <jade.millington@hotmail.co.uk>
 
+**2021-11-08 10:06**
+- Subject: Side boundary and landscaping
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com
+
+**2021-11-08 10:24**
+- Subject: Fibre Cable Left Hanging From Our Front Wall
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com
+
+**2021-11-08 18:21**
+- Subject: 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com
+
+**2021-11-08 19:47**
+- Subject: RE: [EXTERNAL] 25 Abbots Road
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-11-09 10:34**
+- Subject: Meeting arranged
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
 **2021-11-09 14:53**
 - Subject: Re: [EXTERNAL] Kitchen Patio Doors
 - From: Paul Taylor <paulroberttaylor@gmail.com>
 - To: Paul Haigh <Paul.Haigh@crestnicholson.com>, Jade Taylor
  <jade.millington@hotmail.co.uk>
+
+**2021-11-09 15:26**
+- Subject: Re: [EXTERNAL] 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com
+
+**2021-11-09 15:29**
+- Subject: Re: Flies in loft
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com
+
+**2021-11-09 15:35**
+- Subject: Rear garden jetwashed
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com
 
 **2021-11-10 14:16**
 - Subject: Re: [EXTERNAL] Kitchen Patio Doors
@@ -39,11 +276,30 @@
 - To: Paul Haigh <Paul.Haigh@crestnicholson.com>, Jade Taylor
  <jade.millington@hotmail.co.uk>
 
+**2021-11-10 14:22**
+- Subject: Re: Flies in loft
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com,
+ paul.vincent@crestnicholson.com
+
+**2021-11-10 15:09**
+- Subject: RE: [EXTERNAL] 25 Abbots Road
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
 **2021-11-10 16:37**
 - Subject: RE: [EXTERNAL] Kitchen Patio Doors
 - From: Paul Haigh <Paul.Haigh@crestnicholson.com>
 - To: Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
 	<jade.millington@hotmail.co.uk>
+
+**2021-11-10 16:43**
+- Subject: RE: [EXTERNAL] Re: Flies in loft
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
 
 **2021-11-10 17:15**
 - Subject: Re: [EXTERNAL] Kitchen Patio Doors
@@ -56,8 +312,2115 @@
 - To: helen.morley@crestnicholson.com, paul.haigh@crestnicholson.com,
  paul.vincent@crestnicholson.com
 
+**2021-11-11 10:35**
+- Subject: Automatic reply: [EXTERNAL] Kitchen Patio Doors
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-11-11 10:38**
+- Subject: Re: [EXTERNAL] 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+**2021-11-11 10:45**
+- Subject: Re: Fibre Cable Left Hanging From Our Front Wall
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, paul.vincent@crestnicholson.com,
+ helen.morley@crestnicholson.com
+
+**2021-11-11 10:46**
+- Subject: 
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com
+
+**2021-11-12 18:16**
+- Subject: Automatic reply: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) -
+ Professional Survey Report
+- From: Tom Nicholson <Tom.Nicholson@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-11-12 18:16**
+- Subject: Automatic reply: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) -
+ Professional Survey Report
+- From: Kieran Daya <Kieran.Daya@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-11-14 20:18**
+- Subject: 25 Abbots Road - Meeting 11am Monday 15th November
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com
+
+**2021-11-15 11:06**
+- Subject: 
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com
+
+**2021-11-15 11:08**
+- Subject: Personal issues list
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com
+
+**2021-11-15 18:19**
+- Subject: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) - Professional Survey
+ Report
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: "'paulroberttaylor@gmail.com'" <paulroberttaylor@gmail.com>
+
+**2021-11-16 09:10**
+- Subject: 
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com
+
+**2021-11-16 09:18**
+- Subject: Re: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) - Professional
+ Survey Report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian Sims <Adrian.Sims@crestnicholson.com>
+
+**2021-11-17 14:51**
+- Subject: Fwd: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) - Professional
+ Survey Report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com
+
+**2021-11-17 16:55**
+- Subject: Fwd: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) - Professional
+ Survey Report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com
+
+**2021-11-18 11:16**
+- Subject: Another wall
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: paul.haigh@crestnicholson.com
+
+**2021-11-22 07:51**
+- Subject: Fwd: Rear garden jetwashed
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: helen.morley@crestnicholson.com
+
+**2021-11-22 07:51**
+- Subject: Automatic reply: [EXTERNAL] Fwd: Rear garden jetwashed
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-11-22 07:51**
+- Subject: Automatic reply: [EXTERNAL] Fwd: Rear garden jetwashed
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-11-22 07:56**
+- Subject: Rear fence nails
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: helen.morley@crestnicholson.com
+
+**2021-11-22 16:59**
+- Subject: Buzz Box
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Jade Millington <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2021-11-23 14:27**
+- Subject: Customer Care
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2021-11-24 07:30**
+- Subject: Re: Customer Care
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2021-11-24 08:20**
+- Subject: Fwd: Customer Care BT
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2021-11-24 21:35**
+- Subject: RE: [EXTERNAL] Fwd: Customer Care BT
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, "jade@dancepower.org"
+	<jade@dancepower.org>
+
+**2021-11-25 14:39**
+- Subject: Cladding to left of front door
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2021-11-25 16:18**
+- Subject: RE: [EXTERNAL] Cladding to left of front door
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-11-29 19:07**
+- Subject: RE: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) - Professional
+ Survey Report
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>,
+	"jade@dancepower.org" <jade@dancepower.org>
+
+**2021-11-30 12:24**
+- Subject: Munster
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2021-11-30 13:37**
+- Subject: 25 Abbots Road - plasterwork
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <paul.haigh@crestnicholson.com>,
+ helen.morley@crestnicholson.com
+
+
+## December 2021
+
+**2021-12-01 09:19**
+- Subject: RE: [EXTERNAL] Munster
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>
+
+**2021-12-01 09:24**
+- Subject: RE: [EXTERNAL] 25 Abbots Road - plasterwork
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+**2021-12-01 09:30**
+- Subject: Follow up from conversation yesterday
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2021-12-01 10:01**
+- Subject: Re: [EXTERNAL] Munster
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+**2021-12-01 12:00**
+- Subject: Fwd: Follow up from conversation yesterday
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2021-12-01 15:15**
+- Subject: RE: [EXTERNAL] Munster
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-12-01 15:19**
+- Subject: Plot 35 Tangier Gardens, Dry lining Works
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-12-01 16:19**
+- Subject: Re: [EXTERNAL] Munster
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+**2021-12-01 16:27**
+- Subject: RE: [EXTERNAL] Munster
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-12-01 17:20**
+- Subject: Re: [EXTERNAL] Munster
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+**2021-12-02 11:37**
+- Subject: Top reveals, windows and doors
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <paul.haigh@crestnicholson.com>
+
+**2021-12-02 13:47**
+- Subject: Programme of works prior to meeting
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2021-12-03 09:01**
+- Subject: RE: [EXTERNAL] Top reveals, windows and doors
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-12-03 17:16**
+- Subject: Plot 35 Tangier Gardens
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>
+
+**2021-12-03 19:57**
+- Subject: Re: Plot 35 Tangier Gardens
+- From: Jade Millington <jade@dancepower.org>
+- To: Paul Haigh <paul.haigh@crestnicholson.com>
+
+**2021-12-06 07:54**
+- Subject: Openreach Visit
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>
+
+**2021-12-06 08:28**
+- Subject: Re: Openreach Visit
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2021-12-06 10:10**
+- Subject: Landscaping
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2021-12-06 14:35**
+- Subject: Fwd: Landscaping
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <paul.haigh@crestnicholson.com>, 
+	Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2021-12-06 15:09**
+- Subject: RE: [EXTERNAL] Fwd: Landscaping
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>
+
+**2021-12-06 20:08**
+- Subject: Plot 35 Tangier Gardens
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2021-12-11 10:19**
+- Subject: Plot 35, Tangier Gardens
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-12-17 12:08**
+- Subject: 25 Abbots Road - outstanding oustide work
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <paul.haigh@crestnicholson.com>
+
+**2021-12-17 13:23**
+- Subject: Fwd: 25 Abbots Road - outstanding oustide work
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2021-12-17 13:32**
+- Subject: Fwd: 25 Abbots Road - outstanding oustide work
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <paul.haigh@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>
+
+**2021-12-17 14:25**
+- Subject: RE: [EXTERNAL] 25 Abbots Road - outstanding oustide work
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-12-17 15:24**
+- Subject: RE: [EXTERNAL] Fwd: 25 Abbots Road - outstanding oustide work
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>
+
+**2021-12-17 17:11**
+- Subject: FW: Plot 35, Tangier Gardens
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-12-21 12:47**
+- Subject: Plant -- Fwd: [EXTERNAL] 25 Abbots Rd
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <paul.haigh@crestnicholson.com>
+
+**2021-12-21 13:08**
+- Subject: RE: Plant -- Fwd: [EXTERNAL] 25 Abbots Rd
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-12-21 13:16**
+- Subject: Re: Plant -- Fwd: [EXTERNAL] 25 Abbots Rd
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+**2021-12-21 13:34**
+- Subject: RE: Plant -- Fwd: [EXTERNAL] 25 Abbots Rd
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-12-21 13:50**
+- Subject: Re: Plant -- Fwd: [EXTERNAL] 25 Abbots Rd
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+**2021-12-23 19:41**
+- Subject: Brick debris
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <paul.haigh@crestnicholson.com>
+
+**2021-12-23 19:44**
+- Subject: RE: [EXTERNAL] Brick debris
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-12-23 19:49**
+- Subject: RAMS
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2021-12-23 20:09**
+- Subject: Re: [EXTERNAL] Brick debris
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+**2021-12-23 20:55**
+- Subject: Re: RAMS
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+**2021-12-23 20:56**
+- Subject: Automatic reply: [EXTERNAL] Re: RAMS
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2021-12-23 20:56**
+- Subject: Fwd: 25 Abbots Road - outstanding oustide work
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <paul.haigh@crestnicholson.com>
+
+
+## January 2022
+
+**2022-01-04 09:23**
+- Subject: Re: RAMS
+- From: Jade Millington <jade@dancepower.org>
+- To: Paul Haigh <paul.haigh@crestnicholson.com>
+
+**2022-01-04 09:38**
+- Subject: RE: [EXTERNAL] Re: RAMS
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Jade Millington <jade@dancepower.org>
+
+**2022-01-04 09:52**
+- Subject: Re: [EXTERNAL] Re: RAMS
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+**2022-01-05 07:57**
+- Subject: Internal Works
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <paul.haigh@crestnicholson.com>
+
+**2022-01-06 11:09**
+- Subject: RE: [EXTERNAL] Internal Works
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-01-07 11:12**
+- Subject: Plant care
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Steve Smith <Steve.Smith@crestnicholson.com>
+
+**2022-01-07 11:36**
+- Subject: RE: [EXTERNAL] Plant care
+- From: Steve Smith <Steve.Smith@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-01-07 11:50**
+- Subject: Landscaping and Fencing
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-07 16:44**
+- Subject: Fwd: General
+- From: paulroberttaylor@gmail.com
+- To: helen.morley@crestnicholson.com
+
+**2022-01-07 16:48**
+- Subject: RE: [EXTERNAL] Fwd: General
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-01-08 08:30**
+- Subject: RE: [EXTERNAL] Landscaping and Fencing
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-01-08 08:35**
+- Subject: Tangier Gardens- plot 35 Planting.
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2022-01-08 13:11**
+- Subject: Re: Tangier Gardens- plot 35 Planting. (and back garden)
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-12 09:49**
+- Subject: Brickwork
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-12 09:52**
+- Subject: Fwd: Internal Works
+- From: paulroberttaylor@gmail.com
+- To: Paul Haigh <paul.haigh@crestnicholson.com>
+
+**2022-01-12 10:01**
+- Subject: RE: [EXTERNAL] Brickwork
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-01-12 10:08**
+- Subject: Re: [EXTERNAL] Brickwork
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-12 10:12**
+- Subject: Re: [EXTERNAL] Landscaping and Fencing
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-12 12:40**
+- Subject: Fwd: Internal Works
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-12 13:04**
+- Subject: RE: [EXTERNAL] Fwd: Internal Works
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-01-12 13:17**
+- Subject: Re: [EXTERNAL] Fwd: Internal Works
+- From: paulroberttaylor@gmail.com
+- To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+**2022-01-12 18:42**
+- Subject: RE: [EXTERNAL] Fwd: Internal Works
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-01-14 10:30**
+- Subject: Re: [EXTERNAL] Fwd: Internal Works
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: helen.morley@crestnicholson.com
+
+**2022-01-14 10:46**
+- Subject: Fwd: General
+- From: paulroberttaylor@gmail.com
+- To: helen.morley@crestnicholson.com
+
+**2022-01-14 13:24**
+- Subject: Fwd: [EXTERNAL] Fwd: Internal Works
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-14 14:37**
+- Subject: RE: [EXTERNAL] Fwd: Internal Works
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-01-17 12:00**
+- Subject: Fwd: General
+- From: paulroberttaylor@gmail.com
+- To: helen.morley@crestnicholson.com, Jade Taylor <jade@dancepower.org>
+
+**2022-01-17 12:45**
+- Subject: En-suite Bedroom redundant nib
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: helen.morley@crestnicholson.com
+
+**2022-01-18 11:09**
+- Subject: Fwd: Tangier Plot 35
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <paul.haigh@crestnicholson.com>
+
+**2022-01-18 12:15**
+- Subject: Ceiling in the en-suite bedroom
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-18 12:59**
+- Subject: Fwd: [EXTERNAL] Top reveals, windows and doors
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-19 08:33**
+- Subject: RE: [EXTERNAL] En-suite Bedroom redundant nib
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-01-19 16:52**
+- Subject: Re: General
+- From: paulroberttaylor@gmail.com
+- To: helen.morley@crestnicholson.com, Jade Taylor <jade@dancepower.org>,
+ Customer Service SO <customerserviceSO@crestnicholson.com>, Steve Smith
+ <Steve.Smith@crestnicholson.com>
+
+**2022-01-19 17:50**
+- Subject: Re: [EXTERNAL] En-suite Bedroom redundant nib
+- From: paulroberttaylor@gmail.com
+- To: helen.morley@crestnicholson.com
+
+**2022-01-19 18:13**
+- Subject: Fwd: Top reveals, windows and doors
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: helen.morley@crestnicholson.com, Jade Taylor <jade@dancepower.org>
+
+**2022-01-21 07:56**
+- Subject: RE: [EXTERNAL] 25 Abbots Road
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Jade Millington <jade@dancepower.org>
+
+**2022-01-21 08:01**
+- Subject: Re: [EXTERNAL] 25 Abbots Road
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-21 10:57**
+- Subject: RE: [EXTERNAL] Re: General
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-01-21 10:58**
+- Subject: Re: [EXTERNAL] Re: General
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <Helen.Morley@crestnicholson.com>
+
+**2022-01-24 10:53**
+- Subject: Working hours
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2022-01-24 12:09**
+- Subject: Re: Working hours
+- From: Jade Millington <jade@dancepower.org>
+- To: Ice Paul Robert Taylor <paulroberttaylor@gmail.com>, Paul Haigh <paul.haigh@crestnicholson.com>
+
+**2022-01-24 12:10**
+- Subject: RE: [EXTERNAL] Re: Working hours
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Jade Millington <jade@dancepower.org>, Ice Paul Robert Taylor
+	<paulroberttaylor@gmail.com>
+
+**2022-01-25 13:12**
+- Subject: Garage DPC
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-25 15:35**
+- Subject: Bathroom
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-25 15:38**
+- Subject: Bathroom
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-26 08:03**
+- Subject: Fwd: Garage DPC
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-26 12:29**
+- Subject: February School Holidays
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-26 12:38**
+- Subject: Main Bathroom Sink
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-26 16:49**
+- Subject: 25 abbots Rd
+- From: Jade Millington <jade@dancepower.org>
+- To: Ice Paul Robert Taylor <paulroberttaylor@gmail.com>, Marc.Gilmore@crestnicholson.com
+
+**2022-01-27 12:59**
+- Subject: Scratched Radiator in en-suite
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-27 14:31**
+- Subject: Munster Appointment
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2022-01-27 14:32**
+- Subject: Re: Munster Appointment
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-27 15:02**
+- Subject: RE: [EXTERNAL] 25 abbots Rd
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Jade Millington <jade@dancepower.org>, Ice Paul Robert Taylor
+	<paulroberttaylor@gmail.com>
+
+**2022-01-28 07:50**
+- Subject: RE: [EXTERNAL] February School Holidays
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-01-28 08:00**
+- Subject: Re: [EXTERNAL] February School Holidays
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-28 08:43**
+- Subject: Window reveals
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>
+
+**2022-01-28 09:01**
+- Subject: En-suite Tile
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-01-28 11:01**
+- Subject: Scope of works.
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2022-01-28 17:43**
+- Subject: 25 Abbots Road, Tangier Lane
+- From: Jade Millington <jade@dancepower.org>
+- To: helen.morley@crestnicholson.com
+
+**2022-01-31 15:00**
+- Subject: RE: [EXTERNAL] 25 Abbots Road, Tangier Lane
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Jade Millington <jade@dancepower.org>
+
+**2022-01-31 18:18**
+- Subject: Building mess in guttering
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+
+## February 2022
+
+**2022-02-01 16:15**
+- Subject: WC boxing in
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-01 16:18**
+- Subject: W/C Boxing In
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-01 16:40**
+- Subject: Fwd: Side boundary and landscaping
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: helen.morley@crestnicholson.com, 
+	Paul Haigh <paul.haigh@crestnicholson.com>, 
+	Paul Vincent <paul.vincent@crestnicholson.com>
+
+**2022-02-02 16:22**
+- Subject: Site visit
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2022-02-02 21:17**
+- Subject: Re: Site visit
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+**2022-02-03 14:27**
+- Subject: En-suite toilet
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2022-02-03 15:12**
+- Subject: RE: [EXTERNAL] 25 Abbots Road, Tangier Lane
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Jade Millington <jade@dancepower.org>
+
+**2022-02-03 16:25**
+- Subject: Re: [EXTERNAL] 25 Abbots Road, Tangier Lane
+- From: Jade Millington <jade@dancepower.org>
+- To: Helen Morley <helen.morley@crestnicholson.com>, 
+	Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+
+**2022-02-03 17:03**
+- Subject: External Works - Request For Completion Date
+- From: paulroberttaylor@gmail.com
+- To: helen.morley@crestnicholson.com
+
+**2022-02-03 17:08**
+- Subject: RE: [EXTERNAL] 25 Abbots Road, Tangier Lane
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Jade Millington <jade@dancepower.org>, Ice Paul Robert Taylor
+	<paulroberttaylor@gmail.com>
+
+**2022-02-03 17:19**
+- Subject: Re: [EXTERNAL] 25 Abbots Road, Tangier Lane
+- From: Jade Millington <jade@dancepower.org>
+- To: Helen Morley <Helen.Morley@crestnicholson.com>
+
+**2022-02-04 15:26**
+- Subject: RE: [EXTERNAL] 25 Abbots Road, Tangier Lane
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Jade Millington <jade@dancepower.org>
+
+**2022-02-04 19:24**
+- Subject: Works Going Forward
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: helen.morley@crestnicholson.com
+
+**2022-02-04 19:25**
+- Subject: Wardrobe
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: helen.morley@crestnicholson.com
+
+**2022-02-04 19:33**
+- Subject: Wardrobe
+- From: Jade Millington <jade@dancepower.org>
+- To: Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-02-04 19:35**
+- Subject: NHBC Standards not being met
+- From: paulroberttaylor@gmail.com
+- To: helen.morley@crestnicholson.com
+
+**2022-02-07 09:36**
+- Subject: W/C Paintwork and Plastering
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-07 11:38**
+- Subject: Damaged Hob
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-07 11:46**
+- Subject: Rear guttering
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-08 12:24**
+- Subject: Ground work visit earlier this afternoon
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-08 17:55**
+- Subject: Site visit
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2022-02-08 19:37**
+- Subject: Wardrobe
+- From: Jade Millington <jade@dancepower.org>
+- To: Ice Paul Robert Taylor <paulroberttaylor@gmail.com>, Marc.Gilmore@crestnicholson.com, 
+	paul.vincent@crestnicholson.com, simon.minor@crestnicholson.com
+
+**2022-02-08 21:02**
+- Subject: Re: [EXTERNAL] Wardrobe
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Jade Millington <jade@dancepower.org>, Ice Paul Robert Taylor
+	<paulroberttaylor@gmail.com>, Paul Vincent <Paul.Vincent@crestnicholson.com>,
+	Simon Minor <Simon.Minor@crestnicholson.com>
+
+**2022-02-09 12:42**
+- Subject: En-suite toilet
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2022-02-09 17:20**
+- Subject: RE: [EXTERNAL] En-suite toilet
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+**2022-02-10 08:05**
+- Subject: Fwd: [EXTERNAL] En-suite toilet
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>
+
+**2022-02-10 11:03**
+- Subject: Work for Alan tomorrow in the utility room
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2022-02-10 11:41**
+- Subject: Work at rear of house
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2022-02-11 07:47**
+- Subject: Fwd: Work for Alan tomorrow in the utility room
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-02-11 15:26**
+- Subject: RE: [EXTERNAL] Wardrobe
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Jade Millington <jade@dancepower.org>
+
+**2022-02-11 17:15**
+- Subject: Plot 35 Tangier Gardens
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>
+
+**2022-02-14 11:31**
+- Subject: Fwd: Work at rear of house
+- From: paulroberttaylor@gmail.com
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-02-14 14:15**
+- Subject: Site visit
+- From: Paul Haigh <Paul.Haigh@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2022-02-15 09:10**
+- Subject: Re: [EXTERNAL] 25 abbots Rd
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2022-02-15 13:50**
+- Subject: Fwd: Work at rear of house
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: helen.morley@crestnicholson.com, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Simon Minor
+ <Simon.Minor@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2022-02-15 17:10**
+- Subject: RE: [EXTERNAL] Fwd: Work at rear of house
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+**2022-02-15 18:03**
+- Subject: Re: [EXTERNAL] Fwd: Work at rear of house
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: helen.morley@crestnicholson.com, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-02-17 14:20**
+- Subject: Tangier Gardens PT35- External works
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2022-02-17 14:27**
+- Subject: 25 Abbots Road Rear garden alterations
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-02-18 13:52**
+- Subject: Tangier Gardens PT 35- External Works
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2022-02-18 15:00**
+- Subject: Re: Tangier Gardens PT 35- External Works
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-19 08:46**
+- Subject: RE: [EXTERNAL] Re: Tangier Gardens PT 35- External Works
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-02-19 08:58**
+- Subject: Tangier Gardens- PT 35
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+
+**2022-02-19 15:21**
+- Subject: Re: [EXTERNAL] Re: Tangier Gardens PT 35- External Works
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>, Jade Taylor <jade@dancepower.org>
+
+**2022-02-19 15:29**
+- Subject: Re: Tangier Gardens- PT 35
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-21 07:23**
+- Subject: Brick company
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-21 08:57**
+- Subject: 22/05864 25 Abbots Road - Brick wall out of plumb
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-02-21 09:37**
+- Subject: Fwd: [EXTERNAL] Re: Tangier Gardens PT 35- External Works
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-21 12:12**
+- Subject: Fwd: Tangier Gardens- PT 35
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-21 12:21**
+- Subject: 25 Abbots Road - fence post not installed properly
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-02-22 10:33**
+- Subject: RE: [EXTERNAL] Re: Tangier Gardens PT 35- External Works
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Jade Taylor <jade@dancepower.org>
+
+**2022-02-22 12:05**
+- Subject: Re: 25 Abbots Road - outstanding internal works
+- From: Jade Millington <jade@dancepower.org>
+- To: Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-02-22 15:26**
+- Subject: RE: [EXTERNAL] Fwd: Tangier Gardens- PT 35
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-02-22 17:42**
+- Subject: Re: [EXTERNAL] Fwd: Tangier Gardens- PT 35
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-22 17:47**
+- Subject: Fwd: 22/05864 25 Abbots Road - Brick wall out of plumb
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-02-22 17:48**
+- Subject: Fwd: Brick company
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-22 17:50**
+- Subject: Fwd: Work for Alan tomorrow in the utility room
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-23 10:04**
+- Subject: RE: [EXTERNAL] Fwd: 22/05864 25 Abbots Road - Brick wall out of plumb
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+**2022-02-23 11:23**
+- Subject: RE: [EXTERNAL] Re: 25 Abbots Road - outstanding internal works
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Jade Taylor <jade@dancepower.org>
+
+**2022-02-23 16:07**
+- Subject: RE: [EXTERNAL] Fwd: Tangier Gardens- PT 35
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-02-24 17:07**
+- Subject: Munster / Magic Man
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-02-24 17:28**
+- Subject: Outside Rear Works
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-02-24 18:03**
+- Subject: RE: [EXTERNAL] Outside Rear Works
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-02-25 11:07**
+- Subject: Re: Brick company
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>
+
+**2022-02-28 14:54**
+- Subject: OFFICIAL COMPLAINT - 25 ABBOTS ROAD TANGIER LANE
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: info@crestnicholson.com, PETER.TRUSCOTT@crestnicholson.com
+
+
+## March 2022
+
+**2022-03-01 10:02**
+- Subject: FW: [EXTERNAL] OFFICIAL COMPLAINT - 25 ABBOTS ROAD TANGIER LANE
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-03-03 13:31**
+- Subject: Works to rear of property
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, 
+	Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-04 16:03**
+- Subject: RE: [EXTERNAL] Works to rear of property
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+**2022-03-07 09:14**
+- Subject: Fencing
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-07 11:17**
+- Subject: Fwd: Fencing
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-07 11:51**
+- Subject: RE: [EXTERNAL] Fencing
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-07 12:06**
+- Subject: Re: [EXTERNAL] Fencing
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-07 12:31**
+- Subject: Re: [EXTERNAL] Works to rear of property
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-08 09:42**
+- Subject: RE: [EXTERNAL] Fencing
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-08 10:16**
+- Subject: RE: [EXTERNAL] Works to rear of property
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-08 14:50**
+- Subject: Munster Attendance
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-08 16:36**
+- Subject: Re: Munster Attendance
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-09 16:37**
+- Subject: RE: [EXTERNAL] Re: Munster Attendance
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-09 16:47**
+- Subject: Re: [EXTERNAL] Re: Munster Attendance
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-09 16:48**
+- Subject: Re: [EXTERNAL] Re: Munster Attendance
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-09 17:15**
+- Subject: Re: [EXTERNAL] Re: Munster Attendance
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-09 17:55**
+- Subject: Re: [EXTERNAL] Re: Munster Attendance
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-10 07:16**
+- Subject: Re: [EXTERNAL] Re: Munster Attendance
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-14 08:27**
+- Subject: Re: [EXTERNAL] Works to rear of property
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-14 08:28**
+- Subject: RE: [EXTERNAL] Works to rear of property
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-14 08:32**
+- Subject: Re: [EXTERNAL] Works to rear of property
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-15 09:43**
+- Subject: Rear works
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Jade Taylor <jade@dancepower.org>
+
+**2022-03-15 12:35**
+- Subject: Fwd: Rear works
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>
+
+**2022-03-15 19:14**
+- Subject: RE: OFFICIAL COMPLAINT - 25 ABBOTS ROAD TANGIER LANE
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-16 08:30**
+- Subject: RE: [EXTERNAL] Fwd: Rear works
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+**2022-03-16 10:04**
+- Subject: Re: [EXTERNAL] Fwd: Rear works
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-16 12:23**
+- Subject: Fwd: [EXTERNAL] Fwd: Rear works
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>
+
+**2022-03-16 13:25**
+- Subject: RE: [EXTERNAL] Fwd: Rear works
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+**2022-03-17 09:03**
+- Subject: Re: OFFICIAL COMPLAINT - 25 ABBOTS ROAD TANGIER LANE
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian Sims <Adrian.Sims@crestnicholson.com>
+
+**2022-03-17 09:04**
+- Subject: Automatic reply: [EXTERNAL] Re: OFFICIAL COMPLAINT - 25 ABBOTS ROAD
+ TANGIER LANE
+- From: Sarah Reeve <Sarah.Reeve@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-17 09:05**
+- Subject: Re: [EXTERNAL] Fwd: Rear works
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-17 12:05**
+- Subject: Re: [EXTERNAL] Fencing
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-17 12:08**
+- Subject: Re: Tangier Gardens- plot 35 Planting.
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-17 13:17**
+- Subject: RE: [EXTERNAL] Fwd: Rear works
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-17 15:10**
+- Subject: RE: [EXTERNAL] Fencing
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-17 15:12**
+- Subject: RE: [EXTERNAL] Re: Tangier Gardens- plot 35 Planting.
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-17 19:00**
+- Subject: 25 ABBOTS ROAD TANGIER LANE
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-18 07:36**
+- Subject: Fwd: Building mess in guttering
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>
+
+**2022-03-18 07:39**
+- Subject: Fwd: [EXTERNAL] Fwd: 22/05864 25 Abbots Road - Brick wall out of plumb
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>
+
+**2022-03-18 07:58**
+- Subject: Item 218 on spreadsheet
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-18 08:01**
+- Subject: Wardrobe
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>
+
+**2022-03-18 15:23**
+- Subject: RE: [EXTERNAL] Fwd: Building mess in guttering
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+**2022-03-18 15:27**
+- Subject: RE: [EXTERNAL] Wardrobe
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+**2022-03-18 16:05**
+- Subject: Re: [EXTERNAL] Wardrobe
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-18 16:26**
+- Subject: Side gate fence
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-18 16:29**
+- Subject: Front door
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-03-18 16:35**
+- Subject: Fwd: Brick company
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-03-18 16:37**
+- Subject: Fwd: Item 218 on spreadsheet
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, 
+	Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-22 07:39**
+- Subject: Side turf
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-03-22 07:40**
+- Subject: Re: [EXTERNAL] Wardrobe
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-22 08:02**
+- Subject: RE: [EXTERNAL] Wardrobe
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-22 08:03**
+- Subject: RE: [EXTERNAL] Side turf
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+**2022-03-22 08:06**
+- Subject: Re: [EXTERNAL] Side turf
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-22 08:07**
+- Subject: Re: [EXTERNAL] Wardrobe
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-22 21:58**
+- Subject: Plot 35 Tangier Gardens
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-23 09:17**
+- Subject: 25 Abbots Road - New tapes blown
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Marc
+ Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2022-03-23 10:01**
+- Subject: Rear Patio Area
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-23 13:25**
+- Subject: Fwd: Item 218 on spreadsheet
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, 
+	Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-24 15:29**
+- Subject: Re: Item 218 on spreadsheet
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-24 21:31**
+- Subject: RE: [EXTERNAL] Rear Patio Area
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-28 13:24**
+- Subject: RE: [EXTERNAL] Re: Item 218 on spreadsheet
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-28 13:31**
+- Subject: Re: [EXTERNAL] Re: Item 218 on spreadsheet
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-29 12:21**
+- Subject: Re: [EXTERNAL] Re: Item 218 on spreadsheet
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-03-30 07:00**
+- Subject: Magic man
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>
+
+**2022-03-30 07:25**
+- Subject: RE: [EXTERNAL] Re: Item 218 on spreadsheet
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-03-30 13:31**
+- Subject: Re: [EXTERNAL] Re: Item 218 on spreadsheet
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-03-30 13:35**
+- Subject: Re: Magic man
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-03-30 13:38**
+- Subject: Fwd: Brick company
+- From: paulroberttaylor@gmail.com
+- To: Helen Morley <helen.morley@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-03-30 13:41**
+- Subject: Re: [EXTERNAL] Rear Patio Area
+- From: paulroberttaylor@gmail.com
+- To: Helen Morley <helen.morley@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-03-30 13:50**
+- Subject: RE: [EXTERNAL] Re: Magic man
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>, Customer
+ Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-03-30 15:08**
+- Subject: Fwd: [EXTERNAL] Fwd: Building mess in guttering
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-03-30 14:10**
+- Subject: Fwd: Side gate fence
+- From: paulroberttaylor@gmail.com
+- To: Helen Morley <helen.morley@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-03-30 14:13**
+- Subject: Re: [EXTERNAL] Fencing
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+
+## April 2022
+
+**2022-04-01 14:20**
+- Subject: RE: [EXTERNAL] Re: Magic man
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>, Customer
+ Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-01 14:22**
+- Subject: Tangier Gardens PT 35- External works
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>
+
+**2022-04-01 14:23**
+- Subject: RE: [EXTERNAL] Fwd: Building mess in guttering
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+**2022-04-01 15:04**
+- Subject: Tangier Gardens PT 35 Brickwork survey
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-04-01 15:26**
+- Subject: Re: Tangier Gardens PT 35- External works
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Helen Morley
+ <helen.morley@crestnicholson.com>
+
+**2022-04-01 15:27**
+- Subject: Re: [EXTERNAL] Re: Magic man
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-04-01 15:31**
+- Subject: Re: Tangier Gardens PT 35 Brickwork survey
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-04-01 15:35**
+- Subject: RE: [EXTERNAL] Re: Magic man
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-04-01 16:05**
+- Subject: Fwd: [EXTERNAL] 25 Abbots Road - lawn
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Helen Morley
+ <helen.morley@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2022-04-01 16:20**
+- Subject: Re: [EXTERNAL] Re: Magic man
+- From: paulroberttaylor@gmail.com
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-04-01 16:34**
+- Subject: Crest Quality Control Standards - 25 Abbots Road, Tangier Lane
+- From: paulroberttaylor@gmail.com
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-01 16:35**
+- Subject: Fwd: Side gate fence
+- From: paulroberttaylor@gmail.com
+- To: Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2022-04-01 16:36**
+- Subject: Fwd: Front door
+- From: paulroberttaylor@gmail.com
+- To: Helen Morley <helen.morley@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2022-04-01 16:39**
+- Subject: Fwd: [EXTERNAL] Fencing
+- From: paulroberttaylor@gmail.com
+- To: Helen Morley <helen.morley@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2022-04-01 19:33**
+- Subject: Re: Tangier Gardens PT 35 Brickwork survey
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-04-04 12:24**
+- Subject: Visit today
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-04-04 12:09**
+- Subject: Re: Plot 35 Tangier Gardens
+- From: paulroberttaylor@gmail.com
+- To: Adrian Sims <Adrian.Sims@crestnicholson.com>
+
+**2022-04-04 13:14**
+- Subject: RE: [EXTERNAL] Re: Plot 35 Tangier Gardens
+- From: Sarah Reeve <Sarah.Reeve@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-04-04 14:51**
+- Subject: 25 Abbots Road - Banging Pipes
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-04 17:48**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001003
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-04-05 11:54**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001003
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-05 12:03**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001012
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-04-05 13:39**
+- Subject: Fwd: Side gate fence
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-05 12:44**
+- Subject: Re: Tangier Gardens PT 35 Brickwork survey
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-04-06 12:02**
+- Subject: Re: Tangier Gardens PT 35 Brickwork survey
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-06 16:05**
+- Subject: Fwd: Tangier Gardens PT 35 Brickwork survey
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-06 15:22**
+- Subject: Fwd: Side gate fence
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2022-04-06 15:26**
+- Subject: Re: Crest Quality Control Standards - 25 Abbots Road, Tangier Lane
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>
+
+**2022-04-06 16:32**
+- Subject: RE: [EXTERNAL] Fwd: Side gate fence
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+**2022-04-06 16:35**
+- Subject: Re: [EXTERNAL] Fwd: Side gate fence
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <Helen.Morley@crestnicholson.com>
+
+**2022-04-06 16:38**
+- Subject: RE: [EXTERNAL] Fwd: Side gate fence
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-04-06 16:41**
+- Subject: RE: [EXTERNAL] Re: Crest Quality Control Standards - 25 Abbots Road,
+ Tangier Lane
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+**2022-04-06 16:49**
+- Subject: Re: [EXTERNAL] Fwd: Side gate fence
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <Helen.Morley@crestnicholson.com>
+
+**2022-04-06 17:53**
+- Subject: Fwd: Tangier Gardens PT 35 Brickwork survey
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>
+
+**2022-04-06 19:58**
+- Subject: Re: [EXTERNAL] Fwd: Tangier Gardens PT 35 Brickwork survey
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+**2022-04-08 12:48**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001012
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-08 13:17**
+- Subject: RE: [EXTERNAL] Fwd: Side gate fence
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-04-11 10:12**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001036
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-04-11 11:49**
+- Subject: Re: [EXTERNAL] Fwd: Building mess in guttering
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-11 13:37**
+- Subject: Fwd: Tangier Gardens PT 35 Brickwork survey
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, info@crestnicholson.com
+
+**2022-04-11 13:21**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001043
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-04-11 13:31**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001044
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-04-11 14:40**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001044
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-11 16:43**
+- Subject: Fwd: [EXTERNAL] Re: Magic man
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-12 07:06**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001051
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-04-12 07:13**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001052
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-04-12 09:52**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001052
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-13 17:54**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001081
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-04-20 12:43**
+- Subject: Tangier Gardens Plot 35 Gutter Clean
+- From: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-04-21 11:49**
+- Subject: Re: Tangier Gardens Plot 35 Gutter Clean
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+
+**2022-04-21 13:13**
+- Subject: Re: Tangier Gardens Plot 35 Gutter Clean
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-21 12:31**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001167
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-04-21 14:57**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001167
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-21 15:32**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001171
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-04-27 15:46**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001081
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-28 17:58**
+- Subject: Bowing Wall / Brickwork - 25 Abbots Road, Tangier
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-04-29 07:48**
+- Subject: Fwd: 35 Tangier Gardens, 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+
+## May 2022
+
+**2022-05-03 14:44**
+- Subject: Fwd: 35 Tangier Gardens, 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-03 14:48**
+- Subject: 25 Abbots Road, Tangier - side gate fence
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-04 11:01**
+- Subject: Fwd: 35 Tangier Gardens, 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-04 11:22**
+- Subject: Fwd: 35 Tangier Gardens, 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-05-04 16:02**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001308
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: Jade Taylor <jady@dancepower.org>
+
+**2022-05-05 06:52**
+- Subject: Hob replacement - 25 Abbots Road, Tangier
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-05 07:36**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001308
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-05 14:25**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001312
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-05-05 14:29**
+- Subject: 35 Tangier Gardens 25 Abbots Road ID:00803000001313
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-05-05 15:41**
+- Subject: Re: 35 Tangier Gardens 25 Abbots Road ID:00803000001313
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-06 10:16**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001036
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-06 10:23**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001312 Bowing Wall Report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-06 11:38**
+- Subject: 25 Abbots Road - DBD - hood missing part
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-06 11:40**
+- Subject: Re: 35 Tangier Gardens 25 Abbots Road ID:00803000001313 - extra part requested
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-09 09:18**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001312
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-09 12:47**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001337
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-05-20 14:03**
+- Subject: 25 Abbots Road - Second report and updated list of defects
+- From: paulroberttaylor@gmail.com
+- To: Adrian.Sims@crestnicholson.com
+
+**2022-05-20 15:17**
+- Subject: RE: [EXTERNAL] 25 Abbots Road - Second report and updated list of
+ defects
+- From: Sarah Reeve <Sarah.Reeve@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-05-23 08:11**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001432
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-05-23 08:29**
+- Subject: 22/05864 Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001432
+- From: paulroberttaylor@gmail.com
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-25 16:41**
+- Subject: 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-26 09:09**
+- Subject: 25 Abbots Road - plumber
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-30 07:37**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001461
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-05-30 11:59**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001471
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-05-30 13:17**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001471
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-30 16:07**
+- Subject: Fwd: 35 Tangier Gardens, 25 Abbots Road ID:00803000001312 Bowing
+ Wall Report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-30 17:50**
+- Subject: RE: [EXTERNAL] Fwd: 35 Tangier Gardens, 25 Abbots Road
+ ID:00803000001312 Bowing Wall Report
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-05-31 13:00**
+- Subject: Fwd: 35 Tangier Gardens, 25 Abbots Road ID:00803000001471
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-05-31 12:27**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001492
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-05-31 17:09**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001494
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
 
 ## June 2022
+
+**2022-06-01 09:15**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001492
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-01 16:44**
+- Subject: FW: [EXTERNAL] 25 Abbots Road - Second report and updated list of
+ defects
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-01 17:25**
+- Subject: 22/05864 Re: FW: [EXTERNAL] 25 Abbots Road - Second report and
+ updated list of defects
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian Sims <Adrian.Sims@crestnicholson.com>
+
+**2022-06-02 09:18**
+- Subject: 25 Abbots Road, Tangier - Amended spreadsheet to correct
+ inaccuracies
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-06 06:33**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001507
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-06 09:06**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001507
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-06 11:33**
+- Subject: URGENT - W/C leak - 25 Abbots Road, Tangier
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-06 18:32**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001526
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-07 07:05**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001527
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-07 09:24**
+- Subject: 25 Abbots Road - second report recommendations esp. DPC and dry
+ lining
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>,
+ info@crestnicholson.com
+
+**2022-06-08 09:56**
+- Subject: 22/05864 Fwd: 25 Abbots Road - second report recommendations esp.
+ DPC and dry lining
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: info@crestnicholson.com, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Claims <Claims@nhbc.co.uk>
+
+**2022-06-08 12:02**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001539
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-08 14:42**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001527
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-08 14:02**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001541
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-09 08:06**
+- Subject: 22/05864 25 Abbots Road - Extractor hood
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>,
+ info@crestnicholson.com
+
+**2022-06-09 10:45**
+- Subject: 22/05864 Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001539
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Claims
+ <Claims@nhbc.co.uk>
+
+**2022-06-09 11:07**
+- Subject: 35 Tangier Gardens 25 Abbots Road ID:00803000001549
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-09 14:01**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001553
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-09 15:27**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001553
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-10 08:03**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001560
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-13 08:29**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001560
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>,
+ info@crestnicholson.com
+
+**2022-06-13 17:43**
+- Subject: Plot 35 Tangier Gardens, 25 Abbots Road
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-06-13 21:14**
+- Subject: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Claims <Claims@nhbc.co.uk>
+
+**2022-06-14 16:00**
+- Subject: RE: 35 Tangier Gardens, 25 Abbots Road ID:00803000001541
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-14 16:13**
+- Subject: FW: 35 Tangier Gardens 25 Abbots Road ID:00803000001549
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-14 20:01**
+- Subject: Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, info@crestnicholson.com, Customer
+ Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-15 15:35**
+- Subject: Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>,
+ info@crestnicholson.com
+
+**2022-06-15 18:41**
+- Subject: Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Claims <Claims@nhbc.co.uk>
+
+**2022-06-16 16:03**
+- Subject: 25 Abbots Road - request for response from director/board level
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: DAVID.MARCHANT@crestnicholson.com, KIERAN.DAYA@crestnicholson.com,
+ PETER.TRUSCOTT@crestnicholson.com
+
+**2022-06-17 09:17**
+- Subject: Attn Donna - Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots
+ Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
 
 **2022-06-17 13:30**
 - Subject: 25 Abbots Road - request for response from director/board level
@@ -69,18 +2432,443 @@
 - From: Paul Taylor <paulroberttaylor@gmail.com>
 - To: Rachael Game <Rachael.Game@crestnicholson.com>
 
+**2022-06-17 14:21**
+- Subject: 25 Abbots Road - request for response from director/board level
+- From: Rachael Game <Rachael.Game@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-06-17 14:40**
+- Subject: RE: [EXTERNAL] Attn Donna - Fwd: 22/05864 Re: Plot 35 Tangier
+ Gardens, 25 Abbots Road ID:00623000000228
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-17 14:50**
+- Subject: Re: [EXTERNAL] Attn Donna - Fwd: 22/05864 Re: Plot 35 Tangier
+ Gardens, 25 Abbots Road ID:00623000000228
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
 **2022-06-17 16:17**
 - Subject: Fwd: 25 Abbots Road - request for response from director/board level
 - From: Paul Taylor <paulroberttaylor@gmail.com>
 - To: Rachael Game <Rachael.Game@crestnicholson.com>
+
+**2022-06-17 15:20**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001592
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
 
 **2022-06-17 16:23**
 - Subject: Fwd: 25 Abbots Road - request for response from director/board level
 - From: Paul Taylor <paulroberttaylor@gmail.com>
 - To: Rachael Game <Rachael.Game@crestnicholson.com>
 
+**2022-06-19 19:54**
+- Subject: Fwd: [EXTERNAL] Attn Donna - Fwd: 22/05864 Re: Plot 35 Tangier
+ Gardens, 25 Abbots Road ID:00623000000228
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-20 08:00**
+- Subject: Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-20 07:25**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001595
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-20 09:59**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001595
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-20 10:21**
+- Subject: 25 Abbots Road ID:00803000001595 - non-toxic paint
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-20 12:13**
+- Subject: Fwd: 25 Abbots Road ID:00803000001595 - non-toxic paint
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-20 15:21**
+- Subject: Fwd: [EXTERNAL] Attn Donna - Fwd: 22/05864 Re: Plot 35 Tangier
+ Gardens, 25 Abbots Road ID:00623000000228
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-20 17:30**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001612
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-20 17:47**
+- Subject: RE: [EXTERNAL] Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots
+ Road ID:00623000000229
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-21 07:26**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001618
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: Jade Taylor <jady@dancepower.org>, "paulroberttaylor@gmail.com"
+	<paulroberttaylor@gmail.com>
+
+**2022-06-21 09:49**
+- Subject: Fwd: 35 Tangier Gardens, 25 Abbots Road ID:00803000001612
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-21 10:40**
+- Subject: 25 Abbots Road - Tangier - Side fence
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Rachael Game <Rachael.Game@crestnicholson.com>
+
+**2022-06-21 09:50**
+- Subject: DBD visit for cooker hood and Houlihan Carpentry for brick walls
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-21 19:49**
+- Subject: Fwd: DBD visit for cooker hood and Houlihan Carpentry for brick
+ walls
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>,
+ info@crestnicholson.com
+
+**2022-06-22 11:44**
+- Subject: 25 Abbots Road - visit today
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com
+
+**2022-06-22 15:32**
+- Subject: Fwd: Plot 35 Tangier Gardens, Dry lining Works
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-23 10:30**
+- Subject: 25 Abbots Road - Additional complaint for director level
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: PETER.TRUSCOTT@crestnicholson.com, KIERAN.DAYA@crestnicholson.com,
+ DAVID.MARCHANT@crestnicholson.com
+
+**2022-06-23 14:45**
+- Subject: Fwd: 25 Abbots Road - Tangier - Side fence
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Rachael Game <Rachael.Game@crestnicholson.com>
+
+**2022-06-23 13:56**
+- Subject: 25 Abbots Road - Tangier - Side fence
+- From: Rachael Game <Rachael.Game@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-23 16:52**
+- Subject: Fwd: 25 Abbots Road - Tangier - Side fence
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Rachael Game <Rachael.Game@crestnicholson.com>,
+ PETER.TRUSCOTT@crestnicholson.com, DAVID.MARCHANT@crestnicholson.com,
+ KIERAN.DAYA@crestnicholson.com
+
+**2022-06-23 16:55**
+- Subject: Automatic reply: [EXTERNAL] Fwd: 25 Abbots Road - Tangier - Side
+ fence
+- From: Rachael Game <Rachael.Game@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-06-24 13:06**
+- Subject: FW: 25 Abbots Road - Tangier - Side fence
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-06-24 13:12**
+- Subject: Re: FW: 25 Abbots Road - Tangier - Side fence
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <Helen.Morley@crestnicholson.com>
+
+**2022-06-24 13:13**
+- Subject: RE: [EXTERNAL] 25 Abbots Road - Additional complaint for director
+ level
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-06-24 13:22**
+- Subject: RE: [EXTERNAL] Re: FW: 25 Abbots Road - Tangier - Side fence
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-06-24 13:39**
+- Subject: 22/05864 Re: [EXTERNAL] 25 Abbots Road - Additional complaint for
+ director level
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <Helen.Morley@crestnicholson.com>, Claims
+ <Claims@nhbc.co.uk>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-06-24 14:46**
+- Subject: Re: [EXTERNAL] Re: FW: 25 Abbots Road - Tangier - Side fence
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <Helen.Morley@crestnicholson.com>
+
+**2022-06-24 16:11**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001633
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-24 17:30**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001633
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-24 17:57**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001634
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-26 14:54**
+- Subject: : 35 Tangier Gardens, 25 Abbots Road ID:00803000001636
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-26 16:49**
+- Subject: Re: : 35 Tangier Gardens, 25 Abbots Road ID:00803000001636
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-26 19:20**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001637
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-27 13:35**
+- Subject: 25 Abbots Road - cooker hood
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-27 17:25**
+- Subject: 25 Abbots Road Fwd: DBD visit for cooker hood and Houlihan Carpentry
+ for brick walls
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-29 09:19**
+- Subject: 25 Abbots Road - cooker hood and front brick wall
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-29 13:50**
+- Subject: 35 Tangier Gardens, 25 Abbots Raod ID:00803000001679
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-06-29 14:14**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Raod ID:00803000001679
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-30 10:07**
+- Subject: 25 Abbots Road - Request for dates for all assessments completed
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-06-30 13:20**
+- Subject: RE: [EXTERNAL] 25 Abbots Road - Request for dates for all assessments
+ completed
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+**2022-06-30 16:30**
+- Subject: Re: [EXTERNAL] 25 Abbots Road - Request for dates for all
+ assessments completed
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <Helen.Morley@crestnicholson.com>
+
+**2022-06-30 17:32**
+- Subject: Fwd: 35 Tangier Gardens, 25 Abbots Raod ID:00803000001679
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>
+
 
 ## July 2022
+
+**2022-07-01 15:05**
+- Subject: Fwd: 35 Tangier Gardens, 25 Abbots Raod ID:00803000001679
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-07-01 15:11**
+- Subject: Fwd: 22/05864 Re: [EXTERNAL] 25 Abbots Road - Additional complaint
+ for director level
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-07-01 15:32**
+- Subject: Fwd: 22/05864 Re: [EXTERNAL] 25 Abbots Road - Additional complaint
+ for director level
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Rachael Game <Rachael.Game@crestnicholson.com>
+
+**2022-07-01 15:39**
+- Subject: RE: 22/05864 Re: [EXTERNAL] 25 Abbots Road - Additional complaint for
+ director level
+- From: Rachael Game <Rachael.Game@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-07-01 15:44**
+- Subject: 35 Tangier Gardens, 25 Abbots Raod ID:00803000001697
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-04 10:42**
+- Subject: 25 Abbots Road - Calfordseaden's visits 6th, 7th, and 11th July
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-05 07:25**
+- Subject: Fwd: 25 Abbots Road - Calfordseaden's visits 6th, 7th, and 11th July
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Site <site@calfordseaden.co.uk>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-05 07:32**
+- Subject: Fwd: 22/05864 Re: [EXTERNAL] 25 Abbots Road - Additional complaint
+ for director level
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-05 11:54**
+- Subject: Re: [EXTERNAL] Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots
+ Road ID:00623000000229
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-05 16:41**
+- Subject: Fwd: 25 Abbots Road - Calfordseaden's visits 6th, 7th, and 11th July
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-05 16:36**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001711
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-05 17:41**
+- Subject: Fwd: 25 Abbots Road - Calfordseaden's visits 6th, 7th, and 11th July
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, 
+	Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-05 16:54**
+- Subject: RE: [EXTERNAL] Fwd: 25 Abbots Road - Calfordseaden's visits 6th, 7th,
+ and 11th July ID:00803000001712
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-06 06:01**
+- Subject: Re: [EXTERNAL] Fwd: 25 Abbots Road - Calfordseaden's visits 6th, 7th,
+ and 11th July ID:00803000001712
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-06 08:30**
+- Subject: ID:00803000001712 Visit today for Calfordseaden - carpenter unable
+ to complete work due to injury
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com,
+ Adrian.Sims@crestnicholson.com, PETER.TRUSCOTT@crestnicholson.com,
+ DAVID.MARCHANT@crestnicholson.com, KIERAN.DAYA@crestnicholson.com
+
+**2022-07-06 08:59**
+- Subject: RE: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-06 16:23**
+- Subject: Fwd: [EXTERNAL] Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots
+ Road ID:00623000000229
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-06 16:25**
+- Subject: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-07-07 09:16**
+- Subject: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-07-07 08:25**
+- Subject: RE: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-07 08:34**
+- Subject: RE: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-07 09:34**
+- Subject: Re: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-07 08:43**
+- Subject: Re: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-07 11:29**
+- Subject: Fwd: [EXTERNAL] Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots
+ Road ID:00623000000229
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-07 20:40**
+- Subject: Fwd: 22/05864 Re: [EXTERNAL] 25 Abbots Road - Additional complaint
+ for director level
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Rachael Game
+ <Rachael.Game@crestnicholson.com>
+
+**2022-07-08 09:55**
+- Subject: ID:00623000000229
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-08 10:21**
+- Subject: 22/05864 cooker hood ducting - Fwd: 35 Tangier Gardens, 25 Abbots
+ Raod ID:00803000001697
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Claims <Claims@nhbc.co.uk>
+
+**2022-07-08 13:56**
+- Subject: 25 Abbots Road
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
 
 **2022-07-09 05:37**
 - Subject: No response received Fwd: 25 Abbots Road - request for response
@@ -88,17 +2876,70 @@
 - From: Paul Taylor <paulroberttaylor@gmail.com>
 - To: Rachael Game <Rachael.Game@crestnicholson.com>
 
+**2022-07-11 07:36**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001732
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-11 08:51**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001732
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-11 09:57**
+- Subject: Attn Donna Fwd: 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-11 08:58**
+- Subject: RE: [EXTERNAL] Re: 35 Tangier Gardens, 25 Abbots Road
+ ID:00803000001732
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
 **2022-07-11 09:04**
 - Subject: Fwd: 25 Abbots Road - request for response from director/board
  level
 - From: Paul Taylor <paulroberttaylor@gmail.com>
 - To: Rachael Game <Rachael.Game@crestnicholson.com>
 
+**2022-07-11 10:16**
+- Subject: Before any assessment is carried out today by Calfordseaden ID:00803000001732
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-11 09:43**
+- Subject: 25 Abbots Road - W/C toilet twist
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Site <site@calfordseaden.co.uk>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-07-11 12:21**
+- Subject: Attn Donna : W/C decoration not finished
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-11 12:27**
+- Subject: Attn Donna : 25 Abbots Road - List of reveals agreed by Paul Haigh
+ 1st December 2021
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-11 12:32**
+- Subject: Attn: Donna Fwd: 25 Abbots Road - Second report and updated list of defects
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
 **2022-07-11 20:38**
 - Subject: Fwd: 25 Abbots Road - request for response from director/board
  level
 - From: Paul Taylor <paulroberttaylor@gmail.com>
 - To: Rachael Game <Rachael.Game@crestnicholson.com>
+
+**2022-07-11 21:47**
+- Subject: Fwd: ID:00623000000229 Doors and windows / dry lining
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
 
 **2022-07-12 07:10**
 - Subject: 25 Abbots Road - request for response from director/board level
@@ -111,15 +2952,300 @@
 - From: Paul Taylor <paulroberttaylor@gmail.com>
 - To: Rachael Game <Rachael.Game@crestnicholson.com>
 
+**2022-07-12 09:38**
+- Subject: Attn Donna Hack - 25 Abbots Road - windows for Calfordseaden
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-12 08:54**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001734
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-12 11:55**
+- Subject: Fwd: Attn: Donna Fwd: 25 Abbots Road - Second report and updated list
+ of defects
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-07-12 12:33**
+- Subject: Re: 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian Sims <Adrian.Sims@crestnicholson.com>, Helen Morley
+ <Helen.Morley@crestnicholson.com>, Sarah.Reeve@crestnicholson.com
+
+**2022-07-12 12:35**
+- Subject: Automatic reply: [EXTERNAL] Re: 25 Abbots Road
+- From: Sarah Reeve <Sarah.Reeve@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-07-12 16:06**
+- Subject: Fwd: ID:00623000000229 Doors and windows / dry lining
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-12 15:18**
+- Subject: Fwd: ID:00623000000229 Doors and windows / dry lining
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Adrian.Sims@crestnicholson.com
+
+**2022-07-12 16:24**
+- Subject: RE: [EXTERNAL] Fwd: ID:00623000000229 Doors and windows / dry lining
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-12 19:58**
+- Subject: 25 Abbots Road - window sill painting not complete
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com
+
+**2022-07-12 20:11**
+- Subject: Fwd: 25 Abbots Road - response to complaint still not received
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-07-13 07:16**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001741
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-13 08:09**
+- Subject: Fwd: Attn Donna Hack - 25 Abbots Road - windows for Calfordseaden
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-13 08:18**
+- Subject: Calfordseaden's extra days
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-13 08:34**
+- Subject: Fwd: 25 Abbots Road - response to complaint still not received
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com
+
+**2022-07-13 08:37**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001742
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-13 08:53**
+- Subject: 25 Abbots Road - brickwork damage, issue with kitchen floor,
+ Trinity report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-07-13 10:58**
+- Subject: 25 Abbots Road
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-07-13 12:32**
+- Subject: 25 Abbots Road - immediate response needed
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, PETER.TRUSCOTT@crestnicholson.com,
+ DAVID.MARCHANT@crestnicholson.com, KIERAN.DAYA@crestnicholson.com, Rachael
+ Game <Rachael.Game@crestnicholson.com>
+
+**2022-07-13 17:22**
+- Subject: Fwd: Calfordseaden's extra days
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Adrian.Sims@crestnicholson.com, 
+	Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-07-14 06:50**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001744
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-14 09:43**
+- Subject: RE: [EXTERNAL] 25 Abbots Road - immediate response needed
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-07-14 09:59**
+- Subject: Re: [EXTERNAL] 25 Abbots Road - immediate response needed
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <Helen.Morley@crestnicholson.com>
+
+**2022-07-14 10:01**
+- Subject: Fwd: [EXTERNAL] 25 Abbots Road - immediate response needed
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-07-14 10:08**
+- Subject: RE: [EXTERNAL] 25 Abbots Road - immediate response needed
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-07-14 17:10**
+- Subject: 22/05864 Fwd: 25 Abbots Road - brickwork damage, issue with kitchen
+ floor, Trinity report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, 
+	Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-15 07:23**
+- Subject: Fwd: 22/05864 Fwd: 25 Abbots Road - brickwork damage, issue with
+ kitchen floor, Trinity report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com
+
+**2022-07-15 10:27**
+- Subject: RE: [EXTERNAL] Fwd: 22/05864 Fwd: 25 Abbots Road - brickwork damage,
+ issue with kitchen floor, Trinity report
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Adrian Sims
+	<Adrian.Sims@crestnicholson.com>
+
+**2022-07-15 11:52**
+- Subject: Re: [EXTERNAL] Fwd: 22/05864 Fwd: 25 Abbots Road - brickwork
+ damage, issue with kitchen floor, Trinity report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <Helen.Morley@crestnicholson.com>
+
+**2022-07-15 15:57**
+- Subject: 22/05864  25 Abbots Road - brickwork
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-07-15 17:27**
+- Subject: 25 Abbots Road - ladder
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-07-16 14:20**
+- Subject: Re: [EXTERNAL] 25 Abbots Road - immediate response needed
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <Helen.Morley@crestnicholson.com>
+
+**2022-07-18 13:29**
+- Subject: Fwd: 25 Abbots Road - ladder
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>
+
+**2022-07-18 13:33**
+- Subject: Fwd: 22/05864 cooker hood ducting - Fwd: 35 Tangier Gardens, 25
+ Abbots Raod ID:00803000001697
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>
+
+**2022-07-18 13:37**
+- Subject: Fwd: 25 Abbots Road - brickwork damage, issue with kitchen floor,
+ Trinity report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>
+
+**2022-07-18 16:47**
+- Subject: Fwd: 25 Abbots Road - brickwork damage, issue with kitchen floor,
+ Trinity report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-07-18 16:48**
+- Subject: Fwd: 25 Abbots Road - ladder
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com
+
+**2022-07-18 18:36**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001779
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-19 09:38**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001789
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-19 09:51**
+- Subject: Re: 22/05864  25 Abbots Road - brickwork
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Adrian.Sims@crestnicholson.com
+
+**2022-07-19 11:50**
+- Subject: Fwd: 22/05864  25 Abbots Road - brickwork
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Helen Morley
+ <helen.morley@crestnicholson.com>
+
+**2022-07-20 07:31**
+- Subject: Fwd: 22/05864  25 Abbots Road - brickwork
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-07-20 07:32**
+- Subject: Fwd: 25 Abbots Road - brickwork damage, issue with kitchen floor,
+ Trinity report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-07-20 07:34**
+- Subject: Fwd: 22/05864 cooker hood ducting - Fwd: 35 Tangier Gardens, 25
+ Abbots Raod ID:00803000001697
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-07-20 08:31**
+- Subject: 25 Abbots Road - Spreadsheet Item 106 - cracked window pane
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Adrian.Sims@crestnicholson.com
+
+**2022-07-20 09:17**
+- Subject: 35 Tangier Gardens, 25 Abbots Way ID:00803000001794
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
 **2022-07-20 09:31**
 - Subject: 35 Tangier Gardens 25 Abbots Road ID:00803000001795
 - From: Customer Service SO <customerserviceSO@crestnicholson.com>
 - To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
 
+**2022-07-20 09:52**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Way ID:00803000001794
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
 **2022-07-20 10:57**
 - Subject: Re: 35 Tangier Gardens 25 Abbots Road ID:00803000001795
 - From: Paul Taylor <paulroberttaylor@gmail.com>
 - To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-20 10:04**
+- Subject: RE: [EXTERNAL] Fwd: 22/05864  25 Abbots Road - brickwork
+ ID:00803000001796
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
 
 **2022-07-20 10:43**
 - Subject: RE: [EXTERNAL] Re: 35 Tangier Gardens 25 Abbots Road
@@ -127,19 +3253,383 @@
 - From: Customer Service SO <customerserviceSO@crestnicholson.com>
 - To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
 
+**2022-07-20 13:11**
+- Subject: 22/05864  25 Abbots Road - ID:00803000001796 - garage brickwork
+ assessment
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com
+
+**2022-07-20 13:15**
+- Subject: Fwd: 25 Abbots Road - issue with kitchen floor tolerance
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>
+
+**2022-07-20 13:51**
+- Subject: RE: [EXTERNAL] 22/05864  25 Abbots Road - ID:00803000001796 - garage
+ brickwork assessment
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Adrian Sims
+	<Adrian.Sims@crestnicholson.com>
+
+**2022-07-20 14:00**
+- Subject: Re: [EXTERNAL] 22/05864  25 Abbots Road - ID:00803000001796 -
+ garage brickwork assessment
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <Helen.Morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Adrian.Sims@crestnicholson.com
+
+**2022-07-20 14:04**
+- Subject: RE: [EXTERNAL] 22/05864  25 Abbots Road - ID:00803000001796 - garage
+ brickwork assessment
+- From: Helen Morley <Helen.Morley@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Adrian Sims
+	<Adrian.Sims@crestnicholson.com>
+
+**2022-07-20 15:30**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Way ID:00803000001794
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-22 09:37**
+- Subject: Fwd: 25 Abbots Road - Spreadsheet Item 106 - cracked window pane
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-07-22 10:05**
+- Subject: Fwd: 35 Tangier Gardens, 25 Abbots Way ID:00803000001794
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
 **2022-07-22 10:12**
 - Subject: Fwd: 35 Tangier Gardens 25 Abbots Road ID:00803000001795
 - From: Paul Taylor <paulroberttaylor@gmail.com>
 - To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
  Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com
 
+**2022-07-22 10:31**
+- Subject: Fwd: 25 Abbots Road - issue with kitchen floor tolerance
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>
+
+**2022-07-22 10:51**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001807
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-22 12:27**
+- Subject: ATTN Donna - URGENT Calfordseaden visit today
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-22 11:49**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001808
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-22 12:02**
+- Subject: RE: [EXTERNAL] Fwd: 25 Abbots Road - brickwork damage, issue with
+ kitchen floor, Trinity report ID:00803000001809
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-22 12:11**
+- Subject: 35 Tangier Gardens, 25 Abbey Road ID:00803000001810
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-22 12:20**
+- Subject: Re: 35 Tangier Gardens, 25 Abbey Road ID:00803000001810
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com
+
+**2022-07-22 12:26**
+- Subject: Fwd: [EXTERNAL] 22/05864  25 Abbots Road - ID:00803000001796 -
+ garage brickwork assessment
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-07-22 12:26**
+- Subject: Automatic reply: [EXTERNAL] 22/05864  25 Abbots Road -
+ ID:00803000001796 - garage brickwork assessment
+- From: Duncan Cooper <Duncan.Cooper@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-07-22 12:41**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001811
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-25 11:39**
+- Subject: Fwd: 35 Tangier Gardens, 25 Abbey Road ID:00803000001810
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-07-26 09:58**
+- Subject: Fwd: [EXTERNAL] Fwd: 25 Abbots Road - brickwork damage, issue with
+ kitchen floor, Trinity report ID:00803000001809
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-27 10:09**
+- Subject: Fwd: [EXTERNAL] Fwd: 25 Abbots Road - brickwork damage, issue with
+ kitchen floor, Trinity report ID:00803000001809
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com
+
+**2022-07-27 11:36**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001838
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-27 13:52**
+- Subject: Fwd: 22/05864 cooker hood ducting - Fwd: 35 Tangier Gardens, 25
+ Abbots Raod ID:00803000001697
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>
+
+**2022-07-28 09:46**
+- Subject: Fwd: 22/05864 cooker hood ducting - Fwd: 35 Tangier Gardens, 25
+ Abbots Raod ID:00803000001697
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-28 15:46**
+- Subject: Contractor to remove boards from brickwork
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-28 15:48**
+- Subject: Fwd: 22/05864 cooker hood ducting - Fwd: 35 Tangier Gardens, 25
+ Abbots Raod ID:00803000001697
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-28 16:34**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001846
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-28 18:35**
+- Subject: 35 Tangier Gardens, 25 Abbots Raod ID:00803000001848
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-07-29 08:55**
+- Subject: Incomplete making good of plasterwork after change of ducting
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-29 15:15**
+- Subject: Fwd: Incomplete making good of plasterwork after change of ducting
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-07-29 15:31**
+- Subject: 35 Tangier Gardens 25 Abbots Road ID:00803000001857
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+
+## August 2022
+
+**2022-08-01 07:42**
+- Subject: Re: 35 Tangier Gardens 25 Abbots Road ID:00803000001857
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-08-01 07:11**
+- Subject: 35 Tangier Gardens 25 Abbots Road ID:00803000001860
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-08-01 09:00**
+- Subject: Re: 35 Tangier Gardens 25 Abbots Road ID:00803000001860
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-08-01 08:45**
+- Subject: 35 Tangier Gardens 25 Abbots Road ID:00803000001865
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-08-08 10:56**
+- Subject: Calfordseaden Report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>
+
+**2022-08-08 17:41**
+- Subject: Fwd: Calfordseaden Report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com
+
+**2022-08-09 06:31**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001942
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-08-09 15:24**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001942
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-08-10 13:11**
+- Subject: Fwd: 35 Tangier Gardens, 25 Abbots Road ID:00803000001942
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com
+
+**2022-08-10 16:18**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001962
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-08-11 14:38**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001962
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-08-11 14:19**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001980
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-08-15 11:26**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001991
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-08-18 07:31**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000002028
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-08-18 08:49**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000002028
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-08-18 12:14**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000002031
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-08-19 15:02**
+- Subject: Calforseaden Report - 25 Abbots Road, Bishops Waltham
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Helen Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-08-22 10:55**
+- Subject: 35 Tangier Gardens 25 Abbots Road ID:00803000002044
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-08-22 10:59**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000002045
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-08-22 13:40**
+- Subject: Re: 35 Tangier Gardens 25 Abbots Road ID:00803000002044
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-08-24 10:04**
+- Subject: Fwd: 35 Tangier Gardens 25 Abbots Road ID:00803000002044
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, 
+	Helen Morley <helen.morley@crestnicholson.com>
+
+**2022-08-26 15:33**
+- Subject: Plot 35, Tangier Gardens
+- From: Leanne Poingdestre <Leanne.Poingdestre@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
 
 ## September 2022
+
+**2022-09-01 12:54**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000002045
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-09-01 11:55**
+- Subject: 25 Abbots Road - Front plants dead
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>
+
+**2022-09-01 11:57**
+- Subject: Automatic reply: [EXTERNAL] 25 Abbots Road - Front plants dead
+- From: Kevin Maguire <Kevin.Maguire@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2022-09-01 12:10**
+- Subject: 25 Abbots Road - Response to complaints and issues after
+ Calfordseaden report
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Helen Morley
+ <helen.morley@crestnicholson.com>
+
+**2022-09-02 15:02**
+- Subject: Fwd: 25 Abbots Road - Front plants dead
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>
+
+**2022-09-02 15:51**
+- Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000002098
+- From: Customer Service SO <customerserviceSO@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-09-02 17:23**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000002098
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
 
 **2022-09-02 16:29**
 - Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000002099
 - From: Customer Service SO <customerserviceSO@crestnicholson.com>
 - To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2022-09-02 17:34**
+- Subject: Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000002098
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2022-09-06 17:41**
+- Subject: 25 Abbots Road
+- From: Adrian Sims <Adrian.Sims@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, "jade.millington@hotmail.co.uk"
+	<jade.millington@hotmail.co.uk>
+
+**2022-09-07 10:20**
+- Subject: Re: 25 Abbots Road
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Adrian Sims <Adrian.Sims@crestnicholson.com>,
+ IAIN.FERGUSON@crestnicholson.com, PETER.TRUSCOTT@crestnicholson.com
 
 **2022-09-08 08:48**
 - Subject: Appointment with Mr Sims
@@ -6065,6 +9555,263 @@
 **2025-05-27 14:21**
 - Subject: URGENT UPDATE & New Evidence - NHOS Case Ref: NHOS-2024-000512 -
  Render & Path Issues
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Casework Team <casework@nhos.org.uk>, Nigel Cates <Nigel.cates@nhos.org.uk>
+
+
+## June 2025
+
+**2025-06-04 07:47**
+- Subject: Re: 0034 Albany Wood Complaint Interim Update21-05-25
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+
+**2025-06-04 11:54**
+- Subject: Fwd: URGENT UPDATE & New Evidence - NHOS Case Ref: NHOS-2024-000512 -
+ Render & Path Issues
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Casework Team <casework@nhos.org.uk>
+
+**2025-06-05 13:49**
+- Subject: Fwd: 0034 Albany Wood Complaint Interim Update21-05-25
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+
+**2025-06-05 17:10**
+- Subject: 0034 Albany Wood, 10 Colt View
+- From: Customer Service SO <CustomerServiceSO@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2025-06-05 19:07**
+- Subject: Re: 0034 Albany Wood, 10 Colt View
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <CustomerServiceSO@crestnicholson.com>
+
+**2025-06-05 19:07**
+- Subject: AutoResponse: [EXTERNAL] Re: 0034 Albany Wood, 10 Colt View
+- From: "Customer Service SO" <customerserviceso@crestnicholson.com>
+- To: "Paul Taylor" <paulroberttaylor@gmail.com>
+
+**2025-06-06 10:13**
+- Subject: Fwd: 0034 Albany Wood, 10 Colt View
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Casework Team <casework@nhos.org.uk>
+
+**2025-06-09 09:27**
+- Subject: Fwd: 0034 Albany Wood, 10 Colt View
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Charlie Joseph <Charlie.Joseph@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>
+
+**2025-06-09 09:27**
+- Subject: AutoResponse: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: "Customer Service SO" <customerserviceso@crestnicholson.com>
+- To: "Paul Taylor" <paulroberttaylor@gmail.com>
+
+**2025-06-09 08:27**
+- Subject: Automatic reply: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2025-06-09 11:10**
+- Subject: Fwd: 0034 Albany Wood, 10 Colt View - Case Ref: NHOS-2024-000512 
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Martyn Clark <martyn.clark@crestnicholson.com>, Claims <Claims@nhbc.co.uk>, 
+	Mark Foyle <Mark.Foyle@crestnicholson.com>
+
+**2025-06-09 10:10**
+- Subject: Automatic reply: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View -
+ Case Ref: NHOS-2024-000512
+- From: Mark Foyle <Mark.Foyle@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2025-06-09 11:12**
+- Subject: Fwd: 0034 Albany Wood, 10 Colt View - Case Ref: NHOS-2024-000512
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Casework Team <casework@nhos.org.uk>, Martyn Clark <martyn.clark@crestnicholson.com>
+
+**2025-06-09 11:21**
+- Subject: 0034 Albany Wood, 10 Colt View
+- From: Customer Service SO <CustomerServiceSO@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2025-06-09 14:12**
+- Subject: Re: 0034 Albany Wood, 10 Colt View
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Customer Service SO <CustomerServiceSO@crestnicholson.com>, 
+	Martyn Clark <martyn.clark@crestnicholson.com>
+
+**2025-06-09 14:13**
+- Subject: AutoResponse: [EXTERNAL] Re: 0034 Albany Wood, 10 Colt View
+- From: "Customer Service SO" <customerserviceso@crestnicholson.com>
+- To: "Paul Taylor" <paulroberttaylor@gmail.com>
+
+**2025-06-09 14:24**
+- Subject: Fwd: 0034 Albany Wood, 10 Colt View
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Casework Team <casework@nhos.org.uk>, 
+	NHOS Customer Service <customer.services@nhos.org.uk>
+
+**2025-06-09 13:25**
+- Subject: NHOS-E-00427982: We have received your email
+- From: NHOS Customer Services <noreply@nhos.org.uk>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2025-06-09 15:51**
+- Subject: RE: URGENT UPDATE & New Evidence - NHOS Case Ref: NHOS-2024-000512 -
+ Render & Path Issues
+- From: Casework Team <casework@nhos.org.uk>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2025-06-10 12:44**
+- Subject: Fwd: 0034 Albany Wood, 10 Colt View
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Martyn Clark <martyn.clark@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>, Casework Team <casework@nhos.org.uk>
+
+**2025-06-10 12:45**
+- Subject: AutoResponse: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: "Customer Service SO" <customerserviceso@crestnicholson.com>
+- To: "Paul Taylor" <paulroberttaylor@gmail.com>
+
+**2025-06-10 12:27**
+- Subject: RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>, Customer
+ Service SO <CustomerServiceSO@crestnicholson.com>
+
+**2025-06-10 15:04**
+- Subject: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+
+**2025-06-10 15:05**
+- Subject: AutoResponse: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: "Customer Service SO" <customerserviceso@crestnicholson.com>
+- To: "Paul Taylor" <paulroberttaylor@gmail.com>
+
+**2025-06-10 15:01**
+- Subject: RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2025-06-11 09:25**
+- Subject: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+
+**2025-06-11 09:25**
+- Subject: AutoResponse: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: "Customer Service SO" <customerserviceso@crestnicholson.com>
+- To: "Paul Taylor" <paulroberttaylor@gmail.com>
+
+**2025-06-11 09:01**
+- Subject: RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2025-06-11 10:36**
+- Subject: NHOS-2024-000512
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Nigel Cates <Nigel.cates@nhos.org.uk>
+
+**2025-06-16 11:07**
+- Subject: RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2025-06-16 12:18**
+- Subject: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+
+**2025-06-17 12:31**
+- Subject: Fwd: NHOS-2024-000512
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Casework Team <casework@nhos.org.uk>, Nigel Cates <Nigel.cates@nhos.org.uk>
+
+**2025-06-17 15:14**
+- Subject: 0034 Albany Wood Complaint Interim Update 17-06-25
+- From: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2025-06-19 10:13**
+- Subject: RE: NHOS-2024-000512
+- From: Casework Team <casework@nhos.org.uk>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2025-06-23 16:23**
+- Subject: RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2025-06-23 18:22**
+- Subject: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Martyn Clark <martyn.clark@crestnicholson.com>, Casework Team <casework@nhos.org.uk>, 
+	NHOS Customer Service <customer.services@nhos.org.uk>
+
+**2025-06-23 17:23**
+- Subject: NHOS-E-00444963: We have received your email
+- From: NHOS Customer Services <noreply@nhos.org.uk>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2025-06-23 19:13**
+- Subject: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+
+**2025-06-24 20:34**
+- Subject: Fwd: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Martyn Clark <martyn.clark@crestnicholson.com>
+
+**2025-06-25 09:27**
+- Subject: NHOS-2024-000512/P Taylor
+- From: Casework Team <casework@nhos.org.uk>
+- To: "paulroberttaylor+render@gmail.com" <paulroberttaylor+render@gmail.com>
+
+**2025-06-25 09:47**
+- Subject: RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Nikki Hogben <Nikki.Hogben@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2025-06-25 11:11**
+- Subject: Fwd: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Casework Team <casework@nhos.org.uk>, Nigel Cates <Nigel.cates@nhos.org.uk>
+
+**2025-06-25 10:41**
+- Subject: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+- From: NHOS Customer Service <customer.services@nhos.org.uk>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2025-06-25 10:42**
+- Subject: We welcome your feedback
+- From: NHOS Customer Service <customer.services@nhos.org.uk>
+- To: Paul Taylor <paulroberttaylor@gmail.com>
+
+**2025-06-25 14:18**
+- Subject: Mr Taylor - 0034 Albany Wood
+- From: Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+- To: "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+**2025-06-25 16:46**
+- Subject: Re: Mr Taylor - 0034 Albany Wood
+- From: Paul Taylor <paulroberttaylor@gmail.com>
+- To: Casework Team <casework@nhos.org.uk>, Nigel Cates <Nigel.cates@nhos.org.uk>
+
+**2025-06-26 09:25**
+- Subject: RE: Mr Taylor - 0034 Albany Wood
+- From: Casework Team <casework@nhos.org.uk>
+- To: Paul Taylor <paulroberttaylor@gmail.com>, Nigel Cates
+	<Nigel.Cates@nhos.org.uk>
+
+
+## July 2025
+
+**2025-07-04 08:23**
+- Subject: Re: Mr Taylor - 0034 Albany Wood
 - From: Paul Taylor <paulroberttaylor@gmail.com>
 - To: Casework Team <casework@nhos.org.uk>, Nigel Cates <Nigel.cates@nhos.org.uk>
 

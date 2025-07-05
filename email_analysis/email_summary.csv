@@ -1,51 +1,1186 @@
 date,subject,from,to,cc
+2021-07-16T13:51:43+01:00,Plot 35,Paul Taylor <paulroberttaylor@gmail.com>,Steve.Smith@crestnicholson.com,
+2021-07-16T12:53:32+00:00,RE: [EXTERNAL] Plot 35,Steve Smith <Steve.Smith@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2021-07-19T08:09:44+01:00,"Fwd: Purchase of 25 Abbots Wood Lane, Fair Oak, SO32 1RE",Paul Taylor <paulroberttaylor@gmail.com>,New Homes Team <NewHomesTeam@parissmith.co.uk>,"Jade Taylor <jade@dancepower.org>, Steve.Smith@crestnicholson.com"
+2021-07-20T11:10:55+01:00,Plot 35 Tangier Gardens,Paul Taylor <paulroberttaylor@gmail.com>,"Danielle.Green@crestnicholson.com, 
+	New Homes Team <NewHomesTeam@parissmith.co.uk>",Jade Taylor <jade@dancepower.org>
+2021-09-13T12:37:51+01:00,Side windows,Paul Taylor <paulroberttaylor@gmail.com>,Steve.Smith@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2021-09-13T15:07:53+00:00,FW: Plot 35,Steve Smith <Steve.Smith@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2021-10-09T12:32:38+01:00,Plot 35,Paul Taylor <paulroberttaylor@gmail.com>,Steve.Smith@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2021-10-09T11:37:13+00:00,RE: [EXTERNAL] Plot 35,Steve Smith <Steve.Smith@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2021-10-11T10:21:59+01:00,Fwd: Plot 35,Paul Taylor <paulroberttaylor@gmail.com>,Steve.Smith@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2021-10-11T09:59:20+00:00,RE: [EXTERNAL] Fwd: Plot 35,Steve Smith <Steve.Smith@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2021-10-11T11:12:40+01:00,Fwd: Plot 35,Paul Taylor <paulroberttaylor@gmail.com>,"Steve.Smith@crestnicholson.com, Jade Taylor <jade@dancepower.org>",
+2021-10-11T10:57:39+00:00,RE: [EXTERNAL] Fwd: Plot 35,Steve Smith <Steve.Smith@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2021-10-11T17:43:31+01:00,Kitchen doors,Paul Taylor <paulroberttaylor@gmail.com>,"Steve.Smith@crestnicholson.com, Jade Taylor <jade@dancepower.org>",
+2021-10-18T16:59:01+01:00,Plot 35 Tangier,Paul Taylor <paulroberttaylor@gmail.com>,paul.haigh@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2021-10-20T15:48:04+01:00,Re: Plot 35 Tangier,Paul Taylor <paulroberttaylor@gmail.com>,paul.haigh@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2021-10-22T16:37:34+00:00,RE: [EXTERNAL] Plot 35 Tangier,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>",Customer Service SO <customerserviceSO@crestnicholson.com>
+2021-10-27T10:22:42+01:00,Plot 35 Tangier,Paul Taylor <paulroberttaylor@gmail.com>,paul.haigh@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2021-10-28T11:54:44+01:00,Plot 35 Tangier,Paul Taylor <paulroberttaylor@gmail.com>,paul.haigh@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2021-10-28T11:10:47+00:00,RE: [EXTERNAL] Plot 35 Tangier,Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Jade Taylor <jade@dancepower.org>
+2021-10-28T13:29:14+01:00,Tangier Plot 35,Paul Taylor <paulroberttaylor@gmail.com>,paul.haigh@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2021-10-30T11:15:10+01:00,25 Abbots Road,Paul Taylor <paulroberttaylor@gmail.com>,paul.haigh@crestnicholson.com,jade@dancepower.org
+2021-10-31T13:31:56+00:00,General,Steve Smith <Steve.Smith@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Jade Millington <jade@dancepower.org>
+2021-10-31T13:35:28+00:00,Re: General,Paul Taylor <paulroberttaylor@gmail.com>,Steve Smith <Steve.Smith@crestnicholson.com>,Jade Millington <jade@dancepower.org>
+2021-11-01T13:52:08+00:00,Confirmation of Completion Letter- Plot 35 Tangier Gardens,Isabelle Hochet <Isabelle.Hochet@crestnicholson.com>,"""jade@dancepower.org"" <jade@dancepower.org>, ""paulroberttaylor@gmail.com""
+	<paulroberttaylor@gmail.com>",
+2021-11-01T16:51:48+00:00,Fibre Internet,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, 
+	Steve Smith <Steve.Smith@crestnicholson.com>",
+2021-11-01T20:26:36+00:00,Fly issue in loft,Paul Taylor <paulroberttaylor@gmail.com>,paul.haigh@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2021-11-02T09:26:30+00:00,RE: [EXTERNAL] Fibre Internet,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Steve Smith
+	<Steve.Smith@crestnicholson.com>",
+2021-11-02T14:16:02+00:00,RE: [EXTERNAL] 25 Abbots Road,Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"""jade@dancepower.org"" <jade@dancepower.org>"
+2021-11-02T16:37:04+00:00,Plot 35 Tangier - wardrobe,Paul Taylor <paulroberttaylor@gmail.com>,paul.haigh@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2021-11-03T12:34:32+00:00,25 Abbots Road - main bedroom wardrobe,Paul Taylor <paulroberttaylor@gmail.com>,paul.haigh@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2021-11-05T14:05:45+00:00,Plot 35 Tangier,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com",
+2021-11-08T08:55:35+00:00,Visit with MD,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com",Jade Taylor <jade@dancepower.org>
+2021-11-08T08:57:24+00:00,RE: [EXTERNAL] Visit with MD,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>","Jade Taylor <jade@dancepower.org>, Leanne Poingdestre
+	<Leanne.Poingdestre@crestnicholson.com>"
+2021-11-08T09:01:37+00:00,Plot 35 Tangier,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com, Jade
+ Taylor <jade.millington@hotmail.co.uk>",
+2021-11-08T09:03:02+00:00,[EXTERNAL] Visit with MD,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Helen Morley <Helen.Morley@crestnicholson.com>, Jade Taylor
+ <jade@dancepower.org>, Leanne Poingdestre
+ <Leanne.Poingdestre@crestnicholson.com>"
 2021-11-08T09:11:21+00:00,Kitchen Patio Doors,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com,
  paul.vincent@crestnicholson.com",
 2021-11-08T09:20:08+00:00,RE: [EXTERNAL] Kitchen Patio Doors,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
 	<Helen.Morley@crestnicholson.com>, Paul Vincent
 	<Paul.Vincent@crestnicholson.com>",
+2021-11-08T09:32:19+00:00,Flies in loft,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com",
 2021-11-08T09:55:11+00:00,[EXTERNAL] Kitchen Patio Doors,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Helen Morley <Helen.Morley@crestnicholson.com>, Paul Vincent
  <Paul.Vincent@crestnicholson.com>, Jade Taylor <jade@dancepower.org>"
 2021-11-08T10:01:15+00:00,[EXTERNAL] Kitchen Patio Doors,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com, Jade
  Taylor <jade.millington@hotmail.co.uk>",
+2021-11-08T10:06:40+00:00,Side boundary and landscaping,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com",Jade Taylor <jade.millington@hotmail.co.uk>
+2021-11-08T10:24:24+00:00,Fibre Cable Left Hanging From Our Front Wall,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com",Jade Taylor <jade.millington@hotmail.co.uk>
+2021-11-08T18:21:32+00:00,25 Abbots Road,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com",Jade Taylor <jade@dancepower.org>
+2021-11-08T19:47:43+00:00,RE: [EXTERNAL] 25 Abbots Road,Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Jade Taylor <jade@dancepower.org>
+2021-11-09T10:34:12+00:00,Meeting arranged,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>",Customer Service SO <customerserviceSO@crestnicholson.com>
 2021-11-09T14:53:38+00:00,Re: [EXTERNAL] Kitchen Patio Doors,Paul Taylor <paulroberttaylor@gmail.com>,"Paul Haigh <Paul.Haigh@crestnicholson.com>, Jade Taylor
  <jade.millington@hotmail.co.uk>","Helen Morley <Helen.Morley@crestnicholson.com>, Paul Vincent
  <Paul.Vincent@crestnicholson.com>"
+2021-11-09T15:26:35+00:00,Re: [EXTERNAL] 25 Abbots Road,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com",Jade Taylor <jade@dancepower.org>
+2021-11-09T15:29:10+00:00,Re: Flies in loft,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com",Jade Taylor <jade.millington@hotmail.co.uk>
+2021-11-09T15:35:33+00:00,Rear garden jetwashed,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com","Jade Taylor <jade.millington@hotmail.co.uk>,
+ paul.vincent@crestnicholson.com"
 2021-11-10T14:16:41+00:00,Re: [EXTERNAL] Kitchen Patio Doors,Paul Taylor <paulroberttaylor@gmail.com>,"Paul Haigh <Paul.Haigh@crestnicholson.com>, Jade Taylor
  <jade.millington@hotmail.co.uk>","Helen Morley <Helen.Morley@crestnicholson.com>, Paul Vincent
  <Paul.Vincent@crestnicholson.com>"
+2021-11-10T14:22:33+00:00,Re: Flies in loft,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com,
+ paul.vincent@crestnicholson.com",Jade Taylor <jade.millington@hotmail.co.uk>
+2021-11-10T15:09:52+00:00,RE: [EXTERNAL] 25 Abbots Road,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
 2021-11-10T16:37:04+00:00,RE: [EXTERNAL] Kitchen Patio Doors,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
 	<jade.millington@hotmail.co.uk>","Helen Morley <Helen.Morley@crestnicholson.com>, Paul Vincent
 	<Paul.Vincent@crestnicholson.com>"
+2021-11-10T16:43:07+00:00,RE: [EXTERNAL] Re: Flies in loft,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>",Jade Taylor <jade.millington@hotmail.co.uk>
 2021-11-10T17:15:54+00:00,Re: [EXTERNAL] Kitchen Patio Doors,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade.millington@hotmail.co.uk>, Helen Morley
  <Helen.Morley@crestnicholson.com>, Paul Vincent
  <Paul.Vincent@crestnicholson.com>"
 2021-11-11T10:35:31+00:00,Re: [EXTERNAL] Kitchen Patio Doors,Paul Taylor <paulroberttaylor@gmail.com>,"helen.morley@crestnicholson.com, paul.haigh@crestnicholson.com,
  paul.vincent@crestnicholson.com",Jade Taylor <jade.millington@hotmail.co.uk>
+2021-11-11T10:35:52+00:00,Automatic reply: [EXTERNAL] Kitchen Patio Doors,Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2021-11-11T10:38:14+00:00,Re: [EXTERNAL] 25 Abbots Road,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Helen Morley <Helen.Morley@crestnicholson.com>, Jade Taylor <jade@dancepower.org>"
+2021-11-11T10:45:48+00:00,Re: Fibre Cable Left Hanging From Our Front Wall,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, paul.vincent@crestnicholson.com,
+ helen.morley@crestnicholson.com",Jade Taylor <jade.millington@hotmail.co.uk>
+2021-11-11T10:46:19+00:00,,Paul Taylor <paulroberttaylor@gmail.com>,"paul.haigh@crestnicholson.com, helen.morley@crestnicholson.com",Jade Taylor <jade.millington@hotmail.co.uk>
+2021-11-12T18:16:10+00:00,"Automatic reply: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) -
+ Professional Survey Report",Tom Nicholson <Tom.Nicholson@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2021-11-12T18:16:16+00:00,"Automatic reply: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) -
+ Professional Survey Report",Kieran Daya <Kieran.Daya@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2021-11-14T20:18:20+00:00,25 Abbots Road - Meeting 11am Monday 15th November,Paul Taylor <paulroberttaylor@gmail.com>,paul.haigh@crestnicholson.com,
+2021-11-15T11:06:50+00:00,,Paul Taylor <paulroberttaylor@gmail.com>,paul.haigh@crestnicholson.com,
+2021-11-15T11:08:18+00:00,Personal issues list,Paul Taylor <paulroberttaylor@gmail.com>,paul.haigh@crestnicholson.com,
+2021-11-15T18:19:44+00:00,"[EXTERNAL] 25 Abbots Road, Tangier (Plot 35) - Professional Survey
+ Report",Adrian Sims <Adrian.Sims@crestnicholson.com>,"""'paulroberttaylor@gmail.com'"" <paulroberttaylor@gmail.com>","Helen Morley <Helen.Morley@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>"
+2021-11-16T09:10:06+00:00,,Paul Taylor <paulroberttaylor@gmail.com>,Adrian.Sims@crestnicholson.com,
+2021-11-16T09:18:07+00:00,"Re: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) - Professional
+ Survey Report",Paul Taylor <paulroberttaylor@gmail.com>,Adrian Sims <Adrian.Sims@crestnicholson.com>,
+2021-11-17T14:51:30+00:00,"Fwd: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) - Professional
+ Survey Report",Paul Taylor <paulroberttaylor@gmail.com>,Adrian.Sims@crestnicholson.com,
+2021-11-17T16:55:33+00:00,"Fwd: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) - Professional
+ Survey Report",Paul Taylor <paulroberttaylor@gmail.com>,Adrian.Sims@crestnicholson.com,
+2021-11-18T11:16:16+00:00,Another wall,Paul Taylor <paulroberttaylor@gmail.com>,paul.haigh@crestnicholson.com,
+2021-11-22T07:51:13+00:00,Fwd: Rear garden jetwashed,Paul Taylor <paulroberttaylor@gmail.com>,helen.morley@crestnicholson.com,paul.haigh@crestnicholson.com
+2021-11-22T07:51:19+00:00,Automatic reply: [EXTERNAL] Fwd: Rear garden jetwashed,Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2021-11-22T07:51:19+00:00,Automatic reply: [EXTERNAL] Fwd: Rear garden jetwashed,Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2021-11-22T07:56:36+00:00,Rear fence nails,Paul Taylor <paulroberttaylor@gmail.com>,helen.morley@crestnicholson.com,paul.haigh@crestnicholson.com
+2021-11-22T16:59:52+00:00,Buzz Box,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Millington <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>","Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Steve Smith
+	<Steve.Smith@crestnicholson.com>"
+2021-11-23T14:27:31+00:00,Customer Care,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Paul Vincent <Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>"
+2021-11-24T07:30:49+00:00,Re: Customer Care,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Paul Haigh <Paul.Haigh@crestnicholson.com>"
+2021-11-24T08:20:25+00:00,Fwd: Customer Care BT,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"paul.vincent@crestnicholson.com, paul.haigh@crestnicholson.com"
+2021-11-24T21:35:26+00:00,RE: [EXTERNAL] Fwd: Customer Care BT,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, ""jade@dancepower.org""
+	<jade@dancepower.org>","Paul Vincent <Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>"
+2021-11-25T14:39:56+00:00,Cladding to left of front door,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Paul Haigh
+ <Paul.Haigh@crestnicholson.com>"
+2021-11-25T16:18:56+00:00,RE: [EXTERNAL] Cladding to left of front door,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Paul Haigh <Paul.Haigh@crestnicholson.com>"
+2021-11-29T19:07:17+00:00,"RE: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) - Professional
+ Survey Report",Adrian Sims <Adrian.Sims@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>,
+	""jade@dancepower.org"" <jade@dancepower.org>","Helen Morley <Helen.Morley@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>"
+2021-11-30T12:24:12+00:00,Munster,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Haigh <paul.haigh@crestnicholson.com>
+2021-11-30T13:37:28+00:00,25 Abbots Road - plasterwork,Paul Taylor <paulroberttaylor@gmail.com>,"Paul Haigh <paul.haigh@crestnicholson.com>,
+ helen.morley@crestnicholson.com",
+2021-12-01T09:19:33+00:00,RE: [EXTERNAL] Munster,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>",
+2021-12-01T09:24:00+00:00,RE: [EXTERNAL] 25 Abbots Road - plasterwork,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>",
+2021-12-01T09:30:02+00:00,Follow up from conversation yesterday,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Haigh <paul.haigh@crestnicholson.com>
+2021-12-01T10:01:55+00:00,Re: [EXTERNAL] Munster,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <Paul.Haigh@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2021-12-01T12:00:26+00:00,Fwd: Follow up from conversation yesterday,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2021-12-01T15:15:34+00:00,RE: [EXTERNAL] Munster,Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Jade Taylor <jade@dancepower.org>
+2021-12-01T15:19:52+00:00,"Plot 35 Tangier Gardens, Dry lining Works",Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>"
+2021-12-01T16:19:36+00:00,Re: [EXTERNAL] Munster,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <Paul.Haigh@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2021-12-01T16:27:48+00:00,RE: [EXTERNAL] Munster,Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>"
+2021-12-01T17:20:27+00:00,Re: [EXTERNAL] Munster,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>"
+2021-12-02T11:37:26+00:00,"Top reveals, windows and doors",Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <paul.haigh@crestnicholson.com>,
+2021-12-02T13:47:54+00:00,Programme of works prior to meeting,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>","Customer Service SO <customerserviceSO@crestnicholson.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>"
+2021-12-03T09:01:42+00:00,"RE: [EXTERNAL] Top reveals, windows and doors",Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>
+2021-12-03T17:16:23+00:00,Plot 35 Tangier Gardens,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>",
+2021-12-03T19:57:45+00:00,Re: Plot 35 Tangier Gardens,Jade Millington <jade@dancepower.org>,Paul Haigh <paul.haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>
+2021-12-06T07:54:53+00:00,Openreach Visit,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>","Paul Vincent <Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>"
+2021-12-06T08:28:53+00:00,Re: Openreach Visit,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Paul Haigh <Paul.Haigh@crestnicholson.com>"
+2021-12-06T10:10:58+00:00,Landscaping,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2021-12-06T14:35:03+00:00,Fwd: Landscaping,Paul Taylor <paulroberttaylor@gmail.com>,"Paul Haigh <paul.haigh@crestnicholson.com>, 
+	Marc Gilmore <Marc.Gilmore@crestnicholson.com>",
+2021-12-06T15:09:06+00:00,RE: [EXTERNAL] Fwd: Landscaping,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>",
+2021-12-06T20:08:00+00:00,Plot 35 Tangier Gardens,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>","Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>"
+2021-12-11T10:19:20+00:00,"Plot 35, Tangier Gardens",Adrian Sims <Adrian.Sims@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <Helen.Morley@crestnicholson.com>, Leanne Poingdestre
+	<Leanne.Poingdestre@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>"
+2021-12-17T12:08:27+00:00,25 Abbots Road - outstanding oustide work,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <paul.haigh@crestnicholson.com>,
+2021-12-17T13:23:00+00:00,Fwd: 25 Abbots Road - outstanding oustide work,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2021-12-17T13:32:45+00:00,Fwd: 25 Abbots Road - outstanding oustide work,Paul Taylor <paulroberttaylor@gmail.com>,"Paul Haigh <paul.haigh@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2021-12-17T14:25:18+00:00,RE: [EXTERNAL] 25 Abbots Road - outstanding oustide work,Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2021-12-17T15:24:17+00:00,RE: [EXTERNAL] Fwd: 25 Abbots Road - outstanding oustide work,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2021-12-17T17:11:14+00:00,"FW: Plot 35, Tangier Gardens",Adrian Sims <Adrian.Sims@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <Helen.Morley@crestnicholson.com>, Leanne Poingdestre
+	<Leanne.Poingdestre@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>"
+2021-12-21T12:47:43+00:00,Plant -- Fwd: [EXTERNAL] 25 Abbots Rd,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <paul.haigh@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2021-12-21T13:08:46+00:00,RE: Plant -- Fwd: [EXTERNAL] 25 Abbots Rd,Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>"
+2021-12-21T13:16:45+00:00,Re: Plant -- Fwd: [EXTERNAL] 25 Abbots Rd,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Simon Minor <Simon.Minor@crestnicholson.com>"
+2021-12-21T13:34:59+00:00,RE: Plant -- Fwd: [EXTERNAL] 25 Abbots Rd,Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>"
+2021-12-21T13:50:42+00:00,Re: Plant -- Fwd: [EXTERNAL] 25 Abbots Rd,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Simon Minor <Simon.Minor@crestnicholson.com>"
+2021-12-23T19:41:15+00:00,Brick debris,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <paul.haigh@crestnicholson.com>,
+2021-12-23T19:44:08+00:00,RE: [EXTERNAL] Brick debris,Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2021-12-23T19:49:19+00:00,RAMS,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>","Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>"
+2021-12-23T20:09:20+00:00,Re: [EXTERNAL] Brick debris,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <Paul.Haigh@crestnicholson.com>,
+2021-12-23T20:55:55+00:00,Re: RAMS,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <Paul.Haigh@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2021-12-23T20:56:05+00:00,Automatic reply: [EXTERNAL] Re: RAMS,Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2021-12-23T20:56:18+00:00,Fwd: 25 Abbots Road - outstanding oustide work,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <paul.haigh@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-01-04T09:23:12+00:00,Re: RAMS,Jade Millington <jade@dancepower.org>,Paul Haigh <paul.haigh@crestnicholson.com>,Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+2022-01-04T09:38:20+00:00,RE: [EXTERNAL] Re: RAMS,Paul Haigh <Paul.Haigh@crestnicholson.com>,Jade Millington <jade@dancepower.org>,Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+2022-01-04T09:52:08+00:00,Re: [EXTERNAL] Re: RAMS,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <Paul.Haigh@crestnicholson.com>,Jade Millington <jade@dancepower.org>
+2022-01-05T07:57:35+00:00,Internal Works,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <paul.haigh@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-01-06T11:09:59+00:00,RE: [EXTERNAL] Internal Works,Paul Haigh <Paul.Haigh@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Jade Taylor <jade@dancepower.org>
+2022-01-07T11:12:01+00:00,Plant care,Paul Taylor <paulroberttaylor@gmail.com>,Steve Smith <Steve.Smith@crestnicholson.com>,
+2022-01-07T11:36:31+00:00,RE: [EXTERNAL] Plant care,Steve Smith <Steve.Smith@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2022-01-07T11:50:33+00:00,Landscaping and Fencing,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-01-07T16:44:24+00:00,Fwd: General,paulroberttaylor@gmail.com,helen.morley@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2022-01-07T16:48:41+00:00,RE: [EXTERNAL] Fwd: General,Helen Morley <Helen.Morley@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",Jade Taylor <jade@dancepower.org>
+2022-01-08T08:30:10+00:00,RE: [EXTERNAL] Landscaping and Fencing,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Paul Haigh <Paul.Haigh@crestnicholson.com>"
+2022-01-08T08:35:17+00:00,Tangier Gardens- plot 35 Planting.,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>","Paul Vincent <Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>"
+2022-01-08T13:11:44+00:00,Re: Tangier Gardens- plot 35 Planting. (and back garden),Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-01-12T09:49:02+00:00,Brickwork,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-01-12T09:52:46+00:00,Fwd: Internal Works,paulroberttaylor@gmail.com,Paul Haigh <paul.haigh@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-01-12T10:01:24+00:00,RE: [EXTERNAL] Brickwork,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Paul Haigh <Paul.Haigh@crestnicholson.com>"
+2022-01-12T10:08:13+00:00,Re: [EXTERNAL] Brickwork,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Paul Haigh
+ <Paul.Haigh@crestnicholson.com>"
+2022-01-12T10:12:56+00:00,Re: [EXTERNAL] Landscaping and Fencing,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Paul Haigh
+ <Paul.Haigh@crestnicholson.com>"
+2022-01-12T12:40:39+00:00,Fwd: Internal Works,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-01-12T13:04:18+00:00,RE: [EXTERNAL] Fwd: Internal Works,Paul Haigh <Paul.Haigh@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Jade Taylor <jade@dancepower.org>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>"
+2022-01-12T13:17:48+00:00,Re: [EXTERNAL] Fwd: Internal Works,paulroberttaylor@gmail.com,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>"
+2022-01-12T18:42:00+00:00,RE: [EXTERNAL] Fwd: Internal Works,Paul Haigh <Paul.Haigh@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Jade Taylor <jade@dancepower.org>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>"
+2022-01-14T10:30:06+00:00,Re: [EXTERNAL] Fwd: Internal Works,Paul Taylor <paulroberttaylor@gmail.com>,helen.morley@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2022-01-14T10:46:03+00:00,Fwd: General,paulroberttaylor@gmail.com,helen.morley@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2022-01-14T13:24:25+00:00,Fwd: [EXTERNAL] Fwd: Internal Works,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-01-14T14:37:06+00:00,RE: [EXTERNAL] Fwd: Internal Works,Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>"
+2022-01-17T12:00:47+00:00,Fwd: General,paulroberttaylor@gmail.com,"helen.morley@crestnicholson.com, Jade Taylor <jade@dancepower.org>",
+2022-01-17T12:45:44+00:00,En-suite Bedroom redundant nib,Paul Taylor <paulroberttaylor@gmail.com>,helen.morley@crestnicholson.com,
+2022-01-18T11:09:08+00:00,Fwd: Tangier Plot 35,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <paul.haigh@crestnicholson.com>,
+2022-01-18T12:15:04+00:00,Ceiling in the en-suite bedroom,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-01-18T12:59:57+00:00,"Fwd: [EXTERNAL] Top reveals, windows and doors",Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-01-19T08:33:35+00:00,RE: [EXTERNAL] En-suite Bedroom redundant nib,Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>
+2022-01-19T16:52:13+00:00,Re: General,paulroberttaylor@gmail.com,"helen.morley@crestnicholson.com, Jade Taylor <jade@dancepower.org>,
+ Customer Service SO <customerserviceSO@crestnicholson.com>, Steve Smith
+ <Steve.Smith@crestnicholson.com>",
+2022-01-19T17:50:03+00:00,Re: [EXTERNAL] En-suite Bedroom redundant nib,paulroberttaylor@gmail.com,helen.morley@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2022-01-19T18:13:12+00:00,"Fwd: Top reveals, windows and doors",Paul Taylor <paulroberttaylor@gmail.com>,"helen.morley@crestnicholson.com, Jade Taylor <jade@dancepower.org>",
+2022-01-21T07:56:36+00:00,RE: [EXTERNAL] 25 Abbots Road,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Jade Millington <jade@dancepower.org>,Paul Taylor <paulroberttaylor@gmail.com>
+2022-01-21T08:01:08+00:00,Re: [EXTERNAL] 25 Abbots Road,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Jade Millington <jade@dancepower.org>
+2022-01-21T10:57:32+00:00,RE: [EXTERNAL] Re: General,Helen Morley <Helen.Morley@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-01-21T10:58:34+00:00,Re: [EXTERNAL] Re: General,Paul Taylor <paulroberttaylor@gmail.com>,Helen Morley <Helen.Morley@crestnicholson.com>,
+2022-01-24T10:53:52+00:00,Working hours,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>","Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>"
+2022-01-24T12:09:01+00:00,Re: Working hours,Jade Millington <jade@dancepower.org>,"Ice Paul Robert Taylor <paulroberttaylor@gmail.com>, Paul Haigh <paul.haigh@crestnicholson.com>",
+2022-01-24T12:10:40+00:00,RE: [EXTERNAL] Re: Working hours,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Millington <jade@dancepower.org>, Ice Paul Robert Taylor
+	<paulroberttaylor@gmail.com>",
+2022-01-25T13:12:47+00:00,Garage DPC,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-01-25T15:35:20+00:00,Bathroom,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-01-25T15:38:00+00:00,Bathroom,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-01-26T08:03:46+00:00,Fwd: Garage DPC,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-01-26T12:29:31+00:00,February School Holidays,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-01-26T12:38:00+00:00,Main Bathroom Sink,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-01-26T16:49:28+00:00,25 abbots Rd,Jade Millington <jade@dancepower.org>,"Ice Paul Robert Taylor <paulroberttaylor@gmail.com>, Marc.Gilmore@crestnicholson.com",
+2022-01-27T12:59:59+00:00,Scratched Radiator in en-suite,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-01-27T14:31:57+00:00,Munster Appointment,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>","Paul Vincent <Paul.Vincent@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>"
+2022-01-27T14:32:51+00:00,Re: Munster Appointment,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>"
+2022-01-27T15:02:42+00:00,RE: [EXTERNAL] 25 abbots Rd,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Millington <jade@dancepower.org>, Ice Paul Robert Taylor
+	<paulroberttaylor@gmail.com>","Paul Vincent <Paul.Vincent@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>"
+2022-01-28T07:50:40+00:00,RE: [EXTERNAL] February School Holidays,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>"
+2022-01-28T08:00:48+00:00,Re: [EXTERNAL] February School Holidays,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent <Paul.Vincent@crestnicholson.com>"
+2022-01-28T08:43:43+00:00,Window reveals,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-01-28T09:01:08+00:00,En-suite Tile,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-01-28T11:01:53+00:00,Scope of works.,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>",Paul Vincent <Paul.Vincent@crestnicholson.com>
+2022-01-28T17:43:40+00:00,"25 Abbots Road, Tangier Lane",Jade Millington <jade@dancepower.org>,helen.morley@crestnicholson.com,Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+2022-01-31T15:00:00+00:00,"RE: [EXTERNAL] 25 Abbots Road, Tangier Lane",Helen Morley <Helen.Morley@crestnicholson.com>,Jade Millington <jade@dancepower.org>,Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+2022-01-31T18:18:56+00:00,Building mess in guttering,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-02-01T16:15:54+00:00,WC boxing in,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-02-01T16:18:54+00:00,W/C Boxing In,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-02-01T16:40:54+00:00,Fwd: Side boundary and landscaping,Paul Taylor <paulroberttaylor@gmail.com>,"helen.morley@crestnicholson.com, 
+	Paul Haigh <paul.haigh@crestnicholson.com>, 
+	Paul Vincent <paul.vincent@crestnicholson.com>",
+2022-02-02T16:22:12+00:00,Site visit,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>","Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>"
+2022-02-02T21:17:16+00:00,Re: Site visit,Paul Taylor <paulroberttaylor@gmail.com>,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Simon Minor <Simon.Minor@crestnicholson.com>"
+2022-02-03T14:27:56+00:00,En-suite toilet,paulroberttaylor@gmail.com,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-02-03T15:12:22+00:00,"RE: [EXTERNAL] 25 Abbots Road, Tangier Lane",Helen Morley <Helen.Morley@crestnicholson.com>,Jade Millington <jade@dancepower.org>,Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+2022-02-03T16:25:01+00:00,"Re: [EXTERNAL] 25 Abbots Road, Tangier Lane",Jade Millington <jade@dancepower.org>,"Helen Morley <helen.morley@crestnicholson.com>, 
+	Ice Paul Robert Taylor <paulroberttaylor@gmail.com>",
+2022-02-03T17:03:58+00:00,External Works - Request For Completion Date,paulroberttaylor@gmail.com,helen.morley@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2022-02-03T17:08:15+00:00,"RE: [EXTERNAL] 25 Abbots Road, Tangier Lane",Helen Morley <Helen.Morley@crestnicholson.com>,"Jade Millington <jade@dancepower.org>, Ice Paul Robert Taylor
+	<paulroberttaylor@gmail.com>",
+2022-02-03T17:19:06+00:00,"Re: [EXTERNAL] 25 Abbots Road, Tangier Lane",Jade Millington <jade@dancepower.org>,Helen Morley <Helen.Morley@crestnicholson.com>,Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+2022-02-04T15:26:06+00:00,"RE: [EXTERNAL] 25 Abbots Road, Tangier Lane",Helen Morley <Helen.Morley@crestnicholson.com>,Jade Millington <jade@dancepower.org>,Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+2022-02-04T19:24:57+00:00,Works Going Forward,Paul Taylor <paulroberttaylor@gmail.com>,helen.morley@crestnicholson.com,Home <paulroberttaylor@gmail.com>
+2022-02-04T19:25:15+00:00,Wardrobe,Paul Taylor <paulroberttaylor@gmail.com>,helen.morley@crestnicholson.com,
+2022-02-04T19:33:17+00:00,Wardrobe,Jade Millington <jade@dancepower.org>,Helen Morley <helen.morley@crestnicholson.com>,Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+2022-02-04T19:35:52+00:00,NHBC Standards not being met,paulroberttaylor@gmail.com,helen.morley@crestnicholson.com,Jade Taylor <jade@dancepower.org>
+2022-02-07T09:36:29+00:00,W/C Paintwork and Plastering,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>"
+2022-02-07T11:38:32+00:00,Damaged Hob,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Simon Minor
+ <Simon.Minor@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, helen.morley@crestnicholson.com"
+2022-02-07T11:46:47+00:00,Rear guttering,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, Simon Minor
+ <Simon.Minor@crestnicholson.com>"
+2022-02-08T12:24:05+00:00,Ground work visit earlier this afternoon,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, Simon Minor
+ <Simon.Minor@crestnicholson.com>, Jade Taylor
+ <jade.millington@hotmail.co.uk>"
+2022-02-08T17:55:38+00:00,Site visit,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>",Helen Morley <Helen.Morley@crestnicholson.com>
+2022-02-08T19:37:21+00:00,Wardrobe,Jade Millington <jade@dancepower.org>,"Ice Paul Robert Taylor <paulroberttaylor@gmail.com>, Marc.Gilmore@crestnicholson.com, 
+	paul.vincent@crestnicholson.com, simon.minor@crestnicholson.com",
+2022-02-08T21:02:36+00:00,Re: [EXTERNAL] Wardrobe,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Millington <jade@dancepower.org>, Ice Paul Robert Taylor
+	<paulroberttaylor@gmail.com>, Paul Vincent <Paul.Vincent@crestnicholson.com>,
+	Simon Minor <Simon.Minor@crestnicholson.com>",
+2022-02-09T12:42:29+00:00,En-suite toilet,paulroberttaylor@gmail.com,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",
+2022-02-09T17:20:17+00:00,RE: [EXTERNAL] En-suite toilet,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>",
+2022-02-10T08:05:04+00:00,Fwd: [EXTERNAL] En-suite toilet,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-02-10T11:03:17+00:00,Work for Alan tomorrow in the utility room,paulroberttaylor@gmail.com,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-02-10T11:41:49+00:00,Work at rear of house,paulroberttaylor@gmail.com,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-02-11T07:47:30+00:00,Fwd: Work for Alan tomorrow in the utility room,Paul Taylor <paulroberttaylor@gmail.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>","Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Jade Taylor <jade@dancepower.org>"
+2022-02-11T15:26:55+00:00,RE: [EXTERNAL] Wardrobe,Helen Morley <Helen.Morley@crestnicholson.com>,Jade Millington <jade@dancepower.org>,Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+2022-02-11T17:15:22+00:00,Plot 35 Tangier Gardens,Helen Morley <Helen.Morley@crestnicholson.com>,Jade Taylor <jade@dancepower.org>,"Ice Paul Robert Taylor <paulroberttaylor@gmail.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>"
+2022-02-14T11:31:37+00:00,Fwd: Work at rear of house,paulroberttaylor@gmail.com,Customer Service SO <customerserviceSO@crestnicholson.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Jade Taylor <jade@dancepower.org>"
+2022-02-14T14:15:49+00:00,Site visit,Paul Haigh <Paul.Haigh@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>","Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-02-15T09:10:10+00:00,Re: [EXTERNAL] 25 abbots Rd,paulroberttaylor@gmail.com,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-02-15T13:50:50+00:00,Fwd: Work at rear of house,Paul Taylor <paulroberttaylor@gmail.com>,"helen.morley@crestnicholson.com, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Simon Minor
+ <Simon.Minor@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-02-15T17:10:41+00:00,RE: [EXTERNAL] Fwd: Work at rear of house,Helen Morley <Helen.Morley@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-02-15T18:03:20+00:00,Re: [EXTERNAL] Fwd: Work at rear of house,Paul Taylor <paulroberttaylor@gmail.com>,"helen.morley@crestnicholson.com, Customer Service SO
+ <customerserviceSO@crestnicholson.com>","Jade Taylor <jade@dancepower.org>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>"
+2022-02-17T14:20:10+00:00,Tangier Gardens PT35- External works,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>","Paul Vincent <Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-02-17T14:27:43+00:00,25 Abbots Road Rear garden alterations,Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Jade Taylor <jade@dancepower.org>
+2022-02-18T13:52:21+00:00,Tangier Gardens PT 35- External Works,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>","Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Paul Haigh <Paul.Haigh@crestnicholson.com>"
+2022-02-18T15:00:55+00:00,Re: Tangier Gardens PT 35- External Works,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <Helen.Morley@crestnicholson.com>"
+2022-02-19T08:46:39+00:00,RE: [EXTERNAL] Re: Tangier Gardens PT 35- External Works,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-02-19T08:58:05+00:00,Tangier Gardens- PT 35,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>","Paul Vincent <Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-02-19T15:21:46+00:00,Re: [EXTERNAL] Re: Tangier Gardens PT 35- External Works,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>, Jade Taylor <jade@dancepower.org>",
+2022-02-19T15:29:22+00:00,Re: Tangier Gardens- PT 35,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-02-21T07:23:32+00:00,Brick company,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-02-21T08:57:40+00:00,22/05864 25 Abbots Road - Brick wall out of plumb,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"NHBC Technical Support <technicalsupport@nhbc.co.uk>, Claims <Claims@nhbc.co.uk>"
+2022-02-21T09:37:04+00:00,Fwd: [EXTERNAL] Re: Tangier Gardens PT 35- External Works,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-02-21T12:12:24+00:00,Fwd: Tangier Gardens- PT 35,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-02-21T12:21:55+00:00,25 Abbots Road - fence post not installed properly,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-02-22T10:33:31+00:00,RE: [EXTERNAL] Re: Tangier Gardens PT 35- External Works,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Jade Taylor <jade@dancepower.org>","Helen Morley <Helen.Morley@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>"
+2022-02-22T12:05:07+00:00,Re: 25 Abbots Road - outstanding internal works,Jade Millington <jade@dancepower.org>,Helen Morley <helen.morley@crestnicholson.com>,Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+2022-02-22T15:26:48+00:00,RE: [EXTERNAL] Fwd: Tangier Gardens- PT 35,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-02-22T17:42:39+00:00,Re: [EXTERNAL] Fwd: Tangier Gardens- PT 35,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <Helen.Morley@crestnicholson.com>"
+2022-02-22T17:47:26+00:00,Fwd: 22/05864 25 Abbots Road - Brick wall out of plumb,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>",
+2022-02-22T17:48:05+00:00,Fwd: Brick company,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-02-22T17:50:40+00:00,Fwd: Work for Alan tomorrow in the utility room,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Marc Gilmore <Marc.Gilmore@crestnicholson.com>",
+2022-02-23T10:04:40+00:00,RE: [EXTERNAL] Fwd: 22/05864 25 Abbots Road - Brick wall out of plumb,Helen Morley <Helen.Morley@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>","Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>"
+2022-02-23T11:23:36+00:00,RE: [EXTERNAL] Re: 25 Abbots Road - outstanding internal works,Helen Morley <Helen.Morley@crestnicholson.com>,Jade Taylor <jade@dancepower.org>,Paul Taylor <paulroberttaylor@gmail.com>
+2022-02-23T16:07:41+00:00,RE: [EXTERNAL] Fwd: Tangier Gardens- PT 35,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-02-24T17:07:35+00:00,Munster / Magic Man,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-02-24T17:28:32+00:00,Outside Rear Works,Paul Taylor <paulroberttaylor@gmail.com>,Helen Morley <helen.morley@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-02-24T18:03:53+00:00,RE: [EXTERNAL] Outside Rear Works,Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Jade Taylor <jade@dancepower.org>
+2022-02-25T11:07:00+00:00,Re: Brick company,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>",
+2022-02-28T14:54:37+00:00,OFFICIAL COMPLAINT - 25 ABBOTS ROAD TANGIER LANE,Paul Taylor <paulroberttaylor@gmail.com>,"info@crestnicholson.com, PETER.TRUSCOTT@crestnicholson.com",
+2022-03-01T10:02:03+00:00,FW: [EXTERNAL] OFFICIAL COMPLAINT - 25 ABBOTS ROAD TANGIER LANE,Adrian Sims <Adrian.Sims@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Helen Morley <Helen.Morley@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Nikki Hogben
+	<Nikki.Hogben@crestnicholson.com>"
+2022-03-03T13:31:13+00:00,Works to rear of property,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, 
+	Marc Gilmore <Marc.Gilmore@crestnicholson.com>",
+2022-03-04T16:03:38+00:00,RE: [EXTERNAL] Works to rear of property,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>",Paul Vincent <Paul.Vincent@crestnicholson.com>
+2022-03-07T09:14:58+00:00,Fencing,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-03-07T11:17:45+00:00,Fwd: Fencing,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-03-07T11:51:33+00:00,RE: [EXTERNAL] Fencing,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2022-03-07T12:06:22+00:00,Re: [EXTERNAL] Fencing,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-03-07T12:31:51+00:00,Re: [EXTERNAL] Works to rear of property,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,
+2022-03-08T09:42:13+00:00,RE: [EXTERNAL] Fencing,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2022-03-08T10:16:43+00:00,RE: [EXTERNAL] Works to rear of property,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-03-08T14:50:37+00:00,Munster Attendance,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>"
+2022-03-08T16:36:19+00:00,Re: Munster Attendance,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent <Paul.Vincent@crestnicholson.com>"
+2022-03-09T16:37:00+00:00,RE: [EXTERNAL] Re: Munster Attendance,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>"
+2022-03-09T16:47:38+00:00,Re: [EXTERNAL] Re: Munster Attendance,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent <Paul.Vincent@crestnicholson.com>"
+2022-03-09T16:48:54+00:00,Re: [EXTERNAL] Re: Munster Attendance,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>"
+2022-03-09T17:15:41+00:00,Re: [EXTERNAL] Re: Munster Attendance,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>"
+2022-03-09T17:55:44+00:00,Re: [EXTERNAL] Re: Munster Attendance,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>"
+2022-03-10T07:16:28+00:00,Re: [EXTERNAL] Re: Munster Attendance,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent <Paul.Vincent@crestnicholson.com>"
+2022-03-14T08:27:27+00:00,Re: [EXTERNAL] Works to rear of property,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <Helen.Morley@crestnicholson.com>"
+2022-03-14T08:28:35+00:00,RE: [EXTERNAL] Works to rear of property,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-03-14T08:32:18+00:00,Re: [EXTERNAL] Works to rear of property,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <Helen.Morley@crestnicholson.com>"
+2022-03-15T09:43:45+00:00,Rear works,Paul Taylor <paulroberttaylor@gmail.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Jade Taylor <jade@dancepower.org>",
+2022-03-15T12:35:10+00:00,Fwd: Rear works,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>",
+2022-03-15T19:14:59+00:00,RE: OFFICIAL COMPLAINT - 25 ABBOTS ROAD TANGIER LANE,Adrian Sims <Adrian.Sims@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Sarah Reeve <Sarah.Reeve@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-03-16T08:30:35+00:00,RE: [EXTERNAL] Fwd: Rear works,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>",
+2022-03-16T10:04:48+00:00,Re: [EXTERNAL] Fwd: Rear works,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Vincent <Paul.Vincent@crestnicholson.com>
+2022-03-16T12:23:00+00:00,Fwd: [EXTERNAL] Fwd: Rear works,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>",
+2022-03-16T13:25:19+00:00,RE: [EXTERNAL] Fwd: Rear works,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>",
+2022-03-17T09:03:53+00:00,Re: OFFICIAL COMPLAINT - 25 ABBOTS ROAD TANGIER LANE,Paul Taylor <paulroberttaylor@gmail.com>,Adrian Sims <Adrian.Sims@crestnicholson.com>,"Sarah Reeve <Sarah.Reeve@crestnicholson.com>, Helen Morley
+ <Helen.Morley@crestnicholson.com>"
+2022-03-17T09:04:02+00:00,"Automatic reply: [EXTERNAL] Re: OFFICIAL COMPLAINT - 25 ABBOTS ROAD
+ TANGIER LANE",Sarah Reeve <Sarah.Reeve@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2022-03-17T09:05:31+00:00,Re: [EXTERNAL] Fwd: Rear works,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Vincent <Paul.Vincent@crestnicholson.com>
+2022-03-17T12:05:26+00:00,Re: [EXTERNAL] Fencing,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Vincent <Paul.Vincent@crestnicholson.com>
+2022-03-17T12:08:37+00:00,Re: Tangier Gardens- plot 35 Planting.,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent <Paul.Vincent@crestnicholson.com>"
+2022-03-17T13:17:25+00:00,RE: [EXTERNAL] Fwd: Rear works,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-03-17T15:10:11+00:00,RE: [EXTERNAL] Fencing,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Paul Vincent <Paul.Vincent@crestnicholson.com>
+2022-03-17T15:12:59+00:00,RE: [EXTERNAL] Re: Tangier Gardens- plot 35 Planting.,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>"
+2022-03-17T19:00:49+00:00,25 ABBOTS ROAD TANGIER LANE,Adrian Sims <Adrian.Sims@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <Helen.Morley@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>"
+2022-03-18T07:36:10+00:00,Fwd: Building mess in guttering,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>",
+2022-03-18T07:39:29+00:00,Fwd: [EXTERNAL] Fwd: 22/05864 25 Abbots Road - Brick wall out of plumb,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>",
+2022-03-18T07:58:49+00:00,Item 218 on spreadsheet,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Helen Morley <helen.morley@crestnicholson.com>
+2022-03-18T08:01:55+00:00,Wardrobe,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>",Helen Morley <helen.morley@crestnicholson.com>
+2022-03-18T15:23:32+00:00,RE: [EXTERNAL] Fwd: Building mess in guttering,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>",
+2022-03-18T15:27:30+00:00,RE: [EXTERNAL] Wardrobe,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>",Helen Morley <Helen.Morley@crestnicholson.com>
+2022-03-18T16:05:03+00:00,Re: [EXTERNAL] Wardrobe,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <Helen.Morley@crestnicholson.com>"
+2022-03-18T16:26:30+00:00,Side gate fence,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Helen Morley <helen.morley@crestnicholson.com>, Jade Taylor <jade@dancepower.org>"
+2022-03-18T16:29:11+00:00,Front door,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-03-18T16:35:37+00:00,Fwd: Brick company,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-03-18T16:37:11+00:00,Fwd: Item 218 on spreadsheet,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, 
+	Marc Gilmore <Marc.Gilmore@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-03-22T07:39:29+00:00,Side turf,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>",
+2022-03-22T07:40:57+00:00,Re: [EXTERNAL] Wardrobe,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <Helen.Morley@crestnicholson.com>"
+2022-03-22T08:02:50+00:00,RE: [EXTERNAL] Wardrobe,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-03-22T08:03:34+00:00,RE: [EXTERNAL] Side turf,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>",
+2022-03-22T08:06:56+00:00,Re: [EXTERNAL] Side turf,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <Helen.Morley@crestnicholson.com>"
+2022-03-22T08:07:38+00:00,Re: [EXTERNAL] Wardrobe,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <Helen.Morley@crestnicholson.com>"
+2022-03-22T21:58:34+00:00,Plot 35 Tangier Gardens,Adrian Sims <Adrian.Sims@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <Helen.Morley@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>"
+2022-03-23T09:17:34+00:00,25 Abbots Road - New tapes blown,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Marc
+ Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",Claims <Claims@nhbc.co.uk>
+2022-03-23T10:01:22+00:00,Rear Patio Area,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Helen Morley <helen.morley@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>"
+2022-03-23T13:25:41+00:00,Fwd: Item 218 on spreadsheet,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, 
+	Marc Gilmore <Marc.Gilmore@crestnicholson.com>",
+2022-03-24T15:29:34+00:00,Re: Item 218 on spreadsheet,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Helen Morley <helen.morley@crestnicholson.com>
+2022-03-24T21:31:10+00:00,RE: [EXTERNAL] Rear Patio Area,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <Helen.Morley@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>"
+2022-03-28T13:24:57+00:00,RE: [EXTERNAL] Re: Item 218 on spreadsheet,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Helen Morley <Helen.Morley@crestnicholson.com>
+2022-03-28T13:31:36+00:00,Re: [EXTERNAL] Re: Item 218 on spreadsheet,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Helen Morley <Helen.Morley@crestnicholson.com>
+2022-03-29T12:21:58+01:00,Re: [EXTERNAL] Re: Item 218 on spreadsheet,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Helen Morley <Helen.Morley@crestnicholson.com>
+2022-03-30T07:00:17+00:00,Magic man,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>","Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-03-30T07:25:33+00:00,RE: [EXTERNAL] Re: Item 218 on spreadsheet,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Helen Morley <Helen.Morley@crestnicholson.com>
+2022-03-30T13:31:52+00:00,Re: [EXTERNAL] Re: Item 218 on spreadsheet,paulroberttaylor@gmail.com,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",Helen Morley <Helen.Morley@crestnicholson.com>
+2022-03-30T13:35:18+00:00,Re: Magic man,paulroberttaylor@gmail.com,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>","Jade Taylor <jade@dancepower.org>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Helen Morley
+ <Helen.Morley@crestnicholson.com>"
+2022-03-30T13:38:32+00:00,Fwd: Brick company,paulroberttaylor@gmail.com,"Helen Morley <helen.morley@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-03-30T13:41:48+00:00,Re: [EXTERNAL] Rear Patio Area,paulroberttaylor@gmail.com,"Helen Morley <helen.morley@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-03-30T13:50:32+00:00,RE: [EXTERNAL] Re: Magic man,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>, Customer
+ Service SO <customerserviceSO@crestnicholson.com>","Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-03-30T15:08:05+01:00,Fwd: [EXTERNAL] Fwd: Building mess in guttering,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>",
+2022-03-30T14:10:18+00:00,Fwd: Side gate fence,paulroberttaylor@gmail.com,"Helen Morley <helen.morley@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-03-30T14:13:02+00:00,Re: [EXTERNAL] Fencing,paulroberttaylor@gmail.com,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",Paul Vincent <Paul.Vincent@crestnicholson.com>
+2022-04-01T14:20:09+00:00,RE: [EXTERNAL] Re: Magic man,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>, Customer
+ Service SO <customerserviceSO@crestnicholson.com>","Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-04-01T14:22:32+00:00,Tangier Gardens PT 35- External works,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>","Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-04-01T14:23:59+00:00,RE: [EXTERNAL] Fwd: Building mess in guttering,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>",
+2022-04-01T15:04:08+00:00,Tangier Gardens PT 35 Brickwork survey,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Jade Taylor <jade@dancepower.org>"
+2022-04-01T15:26:02+00:00,Re: Tangier Gardens PT 35- External works,paulroberttaylor@gmail.com,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Helen Morley
+ <helen.morley@crestnicholson.com>","Paul Vincent <Paul.Vincent@crestnicholson.com>, Jade Taylor
+ <jade@dancepower.org>"
+2022-04-01T15:27:30+00:00,Re: [EXTERNAL] Re: Magic man,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Jade Taylor
+ <jade@dancepower.org>, Paul Vincent <Paul.Vincent@crestnicholson.com>,
+ Helen Morley <Helen.Morley@crestnicholson.com>"
+2022-04-01T15:31:59+00:00,Re: Tangier Gardens PT 35 Brickwork survey,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+ <Helen.Morley@crestnicholson.com>, Jade Taylor <jade@dancepower.org>"
+2022-04-01T15:35:14+00:00,RE: [EXTERNAL] Re: Magic man,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Customer Service SO <customerserviceSO@crestnicholson.com>, Jade Taylor
+	<jade@dancepower.org>, Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen
+ Morley <Helen.Morley@crestnicholson.com>"
+2022-04-01T16:05:17+00:00,Fwd: [EXTERNAL] 25 Abbots Road - lawn,paulroberttaylor@gmail.com,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Helen Morley
+ <helen.morley@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-04-01T16:20:42+00:00,Re: [EXTERNAL] Re: Magic man,paulroberttaylor@gmail.com,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Jade Taylor
+ <jade@dancepower.org>, Paul Vincent <Paul.Vincent@crestnicholson.com>,
+ Helen Morley <Helen.Morley@crestnicholson.com>"
+2022-04-01T16:34:26+00:00,"Crest Quality Control Standards - 25 Abbots Road, Tangier Lane",paulroberttaylor@gmail.com,Customer Service SO <customerserviceSO@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-04-01T16:35:56+00:00,Fwd: Side gate fence,paulroberttaylor@gmail.com,"Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-04-01T16:36:43+00:00,Fwd: Front door,paulroberttaylor@gmail.com,"Helen Morley <helen.morley@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-04-01T16:39:13+00:00,Fwd: [EXTERNAL] Fencing,paulroberttaylor@gmail.com,"Helen Morley <helen.morley@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",Jade Taylor <jade@dancepower.org>
+2022-04-01T19:33:45+01:00,Re: Tangier Gardens PT 35 Brickwork survey,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <Helen.Morley@crestnicholson.com>, Jade Taylor <jade@dancepower.org>"
+2022-04-04T12:24:04+01:00,Visit today,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>",
+2022-04-04T12:09:42+00:00,Re: Plot 35 Tangier Gardens,paulroberttaylor@gmail.com,Adrian Sims <Adrian.Sims@crestnicholson.com>,"Helen Morley <Helen.Morley@crestnicholson.com>, Sarah Reeve
+ <Sarah.Reeve@crestnicholson.com>"
+2022-04-04T13:14:08+00:00,RE: [EXTERNAL] Re: Plot 35 Tangier Gardens,Sarah Reeve <Sarah.Reeve@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Customer Service SO <customerserviceSO@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-04-04T14:51:28+01:00,25 Abbots Road - Banging Pipes,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-04T17:48:15+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001003",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-04-05T11:54:08+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001003",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-05T12:03:10+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001012",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-04-05T13:39:11+01:00,Fwd: Side gate fence,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-05T12:44:00+00:00,Re: Tangier Gardens PT 35 Brickwork survey,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+ <Helen.Morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>"
+2022-04-06T12:02:28+01:00,Re: Tangier Gardens PT 35 Brickwork survey,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-06T16:05:17+01:00,Fwd: Tangier Gardens PT 35 Brickwork survey,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-06T15:22:49+00:00,Fwd: Side gate fence,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",
+2022-04-06T15:26:32+00:00,"Re: Crest Quality Control Standards - 25 Abbots Road, Tangier Lane",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>",
+2022-04-06T16:32:58+00:00,RE: [EXTERNAL] Fwd: Side gate fence,Helen Morley <Helen.Morley@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>",
+2022-04-06T16:35:35+00:00,Re: [EXTERNAL] Fwd: Side gate fence,Paul Taylor <paulroberttaylor@gmail.com>,Helen Morley <Helen.Morley@crestnicholson.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Paul Vincent
+ <Paul.Vincent@crestnicholson.com>"
+2022-04-06T16:38:22+00:00,RE: [EXTERNAL] Fwd: Side gate fence,Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>"
+2022-04-06T16:41:38+00:00,"RE: [EXTERNAL] Re: Crest Quality Control Standards - 25 Abbots Road,
+ Tangier Lane",Helen Morley <Helen.Morley@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>",
+2022-04-06T16:49:36+00:00,Re: [EXTERNAL] Fwd: Side gate fence,Paul Taylor <paulroberttaylor@gmail.com>,Helen Morley <Helen.Morley@crestnicholson.com>,
+2022-04-06T17:53:33+00:00,Fwd: Tangier Gardens PT 35 Brickwork survey,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Marc Gilmore
+ <Marc.Gilmore@crestnicholson.com>",
+2022-04-06T19:58:38+00:00,Re: [EXTERNAL] Fwd: Tangier Gardens PT 35 Brickwork survey,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>",
+2022-04-08T12:48:07+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001012",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-08T13:17:00+00:00,RE: [EXTERNAL] Fwd: Side gate fence,Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2022-04-11T10:12:37+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001036",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-04-11T11:49:37+01:00,Re: [EXTERNAL] Fwd: Building mess in guttering,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-11T13:37:59+01:00,Fwd: Tangier Gardens PT 35 Brickwork survey,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, info@crestnicholson.com",
+2022-04-11T13:21:44+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001043",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-04-11T13:31:57+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001044",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-04-11T14:40:47+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001044",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-11T16:43:55+01:00,Fwd: [EXTERNAL] Re: Magic man,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-12T07:06:57+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001051",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-04-12T07:13:28+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001052",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-04-12T09:52:21+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001052",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-13T17:54:20+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001081",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-04-20T12:43:09+00:00,Tangier Gardens Plot 35 Gutter Clean,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>"
+2022-04-21T11:49:03+01:00,Re: Tangier Gardens Plot 35 Gutter Clean,Paul Taylor <paulroberttaylor@gmail.com>,Marc Gilmore <Marc.Gilmore@crestnicholson.com>,"Jade Taylor <jade@dancepower.org>, Paul Vincent <Paul.Vincent@crestnicholson.com>, 
+	Helen Morley <Helen.Morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>"
+2022-04-21T13:13:31+01:00,Re: Tangier Gardens Plot 35 Gutter Clean,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-21T12:31:02+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001167",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-04-21T14:57:21+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001167",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-21T15:32:26+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001171",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-04-27T15:46:21+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001081",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-28T17:58:27+01:00,"Bowing Wall / Brickwork - 25 Abbots Road, Tangier",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-04-29T07:48:11+01:00,"Fwd: 35 Tangier Gardens, 25 Abbots Road",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,Claims <Claims@nhbc.co.uk>
+2022-05-03T14:44:52+01:00,"Fwd: 35 Tangier Gardens, 25 Abbots Road",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-03T14:48:02+01:00,"25 Abbots Road, Tangier - side gate fence",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-04T11:01:46+01:00,"Fwd: 35 Tangier Gardens, 25 Abbots Road",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-04T11:22:27+01:00,"Fwd: 35 Tangier Gardens, 25 Abbots Road",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>",
+2022-05-04T16:02:45+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001308",Customer Service SO <customerserviceSO@crestnicholson.com>,Jade Taylor <jady@dancepower.org>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>"
+2022-05-05T06:52:04+01:00,"Hob replacement - 25 Abbots Road, Tangier",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-05T07:36:20+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001308",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,Jade Taylor <jady@dancepower.org>
+2022-05-05T14:25:29+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001312",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-05-05T14:29:55+00:00,35 Tangier Gardens 25 Abbots Road ID:00803000001313,Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-05-05T15:41:17+01:00,Re: 35 Tangier Gardens 25 Abbots Road ID:00803000001313,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-06T10:16:37+01:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001036",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-06T10:23:07+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001312 Bowing Wall Report",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-06T11:38:03+01:00,25 Abbots Road - DBD - hood missing part,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-06T11:40:51+01:00,Re: 35 Tangier Gardens 25 Abbots Road ID:00803000001313 - extra part requested,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-09T09:18:58+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001312",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-09T12:47:49+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001337",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-05-20T14:03:28+00:00,25 Abbots Road - Second report and updated list of defects,paulroberttaylor@gmail.com,Adrian.Sims@crestnicholson.com,"info@crestnicholson.com, Customer Service SO
+ <customerserviceSO@crestnicholson.com>"
+2022-05-20T15:17:17+00:00,"RE: [EXTERNAL] 25 Abbots Road - Second report and updated list of
+ defects",Sarah Reeve <Sarah.Reeve@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",Helen Morley <Helen.Morley@crestnicholson.com>
+2022-05-23T08:11:26+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001432",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-05-23T08:29:18+00:00,"22/05864 Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001432",paulroberttaylor@gmail.com,Customer Service SO <customerserviceSO@crestnicholson.com>,"Claims <Claims@nhbc.co.uk>, info@crestnicholson.com"
+2022-05-25T16:41:03+01:00,25 Abbots Road,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-26T09:09:40+01:00,25 Abbots Road - plumber,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-30T07:37:44+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001461",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-05-30T11:59:07+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001471",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-05-30T13:17:26+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001471",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-30T16:07:47+00:00,"Fwd: 35 Tangier Gardens, 25 Abbots Road ID:00803000001312 Bowing
+ Wall Report",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-30T17:50:53+00:00,"RE: [EXTERNAL] Fwd: 35 Tangier Gardens, 25 Abbots Road
+ ID:00803000001312 Bowing Wall Report",Adrian Sims <Adrian.Sims@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Nikki Hogben <Nikki.Hogben@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>"
+2022-05-31T13:00:00+01:00,"Fwd: 35 Tangier Gardens, 25 Abbots Road ID:00803000001471",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-05-31T12:27:55+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001492",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-05-31T17:09:15+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001494",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-01T09:15:30+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001492",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-01T16:44:35+00:00,"FW: [EXTERNAL] 25 Abbots Road - Second report and updated list of
+ defects",Adrian Sims <Adrian.Sims@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Helen Morley <Helen.Morley@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>"
+2022-06-01T17:25:28+00:00,"22/05864 Re: FW: [EXTERNAL] 25 Abbots Road - Second report and
+ updated list of defects",Paul Taylor <paulroberttaylor@gmail.com>,Adrian Sims <Adrian.Sims@crestnicholson.com>,"Helen Morley <Helen.Morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Claims <Claims@nhbc.co.uk>"
+2022-06-02T09:18:10+00:00,"25 Abbots Road, Tangier - Amended spreadsheet to correct
+ inaccuracies",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,Adrian.Sims@crestnicholson.com
+2022-06-06T06:33:17+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001507",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-06T09:06:19+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001507",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-06T11:33:52+01:00,"URGENT - W/C leak - 25 Abbots Road, Tangier",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-06T18:32:27+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001526",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-07T07:05:42+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001527",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-07T09:24:36+00:00,"25 Abbots Road - second report recommendations esp. DPC and dry
+ lining",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>,
+ info@crestnicholson.com",
+2022-06-08T09:56:28+00:00,"22/05864 Fwd: 25 Abbots Road - second report recommendations esp.
+ DPC and dry lining",Paul Taylor <paulroberttaylor@gmail.com>,"info@crestnicholson.com, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Claims <Claims@nhbc.co.uk>",
+2022-06-08T12:02:49+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001539",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-08T14:42:45+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001527",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-08T14:02:56+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001541",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-09T08:06:13+00:00,22/05864 25 Abbots Road - Extractor hood,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>,
+ info@crestnicholson.com",
+2022-06-09T10:45:38+00:00,"22/05864 Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001539",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Claims
+ <Claims@nhbc.co.uk>",
+2022-06-09T11:07:03+00:00,35 Tangier Gardens 25 Abbots Road ID:00803000001549,Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-09T14:01:09+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001553",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-09T15:27:19+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001553",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-10T08:03:17+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001560",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-13T08:29:18+00:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001560",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>,
+ info@crestnicholson.com",
+2022-06-13T17:43:49+00:00,"Plot 35 Tangier Gardens, 25 Abbots Road",Adrian Sims <Adrian.Sims@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Sarah Reeve <Sarah.Reeve@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-06-13T21:14:14+00:00,"22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots Road",Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Claims <Claims@nhbc.co.uk>","Sarah Reeve <Sarah.Reeve@crestnicholson.com>, Helen Morley
+ <Helen.Morley@crestnicholson.com>"
+2022-06-14T16:00:16+00:00,"RE: 35 Tangier Gardens, 25 Abbots Road ID:00803000001541",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-14T16:13:06+00:00,FW: 35 Tangier Gardens 25 Abbots Road ID:00803000001549,Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-14T20:01:49+00:00,"Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots Road",Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, info@crestnicholson.com, Customer
+ Service SO <customerserviceSO@crestnicholson.com>",Claims <Claims@nhbc.co.uk>
+2022-06-15T15:35:43+00:00,"Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots Road",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>,
+ info@crestnicholson.com",
+2022-06-15T18:41:51+01:00,"Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots Road",Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Claims <Claims@nhbc.co.uk>","info@crestnicholson.com, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>"
+2022-06-16T16:03:49+00:00,25 Abbots Road - request for response from director/board level,Paul Taylor <paulroberttaylor@gmail.com>,"DAVID.MARCHANT@crestnicholson.com, KIERAN.DAYA@crestnicholson.com,
+ PETER.TRUSCOTT@crestnicholson.com",
+2022-06-17T09:17:44+00:00,"Attn Donna - Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots
+ Road",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
 2022-06-17T13:30:31+00:00,25 Abbots Road - request for response from director/board level,Rachael Game <Rachael.Game@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
 2022-06-17T15:18:59+01:00,Re: 25 Abbots Road - request for response from director/board level,Paul Taylor <paulroberttaylor@gmail.com>,Rachael Game <Rachael.Game@crestnicholson.com>,
+2022-06-17T14:21:52+00:00,25 Abbots Road - request for response from director/board level,Rachael Game <Rachael.Game@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2022-06-17T14:40:08+00:00,"RE: [EXTERNAL] Attn Donna - Fwd: 22/05864 Re: Plot 35 Tangier
+ Gardens, 25 Abbots Road ID:00623000000228",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-17T14:50:58+00:00,"Re: [EXTERNAL] Attn Donna - Fwd: 22/05864 Re: Plot 35 Tangier
+ Gardens, 25 Abbots Road ID:00623000000228",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,Rachael.Game@crestnicholson.com
 2022-06-17T16:17:44+01:00,Fwd: 25 Abbots Road - request for response from director/board level,Paul Taylor <paulroberttaylor@gmail.com>,Rachael Game <Rachael.Game@crestnicholson.com>,
+2022-06-17T15:20:13+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001592",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
 2022-06-17T16:23:53+01:00,Fwd: 25 Abbots Road - request for response from director/board level,Paul Taylor <paulroberttaylor@gmail.com>,Rachael Game <Rachael.Game@crestnicholson.com>,
+2022-06-19T19:54:45+00:00,"Fwd: [EXTERNAL] Attn Donna - Fwd: 22/05864 Re: Plot 35 Tangier
+ Gardens, 25 Abbots Road ID:00623000000228",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"Site <site@calfordseaden.co.uk>, jharrod@calfordseaden.com,
+ dcarroll@calfordseaden.com, alemon@calfordseaden.com"
+2022-06-20T08:00:43+01:00,"Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots Road",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-20T07:25:55+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001595",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-20T09:59:44+00:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001595",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-06-20T10:21:51+00:00,25 Abbots Road ID:00803000001595 - non-toxic paint,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-06-20T12:13:26+00:00,Fwd: 25 Abbots Road ID:00803000001595 - non-toxic paint,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,Jade Taylor <jade@dancepower.org>
+2022-06-20T15:21:38+00:00,"Fwd: [EXTERNAL] Attn Donna - Fwd: 22/05864 Re: Plot 35 Tangier
+ Gardens, 25 Abbots Road ID:00623000000228",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-20T17:30:09+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001612",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-20T17:47:57+00:00,"RE: [EXTERNAL] Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots
+ Road ID:00623000000229",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-21T07:26:01+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001618",Customer Service SO <customerserviceSO@crestnicholson.com>,"Jade Taylor <jady@dancepower.org>, ""paulroberttaylor@gmail.com""
+	<paulroberttaylor@gmail.com>",
+2022-06-21T09:49:00+01:00,"Fwd: 35 Tangier Gardens, 25 Abbots Road ID:00803000001612",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-21T10:40:42+01:00,25 Abbots Road - Tangier - Side fence,Paul Taylor <paulroberttaylor@gmail.com>,Rachael Game <Rachael.Game@crestnicholson.com>,
+2022-06-21T09:50:00+00:00,DBD visit for cooker hood and Houlihan Carpentry for brick walls,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-21T19:49:48+00:00,"Fwd: DBD visit for cooker hood and Houlihan Carpentry for brick
+ walls",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>,
+ info@crestnicholson.com",
+2022-06-22T11:44:51+00:00,25 Abbots Road - visit today,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com",
+2022-06-22T15:32:15+01:00,"Fwd: Plot 35 Tangier Gardens, Dry lining Works",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-23T10:30:04+00:00,25 Abbots Road - Additional complaint for director level,Paul Taylor <paulroberttaylor@gmail.com>,"PETER.TRUSCOTT@crestnicholson.com, KIERAN.DAYA@crestnicholson.com,
+ DAVID.MARCHANT@crestnicholson.com",
+2022-06-23T14:45:24+01:00,Fwd: 25 Abbots Road - Tangier - Side fence,Paul Taylor <paulroberttaylor@gmail.com>,Rachael Game <Rachael.Game@crestnicholson.com>,
+2022-06-23T13:56:49+00:00,25 Abbots Road - Tangier - Side fence,Rachael Game <Rachael.Game@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-23T16:52:03+00:00,Fwd: 25 Abbots Road - Tangier - Side fence,Paul Taylor <paulroberttaylor@gmail.com>,"Rachael Game <Rachael.Game@crestnicholson.com>,
+ PETER.TRUSCOTT@crestnicholson.com, DAVID.MARCHANT@crestnicholson.com,
+ KIERAN.DAYA@crestnicholson.com",
+2022-06-23T16:55:13+00:00,"Automatic reply: [EXTERNAL] Fwd: 25 Abbots Road - Tangier - Side
+ fence",Rachael Game <Rachael.Game@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2022-06-24T13:06:12+00:00,FW: 25 Abbots Road - Tangier - Side fence,Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Adrian Sims <Adrian.Sims@crestnicholson.com>
+2022-06-24T13:12:24+00:00,Re: FW: 25 Abbots Road - Tangier - Side fence,Paul Taylor <paulroberttaylor@gmail.com>,Helen Morley <Helen.Morley@crestnicholson.com>,Adrian Sims <Adrian.Sims@crestnicholson.com>
+2022-06-24T13:13:52+00:00,"RE: [EXTERNAL] 25 Abbots Road - Additional complaint for director
+ level",Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Adrian Sims <Adrian.Sims@crestnicholson.com>
+2022-06-24T13:22:11+00:00,RE: [EXTERNAL] Re: FW: 25 Abbots Road - Tangier - Side fence,Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Adrian Sims <Adrian.Sims@crestnicholson.com>
+2022-06-24T13:39:02+00:00,"22/05864 Re: [EXTERNAL] 25 Abbots Road - Additional complaint for
+ director level",Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <Helen.Morley@crestnicholson.com>, Claims
+ <Claims@nhbc.co.uk>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-06-24T14:46:35+01:00,Re: [EXTERNAL] Re: FW: 25 Abbots Road - Tangier - Side fence,Paul Taylor <paulroberttaylor@gmail.com>,Helen Morley <Helen.Morley@crestnicholson.com>,
+2022-06-24T16:11:06+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001633",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-24T17:30:50+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001633",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-24T17:57:59+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001634",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-26T14:54:20+00:00,": 35 Tangier Gardens, 25 Abbots Road ID:00803000001636",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-26T16:49:40+01:00,"Re: : 35 Tangier Gardens, 25 Abbots Road ID:00803000001636",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-26T19:20:16+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001637",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-27T13:35:22+01:00,25 Abbots Road - cooker hood,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-27T17:25:30+01:00,"25 Abbots Road Fwd: DBD visit for cooker hood and Houlihan Carpentry
+ for brick walls",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-29T09:19:53+00:00,25 Abbots Road - cooker hood and front brick wall,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-29T13:50:55+00:00,"35 Tangier Gardens, 25 Abbots Raod ID:00803000001679",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-06-29T14:14:47+00:00,"Re: 35 Tangier Gardens, 25 Abbots Raod ID:00803000001679",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-06-30T10:07:57+00:00,25 Abbots Road - Request for dates for all assessments completed,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"Helen Morley <helen.morley@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com"
+2022-06-30T13:20:10+00:00,"RE: [EXTERNAL] 25 Abbots Road - Request for dates for all assessments
+ completed",Helen Morley <Helen.Morley@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>",
+2022-06-30T16:30:52+00:00,"Re: [EXTERNAL] 25 Abbots Road - Request for dates for all
+ assessments completed",Paul Taylor <paulroberttaylor@gmail.com>,Helen Morley <Helen.Morley@crestnicholson.com>,Customer Service SO <customerserviceSO@crestnicholson.com>
+2022-06-30T17:32:53+01:00,"Fwd: 35 Tangier Gardens, 25 Abbots Raod ID:00803000001679",Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>",
+2022-07-01T15:05:01+00:00,"Fwd: 35 Tangier Gardens, 25 Abbots Raod ID:00803000001679",Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-07-01T15:11:40+00:00,"Fwd: 22/05864 Re: [EXTERNAL] 25 Abbots Road - Additional complaint
+ for director level",Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-07-01T15:32:53+00:00,"Fwd: 22/05864 Re: [EXTERNAL] 25 Abbots Road - Additional complaint
+ for director level",Paul Taylor <paulroberttaylor@gmail.com>,Rachael Game <Rachael.Game@crestnicholson.com>,"PETER.TRUSCOTT@crestnicholson.com, DAVID.MARCHANT@crestnicholson.com,
+ KIERAN.DAYA@crestnicholson.com"
+2022-07-01T15:39:20+00:00,"RE: 22/05864 Re: [EXTERNAL] 25 Abbots Road - Additional complaint for
+ director level",Rachael Game <Rachael.Game@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2022-07-01T15:44:23+00:00,"35 Tangier Gardens, 25 Abbots Raod ID:00803000001697",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-04T10:42:09+01:00,"25 Abbots Road - Calfordseaden's visits 6th, 7th, and 11th July",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-05T07:25:46+01:00,"Fwd: 25 Abbots Road - Calfordseaden's visits 6th, 7th, and 11th July",Paul Taylor <paulroberttaylor@gmail.com>,"Site <site@calfordseaden.co.uk>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>",
+2022-07-05T07:32:22+01:00,"Fwd: 22/05864 Re: [EXTERNAL] 25 Abbots Road - Additional complaint
+ for director level",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"Helen Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com, 
+	Rachael Game <Rachael.Game@crestnicholson.com>"
+2022-07-05T11:54:47+01:00,"Re: [EXTERNAL] Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots
+ Road ID:00623000000229",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-05T16:41:08+01:00,"Fwd: 25 Abbots Road - Calfordseaden's visits 6th, 7th, and 11th July",Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>",
+2022-07-05T16:36:05+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001711",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-05T17:41:24+01:00,"Fwd: 25 Abbots Road - Calfordseaden's visits 6th, 7th, and 11th July",Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, 
+	Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>",
+2022-07-05T16:54:09+00:00,"RE: [EXTERNAL] Fwd: 25 Abbots Road - Calfordseaden's visits 6th, 7th,
+ and 11th July ID:00803000001712",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-06T06:01:58+01:00,"Re: [EXTERNAL] Fwd: 25 Abbots Road - Calfordseaden's visits 6th, 7th,
+ and 11th July ID:00803000001712",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-06T08:30:49+00:00,"ID:00803000001712 Visit today for Calfordseaden - carpenter unable
+ to complete work due to injury",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com,
+ Adrian.Sims@crestnicholson.com, PETER.TRUSCOTT@crestnicholson.com,
+ DAVID.MARCHANT@crestnicholson.com, KIERAN.DAYA@crestnicholson.com",
+2022-07-06T08:59:35+00:00,"RE: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-06T16:23:08+01:00,"Fwd: [EXTERNAL] Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots
+ Road ID:00623000000229",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-06T16:25:46+01:00,"Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>",
+2022-07-07T09:16:40+01:00,"Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>",
+2022-07-07T08:25:30+00:00,"RE: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-07T08:34:12+00:00,"RE: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-07T09:34:48+01:00,"Re: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-07T08:43:12+00:00,"Re: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-07T11:29:01+01:00,"Fwd: [EXTERNAL] Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots
+ Road ID:00623000000229",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-07T20:40:01+00:00,"Fwd: 22/05864 Re: [EXTERNAL] 25 Abbots Road - Additional complaint
+ for director level",Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Rachael Game
+ <Rachael.Game@crestnicholson.com>",
+2022-07-08T09:55:09+01:00,ID:00623000000229,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-08T10:21:28+01:00,"22/05864 cooker hood ducting - Fwd: 35 Tangier Gardens, 25 Abbots
+ Raod ID:00803000001697",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Claims <Claims@nhbc.co.uk>",
+2022-07-08T13:56:55+00:00,25 Abbots Road,Adrian Sims <Adrian.Sims@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Sarah Reeve <Sarah.Reeve@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
 2022-07-09T05:37:48+00:00,"No response received Fwd: 25 Abbots Road - request for response
  from director/board level",Paul Taylor <paulroberttaylor@gmail.com>,Rachael Game <Rachael.Game@crestnicholson.com>,"PETER.TRUSCOTT@crestnicholson.com, DAVID.MARCHANT@crestnicholson.com,
  KIERAN.DAYA@crestnicholson.com"
+2022-07-11T07:36:22+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001732",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-11T08:51:21+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001732",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-11T09:57:39+01:00,Attn Donna Fwd: 25 Abbots Road,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-11T08:58:38+00:00,"RE: [EXTERNAL] Re: 35 Tangier Gardens, 25 Abbots Road
+ ID:00803000001732",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
 2022-07-11T09:04:45+00:00,"Fwd: 25 Abbots Road - request for response from director/board
  level",Paul Taylor <paulroberttaylor@gmail.com>,Rachael Game <Rachael.Game@crestnicholson.com>,"PETER.TRUSCOTT@crestnicholson.com, DAVID.MARCHANT@crestnicholson.com,
  KIERAN.DAYA@crestnicholson.com"
+2022-07-11T10:16:24+01:00,Before any assessment is carried out today by Calfordseaden ID:00803000001732,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-11T09:43:58+00:00,25 Abbots Road - W/C toilet twist,Paul Taylor <paulroberttaylor@gmail.com>,"Site <site@calfordseaden.co.uk>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-07-11T12:21:45+01:00,Attn Donna : W/C decoration not finished,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-11T12:27:04+01:00,"Attn Donna : 25 Abbots Road - List of reveals agreed by Paul Haigh
+ 1st December 2021",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-11T12:32:22+01:00,Attn: Donna Fwd: 25 Abbots Road - Second report and updated list of defects,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
 2022-07-11T20:38:52+00:00,"Fwd: 25 Abbots Road - request for response from director/board
  level",Paul Taylor <paulroberttaylor@gmail.com>,Rachael Game <Rachael.Game@crestnicholson.com>,"PETER.TRUSCOTT@crestnicholson.com, DAVID.MARCHANT@crestnicholson.com,
  KIERAN.DAYA@crestnicholson.com"
+2022-07-11T21:47:34+01:00,Fwd: ID:00623000000229 Doors and windows / dry lining,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
 2022-07-12T07:10:42+00:00,25 Abbots Road - request for response from director/board level,Rachael Game <Rachael.Game@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
 2022-07-12T07:27:17+00:00,"Re: 25 Abbots Road - request for response from director/board
  level",Paul Taylor <paulroberttaylor@gmail.com>,Rachael Game <Rachael.Game@crestnicholson.com>,"PETER.TRUSCOTT@crestnicholson.com, DAVID.MARCHANT@crestnicholson.com,
  KIERAN.DAYA@crestnicholson.com"
+2022-07-12T09:38:28+01:00,Attn Donna Hack - 25 Abbots Road - windows for Calfordseaden,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-12T08:54:04+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001734",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-12T11:55:38+01:00,"Fwd: Attn: Donna Fwd: 25 Abbots Road - Second report and updated list
+ of defects",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>",
+2022-07-12T12:33:51+00:00,Re: 25 Abbots Road,Paul Taylor <paulroberttaylor@gmail.com>,"Adrian Sims <Adrian.Sims@crestnicholson.com>, Helen Morley
+ <Helen.Morley@crestnicholson.com>, Sarah.Reeve@crestnicholson.com",
+2022-07-12T12:35:14+00:00,Automatic reply: [EXTERNAL] Re: 25 Abbots Road,Sarah Reeve <Sarah.Reeve@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2022-07-12T16:06:47+01:00,Fwd: ID:00623000000229 Doors and windows / dry lining,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>",
+2022-07-12T15:18:25+00:00,Fwd: ID:00623000000229 Doors and windows / dry lining,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
+2022-07-12T16:24:01+00:00,RE: [EXTERNAL] Fwd: ID:00623000000229 Doors and windows / dry lining,Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Adrian Sims <Adrian.Sims@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2022-07-12T19:58:23+00:00,25 Abbots Road - window sill painting not complete,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
+2022-07-12T20:11:47+00:00,Fwd: 25 Abbots Road - response to complaint still not received,Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-07-13T07:16:13+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001741",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-13T08:09:43+00:00,Fwd: Attn Donna Hack - 25 Abbots Road - windows for Calfordseaden,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"Helen Morley <helen.morley@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com"
+2022-07-13T08:18:09+00:00,Calfordseaden's extra days,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"Helen Morley <helen.morley@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com"
+2022-07-13T08:34:24+00:00,Fwd: 25 Abbots Road - response to complaint still not received,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com",Rachael Game <Rachael.Game@crestnicholson.com>
+2022-07-13T08:37:39+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001742",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-13T08:53:25+00:00,"25 Abbots Road - brickwork damage, issue with kitchen floor,
+ Trinity report",Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-07-13T10:58:07+00:00,25 Abbots Road,Adrian Sims <Adrian.Sims@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <Helen.Morley@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>"
+2022-07-13T12:32:07+00:00,25 Abbots Road - immediate response needed,Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, PETER.TRUSCOTT@crestnicholson.com,
+ DAVID.MARCHANT@crestnicholson.com, KIERAN.DAYA@crestnicholson.com, Rachael
+ Game <Rachael.Game@crestnicholson.com>",
+2022-07-13T17:22:16+01:00,Fwd: Calfordseaden's extra days,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Adrian.Sims@crestnicholson.com, 
+	Helen Morley <helen.morley@crestnicholson.com>",
+2022-07-14T06:50:09+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001744",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-14T09:43:47+00:00,RE: [EXTERNAL] 25 Abbots Road - immediate response needed,Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>
+2022-07-14T09:59:47+00:00,Re: [EXTERNAL] 25 Abbots Road - immediate response needed,Paul Taylor <paulroberttaylor@gmail.com>,Helen Morley <Helen.Morley@crestnicholson.com>,Customer Service SO <customerserviceSO@crestnicholson.com>
+2022-07-14T10:01:34+00:00,Fwd: [EXTERNAL] 25 Abbots Road - immediate response needed,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>","KEVIN.MAGUIRE@crestnicholson.com, DAVID.MARCHANT@crestnicholson.com,
+ DUNCAN.COOPER@crestnicholson.com"
+2022-07-14T10:08:32+00:00,RE: [EXTERNAL] 25 Abbots Road - immediate response needed,Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Adrian Sims <Adrian.Sims@crestnicholson.com>
+2022-07-14T17:10:26+01:00,"22/05864 Fwd: 25 Abbots Road - brickwork damage, issue with kitchen
+ floor, Trinity report",Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, 
+	Helen Morley <helen.morley@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>",Claims <Claims@nhbc.co.uk>
+2022-07-15T07:23:00+00:00,"Fwd: 22/05864 Fwd: 25 Abbots Road - brickwork damage, issue with
+ kitchen floor, Trinity report",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
+2022-07-15T10:27:37+00:00,"RE: [EXTERNAL] Fwd: 22/05864 Fwd: 25 Abbots Road - brickwork damage,
+ issue with kitchen floor, Trinity report",Helen Morley <Helen.Morley@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Adrian Sims
+	<Adrian.Sims@crestnicholson.com>",
+2022-07-15T11:52:50+00:00,"Re: [EXTERNAL] Fwd: 22/05864 Fwd: 25 Abbots Road - brickwork
+ damage, issue with kitchen floor, Trinity report",Paul Taylor <paulroberttaylor@gmail.com>,Helen Morley <Helen.Morley@crestnicholson.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Adrian Sims
+ <Adrian.Sims@crestnicholson.com>"
+2022-07-15T15:57:56+00:00,22/05864  25 Abbots Road - brickwork,Helen Morley <Helen.Morley@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2022-07-15T17:27:10+01:00,25 Abbots Road - ladder,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>",
+2022-07-16T14:20:18+01:00,Re: [EXTERNAL] 25 Abbots Road - immediate response needed,Paul Taylor <paulroberttaylor@gmail.com>,Helen Morley <Helen.Morley@crestnicholson.com>,Adrian Sims <Adrian.Sims@crestnicholson.com>
+2022-07-18T13:29:26+00:00,Fwd: 25 Abbots Road - ladder,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>",
+2022-07-18T13:33:23+00:00,"Fwd: 22/05864 cooker hood ducting - Fwd: 35 Tangier Gardens, 25
+ Abbots Raod ID:00803000001697",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>",
+2022-07-18T13:37:08+00:00,"Fwd: 25 Abbots Road - brickwork damage, issue with kitchen floor,
+ Trinity report",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>",
+2022-07-18T16:47:07+00:00,"Fwd: 25 Abbots Road - brickwork damage, issue with kitchen floor,
+ Trinity report",Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-07-18T16:48:14+00:00,Fwd: 25 Abbots Road - ladder,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
+2022-07-18T18:36:13+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001779",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-19T09:38:20+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001789",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-19T09:51:04+00:00,Re: 22/05864  25 Abbots Road - brickwork,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
+2022-07-19T11:50:27+00:00,Fwd: 22/05864  25 Abbots Road - brickwork,Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Helen Morley
+ <helen.morley@crestnicholson.com>",
+2022-07-20T07:31:00+00:00,Fwd: 22/05864  25 Abbots Road - brickwork,Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-07-20T07:32:06+00:00,"Fwd: 25 Abbots Road - brickwork damage, issue with kitchen floor,
+ Trinity report",Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-07-20T07:34:25+00:00,"Fwd: 22/05864 cooker hood ducting - Fwd: 35 Tangier Gardens, 25
+ Abbots Raod ID:00803000001697",Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-07-20T08:31:40+00:00,25 Abbots Road - Spreadsheet Item 106 - cracked window pane,Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
+2022-07-20T09:17:20+00:00,"35 Tangier Gardens, 25 Abbots Way ID:00803000001794",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
 2022-07-20T09:31:01+00:00,35 Tangier Gardens 25 Abbots Road ID:00803000001795,Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-20T09:52:18+00:00,"Re: 35 Tangier Gardens, 25 Abbots Way ID:00803000001794",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>"
 2022-07-20T10:57:38+01:00,Re: 35 Tangier Gardens 25 Abbots Road ID:00803000001795,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-20T10:04:38+00:00,"RE: [EXTERNAL] Fwd: 22/05864  25 Abbots Road - brickwork
+ ID:00803000001796",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
 2022-07-20T10:43:02+00:00,"RE: [EXTERNAL] Re: 35 Tangier Gardens 25 Abbots Road
  ID:00803000001795",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-20T13:11:49+00:00,"22/05864  25 Abbots Road - ID:00803000001796 - garage brickwork
+ assessment",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
+2022-07-20T13:15:59+00:00,Fwd: 25 Abbots Road - issue with kitchen floor tolerance,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>",
+2022-07-20T13:51:28+00:00,"RE: [EXTERNAL] 22/05864  25 Abbots Road - ID:00803000001796 - garage
+ brickwork assessment",Helen Morley <Helen.Morley@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Adrian Sims
+	<Adrian.Sims@crestnicholson.com>",
+2022-07-20T14:00:53+00:00,"Re: [EXTERNAL] 22/05864  25 Abbots Road - ID:00803000001796 -
+ garage brickwork assessment",Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <Helen.Morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
+2022-07-20T14:04:08+00:00,"RE: [EXTERNAL] 22/05864  25 Abbots Road - ID:00803000001796 - garage
+ brickwork assessment",Helen Morley <Helen.Morley@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Adrian Sims
+	<Adrian.Sims@crestnicholson.com>",
+2022-07-20T15:30:20+01:00,"Re: 35 Tangier Gardens, 25 Abbots Way ID:00803000001794",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-22T09:37:36+00:00,Fwd: 25 Abbots Road - Spreadsheet Item 106 - cracked window pane,Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-07-22T10:05:17+00:00,"Fwd: 35 Tangier Gardens, 25 Abbots Way ID:00803000001794",Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
 2022-07-22T10:12:08+00:00,Fwd: 35 Tangier Gardens 25 Abbots Road ID:00803000001795,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
  Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
+2022-07-22T10:31:07+00:00,Fwd: 25 Abbots Road - issue with kitchen floor tolerance,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>",
+2022-07-22T10:51:31+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001807",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-22T12:27:34+01:00,ATTN Donna - URGENT Calfordseaden visit today,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-22T11:49:56+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001808",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-22T12:02:28+00:00,"RE: [EXTERNAL] Fwd: 25 Abbots Road - brickwork damage, issue with
+ kitchen floor, Trinity report ID:00803000001809",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-22T12:11:52+00:00,"35 Tangier Gardens, 25 Abbey Road ID:00803000001810",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-22T12:20:09+00:00,"Re: 35 Tangier Gardens, 25 Abbey Road ID:00803000001810",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
+2022-07-22T12:26:41+00:00,"Fwd: [EXTERNAL] 22/05864  25 Abbots Road - ID:00803000001796 -
+ garage brickwork assessment",Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-07-22T12:26:48+00:00,"Automatic reply: [EXTERNAL] 22/05864  25 Abbots Road -
+ ID:00803000001796 - garage brickwork assessment",Duncan Cooper <Duncan.Cooper@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2022-07-22T12:41:09+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001811",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-25T11:39:11+01:00,"Fwd: 35 Tangier Gardens, 25 Abbey Road ID:00803000001810",Paul Taylor <paulroberttaylor@gmail.com>,Helen Morley <helen.morley@crestnicholson.com>,"Adrian.Sims@crestnicholson.com, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>"
+2022-07-26T09:58:42+01:00,"Fwd: [EXTERNAL] Fwd: 25 Abbots Road - brickwork damage, issue with
+ kitchen floor, Trinity report ID:00803000001809",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-27T10:09:01+00:00,"Fwd: [EXTERNAL] Fwd: 25 Abbots Road - brickwork damage, issue with
+ kitchen floor, Trinity report ID:00803000001809",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
+2022-07-27T11:36:57+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001838",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-27T13:52:12+00:00,"Fwd: 22/05864 cooker hood ducting - Fwd: 35 Tangier Gardens, 25
+ Abbots Raod ID:00803000001697",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>",
+2022-07-28T09:46:05+00:00,"Fwd: 22/05864 cooker hood ducting - Fwd: 35 Tangier Gardens, 25
+ Abbots Raod ID:00803000001697",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"Helen Morley <helen.morley@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com"
+2022-07-28T15:46:36+00:00,Contractor to remove boards from brickwork,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"Helen Morley <helen.morley@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com"
+2022-07-28T15:48:07+00:00,"Fwd: 22/05864 cooker hood ducting - Fwd: 35 Tangier Gardens, 25
+ Abbots Raod ID:00803000001697",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>"
+2022-07-28T16:34:28+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001846",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-28T18:35:58+00:00,"35 Tangier Gardens, 25 Abbots Raod ID:00803000001848",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-07-29T08:55:58+01:00,Incomplete making good of plasterwork after change of ducting,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-07-29T15:15:22+00:00,Fwd: Incomplete making good of plasterwork after change of ducting,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>"
+2022-07-29T15:31:42+00:00,35 Tangier Gardens 25 Abbots Road ID:00803000001857,Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-08-01T07:42:14+01:00,Re: 35 Tangier Gardens 25 Abbots Road ID:00803000001857,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-08-01T07:11:48+00:00,35 Tangier Gardens 25 Abbots Road ID:00803000001860,Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-08-01T09:00:41+01:00,Re: 35 Tangier Gardens 25 Abbots Road ID:00803000001860,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-08-01T08:45:42+00:00,35 Tangier Gardens 25 Abbots Road ID:00803000001865,Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-08-08T10:56:32+00:00,Calfordseaden Report,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>",
+2022-08-08T17:41:50+01:00,Fwd: Calfordseaden Report,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, 
+	Helen Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
+2022-08-09T06:31:09+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001942",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-08-09T15:24:33+00:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001942",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>"
+2022-08-10T13:11:03+00:00,"Fwd: 35 Tangier Gardens, 25 Abbots Road ID:00803000001942",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
+ Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
+2022-08-10T16:18:48+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001962",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-08-11T14:38:41+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000001962",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-08-11T14:19:01+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001980",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-08-15T11:26:54+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000001991",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-08-18T07:31:09+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000002028",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-08-18T08:49:57+00:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000002028",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>"
+2022-08-18T12:14:21+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000002031",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-08-19T15:02:28+01:00,"Calforseaden Report - 25 Abbots Road, Bishops Waltham",Paul Taylor <paulroberttaylor@gmail.com>,"Helen Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>",
+2022-08-22T10:55:11+00:00,35 Tangier Gardens 25 Abbots Road ID:00803000002044,Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-08-22T10:59:07+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000002045",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-08-22T13:40:44+01:00,Re: 35 Tangier Gardens 25 Abbots Road ID:00803000002044,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,"Adrian.Sims@crestnicholson.com, 
+	Helen Morley <helen.morley@crestnicholson.com>"
+2022-08-24T10:04:57+01:00,Fwd: 35 Tangier Gardens 25 Abbots Road ID:00803000002044,Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, 
+	Helen Morley <helen.morley@crestnicholson.com>",
+2022-08-26T15:33:51+00:00,"Plot 35, Tangier Gardens",Leanne Poingdestre <Leanne.Poingdestre@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",Customer Service SO <customerserviceSO@crestnicholson.com>
+2022-09-01T12:54:40+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000002045",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-09-01T11:55:38+00:00,25 Abbots Road - Front plants dead,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>,
+ Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>",
+2022-09-01T11:57:04+00:00,Automatic reply: [EXTERNAL] 25 Abbots Road - Front plants dead,Kevin Maguire <Kevin.Maguire@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2022-09-01T12:10:25+00:00,"25 Abbots Road - Response to complaints and issues after
+ Calfordseaden report",Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Customer Service SO
+ <customerserviceSO@crestnicholson.com>, Helen Morley
+ <helen.morley@crestnicholson.com>",
+2022-09-02T15:02:27+00:00,Fwd: 25 Abbots Road - Front plants dead,Paul Taylor <paulroberttaylor@gmail.com>,"Adrian.Sims@crestnicholson.com, Helen Morley
+ <helen.morley@crestnicholson.com>, Customer Service SO
+ <customerserviceSO@crestnicholson.com>",
+2022-09-02T15:51:20+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000002098",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-09-02T17:23:02+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000002098",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
 2022-09-02T16:29:02+00:00,"35 Tangier Gardens, 25 Abbots Road ID:00803000002099",Customer Service SO <customerserviceSO@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2022-09-02T17:34:19+01:00,"Re: 35 Tangier Gardens, 25 Abbots Road ID:00803000002098",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <customerserviceSO@crestnicholson.com>,
+2022-09-06T17:41:55+00:00,25 Abbots Road,Adrian Sims <Adrian.Sims@crestnicholson.com>,"Paul Taylor <paulroberttaylor@gmail.com>, ""jade.millington@hotmail.co.uk""
+	<jade.millington@hotmail.co.uk>","Helen Morley <Helen.Morley@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>"
+2022-09-07T10:20:02+00:00,Re: 25 Abbots Road,Paul Taylor <paulroberttaylor@gmail.com>,"Adrian Sims <Adrian.Sims@crestnicholson.com>,
+ IAIN.FERGUSON@crestnicholson.com, PETER.TRUSCOTT@crestnicholson.com",
 2022-09-08T08:48:16+01:00,Appointment with Mr Sims,Paul Taylor <paulroberttaylor@gmail.com>,Sarah.Reeve@crestnicholson.com,
 2022-09-08T13:35:30+00:00,25 Abbots Road - rain entering hole left in side wall,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <customerserviceSO@crestnicholson.com>, Helen
  Morley <helen.morley@crestnicholson.com>, Adrian.Sims@crestnicholson.com",
@@ -1853,3 +2988,72 @@ date,subject,from,to,cc
 2025-05-21T18:58:01+01:00,"AutoResponse: [EXTERNAL] Re: 0034 Albany Wood, 10 Colt View","""Customer Service SO"" <customerserviceso@crestnicholson.com>","""Paul Taylor"" <paulroberttaylor@gmail.com>",
 2025-05-27T14:21:24+01:00,"URGENT UPDATE & New Evidence - NHOS Case Ref: NHOS-2024-000512 -
  Render & Path Issues",Paul Taylor <paulroberttaylor@gmail.com>,"Casework Team <casework@nhos.org.uk>, Nigel Cates <Nigel.cates@nhos.org.uk>",
+2025-06-04T07:47:32+01:00,Re: 0034 Albany Wood Complaint Interim Update21-05-25,Paul Taylor <paulroberttaylor@gmail.com>,Charlie Joseph <Charlie.Joseph@crestnicholson.com>,
+2025-06-04T11:54:59+01:00,"Fwd: URGENT UPDATE & New Evidence - NHOS Case Ref: NHOS-2024-000512 -
+ Render & Path Issues",Paul Taylor <paulroberttaylor@gmail.com>,Casework Team <casework@nhos.org.uk>,
+2025-06-05T13:49:52+01:00,Fwd: 0034 Albany Wood Complaint Interim Update21-05-25,Paul Taylor <paulroberttaylor@gmail.com>,Charlie Joseph <Charlie.Joseph@crestnicholson.com>,
+2025-06-05T17:10:47+00:00,"0034 Albany Wood, 10 Colt View",Customer Service SO <CustomerServiceSO@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <CustomerServiceSO@crestnicholson.com>
+2025-06-05T19:07:31+01:00,"Re: 0034 Albany Wood, 10 Colt View",Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <CustomerServiceSO@crestnicholson.com>,
+2025-06-05T19:07:51+01:00,"AutoResponse: [EXTERNAL] Re: 0034 Albany Wood, 10 Colt View","""Customer Service SO"" <customerserviceso@crestnicholson.com>","""Paul Taylor"" <paulroberttaylor@gmail.com>",
+2025-06-06T10:13:22+01:00,"Fwd: 0034 Albany Wood, 10 Colt View",Paul Taylor <paulroberttaylor@gmail.com>,Casework Team <casework@nhos.org.uk>,
+2025-06-09T09:27:24+01:00,"Fwd: 0034 Albany Wood, 10 Colt View",Paul Taylor <paulroberttaylor@gmail.com>,"Charlie Joseph <Charlie.Joseph@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>",
+2025-06-09T09:27:42+01:00,"AutoResponse: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View","""Customer Service SO"" <customerserviceso@crestnicholson.com>","""Paul Taylor"" <paulroberttaylor@gmail.com>",
+2025-06-09T08:27:46+00:00,"Automatic reply: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Charlie Joseph <Charlie.Joseph@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2025-06-09T11:10:28+01:00,"Fwd: 0034 Albany Wood, 10 Colt View - Case Ref: NHOS-2024-000512 ",Paul Taylor <paulroberttaylor@gmail.com>,"Martyn Clark <martyn.clark@crestnicholson.com>, Claims <Claims@nhbc.co.uk>, 
+	Mark Foyle <Mark.Foyle@crestnicholson.com>",
+2025-06-09T10:10:50+00:00,"Automatic reply: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View -
+ Case Ref: NHOS-2024-000512",Mark Foyle <Mark.Foyle@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2025-06-09T11:12:17+01:00,"Fwd: 0034 Albany Wood, 10 Colt View - Case Ref: NHOS-2024-000512",Paul Taylor <paulroberttaylor@gmail.com>,"Casework Team <casework@nhos.org.uk>, Martyn Clark <martyn.clark@crestnicholson.com>",
+2025-06-09T11:21:33+00:00,"0034 Albany Wood, 10 Colt View",Customer Service SO <CustomerServiceSO@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,
+2025-06-09T14:12:48+01:00,"Re: 0034 Albany Wood, 10 Colt View",Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <CustomerServiceSO@crestnicholson.com>, 
+	Martyn Clark <martyn.clark@crestnicholson.com>",
+2025-06-09T14:13:09+01:00,"AutoResponse: [EXTERNAL] Re: 0034 Albany Wood, 10 Colt View","""Customer Service SO"" <customerserviceso@crestnicholson.com>","""Paul Taylor"" <paulroberttaylor@gmail.com>",
+2025-06-09T14:24:54+01:00,"Fwd: 0034 Albany Wood, 10 Colt View",Paul Taylor <paulroberttaylor@gmail.com>,"Casework Team <casework@nhos.org.uk>, 
+	NHOS Customer Service <customer.services@nhos.org.uk>",
+2025-06-09T13:25:27+00:00,NHOS-E-00427982: We have received your email,NHOS Customer Services <noreply@nhos.org.uk>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2025-06-09T15:51:32+00:00,"RE: URGENT UPDATE & New Evidence - NHOS Case Ref: NHOS-2024-000512 -
+ Render & Path Issues",Casework Team <casework@nhos.org.uk>,Paul Taylor <paulroberttaylor@gmail.com>,
+2025-06-10T12:44:15+01:00,"Fwd: 0034 Albany Wood, 10 Colt View",Paul Taylor <paulroberttaylor@gmail.com>,"Martyn Clark <martyn.clark@crestnicholson.com>, 
+	Customer Service SO <customerserviceSO@crestnicholson.com>, Casework Team <casework@nhos.org.uk>",
+2025-06-10T12:45:01+01:00,"AutoResponse: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View","""Customer Service SO"" <customerserviceso@crestnicholson.com>","""Paul Taylor"" <paulroberttaylor@gmail.com>",
+2025-06-10T12:27:51+00:00,"RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Charlie Joseph <Charlie.Joseph@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>, Customer
+ Service SO <CustomerServiceSO@crestnicholson.com>",Helen Morley <Helen.Morley@crestnicholson.com>
+2025-06-10T15:04:45+01:00,"Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Paul Taylor <paulroberttaylor@gmail.com>,Charlie Joseph <Charlie.Joseph@crestnicholson.com>,"Customer Service SO <CustomerServiceSO@crestnicholson.com>, 
+	Helen Morley <Helen.Morley@crestnicholson.com>"
+2025-06-10T15:05:12+01:00,"AutoResponse: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View","""Customer Service SO"" <customerserviceso@crestnicholson.com>","""Paul Taylor"" <paulroberttaylor@gmail.com>",
+2025-06-10T15:01:24+00:00,"RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Charlie Joseph <Charlie.Joseph@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <CustomerServiceSO@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2025-06-11T09:25:28+01:00,"Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Paul Taylor <paulroberttaylor@gmail.com>,Charlie Joseph <Charlie.Joseph@crestnicholson.com>,"Customer Service SO <CustomerServiceSO@crestnicholson.com>, 
+	Helen Morley <Helen.Morley@crestnicholson.com>"
+2025-06-11T09:25:48+01:00,"AutoResponse: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View","""Customer Service SO"" <customerserviceso@crestnicholson.com>","""Paul Taylor"" <paulroberttaylor@gmail.com>",
+2025-06-11T09:01:01+00:00,"RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Charlie Joseph <Charlie.Joseph@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <CustomerServiceSO@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2025-06-11T10:36:39+01:00,NHOS-2024-000512,Paul Taylor <paulroberttaylor@gmail.com>,Nigel Cates <Nigel.cates@nhos.org.uk>,
+2025-06-16T11:07:39+00:00,"RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Charlie Joseph <Charlie.Joseph@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,"Customer Service SO <CustomerServiceSO@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>"
+2025-06-16T12:18:19+01:00,"Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Paul Taylor <paulroberttaylor@gmail.com>,Charlie Joseph <Charlie.Joseph@crestnicholson.com>,
+2025-06-17T12:31:06+01:00,Fwd: NHOS-2024-000512,Paul Taylor <paulroberttaylor@gmail.com>,"Casework Team <casework@nhos.org.uk>, Nigel Cates <Nigel.cates@nhos.org.uk>",
+2025-06-17T15:14:41+00:00,0034 Albany Wood Complaint Interim Update 17-06-25,Charlie Joseph <Charlie.Joseph@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Helen Morley <Helen.Morley@crestnicholson.com>, Donna Hack
+	<Donna.Hack@crestnicholson.com>, Abbey Wakeford
+	<Abbey.Wakeford@crestnicholson.com>, Donna Goodger
+	<Donna.Goodger@crestnicholson.com>"
+2025-06-19T10:13:20+00:00,RE: NHOS-2024-000512,Casework Team <casework@nhos.org.uk>,Paul Taylor <paulroberttaylor@gmail.com>,
+2025-06-23T16:23:08+00:00,"RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Charlie Joseph <Charlie.Joseph@crestnicholson.com>,Paul Taylor <paulroberttaylor@gmail.com>,Customer Service SO <CustomerServiceSO@crestnicholson.com>
+2025-06-23T18:22:40+01:00,"Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Paul Taylor <paulroberttaylor@gmail.com>,"Martyn Clark <martyn.clark@crestnicholson.com>, Casework Team <casework@nhos.org.uk>, 
+	NHOS Customer Service <customer.services@nhos.org.uk>",
+2025-06-23T17:23:03+00:00,NHOS-E-00444963: We have received your email,NHOS Customer Services <noreply@nhos.org.uk>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2025-06-23T19:13:36+01:00,"Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Paul Taylor <paulroberttaylor@gmail.com>,Charlie Joseph <Charlie.Joseph@crestnicholson.com>,Customer Service SO <CustomerServiceSO@crestnicholson.com>
+2025-06-24T20:34:57+01:00,"Fwd: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Paul Taylor <paulroberttaylor@gmail.com>,Martyn Clark <martyn.clark@crestnicholson.com>,
+2025-06-25T09:27:40+00:00,NHOS-2024-000512/P Taylor,Casework Team <casework@nhos.org.uk>,"""paulroberttaylor+render@gmail.com"" <paulroberttaylor+render@gmail.com>",
+2025-06-25T09:47:11+00:00,"RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Nikki Hogben <Nikki.Hogben@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2025-06-25T11:11:07+01:00,"Fwd: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",Paul Taylor <paulroberttaylor@gmail.com>,"Casework Team <casework@nhos.org.uk>, Nigel Cates <Nigel.cates@nhos.org.uk>",
+2025-06-25T10:41:51+00:00,"Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View",NHOS Customer Service <customer.services@nhos.org.uk>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>",
+2025-06-25T10:42:15+00:00,We welcome your feedback,NHOS Customer Service <customer.services@nhos.org.uk>,Paul Taylor <paulroberttaylor@gmail.com>,
+2025-06-25T14:18:23+00:00,Mr Taylor - 0034 Albany Wood,Charlie Joseph <Charlie.Joseph@crestnicholson.com>,"""paulroberttaylor@gmail.com"" <paulroberttaylor@gmail.com>","Donna Hack <Donna.Hack@crestnicholson.com>, Abbey Wakeford
+	<Abbey.Wakeford@crestnicholson.com>, Donna Goodger
+	<Donna.Goodger@crestnicholson.com>"
+2025-06-25T16:46:59+01:00,Re: Mr Taylor - 0034 Albany Wood,Paul Taylor <paulroberttaylor@gmail.com>,"Casework Team <casework@nhos.org.uk>, Nigel Cates <Nigel.cates@nhos.org.uk>",
+2025-06-26T09:25:49+00:00,RE: Mr Taylor - 0034 Albany Wood,Casework Team <casework@nhos.org.uk>,"Paul Taylor <paulroberttaylor@gmail.com>, Nigel Cates
+	<Nigel.Cates@nhos.org.uk>",
+2025-07-04T08:23:12+01:00,Re: Mr Taylor - 0034 Albany Wood,Paul Taylor <paulroberttaylor@gmail.com>,"Casework Team <casework@nhos.org.uk>, Nigel Cates <Nigel.cates@nhos.org.uk>",

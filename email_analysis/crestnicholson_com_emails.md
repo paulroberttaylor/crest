@@ -1,6 +1,309 @@
 # Emails from crestnicholson.com
 
-Total: 442 emails
+Total: 692 emails
+
+## 2021-07-16 12:53: RE: [EXTERNAL] Plot 35
+**From:** Steve Smith <Steve.Smith@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+4pm will be fine.
+
+Steve Smith
+Sales Executive
+
+Tangier Gardens
+Tangier Lane, Bishops Waltham, Hampshire SO32 1PP
+Tel: 01489 536 061
+www.crestnicholson.com<http://www.crestnicholson.com/>
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 16 July 2021 13:52
+To: Steve Smith <Steve.Smith@crestnicholson.com>
+Subject: [EXTERNAL] Plot 35
+
+[CAUTION: This email originated from outside Crest Nicholson. Do not click links, open attachments, or perform any requ...
+
+---
+
+## 2021-09-13 15:07: FW: Plot 35
+**From:** Steve Smith <Steve.Smith@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Steve Smith
+Sales Executive
+
+Tangier Gardens
+Tangier Lane, Bishops Waltham, Hampshire SO32 1PP
+Tel: 01489 536 061
+www.crestnicholson.com<http://www.crestnicholson.com/>
+
+
+
+Classified as General
+From: Steve Smith
+Sent: 13 September 2021 16:07
+To: Jade Millington <jade@dancepower.org>
+Subject: Plot 35
+
+Hi Jade and Paul,
+
+Following your visit today, I have had verbal confirmation from the site manager that the Right Hand window openings will not be bricked up and the windows are o...
+
+---
+
+## 2021-10-09 11:37: RE: [EXTERNAL] Plot 35
+**From:** Steve Smith <Steve.Smith@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Dear Paul and Jade,
+
+Thank you for your email. I am sorry you are disappointed with your journey to date. I have passed your email to senior management for their consideration.
+
+Regards
+Steve
+
+Steve Smith
+Sales Executive
+
+Tangier Gardens
+Tangier Lane, Bishops Waltham, Hampshire SO32 1PP
+Tel: 01489 536 061
+www.crestnicholson.com<http://www.crestnicholson.com/>
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 09 October 2021 12:33
+To: Steve Smith <S...
+
+---
+
+## 2021-10-11 09:59: RE: [EXTERNAL] Fwd: Plot 35
+**From:** Steve Smith <Steve.Smith@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Good morning Paul,
+
+Thank you for your email.
+
+I will be booking your Home Demo for approximately 5 to 7 days prior to completion.
+
+The cable you have seen, as you requested, is 40 amp rated and will be terminated in a small box, ready for a future charger unit.
+
+As previously discussed at reservation, there is no shower over the bath. The standard fit is a handset.
+
+I am not sure where your information comes from regarding Silestone in Utility rooms. None of our houses have this and w...
+
+---
+
+## 2021-10-11 10:57: RE: [EXTERNAL] Fwd: Plot 35
+**From:** Steve Smith <Steve.Smith@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+The upgraded shower is not thermostatic as in the en-suite. It is just an extended hose, with a screen, which you could easily do after completion. It is now too late too request this, which would have cost £450. There were no other upgrades available to you.
+
+Steve
+
+Steve Smith
+Sales Executive
+
+Tangier Gardens
+Tangier Lane, Bishops Waltham, Hampshire SO32 1PP
+Tel: 01489 536 061
+www.crestnicholson.com<http://www.crestnicholson.com/>
+
+
+
+Classified as General
+From: Paul Taylor <paul...
+
+---
+
+## 2021-10-22 16:37: RE: [EXTERNAL] Plot 35 Tangier
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>
+**CC:** Customer Service SO <customerserviceSO@crestnicholson.com>
+
+Good afternoon Paul, Jade
+
+Apologies for a delay in responding, I wanted to check all items below with our site team, technical department to ensure any information I give is correct.
+
+Crest want you to enjoy your new home and feel confident that should any problems arise we are here to help where required.
+I personally will be on hand to help with any issues should they arise.  I have already passed on my contact details to yourselves to show the commitment we will give.
+
+Please see my c...
+
+---
+
+## 2021-10-28 11:10: RE: [EXTERNAL] Plot 35 Tangier
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>
+
+Good morning Paul, Jade.
+
+I will update shortly if that is ok.  Currently in a meeting.
+
+Thanks
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 28 October 2021 11:55
+To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+Cc: Jade Taylor <jade@dancepower.org>
+Subject: [EXTERNAL] Plot 35 Tangier
+
+[CAUTION: This email originated from outside Crest Nicholson. Do not click links, open attachments, or perform any requested actions unless you recognise the sender an...
+
+---
+
+## 2021-10-31 13:31: General
+**From:** Steve Smith <Steve.Smith@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Millington <jade@dancepower.org>
+
+Hello Paul,
+
+Just to confirm that Crest Nicholson will cover the cost of your lock changes and an internet dongle, as I have not been able to supply a Buzzbox this weekend.
+
+Kind regards
+
+Steve.
+
+Steve Smith
+Sales Executive
+
+Tangier Gardens
+Tangier Lane, Bishops Waltham, Hampshire SO32 1PP
+Tel: 01489 536 061
+www.crestnicholson.com<http://www.crestnicholson.com/>
+
+
+
+Classified as General
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for r...
+
+---
+
+## 2021-11-01 13:52: Confirmation of Completion Letter- Plot 35 Tangier Gardens
+**From:** Isabelle Hochet <Isabelle.Hochet@crestnicholson.com>
+**To:** "jade@dancepower.org" <jade@dancepower.org>, "paulroberttaylor@gmail.com"
+	<paulroberttaylor@gmail.com>
+
+Dear Mr and Mrs Taylor,
+
+
+Please find attached confirmation letter for your recent completion with Crest Nicholson.
+
+Should you have any questions please do not hesitate to speak to your Sales Executive at the Development.
+
+
+Kind regards,
+
+
+Isabelle Hochet
+
+Sales Progressor
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580 472
+
+
+
+
+
+
+Classified as General
+Crest Nicholson uses personal data about its customers, subc...
+
+---
+
+## 2021-11-02 09:26: RE: [EXTERNAL] Fibre Internet
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Steve Smith
+	<Steve.Smith@crestnicholson.com>
+
+Good morning Paul,
+
+I am looking in to this and have requested information from the relevant people.  As soon as I receive I will update you.
+
+Kind regards
+
+Paul Haigh
+
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 01 November 2021 16:52
+To: Paul Haigh <Paul.Haigh@crestnicholson.com>; Steve Smith <Steve.Smith@crestnicholson.com>
+Subject: [EXTERNAL] Fibre Internet
+
+[CAUTION: This email originated from outside Crest Nicholson. Do not click links, op...
+
+---
+
+## 2021-11-02 14:16: RE: [EXTERNAL] 25 Abbots Road
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** "jade@dancepower.org" <jade@dancepower.org>
+
+Good afternoon Paul,
+
+Can you please send the invoice into the customer service team and CC Helen Morley in on the email given last week.
+
+Thanks
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 30 October 2021 11:15
+To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+Cc: jade@dancepower.org
+Subject: [EXTERNAL] 25 Abbots Road
+
+[CAUTION: This email originated from outside Crest Nicholson. Do not click links, open attachments, or perform any requested actions u...
+
+---
+
+## 2021-11-08 08:57: RE: [EXTERNAL] Visit with MD
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Leanne Poingdestre
+	<Leanne.Poingdestre@crestnicholson.com>
+
+Good morning Paul,
+
+As discussed, The only availability for attendance with myself is Monday 15th.
+
+Can we still do 11am as before.
+
+Kind regards
+
+Paul Haigh
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 08 November 2021 08:56
+To: Paul Haigh <Paul.Haigh@crestnicholson.com>; Helen Morley <Helen.Morley@crestnicholson.com>
+Cc: Jade Taylor <jade@dancepower.org>
+Subject: [EXTERNAL] Visit with MD
+
+[CAUTION: This email originated from outside Crest Nic...
+
+---
 
 ## 2021-11-08 09:20: RE: [EXTERNAL] Kitchen Patio Doors
 **From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
@@ -25,6 +328,84 @@ To: Paul Haigh <Paul.Haigh@crestnicholson.com>; Helen Morley <Helen.Morley@crest
 Subject: [EXTERNAL] Kitchen Patio Doors
 
 [CAUTION: This email originated from outside Crest Nicholson. Do not click ...
+
+---
+
+## 2021-11-08 19:47: RE: [EXTERNAL] 25 Abbots Road
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>
+
+Good evening Paul,
+
+Please see my comments to your requests in blue below.
+
+I would like to take this opportunity to ensure that I will oversee any works that happen to your property.  I will be working closely with our site team and in turn our contractors.
+
+All contractors will be informed to treat all homes on the development with the respect  and care they deserve.
+
+Thanks
+
+Paul Haigh
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 08 November 20...
+
+---
+
+## 2021-11-09 10:34: Meeting arranged
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Customer Service SO <customerserviceSO@crestnicholson.com>
+
+Good morning Jade, Paul
+
+Following our telephone conversation last night, unfortunately all diaries are booked for this week now so Monday will have to remain.
+
+We will meet at your property at 11mm on Monday 15th November.
+
+If you would like to send over the Professional snagging list prior to the meeting, this will gives us some time to look over it ready for comment Monday.
+
+Hope this is satisfactory.
+
+Kind regards
+
+Paul Haigh
+Assistant Site Manager
+
+Paul.Haigh@crestnicholson.c...
+
+---
+
+## 2021-11-10 15:09: RE: [EXTERNAL] 25 Abbots Road
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+**CC:** Jade Taylor <jade@dancepower.org>
+
+Good afternoon Paul,
+
+Unfortunately all 14 day visit are to be held at the home due to viewing the items reported.
+This can not be done at the sales suite.
+
+I will ensure all persons attending wear facial coverings and to use hand sanitizer before entering the property.
+
+I hope this is satisfactory.
+
+Kind regards
+
+Paul Haigh
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 09 November 2021 15:27
+To: Paul Haigh <Paul.Haigh@crestnicholson.com>; Helen ...
 
 ---
 
@@ -55,6 +436,3323 @@ Subject: Re: [EXTERNAL] Kitchen Patio Doors
 
 ---
 
+## 2021-11-10 16:43: RE: [EXTERNAL] Re: Flies in loft
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+**CC:** Jade Taylor <jade.millington@hotmail.co.uk>
+
+Hi Paul,
+
+Thanks again for sending these.  I have spoken with the site team about placing a fly strip in the loft temporarily as this will not let off any potential harmful gases to your birds.
+
+Thanks
+
+paul
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 10 November 2021 14:23
+To: Paul Haigh <Paul.Haigh@crestnicholson.com>; Helen Morley <Helen.Morley@crestnicholson.com>; Paul Vincent <Paul.Vincent@crestnicholson.com>
+Cc: Jade Taylor <jade.millington@h...
+
+---
+
+## 2021-11-11 10:35: Automatic reply: [EXTERNAL] Kitchen Patio Doors
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+I am on leave until Friday 12th November.
+If your enquiry is urgent please contact our Customer service team at the details below.
+customerserviceso@crestnicholson.com or telephone 0808 168 6171
+
+Please note our offices hours are:
+Monday - Thursday 8.30am to 5pm
+Friday 8.30am to 4pm
+
+If you are a homowner who is still within the 2 year warranty period and you have an emergency outside of these hours please all 0808 168 6171 where you will be put through to our emergency out of hours team...
+
+---
+
+## 2021-11-12 18:16: Automatic reply: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) -
+ Professional Survey Report
+**From:** Tom Nicholson <Tom.Nicholson@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Please note I am away from the office, returning on Monday 15th November. I will have limited access to my emails during this time. If urgent, please contact Nikki Hogben, at nikki.hogben@crestnicholson.com
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recruitment purposes in relation to the operation of its business in accordance with its Privacy Policy which can be found here. You can unsubscribe from our marketing communications by following the un...
+
+---
+
+## 2021-11-12 18:16: Automatic reply: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) -
+ Professional Survey Report
+**From:** Kieran Daya <Kieran.Daya@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+﻿
+Thank you for your email. I am currently out of the office on annual leave until the 21st October. I will endeavour to respond to your email as soon as possible upon my return.
+
+My EA, Danikka Matusalem, is monitoring my inbox, however, if your matter is urgent and requires expedient action, please call Danikka on 07880474289
+
+Best regards
+Kieran
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recruitment purposes in relation to the operation of...
+
+---
+
+## 2021-11-15 18:19: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) - Professional Survey
+ Report
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** "'paulroberttaylor@gmail.com'" <paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+Dear Mr Taylor
+
+I acknowledge receipt of your email of 12th November which has been passed to me by David Marchant.  I am the Managing Director of Crest Nicholson South, which is responsible for the development at Tangier Gardens.
+
+I will be fully investigating the concerns you have raised and will provide a formal response within 14 days.
+
+Regards,
+
+Adrian Sims
+Managing Director
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  F: 0870 3...
+
+---
+
+## 2021-11-22 07:51: Automatic reply: [EXTERNAL] Fwd: Rear garden jetwashed
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+I am currently on a course Monday 22nd and  Tues 23rd.  I will be on annual leave from Wed 24th and will return Tuesday 30th November.
+If you require urgent assistance please contact Crest Nicholson customer services.
+Thank you
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recruitment purposes in relation to the operation of its business in accordance with its Privacy Policy which can be found here. You can unsubscribe from our marketing communicati...
+
+---
+
+## 2021-11-22 07:51: Automatic reply: [EXTERNAL] Fwd: Rear garden jetwashed
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+I am on leave until Monday 22nd November.
+If your enquiry is urgent please contact our Customer service team at the details below.
+customerserviceso@crestnicholson.com or telephone 0808 168 6171
+
+Please note our offices hours are:
+Monday - Thursday 8.30am to 5pm
+Friday 8.30am to 4pm
+
+If you are a homowner who is still within the 2 year warranty period and you have an emergency outside of these hours please all 0808 168 6171 where you will be put through to our emergency out of hours team...
+
+---
+
+## 2021-11-22 16:59: Buzz Box
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Jade Millington <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Steve Smith
+	<Steve.Smith@crestnicholson.com>
+
+Good evening jade/Paul,
+
+Would Marc be able to attend to collect the Buzz box given to allow internet useage please including all cases and cables.
+
+Can you confirm a suitable time for Marc to collect.
+
+PS: Steve in sales mentioned that you may still have the sample door, if you do can Marc also collect this to return to the sales suite.
+
+Many Thanks
+
+
+Paul Haigh
+Assistant Site Manager
+
+Paul.Haigh@crestnicholson.com<mailto:Paul.Haigh@crestnicholson.com>
+Crest Nicholson South, Cres...
+
+---
+
+## 2021-11-23 14:27: Customer Care
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>
+
+Paul
+
+I wanted to give you an update on the next few days' worth of works being carried out at your property.
+
+
+  *   Marcus the groundworker supervisor and I will be visiting tomorrow morning to look at the issues raised from your list.
+  *   Marcus from Baram has booked in the works to be carried out on Thursday 24th November.
+  *   Paul from SMP Brickwork will be round tomorrow with me as well carry out the cleaning and pointing which has been raised.
+  *   Mike from Houlihan Carpentr...
+
+---
+
+## 2021-11-24 21:35: RE: [EXTERNAL] Fwd: Customer Care BT
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, "jade@dancepower.org"
+	<jade@dancepower.org>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>
+
+Evening Jade and Paul
+
+I just wanted to confirm and I have spoken with Openreach and they have raised a ticket for this so I will let you know as soon as I get a date from them.
+
+Also as you may of noticed with the weather today sadly we have had to put back the painting of the cladding. I have a decorator here on Monday so this will be carried out then. As I mentioned yesterday We plan to carry out the groundwork tasks tomorrow as well the cladding task with the carpenter.
+
+Kind Regards
+...
+
+---
+
+## 2021-11-25 16:18: RE: [EXTERNAL] Cladding to left of front door
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+Paul
+
+Mentioned to the carpenter, he will be over tomorrow morning to complete this and cut the nail in the fence.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP
+
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sen...
+
+---
+
+## 2021-11-29 19:07: RE: [EXTERNAL] 25 Abbots Road, Tangier (Plot 35) - Professional
+ Survey Report
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>,
+	"jade@dancepower.org" <jade@dancepower.org>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>
+
+Good evening Mr & Mrs Taylor,
+
+I am writing further to your email below, your follow up email of 16th November and also that of your Wife’s email to Helen Morley and myself on 16th November.
+
+Firstly it is disappointing to read of your dissatisfaction and I am sorry that you have not had the experience you had hoped for and that you feel that your home was rushed. Although we agree that there were finishing works being completed externally on day of completion, the property was finished and ...
+
+---
+
+## 2021-12-01 09:19: RE: [EXTERNAL] Munster
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>
+
+Good morning Paul,
+
+Hope you are well, I would like to have a catch up today if that is ok.  What time best suits you to have a chat.
+
+Regarding Munster, they were informed of everything within your property that has been noted on either of the snagging reports.  I also asked them to check all windows and doors to your property.
+
+I will speak with Munster to find out and information.
+
+I will be sending you BDL dry lining report today as well so we can discuss after you have received.
+
+...
+
+---
+
+## 2021-12-01 09:24: RE: [EXTERNAL] 25 Abbots Road - plasterwork
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Good morning paul,
+
+As per previous email.  You will receive the report this morning.
+
+Kind regards
+
+Paul Haigh
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 30 November 2021 13:37
+To: Paul Haigh <Paul.Haigh@crestnicholson.com>; Helen Morley <Helen.Morley@crestnicholson.com>
+Subject: [EXTERNAL] 25 Abbots Road - plasterwork
+
+[CAUTION: This email originated from outside Crest Nicholson. Do not click links, open attachments, or perform any requested a...
+
+---
+
+## 2021-12-01 15:15: RE: [EXTERNAL] Munster
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>
+
+Good afternoon Paul,
+
+Hope everyone is well.
+
+Unfortunately I am not around this evening but I am on site 1st thing tomorrow.  I will be around all day.
+
+I am trying to organise for the landscaping to be completed tomorrow so it might be short notice I can confirm, might even be the case that I turn up with the gents tomorrow morning to get the works completed.  Hope this will be ok as will not disturb you internally.
+
+You will be receiving the report very shortly.
+
+Thank you
+
+Paul H...
+
+---
+
+## 2021-12-01 15:19: Plot 35 Tangier Gardens, Dry lining Works
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+Good afternoon Paul,
+
+Please see report below from BDL.  All works to be carried out.
+
+Here is the report from the above property that we inspected last week.
+
+I'm doing this from the notes and measurements that you and I took as witnessed and agreed with by the owner, however if you feel that I have missed out anything or are not sure about any of this please let me know.
+
+KITCHEN
+
+Kitchen side window : Bottom L/H reveal 7mm over a span of 245mm
+                                      ...
+
+---
+
+## 2021-12-01 16:27: RE: [EXTERNAL] Munster
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+Good afternoon Paul,
+
+Thank you.
+
+I have managed to get them to confirm tomorrow morning attendance just a short while ago so hope to be on site with them from 8am.  I will be going through the complete landscaping plan whilst there to ensure all is how it is supposed to be.
+I will give you a knock in the morning to let you know I am on site.
+
+Thanks again and look forward to catching up tomorrow.
+
+Kind regards
+
+Paul Haigh
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttay...
+
+---
+
+## 2021-12-02 13:47: Programme of works prior to meeting
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Customer Service SO <customerserviceSO@crestnicholson.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>
+
+Good afternoon,
+Please see programme of works to be carried out providing we can work in numerous areas at times.
+
+Protection throughout the property will be used at all times and areas will be cleaned at the end of each working day where required.
+
+Should you have any queries, please do not hesitate to contact me.
+
+Kind regards
+
+Paul Haigh
+Assistant Site Manager
+
+Paul.Haigh@crestnicholson.com<mailto:Paul.Haigh@crestnicholson.com>
+Crest Nicholson South, Crest House, Pyrcroft Road, C...
+
+---
+
+## 2021-12-03 09:01: RE: [EXTERNAL] Top reveals, windows and doors
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Customer Service SO <customerserviceSO@crestnicholson.com>
+
+Good morning Paul, Jade.
+
+Thank you for your email and meeting yesterday,  I have forwarded your query onto the dry lining company regarding the reveals and await an answer from them today.
+
+I will be speaking with our team today regarding the meeting yesterday.
+
+Jade and your self were going to have a discussion last night regarding the programme of works, have you and more you would like to add to what was discussed yesterday?
+
+Thank you.
+
+Paul Haigh
+
+
+
+Classified as General
+Fro...
+
+---
+
+## 2021-12-03 17:16: Plot 35 Tangier Gardens
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>
+
+Good afternoon Paul, Jade
+
+Following on from our meeting yesterday, have yourself and jade given any more thought to our programme.
+
+To carry out the works to each room singularly would mean the completion of the works could take upto 6 weeks.
+If you would like this to be done in this manner can you please confirm.
+
+We would take all precautionary measures regarding any Health and Safety matters to minimise any risk.
+
+I have requested that our contractors provide us with COSHH assessmen...
+
+---
+
+## 2021-12-06 07:54: Openreach Visit
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>
+
+Morning
+
+Openreach have been in touch and have asked if they can attend at 9am on Friday 10th December.
+
+Would you be able to confirm if this is a good time for yourselves.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO3...
+
+---
+
+## 2021-12-06 15:09: RE: [EXTERNAL] Fwd: Landscaping
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>
+
+Good afternoon Paul,
+Apologies for this.  I have spoken with the landscapers and can only apologise as the delivery was expected today.  The landscaping contractor is on site tomorrow and if the delivery turns up they will attend to remove and replant where agreed last week.
+
+Thank you.
+
+Paul Haigh
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 06 December 2021 14:35
+To: Paul Haigh <Paul.Haigh@crestnicholson.com>; Marc Gilmore <Marc.Gilmore@crestnichols...
+
+---
+
+## 2021-12-06 20:08: Plot 35 Tangier Gardens
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Good evening Jade, Paul
+
+Please my responses to your email in blue.
+
+Good evening Paul,
+
+Following our meeting yesterday you were going to discuss the plan going forward with Helen. We discussed our health concerns and you confirmed a risk assessment report would be organised, - All contractors have been requested to provide RAMS & COSHH assessments before any works are carried out. also the level of disruption regarding the noise levels would make work calls, teams etc.. difficult. - We w...
+
+---
+
+## 2021-12-11 10:19: Plot 35, Tangier Gardens
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>, Leanne Poingdestre
+	<Leanne.Poingdestre@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>
+
+Good morning Mr Taylor
+
+Further to my email of 29th November 2021, I have received updates from the team as promised.
+
+I understand that a full schedule of internal works is currently being organised by Paul for the New Year so that we can provide an accurate timetable, room by room as requested.
+
+With regards to the external works, I am pleased to hear that the landscaping has been completed, BT have attended to make their connection and the composite board has been rectified today. Munst...
+
+---
+
+## 2021-12-17 14:25: RE: [EXTERNAL] 25 Abbots Road - outstanding oustide work
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Good afternoon Paul,
+
+Apologies for this.  I will get on to the contractor straight away.
+
+S soon as I get an answer from them  will update you.
+
+Kind regards
+
+Paul Haigh
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 17 December 2021 12:08
+To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+Subject: [EXTERNAL] 25 Abbots Road - outstanding oustide work
+
+[CAUTION: This email originated from outside Crest Nicholson. Do not click links, open attachments, ...
+
+---
+
+## 2021-12-17 15:24: RE: [EXTERNAL] Fwd: 25 Abbots Road - outstanding oustide work
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>
+**CC:** Jade Taylor <jade@dancepower.org>
+
+Good afternoon Paul,
+
+Thank you kindly for sending these to me.
+
+I will forward them on to the relevant party and ensure this is cleaned ASAP.
+
+Paul as discussed on Tuesday regarding the internal works to your property, although I am still waiting on the RAMS it would be beneficial for you to in form myself which rooms you would prefer for us to start in and to work through rather than me telling you.
+
+If you would prefer for me to programme the rooms telling you that is fine but once I ...
+
+---
+
+## 2021-12-17 17:11: FW: Plot 35, Tangier Gardens
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>, Leanne Poingdestre
+	<Leanne.Poingdestre@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>
+
+Classified as General
+From: Helen Morley <Helen.Morley@crestnicholson.com>
+Sent: 17 December 2021 16:51
+To: Adrian Sims <Adrian.Sims@crestnicholson.com>
+Cc: Sarah Reeve <Sarah.Reeve@crestnicholson.com>
+Subject: FW: Plot 35, Tangier Gardens
+
+Good afternoon Mr Taylor,
+
+As advised please find an update on the progress of works carried out this week.
+
+The external ground works still need to be completed to the patio area and near the garage. Paul Haigh is meeting along with our Groundwork...
+
+---
+
+## 2021-12-21 13:08: RE: Plant -- Fwd: [EXTERNAL] 25 Abbots Rd
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>
+
+Good afternoon Paul,
+
+When I attended with the landscaper originally to look at the plants you wanted replacing, you showed us the ones to the front right of your property.  The landscaper agreed to replace, not because they were dying but because they were not as attractive as other plants around. (this was the previous Contract Manager)
+
+When I walked the plot last week with yourself you then pointed out the plants to the left of the property so this being a new item.  I showed the new Con...
+
+---
+
+## 2021-12-21 13:34: RE: Plant -- Fwd: [EXTERNAL] 25 Abbots Rd
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>
+
+Paul,
+I am not telling anything to the contrary.  The previous contract manger did say he would replace but did not say to me they were dead.
+
+We have a process in place to follow with reporting defects.
+
+I replaced the plants you requested at the time as good will.
+
+The plants to the other side of the house was not on any list and was only high lighted by yourself last week.
+
+I am sorry you feel disappointed but I am trying to get the issues rectified at your property in a timely manne...
+
+---
+
+## 2021-12-23 19:44: RE: [EXTERNAL] Brick debris
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Good evening Paul.
+
+Can you please send me photos of the brick dust tomorrow in the daylight.
+
+Kind regards
+
+Paul Haigh
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 23 December 2021 19:41
+To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+Subject: [EXTERNAL] Brick debris
+
+[CAUTION: This email originated from outside Crest Nicholson. Do not click links, open attachments, or perform any requested actions unless you recognise the sender and know the cont...
+
+---
+
+## 2021-12-23 19:49: RAMS
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>
+
+Good evening jade, Paul
+
+Please see attached RAMS for your perusal.
+
+I will be attending with our contractor on the first day.  I will be holding an induction with the contractors before any works commence.
+
+If you agree we can still start on the 4th in the 2nd bedroom with the ensuite that you suggested.  Whilst they are starting on said room we can sit down and agree the rooms following the completion of that room so we have a programme of works that is agreeable with all parties.
+
+I h...
+
+---
+
+## 2021-12-23 20:56: Automatic reply: [EXTERNAL] Re: RAMS
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+I am now on annual leave and will return on the 4th jan.
+Have a merry christmas and a happy new year.
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recruitment purposes in relation to the operation of its business in accordance with its Privacy Policy which can be found here. You can unsubscribe from our marketing communications by following the unsubscribe instruction within the communication itself or simply by contacting us. We may monitor email t...
+
+---
+
+## 2022-01-04 09:38: RE: [EXTERNAL] Re: RAMS
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Jade Millington <jade@dancepower.org>
+**CC:** Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+
+Good morning Jade,
+Happy new year to you and your family.
+
+Hope you all had a great break.
+
+Following the email from 23rd December, I informed that we would start on the 4th internally and sit down to go through the areas you would want carried out and in which order.
+
+Regarding a breakdown of the works, this was explained that it was compiled from the lists your professional snagging surveyor provided as well as the list Paul put together.
+Crest representatives also walked the property ...
+
+---
+
+## 2022-01-06 11:09: RE: [EXTERNAL] Internal Works
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>
+
+Good morning Paul,
+
+Hope you are all well.
+
+Thank you kindly for sending me the below.  I have now added to the diary for Jan 17th start internally.
+
+I can confirm that we can leave the polythene covering on furniture to allow any settling and can be removed by yourselves if required.
+
+Any hard surfaces will also be adequately protected.
+
+Regarding the external works outstanding.  I have requested a date for the patio remedial works and they have agreed to give a date by mid day tomorr...
+
+---
+
+## 2022-01-07 11:36: RE: [EXTERNAL] Plant care
+**From:** Steve Smith <Steve.Smith@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Hello Paul,
+
+Please pop in to the sales office and I will give you a copy of the landscape drawing.
+
+Steve
+
+Steve Smith
+Sales Executive
+
+Tangier Gardens
+Tangier Lane, Bishops Waltham, Hampshire SO32 1PP
+Tel: 01489 536 061
+www.crestnicholson.com<http://www.crestnicholson.com/>
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 07 January 2022 11:12
+To: Steve Smith <Steve.Smith@crestnicholson.com>
+Subject: [EXTERNAL] Plant care
+
+[CAUTION: This email...
+
+---
+
+## 2022-01-07 16:48: RE: [EXTERNAL] Fwd: General
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>
+
+Good evening both,
+
+Hope you had a good Christmas and new year?
+
+Nothing is attached.
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580
+
+
+
+
+Classified as General
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>
+Sent: 07 January 2022 16:44
+To: Helen Morley <Helen.Morley@crestnicholson.com>
+Cc: Jade Taylor <jade@dancepower.org>
+Subject: [EXTERNAL] Fwd: Gener...
+
+---
+
+## 2022-01-08 08:30: RE: [EXTERNAL] Landscaping and Fencing
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+Morning Paul
+
+Thankyou for your time yesterday.
+
+As I discussed with you yesterday I have spoken with the fencing company and a replacement post will be needed as the repair is not satisfactory. Please see attached in the photo. Also I have Fence with is at the rear of your property will need to be adjusted as the last bay in the corner is still 4 inches too high.
+
+I have also asked for the fence panel next to the garage to be sorted. I have emailed them and also left a message so I will b...
+
+---
+
+## 2022-01-08 08:35: Tangier Gardens- plot 35 Planting.
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>
+
+Jade and Paul
+
+As discussed yesterday with yourselves and Paul from Naio we will be removing the 25no small plants in your front garden and replacing these for you. I have spoken with their Director who will be visiting site next week and we will be bringing a book for you to choose what ones you would like out of the front. He is currently self isolating so depending on getting a negative test on Tuesday he may be out on Wednesday however he said he will give me a call in the week and I will ...
+
+---
+
+## 2022-01-12 10:01: RE: [EXTERNAL] Brickwork
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+Morning Paul and Jade
+
+Apologies, I knew nothing of a bricklayer going round to you today. I have been chasing since Friday for one to attend. I am currently on a call but will be over at 10:30am to see you and go through the work with the bricklayer.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+...
+
+---
+
+## 2022-01-12 13:04: RE: [EXTERNAL] Fwd: Internal Works
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Good afternoon Paul,
+
+As mentioned previously,  Our contractors has been instructed to use adequate protection to all surfaces to prevent damage.
+
+Kind regards
+
+
+Paul Haigh
+Manager
+
+Paul.Haigh@crestnicholson.com<mailto:Paul.Haigh@crestnicholson.com>
+Crest Nicholson South, Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M:  07890 069427  S/B:  01932 580444
+www.crestnicholson.com<http://www.crestnicholson.com>
+
+
+
+
+
+Classified as General
+From: paulroberttaylor@gmail.com <...
+
+---
+
+## 2022-01-12 18:42: RE: [EXTERNAL] Fwd: Internal Works
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+Good evening Paul, Jade
+
+I can confirm that should any damage occur, Crest will repair or replace that item.
+
+We will require all items removed from furniture before our attendance to allow photographs to be taken and monitored before protection put in place.
+
+I hope this is satisfactory.
+
+Kind regards
+
+Paul Haigh
+
+
+
+Classified as General
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>
+Sent: 12 January 2022 09:53
+To: Paul Haigh <Paul.Haigh@crestnicholson.com>
+Cc: ...
+
+---
+
+## 2022-01-14 14:37: RE: [EXTERNAL] Fwd: Internal Works
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>
+
+Good afternoon Mr Taylor,
+
+We will of course replace anything that is not repairable but any item that in the unlikely circumstance gets damaged, we would have to take a view on whether replacement is proportional to the damage if it is minor and a repair would restore it.
+
+We will view all items that need to remain in the room during the duration of the works, protect and then ask you to inspect at the end of each day.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest...
+
+---
+
+## 2022-01-19 08:33: RE: [EXTERNAL] En-suite Bedroom redundant nib
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Customer Service SO <customerserviceSO@crestnicholson.com>
+
+Good afternoon Mr Taylor,
+
+Thank you for your email.
+
+Unfortunately we would not be in a position to remove the nib wall as this is part of our standard house design and was in situ at time of your legal completion.
+
+Although we appreciate that the wardrobe has not yet been fitted, this has been delayed due to the fact that we are carrying out drylining works to your property to include the ceiling and nib wall to that room,  for which access had been agreed for commencement this week.  Al...
+
+---
+
+## 2022-01-21 07:56: RE: [EXTERNAL] 25 Abbots Road
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Jade Millington <jade@dancepower.org>
+**CC:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Morning Jade and Paul
+
+Apologises for not getting round to see you yesterday. Alan has showed me photos of the work carried out and it looks like he is making good progress. I plan in popping in today which will probably be in the afternoon due to several meetings in the morning.
+
+I have spoke with Steve from Naio and he has sent me some photos. If you can let me know what one you would like as a replacement. Please see attached the plant choices.
+
+In terms of DBD attending site I haven’t ...
+
+---
+
+## 2022-01-21 10:57: RE: [EXTERNAL] Re: General
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning,
+
+Money should have reached your account yesterday.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580
+
+
+
+
+Classified as General
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>
+Sent: 19 January 2022 16:52
+To: Helen Morley <Helen.Morley@crestnicholson.com>; Jade Taylor <jade@dancepower.org>; Customer Service SO <customerserviceSO@crestni...
+
+---
+
+## 2022-01-24 10:53: Working hours
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+Good morning Jade, Paul
+
+Can you please confirm the working hours our multi trade operative is permitted to work within your property.
+
+Kind regards
+
+Paul Haigh
+Manager
+
+Paul.Haigh@crestnicholson.com<mailto:Paul.Haigh@crestnicholson.com>
+Crest Nicholson South, Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M:  07890 069427  S/B:  01932 580444
+www.crestnicholson.com<http://www.crestnicholson.com>
+
+
+
+Classified as General
+Crest Nicholson uses personal data about its custom...
+
+---
+
+## 2022-01-24 12:10: RE: [EXTERNAL] Re: Working hours
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Jade Millington <jade@dancepower.org>, Ice Paul Robert Taylor
+	<paulroberttaylor@gmail.com>
+
+Thank you Jade,
+
+Would our operative be able to work a little later in the day maybe 4pm please?
+
+
+Thanks
+
+Paul Haigh
+Manager
+
+Paul.Haigh@crestnicholson.com<mailto:Paul.Haigh@crestnicholson.com>
+Crest Nicholson South, Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M:  07890 069427  S/B:  01932 580444
+www.crestnicholson.com<http://www.crestnicholson.com>
+
+
+
+Classified as General
+From: Jade Millington <jade@dancepower.org>
+Sent: 24 January 2022 12:09
+To: Ice Paul Robert...
+
+---
+
+## 2022-01-27 14:31: Munster Appointment
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+Jade and Paul
+
+Munster have booked in the 15th February to visit your property to carry out a glass survey with myself. They will contact me on the day to give us a time slot.
+
+I have booked in a window clean on your property on 14-02-22.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Addre...
+
+---
+
+## 2022-01-27 15:02: RE: [EXTERNAL] 25 abbots Rd
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Jade Millington <jade@dancepower.org>, Ice Paul Robert Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>
+
+Jade & Paul
+
+We had a meeting with the groundworker and he is proposing a plan for the paving so we will let you know once I have a date from them.
+
+Window cleaning has been booked for the 14th February and Munster will attend on the 15th February. Munster will let me know a time on the day.
+
+I have asked Naio for a professional comment on the turf and he has also ordered your plants for you.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicho...
+
+---
+
+## 2022-01-28 07:50: RE: [EXTERNAL] February School Holidays
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Morning Paul
+
+Would you be able to confirm for me that it is just Monday 21st February to the 25th February where we won’t be able to attend your property.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP
+
+From: paul...
+
+---
+
+## 2022-01-28 11:01: Scope of works.
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>
+
+Paul and Jade
+
+I have just spoken with Shelby and they have asked if there is a specific order you would like us to work in in terms of rooms.
+
+Would you be able to provide a list of what order you would like us to carry out the works which works with yourselves so I can get Shelby to set a programme for us all.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest Hou...
+
+---
+
+## 2022-01-31 15:00: RE: [EXTERNAL] 25 Abbots Road, Tangier Lane
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Jade Millington <jade@dancepower.org>
+**CC:** Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+
+Good afternoon Mrs Taylor,
+
+Thank you for your email which I acknowledge receipt of.
+
+A full response or an update with any further action will be provided by Friday 4th February.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580
+
+
+
+
+Classified as General
+From: Jade Millington <jade@dancepower.org>
+Sent: 28 January 2022 17:44
+To: Helen Morley <Helen.Morley@cre...
+
+---
+
+## 2022-02-02 16:22: Site visit
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>
+
+Good afternoon Jade, Paul
+
+I am attending site tomorrow to check on te works that have been carried out to your property.
+
+Can you please inform of a suitable time I can visit.
+
+Kind regards
+
+
+
+Paul Haigh
+Manager
+
+Paul.Haigh@crestnicholson.com<mailto:Paul.Haigh@crestnicholson.com>
+Crest Nicholson South, Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M:  07890 069427  S/B:  01932 580444
+www.crestnicholson.com<http://www.crestnicholson.com>
+
+
+
+Classified as General
+Cre...
+
+---
+
+## 2022-02-03 15:12: RE: [EXTERNAL] 25 Abbots Road, Tangier Lane
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Jade Millington <jade@dancepower.org>
+**CC:** Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+
+Good afternoon,
+
+I would like to schedule to come and meet with you next week if you are available.
+
+Is Wednesday 9th suitable?
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580
+
+
+
+
+Classified as General
+From: Helen Morley
+Sent: 31 January 2022 15:00
+To: Jade Millington <jade@dancepower.org>
+Cc: Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+Subject: RE...
+
+---
+
+## 2022-02-03 17:08: RE: [EXTERNAL] 25 Abbots Road, Tangier Lane
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Jade Millington <jade@dancepower.org>, Ice Paul Robert Taylor
+	<paulroberttaylor@gmail.com>
+
+Thank you for your response.  As per my email on 31st I advised I would come back with either a full response or advise of any further action.
+
+Therefore I won't be providing a written response to your email of 28th but will be meeting in person to discuss.
+
+I cant advise how long the meeting will take as this will depend on how our discussions go.
+
+Shall we arrange for 10am on 9th?
+
+Many thanks
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, P...
+
+---
+
+## 2022-02-04 15:26: RE: [EXTERNAL] 25 Abbots Road, Tangier Lane
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Jade Millington <jade@dancepower.org>
+**CC:** Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+
+Good afternoon Mrs Taylor,
+
+It is up to you whether you want the workmen to continue with the agreed drylining works however if you wish to postpone until we meet then please let me know.
+
+See you at 11am on 9th.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580
+
+
+
+
+Classified as General
+From: Jade Millington <jade@dancepower.org>
+Sent: 03 February 2022 17:19
+...
+
+---
+
+## 2022-02-08 17:55: Site visit
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>
+
+Good evening Jade, Paul
+
+Just to inform I will be attending the meeting tomorrow with Helen Morley as I have been in all meetings to date.
+
+I trust this will be ok.
+
+Kind regards
+
+Paul Haigh
+Manager
+
+Paul.Haigh@crestnicholson.com<mailto:Paul.Haigh@crestnicholson.com>
+Crest Nicholson South, Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M:  07890 069427  S/B:  01932 580444
+www.crestnicholson.com<http://www.crestnicholson.com>
+
+
+
+Classified as General
+Crest Nicholson use...
+
+---
+
+## 2022-02-08 21:02: Re: [EXTERNAL] Wardrobe
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Jade Millington <jade@dancepower.org>, Ice Paul Robert Taylor
+	<paulroberttaylor@gmail.com>, Paul Vincent <Paul.Vincent@crestnicholson.com>,
+	Simon Minor <Simon.Minor@crestnicholson.com>
+
+Jade
+
+Space Pro will be attending at 10am.
+
+Regards
+
+Marc
+
+Get Outlook for Android<https://aka.ms/AAb9ysg>
+________________________________
+From: Jade Millington <jade@dancepower.org>
+Sent: Tuesday, February 8, 2022 7:37:21 PM
+To: Ice Paul Robert Taylor <paulroberttaylor@gmail.com>; Marc Gilmore <Marc.Gilmore@crestnicholson.com>; Paul Vincent <Paul.Vincent@crestnicholson.com>; Simon Minor <Simon.Minor@crestnicholson.com>
+Subject: [EXTERNAL] Wardrobe
+
+[CAUTION: This email originate...
+
+---
+
+## 2022-02-09 17:20: RE: [EXTERNAL] En-suite toilet
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Paul
+
+I have raised this with tread floor and they will be in touch. Just to let you know Alan will be returning to site tomorrow to carry out the works in the ensuite.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP...
+
+---
+
+## 2022-02-11 15:26: RE: [EXTERNAL] Wardrobe
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Jade Millington <jade@dancepower.org>
+**CC:** Ice Paul Robert Taylor <paulroberttaylor@gmail.com>
+
+Good afternoon Mrs Taylor,
+
+I am happy to agree for you to choose an alternative door of similar range and Crest will cover any additional costs that may be incurred and will liaise directly with Space Pro.
+
+Please let us have your choice so we can confirm with the wardrobe company.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580
+
+
+
+
+Classified as General
+From...
+
+---
+
+## 2022-02-11 17:15: Plot 35 Tangier Gardens
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>
+**CC:** Ice Paul Robert Taylor <paulroberttaylor@gmail.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>
+
+Good afternoon Mrs Taylor,
+
+Further to our recent communication in relation to the remedial works required to your property, I am sorry that we were not able to conclude matters in person on Wednesday.
+I fully appreciate your preference in Paul not being in attendance, however as advised I was not able to discuss and communicate a way forward without his involvement.
+
+Therefore I have reviewed the outstanding works with both Paul and Marc and have attached a schedule of works based on the r...
+
+---
+
+## 2022-02-14 14:15: Site visit
+**From:** Paul Haigh <Paul.Haigh@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Good afternoon,
+
+I wanted to inform you that I am meeting the ground works and bricklayers at your property on Wednesday this week for the patio works to commence and for the brick laying contractor to look at the DPC to the garage.
+
+I would appreciate if you can give me access to the garage and rear garden only.
+
+Kind rgerads
+
+Paul Haigh
+Manager
+
+Paul.Haigh@crestnicholson.com<mailto:Paul.Haigh@crestnicholson.com>
+Crest Nicholson South, Crest House, Pyrcroft Road, Chertsey, Surrey, K...
+
+---
+
+## 2022-02-15 17:10: RE: [EXTERNAL] Fwd: Work at rear of house
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Simon Minor
+	<Simon.Minor@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+**CC:** Jade Taylor <jade@dancepower.org>
+
+Good afternoon Mr Taylor,
+
+Thank you for your email.
+
+As I explained to Mrs Taylor at our meeting last week it is important that Paul is involved with seeing through the remediation of all defects to your home. He needs to be in attendance tomorrow to direct the groundworkers and ensure that they carry out the works required to Crests instructions. Paul has been involved in the investigations and remedial solution from the beginning and although we have conceded that he will not enter the in...
+
+---
+
+## 2022-02-17 14:20: Tangier Gardens PT35- External works
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Afternoon Jade and Paul
+
+KPS would like to attend your property to carry out the post replacement and gravel board install. They have pencilled in Monday 21st February and Tuesday 22nd February next week for this. Would you be able to confirm if this is okay for them to carry out the works then? Once confirmed from yourselves I will let KPS know.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+...
+
+---
+
+## 2022-02-17 14:27: 25 Abbots Road Rear garden alterations
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>
+
+Good afternoon Mr Taylor,
+
+Please find attached a drawing with the remedial works required to alleviate the ponding to the slabs in the corner of the patio by the utility and dining room doors. This drawing also includes a 1 of 2 options in regards to an area of breached at the side garage wall.
+
+We have already provided our initial proposal in my email of  15th February to garage, to lift the slabs, installing a synthaprufe tanking detail up to 150mm above existing DPC and dressing with lea...
+
+---
+
+## 2022-02-18 13:52: Tangier Gardens PT 35- External Works
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Paul Haigh <Paul.Haigh@crestnicholson.com>
+
+Jade and Paul
+
+I messaged yesterday about KPS wanting to attend to carry out works to the fence on Monday and Tuesday next week. Would you be able to confirm in writing before 3pm today whether this is okay other wise I will cancel them until I receive confirmation from yourselves.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surr...
+
+---
+
+## 2022-02-19 08:46: RE: [EXTERNAL] Re: Tangier Gardens PT 35- External Works
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Morning Paul
+
+No problem, Thankyou for confirming. Can they attend on Monday 28th February instead?
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP
+
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 18 February ...
+
+---
+
+## 2022-02-19 08:58: Tangier Gardens- PT 35
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>, Paul Taylor
+	<paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Good Morning Jade and Paul
+
+Munster have contacted me about reattending your property to carry out the works which were reviewed on the 15th February. They would like to attend on the 4th March if possible. If you can confirm that is okay that would be great.
+
+Also the Magicman is booked in for the day on Monday 28th February. Is it possible that he can start at 8:30am on the external works first as they have a large list of items which need to be completed.
+
+Kind Regards
+
+Marc Gilmore
+...
+
+---
+
+## 2022-02-22 10:33: RE: [EXTERNAL] Re: Tangier Gardens PT 35- External Works
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Jade Taylor <jade@dancepower.org>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>
+
+Good Morning Paul
+
+KPS will be carrying out the following:
+
+  *   Lowering the last bay of close board so it meets the side fence.
+  *   Installing an extra concrete gravel board
+  *   Replacing the damaged concrete post.
+  *   Sanding the areas where the grinder has hit the arris rail.
+  *   We will replace the panel next to the garage with the extra gravel board.  We will be reinstating this to how it was as this is built to the drawing.
+
+And in reply to your latest email which I hav...
+
+---
+
+## 2022-02-22 15:26: RE: [EXTERNAL] Fwd: Tangier Gardens- PT 35
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Paul
+
+We will be carrying out anything which is on the list which Is required by the Magician and Munster. I believe Helen has sent over the must up to date list last week.
+
+If you can confirm by COP on Thursday 24th February 2022 if this is okay with you otherwise, I will cancel the slot I have with the magic man.
+
+Currently I have booked in for Monday 28th February.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilm...
+
+---
+
+## 2022-02-23 10:04: RE: [EXTERNAL] Fwd: 22/05864 25 Abbots Road - Brick wall out of plumb
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+**CC:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Paul Haigh
+	<Paul.Haigh@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Good morning Mr Taylor,
+
+Unfortunately your photographs do not confirm that the brickwork is out of plumb and if you believe it to be, we will need to attend and carry out a survey.
+
+Marc/Paul,
+
+Can you please speak with the bricklayers and arrange for a survey to be undertaken and advise Mr & Mrs Taylor when this will take place.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444...
+
+---
+
+## 2022-02-23 11:23: RE: [EXTERNAL] Re: 25 Abbots Road - outstanding internal works
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Jade Taylor <jade@dancepower.org>
+**CC:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Good Morning Mrs Taylor,
+
+As already advised, we need to carry out the works in an efficient and structured manner that is reasonable for both parties. We are unable to continue as you would prefer us to do. The approach to the remedial works that Crest will undertake is no different to how the NHBC would approach it or if you needed your own insurance company to attend.
+
+BDL and Paul carried out an intensive survey on your home regarding the drylining issues and as you state, were there for...
+
+---
+
+## 2022-02-23 16:07: RE: [EXTERNAL] Fwd: Tangier Gardens- PT 35
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Afternoon Paul
+
+As I have previously mentioned Both sub-contractors will be carrying out the works which are outstanding on your list which you have received by from Paul Haigh at the start of the works and a update from Helen.
+
+If you can confirm whether you are happy for the magic man to attend on Monday 28th February by COP tomorrow otherwise I will cancel the slot booked.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Mar...
+
+---
+
+## 2022-02-24 18:03: RE: [EXTERNAL] Outside Rear Works
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>
+
+Good evening Mr Taylor,
+
+Thank you for confirming.
+
+I will discuss with Marc and ask that he arrange for the works to commence week of 7th March.
+
+Marc will advise if there is any reason they cannot start that week and if not when they can.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580
+
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com...
+
+---
+
+## 2022-03-01 10:02: FW: [EXTERNAL] OFFICIAL COMPLAINT - 25 ABBOTS ROAD TANGIER LANE
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Nikki Hogben
+	<Nikki.Hogben@crestnicholson.com>
+
+Good morning Mr Taylor.
+
+I acknowledge receipt of your email of 28th February 2022 addressed to our Chief Executive.  I am the Managing Director of Crest Nicholson South, which is responsible for the development at Tangier Gardens.
+I will be fully investigating the issues you have raised and will provide a formal response within 14 days.
+
+Regards
+
+
+Adrian Sims
+Managing Director
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey Surrey KT16 9GN
+T: 01932 580444,  DD: 01932 58...
+
+---
+
+## 2022-03-04 16:03: RE: [EXTERNAL] Works to rear of property
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>
+
+Afternoon Paul
+
+Baram will be starting works on the 17th March, however KPS will be carrying out works in your property on Monday 7th March. I will be round at 8:30am with them to start.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Sou...
+
+---
+
+## 2022-03-07 11:51: RE: [EXTERNAL] Fencing
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Paul
+
+I am a bit unsure on where the confusion about where the extra gravel board has come from however if your happy with not having these then please confirm.
+
+The guys have sorted the fence post for you which is great news. I have contacted KPS to return and cut the nail which is protruding. I have been looking and can’t find an email stating we will be removing the panel just the nail.
+
+Also with the timber close board fence not required to be lowered if you can confirm you are happy w...
+
+---
+
+## 2022-03-08 09:42: RE: [EXTERNAL] Fencing
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Morning Paul
+
+Just a message to let you know so I have contacted KPS about the panel and the grinder marks so I will keep you posted as soon as I hear a response.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP
+
+Fro...
+
+---
+
+## 2022-03-08 10:16: RE: [EXTERNAL] Works to rear of property
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Morning Paul
+
+I do apologise, I got my dates wrong, it’s Monday 14th March Baram will be starting their works.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP
+
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 0...
+
+---
+
+## 2022-03-08 14:50: Munster Attendance
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Afternoon Paul and Jade
+
+Munster have been in touch and asked if they can attend on Thursday. They wont give me a time slot until the day so if you can confirm if your happy with this that will be great.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bish...
+
+---
+
+## 2022-03-09 16:37: RE: [EXTERNAL] Re: Munster Attendance
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Paul
+
+Munster have informed me of the following works:
+
+  *   Replace 3no units
+  *   Replace door handles
+  *   Bedroom 3 and 4 Gaskets to be sorted.
+  *   Utility Room glass to be taken out and retaped.
+  *   Hinges to be cleaned on the lounge bay
+  *   Replace glazing beads on 3no units.
+
+They have also gave me the heads up they will be on site in the morning after 9:30am.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mai...
+
+---
+
+## 2022-03-09 16:48: Re: [EXTERNAL] Re: Munster Attendance
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Yes they will be done aswell
+
+Get Outlook for Android<https://aka.ms/AAb9ysg>
+________________________________
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: Wednesday, March 9, 2022 4:47:38 PM
+To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+Cc: Jade Taylor <jade@dancepower.org>; Paul Vincent <Paul.Vincent@crestnicholson.com>
+Subject: Re: [EXTERNAL] Re: Munster Attendance
+
+[CAUTION: This email originated from outside Crest Nicholson. Do not click links, open attachments, or pe...
+
+---
+
+## 2022-03-09 17:55: Re: [EXTERNAL] Re: Munster Attendance
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+That's fine. We can carry out the works to the utility room door first as this is the longest job.
+
+Get Outlook for Android<https://aka.ms/AAb9ysg>
+________________________________
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: Wednesday, March 9, 2022 5:15:41 PM
+To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+Cc: Jade Taylor <jade@dancepower.org>; Paul Vincent <Paul.Vincent@crestnicholson.com>
+Subject: Re: [EXTERNAL] Re: Munster Attendance
+
+[CAUTION: This email originated fro...
+
+---
+
+## 2022-03-14 08:28: RE: [EXTERNAL] Works to rear of property
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+We will be round at 9am.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP
+
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 14 March 2022 08:27
+To: Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+Cc: Paul Vincent...
+
+---
+
+## 2022-03-15 19:14: RE: OFFICIAL COMPLAINT - 25 ABBOTS ROAD TANGIER LANE
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Sarah Reeve <Sarah.Reeve@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Good afternoon Mr Taylor,
+
+Further to your email to our Chief Executive and my subsequent acknowledgement below, I have discussed the content of your complaint with our team and it would appear there are a number of areas of dispute.
+For me to fully understand the issues highlighted and how we can move forward to bring matters to a conclusion, I think it may be prudent to meet with you at your home to discuss.
+If you do not feel this prudent and would prefer that I provide a written response...
+
+---
+
+## 2022-03-16 08:30: RE: [EXTERNAL] Fwd: Rear works
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Morning Paul
+
+I have been told by technical that we will be shaping the turfed area to meet the finished paved area around by your garage. Once the groundworker has completed the works I will speak to our landscaper to visit to made good any areas which have been affected.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 ...
+
+---
+
+## 2022-03-16 13:25: RE: [EXTERNAL] Fwd: Rear works
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Paul
+
+Apologises we have been involved in a site meeting for the morning. I spoke with Baram and they had issues this morning with the silo this morning and the weather is not the best for carrying out works in your garden. The silo is now fixed and they will be back tomorrow. Scott did go round this morning to explain but got no answer.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Ni...
+
+---
+
+## 2022-03-17 09:04: Automatic reply: [EXTERNAL] Re: OFFICIAL COMPLAINT - 25 ABBOTS ROAD
+ TANGIER LANE
+**From:** Sarah Reeve <Sarah.Reeve@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Thank you for your email.
+
+I am now away from the office returning on 18th March, if you require urgent attention please contact Gillian Ford on 01932 580444.
+
+
+Regards
+
+Sarah Reeve
+Executive Assistant to the Managing Director
+Crest Nicholson South
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recruitment purposes in relation to the operation of its business in accordance with its Privacy Policy which can be found here. You can unsubscribe fr...
+
+---
+
+## 2022-03-17 13:17: RE: [EXTERNAL] Fwd: Rear works
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Paul
+
+Baram are on site and attending your property today. The landscaper will be attending your plot once the work is complete. Due to the bad weather yesterday this has put us back a day so it will be unlikely that this will be complete this week. Baram will make sure the garden is left in a clean and tidy state and I will inspect on Friday. Baram will be carrying out the soil works and Naio will be carrying out the turfing once the ground is prepared.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Ma...
+
+---
+
+## 2022-03-17 15:10: RE: [EXTERNAL] Fencing
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>
+
+Paul
+
+I have emailed KPS for a date and will let you know with a date.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP
+
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 17 March 2022 12:05
+To: Marc Gilmore <Ma...
+
+---
+
+## 2022-03-17 15:12: RE: [EXTERNAL] Re: Tangier Gardens- plot 35 Planting.
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Paul
+
+The plants will be done next week. I know when we had a conversation about the plants that you want to relocate the plants. I will arrange for Naio to attend Tuesday morning. I will confirm once Naio have agreed to this.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Ga...
+
+---
+
+## 2022-03-17 19:00: 25 ABBOTS ROAD TANGIER LANE
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>
+
+Dear Mr Taylor,
+
+I have been reviewing your complaint over the last 2 weeks with the team and it is evident that this may not get resolved in writing, hence my request to meet to discuss face to face.
+
+Again, I would like to extend my offer of a meeting, however if you do not wish to meet or prefer a written response ahead of any meeting, I will ensure this is provided to you by end of business Monday 21st.
+
+I look forward to hearing from you.
+
+Regards
+
+
+Adrian Sims
+Managing Director...
+
+---
+
+## 2022-03-18 15:23: RE: [EXTERNAL] Fwd: Building mess in guttering
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Afternoon Paul
+
+Have sent an order over to the external cleaners to get this booked in. I will come back to with a date when they respond.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP
+
+From: Paul Taylor <paulrobe...
+
+---
+
+## 2022-03-18 15:27: RE: [EXTERNAL] Wardrobe
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>
+
+Paul
+
+I believe SpacePro have been in touch with you with a date and you have asked for photos of what they will be installing. They have also mentioned to me that they have booked in Tuesday 22nd  with you for installation?
+
+Can you confirm you are happy with that date.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 ...
+
+---
+
+## 2022-03-22 08:02: RE: [EXTERNAL] Wardrobe
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Paul
+
+Spacepro should have made contact with you as they have your details. In terms of frames, this will be the same specification as what we usually provide.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP
+
+From: ...
+
+---
+
+## 2022-03-22 08:03: RE: [EXTERNAL] Side turf
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Paul
+
+We will only be turfing areas which will require turfing.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP
+
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 22 March 2022 07:39
+To: Marc Gilmore <Marc.Gilm...
+
+---
+
+## 2022-03-22 21:58: Plot 35 Tangier Gardens
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>
+
+Good evening Mr Taylor
+Further to our recent communication as I did not hear back I am assuming that you prefer a written response.
+Firstly, it is evident that there are areas that we disagree on, however I can assure you that Crest are committed to resolving any issues raised to us that fall under our responsibility in line with the contract and NHBC technical standards warranty,
+Following legal completion on your home you raised several issues and commissioned an independent survey. This su...
+
+---
+
+## 2022-03-24 21:31: RE: [EXTERNAL] Rear Patio Area
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Paul
+
+I will review this tomorrow. Your patio has already been jet washed a few months ago. I will inspect myself and if it needs to be cleaned again this will be actioned by Baram.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southamp...
+
+---
+
+## 2022-03-28 13:24: RE: [EXTERNAL] Re: Item 218 on spreadsheet
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>
+
+Paul
+
+DBD have been in touch and they have been trying to contact you. They did have Jades number saved on their file. I have now passed them on your email to try contacting you that way.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, So...
+
+---
+
+## 2022-03-30 07:00: Magic man
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Paul & Jade
+
+I have a magic man booked for Monday 4th April and he will also be carrying out the polishing on the scratched units.
+
+Can you confirm you are happy with this as they will need access to multiple rooms.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Ta...
+
+---
+
+## 2022-03-30 07:25: RE: [EXTERNAL] Re: Item 218 on spreadsheet
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>
+
+Morning Paul
+
+I have asked them to call you.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP
+
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 29 March 2022 12:22
+To: Marc Gilmore <Marc.Gilmore@crestnicholson....
+
+---
+
+## 2022-03-30 13:50: RE: [EXTERNAL] Re: Magic man
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>, Customer
+ Service SO <customerserviceSO@crestnicholson.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Magicman will be completing:
+
+27        Damaged Threshold to Kitchen patio doors   Magicman to Repair
+29        Denting to the framework of patio door          Magicman to Repair
+30        Denting to the framework of patio door          Magicman to repair
+129      Dents to the inside of patio doors                   Magicman to repair
+146      Damaged window frames to rear elevation    Magicman to repair
+150      Scuffs to UPVC architrave of the patio doors magicman to Repair
+152      Fu...
+
+---
+
+## 2022-04-01 14:20: RE: [EXTERNAL] Re: Magic man
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>, Customer
+ Service SO <customerserviceSO@crestnicholson.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Paul
+
+Just wanted to confirm the Magic man will be attending your property on Monday 4th April. We will start on the externals first thing as he will be on site at 8:30am. I will go through the list with him.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln,...
+
+---
+
+## 2022-04-01 14:22: Tangier Gardens PT 35- External works
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Jade Taylor
+	<jade@dancepower.org>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Paul/ Jade
+
+Naio have had confirmation the turf will be delivered Monday morning so They will be round on Monday to turf the areas. We will be returfing the side area by the side of the house where Baram caused damaged by walking on this.
+
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Addre...
+
+---
+
+## 2022-04-01 14:23: RE: [EXTERNAL] Fwd: Building mess in guttering
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+We have had to go out to a independent organisation top source this as this is not something we carry out often. They will be letting me a date next week.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP
+
+From: Paul Ta...
+
+---
+
+## 2022-04-01 15:04: Tangier Gardens PT 35 Brickwork survey
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Jade Taylor <jade@dancepower.org>
+
+Afternoon Paul
+
+As discussed we have organised for a independent brickwork survey to be carried out on your property. They have given us some dates, would you be able to let me know what date is convenient so I can get this booked in.
+
+Tuesday 05/04/2022 any time after 10am.
+Thursday 07/04/2022 any time up to 12 noon.
+Tuesday 11/04/2022 any time.
+Thursday 14/04/2022 any time up to 12 noon.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnichols...
+
+---
+
+## 2022-04-01 15:35: RE: [EXTERNAL] Re: Magic man
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Customer Service SO <customerserviceSO@crestnicholson.com>, Jade Taylor
+	<jade@dancepower.org>, Paul Vincent <Paul.Vincent@crestnicholson.com>, Helen
+ Morley <Helen.Morley@crestnicholson.com>
+
+Paul
+
+See below the items:
+
+27        Damaged Threshold to Kitchen patio doors   Magicman to Repair
+29        Denting to the framework of patio door          Magicman to Repair
+30        Denting to the framework of patio door          Magicman to repair
+129      Dents to the inside of patio doors                   Magicman to repair
+146      Damaged window frames to rear elevation    Magicman to repair
+150      Scuffs to UPVC architrave of the patio doors magicman to Repair
+152      Fu...
+
+---
+
+## 2022-04-04 13:14: RE: [EXTERNAL] Re: Plot 35 Tangier Gardens
+**From:** Sarah Reeve <Sarah.Reeve@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Customer Service SO <customerserviceSO@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Good afternoon Mr Taylor.
+
+I confirm receipt of your email below.
+
+Regards
+
+
+Sarah Reeve
+Executive Assisant to the Managing Director
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey Surrey KT16 9GN
+T: 01932 580444,  DD: 01932 580388, M: 07769 923844
+www.crestnicholson.com<http://www.crestnicholson.com>
+
+
+
+
+
+Classified as General
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>
+Sent: 04 April 2022 13:10
+To: Adrian Sims <Adrian.Sims@crestnicholson.com>...
+
+---
+
+## 2022-04-04 17:48: 35 Tangier Gardens, 25 Abbots Road ID:00803000001003
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good evening Mr Taylor
+
+Thank you for your email.  To see if we are able to assist you further please could you provide some more details?  Where is the location of the banging pipes and when does this happen.
+
+Thank you for your time
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Mon Apr 04 2022 14:51:44 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@...
+
+---
+
+## 2022-04-05 12:03: 35 Tangier Gardens, 25 Abbots Road ID:00803000001012
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email and for providing some further information, this is most helpful.  I have now logged this onto your plot file and have sent over to the plumbing contractor for them to review further.
+
+They will make contact with you directly to arrange an appointment to attend and investigate
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Tue A...
+
+---
+
+## 2022-04-06 16:32: RE: [EXTERNAL] Fwd: Side gate fence
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Marc Gilmore
+	<Marc.Gilmore@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Good afternoon Mr Taylor,
+
+Having reviewed the drawings shown to you and signed for at time of reservation, these show that the boundary treatment to the side of the house to be a fence, not a brick wall.
+
+Our technical department are reviewing the submission to the local authority.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580
+
+
+
+
+Classified as General
+From...
+
+---
+
+## 2022-04-06 16:38: RE: [EXTERNAL] Fwd: Side gate fence
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+We do not provide copies of drawings to purchasers, but you can view the drawing in the sales office.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580
+
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 06 April 2022 17:36
+To: Helen Morley <Helen.Morley@crestnicholson.com>
+Cc: Marc Gilmore <Marc.Gilmore@crestnicholson.com>; Customer Se...
+
+---
+
+## 2022-04-06 16:41: RE: [EXTERNAL] Re: Crest Quality Control Standards - 25 Abbots Road,
+ Tangier Lane
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>
+
+Good afternoon,
+
+We do not provide copies of drawings to purchasers, therefore we are unable to send these to you.
+
+Any Crest sign off and quality control documents are our own internal working documents and do not form part of any paperwork supplied to our purchasers.
+
+Sorry we can not supply any of the documents requested.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 0...
+
+---
+
+## 2022-04-06 19:58: Re: [EXTERNAL] Fwd: Tangier Gardens PT 35 Brickwork survey
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Paul
+
+The company which will bring attending tomorrow is called Calford Seaden.
+
+Kind Regards
+
+Marc
+
+Get Outlook for Android<https://aka.ms/AAb9ysg>
+________________________________
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: Wednesday, April 6, 2022 6:53:33 PM
+To: Customer Service SO <customerserviceSO@crestnicholson.com>; Helen Morley <Helen.Morley@crestnicholson.com>; Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+Subject: [EXTERNAL] Fwd: Tangier Gardens PT 35 Brickwork ...
+
+---
+
+## 2022-04-08 13:17: RE: [EXTERNAL] Fwd: Side gate fence
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor,
+
+During your reservation meeting, you will view drawings that confirms the specification/design of the property. This does not necessarily mean that the property will be built exactly to those drawings, as changes may need to be undertaken during the build that previously was not anticipated. Where minor changes are made these can be undertaken without the permission of the purchaser, although the purchaser should be notified.
+
+Where the property is not built to NHB...
+
+---
+
+## 2022-04-11 10:12: 35 Tangier Gardens, 25 Abbots Road ID:00803000001036
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for your email.  I chased the plumbing contractors on Friday just gone, and have just called them again now, however their office is closed today.  I have made a note in my diary to give them a call tomorrow morning to advise to make contact with you fi they have not already done so.
+
+I thank you for your time
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;...
+
+---
+
+## 2022-04-11 13:21: 35 Tangier Gardens, 25 Abbots Road ID:00803000001043
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email and for providing the pictures, these are most helpful
+
+This will be sent over to the relevant contractor for them to review further and action any works that are required.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Mon Apr 11 2022 11:50:16 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customers...
+
+---
+
+## 2022-04-11 13:31: 35 Tangier Gardens, 25 Abbots Road ID:00803000001044
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email.  I have looked into this further and have now been advised that during the recent visit that took place last Thursday 7th April that they would follow up with a report in around a weeks time.  I have made a note in my diary to chase this after the Easter Weekend on the Tuesday 19th April if they have not come back to us before then.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@...
+
+---
+
+## 2022-04-12 07:06: 35 Tangier Gardens, 25 Abbots Road ID:00803000001051
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for your email.
+
+With regards to these outstanding works, as per the email sent to Mrs Taylor from our Head of Customer Services yesterday we will not be attending to any more issues until we hear back from the NHBC on your resolution claim and we receive your latest survey as advised by our MD Adrian Sims.
+
+We will then write to you on all issues advising what we will be attending to and a schedule of works
+
+Kind Regards
+
+Donna
+
+
+
+
+
+
+----------...
+
+---
+
+## 2022-04-12 07:13: 35 Tangier Gardens, 25 Abbots Road ID:00803000001052
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for your email, I have been advised that the surveyor attended to inspect the external wall that you reported to us as being out of tolerance in plumb line  This is the only area they were attending to review as no other areas were reported being out of plumb.
+
+As previously advised, we will await to receive the report and will be in touch with you once we have this.
+
+Kind Regards
+
+Donna
+
+
+
+------------------- Original Message -------------------
+Fr...
+
+---
+
+## 2022-04-13 17:54: 35 Tangier Gardens, 25 Abbots Road ID:00803000001081
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good evening Mr Taylor
+
+Thank you for your email.
+
+Marc is currently on annual leave so unfortunatly at this time I am unable to make contact with him..  Upon his return next week this can then be discussed further.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Tue Apr 12 2022 09:52:38 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso...
+
+---
+
+## 2022-04-20 12:43: Tangier Gardens Plot 35 Gutter Clean
+**From:** Marc Gilmore <Marc.Gilmore@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Jade Taylor <jade@dancepower.org>, Paul Vincent
+	<Paul.Vincent@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+Morning Paul
+
+Just to let you know that Direct Clean will round tomorrow between 9am and 11:30am to clean your gutters.
+
+Kind Regards
+
+Marc Gilmore
+
+
+Marc Gilmore
+Assistant Site Manager
+Marc.Gilmore@crestnicholson.com<mailto:Marc.Gilmore@crestnicholson.com>
+
+Crest Nicholson South: Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+M: 07779444870
+
+Site Address: Tangier Gardens, Tangier Ln, Bishop's Waltham, Southampton SO32 1PP
+
+
+
+Classified as General
+Crest Nicholson use...
+
+---
+
+## 2022-04-21 12:31: 35 Tangier Gardens, 25 Abbots Road ID:00803000001167
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email, I have been away from my emails for most of the morning so have only just picked your emails up.  I am sorry to hear that they have not yet attended and will make some enquiries now to find out where they are and a time they will be arriving.
+
+I will come back to you as soon as I have some information to provide you
+
+Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulrober...
+
+---
+
+## 2022-04-21 15:32: 35 Tangier Gardens, 25 Abbots Road ID:00803000001171
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email and for advising that they have now attended and completed the works.
+
+I will now update your plot file and close down this issue as resolved.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Thu Apr 21 2022 14:57:41 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson.com>; ...
+
+---
+
+## 2022-05-04 16:02: 35 Tangier Gardens, 25 Abbots Road ID:00803000001308
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** Jade Taylor <jady@dancepower.org>
+**CC:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good evening Mr and Mrs Taylor
+
+We have received your phone calls and emails today, please be advised that I am awaiting to discuss your outstanding issues and receive updates from various departments/contractors and will aim to provide you an update by the close of business Friday 6th May
+
+In the meantime I do thank you for your time and I will be in touch with you soon
+
+Kind Regards
+
+Donna
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recrui...
+
+---
+
+## 2022-05-05 14:25: 35 Tangier Gardens, 25 Abbots Road ID:00803000001312
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor,
+
+Further to your email, we advised the NHBC that we have not refused to carry out works, we did not advise that we would carry out all works detailed in your spreadsheet.
+
+We have updated the NHBC to advise that it is not practical to start works on 1 list when you have advised that you intent to send a further list following a survey you have recently had undertaken.
+It has always been your inference that you do not want works carried out that will inconvenience y...
+
+---
+
+## 2022-05-05 14:29: 35 Tangier Gardens 25 Abbots Road ID:00803000001313
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+I liasied with DBD last week who advised that they were expecting a delivery this week, after speaking with them this morning, they have confirmed they have now received the delivery and have made contact with you directly to arrange an appointment to have these works booked in.
+
+They have confirmed that they made contact earlier today but were unsuccessful in reaching you and will try again later if not already done so.
+
+I do believe that they are looking to book...
+
+---
+
+## 2022-05-09 12:47: 35 Tangier Gardens, 25 Abbots Road ID:00803000001337
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email.  I have sent over a works order to the plumbing contractors for them to attend and review further and if any works are required to action accordingly.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Fri May 06 2022 10:16:51 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson...
+
+---
+
+## 2022-05-20 15:17: RE: [EXTERNAL] 25 Abbots Road - Second report and updated list of
+ defects
+**From:** Sarah Reeve <Sarah.Reeve@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>
+
+Good afternoon Mr Taylor.
+
+I am writing to confirm receipt of your email below.  Adrian is in a meeting today, however, I will ensure that he has seen your email as soon as he returns.  A member of the customer service team will discuss with Adrian and a further response will be sent to you within 14 days.
+
+Regards
+
+
+Sarah Reeve
+Executive Assisant to the Managing Director
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey Surrey KT16 9GN
+T: 01932 580444,  DD: 01932 580388, M...
+
+---
+
+## 2022-05-23 08:11: 35 Tangier Gardens, 25 Abbots Road ID:00803000001432
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for your email and for providing the new list of items that you believe require attention.  We will review this further and will come back to you with an update on how we move forward with the items that are deemed a defect and that will be attended to.
+
+We will aim to come back to you by Friday 27th May with an update
+
+Kind Regards
+
+Donna
+
+
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylo...
+
+---
+
+## 2022-05-30 07:37: 35 Tangier Gardens, 25 Abbots Road ID:00803000001461
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for your email and for advising, I have now logged this onto your plot file and sent over to the plumbing contractors for them to review further, this maybe something that they can call you and advise further with, if not then they will make an appointment with you directly to attend.
+
+Kind Regards
+
+Donna
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Thu May 26 2022 09...
+
+---
+
+## 2022-05-30 11:59: 35 Tangier Gardens, 25 Abbots Road ID:00803000001471
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email.
+
+DBD have confirmed that they are booked to attend on the 8th June as other appointments offered to you were not convenient so they managed to re-arrange other appointments to accommodate you as much as possible, otherwise the next appointment would be July.
+
+The other part is for your cooker hood, which is a none return valve that is required, this is to stop the cold air blowing in, this will be attended to at the same time
+
+Kind Rega...
+
+---
+
+## 2022-05-30 17:50: RE: [EXTERNAL] Fwd: 35 Tangier Gardens, 25 Abbots Road
+ ID:00803000001312 Bowing Wall Report
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Nikki Hogben <Nikki.Hogben@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+Good evening Mr Taylor.
+
+Further to your email to our customer service department and Executive Team, I am the Managing Director for Crest Nicholson South, which is responsible for the development at Tangier Gardens and will be answering your enquiry.
+
+I will fully investigate the issue you have raised and will provide a formal response within 14 days.
+
+Regards
+
+
+Adrian Sims
+Managing Director
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey Surrey KT16 9GN
+T: 01932 58044...
+
+---
+
+## 2022-05-31 12:27: 35 Tangier Gardens, 25 Abbots Road ID:00803000001492
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email.
+
+This is noted on the spreadsheet provided number 86 Extractor fan cowl not fitted correctly
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Tue May 31 2022 13:02:03 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson.com>; Customer Service: South <customerserviceso@crestn...
+
+---
+
+## 2022-05-31 17:09: 35 Tangier Gardens, 25 Abbots Road ID:00803000001494
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good evening Mr Taylor
+
+Further to receiving your second survey we have now had the chance to review alongside the original snagging report and your spreadsheet of issues provided to the NHBC.
+
+I have attached the updated spreadsheet with Crests comments. As you will see there are a number of discrepancies, where we believe items to be completed, those that have not previously been reported to us and items that we will not be attending to.
+
+As new items are now raised, and you are stating ...
+
+---
+
+## 2022-06-01 16:44: FW: [EXTERNAL] 25 Abbots Road - Second report and updated list of
+ defects
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+Good afternoon Mr Taylor,
+
+Further to your email dated 20th May, I am aware that our customer service team have emailed a response and updated the new spreadsheet.
+
+We are unable to provide you with the as-built drawings or provide you reports that have been commissioned and paid for by Crest.
+
+We have confirmed that the brickwork is outside of tolerance and as advised we are awaiting a date for a second detailed survey to advise the extent and remedial action required.
+
+Access is requir...
+
+---
+
+## 2022-06-06 06:33: 35 Tangier Gardens, 25 Abbots Road ID:00803000001507
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+As previously advised, this is on your snag list provided to the customer care team, I am unsure when this was picked up, however as we have been reviewing the list and sourcing updates, this was an item that we discussed with DBD at the time of reviewing works for the hob.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Wed Jun 01 2022 09:15:58 GMT+0100 (Br...
+
+---
+
+## 2022-06-06 18:32: 35 Tangier Gardens, 25 Abbots Road ID:00803000001526
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good evening Mr Taylor
+
+The part required will stop the cold air coming in, at this time I am unaware of when it was reported and by whom.  I am following the list of snags provided and working towards getting items completed for you.
+
+The part is not broken, this is a part that can be put in place to prevent the cold air coming in.  I will ask the engineer to explain in more detailed explanation for you when they attend
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message ----...
+
+---
+
+## 2022-06-07 07:05: 35 Tangier Gardens, 25 Abbots Road ID:00803000001527
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for your email and for the pictures, this has now been logged onto your plot file and sent over to the plumbing contractors.  They will make contact with you directly to attend and review further.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Mon Jun 06 2022 11:34:21 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <cust...
+
+---
+
+## 2022-06-08 12:02: 35 Tangier Gardens, 25 Abbots Road ID:00803000001539
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Further to your below email and following our Managing Directors email to you sent Wednesday 1st June, we would require access to your property to review the entire list and would request that you provide us with some dates that you are available so that we can try and accommodate you as much as possible.
+
+We would request that you give us at least two weeks notice so that a convenient date for all parties can attend.  Unfortunately, this Friday we are unable to acc...
+
+---
+
+## 2022-06-08 14:02: 35 Tangier Gardens, 25 Abbots Road ID:00803000001541
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+I have just spoken with the plumbing contractor and they have advised that at engineer will be with you within the next hour to review and resolve the issue you are having with the toilet
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Wed Jun 08 2022 14:43:00 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@cre...
+
+---
+
+## 2022-06-09 11:07: 35 Tangier Gardens 25 Abbots Road ID:00803000001549
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your below email and for providing the pictures, these are most helpful and will be reviewed further.  Just to advise, I spoke with the engineer directly yesterday over the day, I advised that I would try and have a team member pop over and see him directly, however this was not possible.
+
+With regards to getting any works actioned, at this time I would not be able to advise.  We will require the full report from the contractors directly to review and ...
+
+---
+
+## 2022-06-09 14:01: 35 Tangier Gardens, 25 Abbots Road ID:00803000001553
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email and for advising of some dates that you are available.  We will review these dates further and will do our best to accommodate you with the dates provided.  We will come back to you once we can confirm a date to attend and the details required.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Thu Jun 09 2022 11:46:28 GMT+0100 (Briti...
+
+---
+
+## 2022-06-10 08:03: 35 Tangier Gardens, 25 Abbots Road ID:00803000001560
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+We will provide you a full update of what will viewed on the day of the meeting and also the names of the parties attending.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Thu Jun 09 2022 15:28:06 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson.com>; Customer Service: South <customerserviceso@cres...
+
+---
+
+## 2022-06-13 17:43: Plot 35 Tangier Gardens, 25 Abbots Road
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Sarah Reeve <Sarah.Reeve@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Good afternoon Mr Taylor,
+
+Further to your email of 30th May, I am advised that we have received a date of 22nd June for our surveyor to return to your property to carry out a full survey on the brickwork deflection. They would like to attend in the morning to review this and then in the afternoon they will carry out the review of your latest spreadsheet.
+
+Following this meeting we will confirm Crest responsible actions and arrange for all works to be scheduled.
+
+Please confirm your accept...
+
+---
+
+## 2022-06-14 16:00: RE: 35 Tangier Gardens, 25 Abbots Road ID:00803000001541
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+I hope that you are well?
+
+I have now been advised from the plumbing contractor that they have attended to the leak from the toilet and that this is now resolved.
+
+I believe that some making good is required in this area and I will view the diary for a technician to find an appointment for this to be attended to and completed.  I will come back to you shortly with some dates that we have available.
+
+Kind Regards
+
+Donna
+
+------------------- Original Message -...
+
+---
+
+## 2022-06-14 16:13: FW: 35 Tangier Gardens 25 Abbots Road ID:00803000001549
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+I hope that you are well?
+
+I just wanted to drop you a line reference the extractor hood, I have spoken to Chloe today at DBD who is assisting with the reported issues following last weeks visit.  Unfortunately she was unable to provide an update as to when the works will be attended to, however please do be assured that Chloe and I are working to get this resolve for you without further delay or inconvenience to you and your family.  Chloe has advised she will come...
+
+---
+
 ## 2022-06-17 13:30: 25 Abbots Road - request for response from director/board level
 **From:** Rachael Game <Rachael.Game@crestnicholson.com>
 **To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
@@ -75,6 +3773,607 @@ Executive Assistant to Kevin Maguire, General Counsel and Compan...
 
 ---
 
+## 2022-06-17 14:21: 25 Abbots Road - request for response from director/board level
+**From:** Rachael Game <Rachael.Game@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Dear Mr Taylor,
+
+I have passed this onto the Customer Service Director in our South Division who will respond to you directly.
+
+Many thanks.
+
+Kind regards,
+
+Rachael Game ACIPD
+Executive Assistant to Peter Truscott, Chief Executive Officer
+Executive Assistant to Kevin Maguire, General Counsel and Company Secretary
+
+Crest Nicholson Operations Ltd
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+www.crestnicholson.com<http://www.crestnicholson.com/>
+
+
+
+Classified as General...
+
+---
+
+## 2022-06-17 14:40: RE: [EXTERNAL] Attn Donna - Fwd: 22/05864 Re: Plot 35 Tangier
+ Gardens, 25 Abbots Road ID:00623000000228
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor,
+
+As advised we will be attending site on Wednesday 22nd where we will review your snagging list. We are not in a position to pass any comments until after this meeting has taken place.
+
+There is no updated spreadsheet as we have sent what we believe to be accurate. Once all is inspected an agreed version will be produced along with a schedule of works.
+
+Abi Peters from Calford Seadon will b ewith you on Wednesday along with myself as Crest representative.
+
+I loo...
+
+---
+
+## 2022-06-17 15:20: 35 Tangier Gardens, 25 Abbots Road ID:00803000001592
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email.
+
+I can confirm that all items on the spreadsheet and in particular the items you have mentioned below will be viewed on Wednesday.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Fri Jun 17 2022 15:52:48 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson.com>; Customer Se...
+
+---
+
+## 2022-06-20 07:25: 35 Tangier Gardens, 25 Abbots Road ID:00803000001595
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+I hope that you are well?
+
+We have had a cancellation this morning and I have a technician available that could come and attend to the making good following the toilet leak.  Would this be convenient for you today? I appreciate that this is very short notice, the technician could be with you for around 10.00 am
+
+Kind Regards
+
+Donna
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recruitment purposes in relation to the ope...
+
+---
+
+## 2022-06-20 17:30: 35 Tangier Gardens, 25 Abbots Road ID:00803000001612
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good evening Mr Taylor
+
+As Crest will be actioning the items agreed a representative would always be in attendance. However we will have no active part in the inspection.
+
+We will be happy to share the report with you. This will not come directly from Calford Seadon. It will be sent from Crest.
+
+Abi already has a copy of all reported items that you have sent through to us.
+
+We require access to the outside of your property tomorrow to install spacer blocks for Abi to carry out the brickw...
+
+---
+
+## 2022-06-20 17:47: RE: [EXTERNAL] Fwd: 22/05864 Re: Plot 35 Tangier Gardens, 25 Abbots
+ Road ID:00623000000229
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good evening Mr Taylor,
+
+We do not commence Dryling until the property is weather tight.
+
+regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Mon Jun 20 2022 08:02:29 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson.com>; Customer Service: South <customerserviceso@crestnicholson.com>;
+Subject: [EXTERNAL] Fwd: 22/05864 Re: Plot 35 T...
+
+---
+
+## 2022-06-21 07:26: 35 Tangier Gardens, 25 Abbots Road ID:00803000001618
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** Jade Taylor <jady@dancepower.org>, "paulroberttaylor@gmail.com"
+	<paulroberttaylor@gmail.com>
+
+Good morning Mr and Mrs Taylor
+
+Following on from the technician attending to make good the works following a leak around the toilet, we need to book for the technician to re-attend and complete the works, the next available date that I can offer you is Monday 27th June, this would be from around 09.00 am.
+
+Please can you confirm if this will be convenient for you so that I can have this booked in to the technician's diary.
+
+Kind Regards
+
+Donna
+Crest Nicholson uses personal data about i...
+
+---
+
+## 2022-06-23 13:56: 25 Abbots Road - Tangier - Side fence
+**From:** Rachael Game <Rachael.Game@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor,
+
+All emails you have sent me have been forwarded to our South division, they will respond to you directly.
+
+Kind regards,
+
+Rachael Game ACIPD
+Executive Assistant to Peter Truscott, Chief Executive Officer
+Executive Assistant to Kevin Maguire, General Counsel and Company Secretary
+
+Crest Nicholson Operations Ltd
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+www.crestnicholson.com<http://www.crestnicholson.com/>
+
+
+
+Classified as General
+From: Pau...
+
+---
+
+## 2022-06-23 16:55: Automatic reply: [EXTERNAL] Fwd: 25 Abbots Road - Tangier - Side
+ fence
+**From:** Rachael Game <Rachael.Game@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+I am on Annual Leave returning Monday 27 June 2022.
+
+For anything urgent please contact Nikki Hogben - nikki.hogben@crestnicholson.com
+
+Kind regards,
+
+Rachael Game ACIPD
+Executive Assistant to Peter Truscott, Chief Executive Officer
+Executive Assistant to Kevin Maguire, General Counsel and Company Secretary
+
+Crest Nicholson Operations Ltd
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+www.crestnicholson.com<http://www.crestnicholson.com/>
+Crest Nicholson uses personal data a...
+
+---
+
+## 2022-06-24 13:06: FW: 25 Abbots Road - Tangier - Side fence
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+
+Good afternoon Mr Taylor,
+
+As we have previously advised, we have constructed the boundary treatment to your home in line with the external finishes drawing shown to you at time of reservation and signed for as seen on our reservation form. This shows a fence not a brick wall.
+
+We will therefore not be altering this to a brick wall.
+
+Regards
+
+Helen
+
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 5804...
+
+---
+
+## 2022-06-24 13:13: RE: [EXTERNAL] 25 Abbots Road - Additional complaint for director
+ level
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+
+Good afternoon Mr Taylor,
+
+Further to your email, it is disappointing that we were unable to carry out the full inspection of your property as we had hoped.
+
+We are currently liaising with Abi Peters for a date that she can re attend to continue the survey, which we have advised we would like to be undertaken at the earliest opportunity.
+
+As soon as we have Abi’s report form Wednesday’s visit we are happy to share this with you.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Servi...
+
+---
+
+## 2022-06-24 13:22: RE: [EXTERNAL] Re: FW: 25 Abbots Road - Tangier - Side fence
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+
+Good afternoon,
+
+The contract between Crest Nicholson and the purchaser will be to provide as per the drawings that are shown to you and signed for at the reservation meeting.
+
+The purpose of the reservation meeting is to review the drawings and ensure you are both happy with them and understand them.  Any questions that you had should then have been raised at that meeting.  Drawings are not provided to purchasers, therefore you would not have a copy of this, but are able to view in our sale...
+
+---
+
+## 2022-06-24 16:11: 35 Tangier Gardens, 25 Abbots Road ID:00803000001633
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+As per my email below, I have offered for our technician to attend on Monday 27th June to complete the making good works following the leak you have recently had.
+
+I can confirm that the technician has the correct materials to complete the remaining works.  Please can you confirm if Monday 27th June will be convenient for you so that I can confirm with the technician.
+
+Thank you for your time
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -----...
+
+---
+
+## 2022-06-24 17:57: 35 Tangier Gardens, 25 Abbots Road ID:00803000001634
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good Evening Mr Taylor
+
+Thank you for coming back to me, this would be from 09.00 am as it would be a am appointment.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Fri Jun 24 2022 17:31:07 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson.com>; Customer Service: South <customerserviceso@crestnicholson.com>;
+Subject: [EXT...
+
+---
+
+## 2022-06-26 14:54: : 35 Tangier Gardens, 25 Abbots Road ID:00803000001636
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Please could you confirm if Monday 27th at 09.00 am is convenient for our technician to attend and complete the remaining making good works.
+
+If you can let me know as soon as possible so that I can confirm with the technician as I will need to organise other works if this is not convenient for you.
+
+Thank you for your time
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: Customer Service: South <CustomerServiceSO@crest...
+
+---
+
+## 2022-06-26 19:20: 35 Tangier Gardens, 25 Abbots Road ID:00803000001637
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good evening Mr Taylor
+
+Thank you for confirming, this is now booked in with the technician.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Sun Jun 26 2022 16:49:58 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson.com>; Customer Service: South <customerserviceso@crestnicholson.com>;
+Subject: [EXTERNAL] Re: : 35 Tangier G...
+
+---
+
+## 2022-06-29 13:50: 35 Tangier Gardens, 25 Abbots Raod ID:00803000001679
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+The electrical contractor will be making contact with you shortly to make arrangements to attend and rectify the issue with the ducting, once this is completed, DBD will then return to fit the cooker hood back into place.
+
+I have requested that the a brick contractor attends to make good the holes following the spacer boards being removed.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulro...
+
+---
+
+## 2022-06-30 13:20: RE: [EXTERNAL] 25 Abbots Road - Request for dates for all assessments
+ completed
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>
+
+Good afternoon Mr Taylor,
+
+Calford Seadon would like to attend 6,7 and 11th July.
+
+Please could you confirm that there will be access to the external areas and internal during this time?
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580
+
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 30 June 2022 11:08
+To: Customer Service SO <cu...
+
+---
+
+## 2022-07-01 15:39: RE: 22/05864 Re: [EXTERNAL] 25 Abbots Road - Additional complaint for
+ director level
+**From:** Rachael Game <Rachael.Game@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor,
+
+As per attached, I have already informed you that this matter is being dealt with by our Crest Nicholson South team.
+
+In line with our procedure, complaints are dealt with by the division customer-complaints-procedure.pdf (crestnicholson.com)<https://www.crestnicholson.com/pdf/customer-complaints-procedure.pdf>
+
+Many thanks.
+
+Kind regards,
+
+Rachael Game ACIPD
+Executive Assistant to Peter Truscott, Chief Executive Officer
+Executive Assistant to Kevin Maguire...
+
+---
+
+## 2022-07-01 15:44: 35 Tangier Gardens, 25 Abbots Raod ID:00803000001697
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+The electrical engineer will be attending as they would have been the original contractors to fit the ducting prior to the extractor hood being fitted, we would require for them to attend, review and if this is there defect then for them to action the works required, if other contractors are responsible then this will be defected out to them following the engineers report, we have not received any information of a design fault other than the ducting has been fitted an...
+
+---
+
+## 2022-07-05 16:36: 35 Tangier Gardens, 25 Abbots Road ID:00803000001711
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email.
+
+Abi will be with you tomorrow Wednesday 6th followed by Thursday 7th and then Monday 11th July to continue her investigations.
+
+The carpenter contractors will be attending tomorrow morning to fit the spacers.
+
+At this time I have not been advised that we have received the report from Abi, however it may be that we will get the full report once all items have been inspected in the next few days.
+
+Kind Regards
+
+Donna
+
+
+-----------...
+
+---
+
+## 2022-07-05 16:54: RE: [EXTERNAL] Fwd: 25 Abbots Road - Calfordseaden's visits 6th, 7th,
+ and 11th July ID:00803000001712
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+I have just responded to your email sent in at 15.45 advising that the spacers are being fitted tomorrow by the carpenter and that Abi is attending tomorrow, followed by Thursday 7th and then Monday 11th July
+
+Kind Regards
+
+Donna
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Tue Jul 05 2022 17:41:38 GMT+0100 (British Summer Time)
+To: Adrian Sims <adrian.sims@crestnicholson.co...
+
+---
+
+## 2022-07-06 08:59: RE: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for your email, we are organising for the boards to be fitted today and they will be with you shortly.
+
+Kind Regards
+
+Donna
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Wed Jul 06 2022 09:31:01 GMT+0100 (British Summer Time)
+To: Adrian Sims <adrian.sims@crestnicholson.com>; Adrian Sims <adrian.sims@crestnicholson.com>; David Marchant <david.marchant@crestnicholson.co...
+
+---
+
+## 2022-07-07 08:25: RE: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Please confirm that you are happy for the external survey to still go ahead today, if so then Abi will be with you shortly.  A new date will be arranged to continue
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Wed Jul 06 2022 16:26:03 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson.com>; Custome...
+
+---
+
+## 2022-07-07 08:34: RE: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+They will be with you shortly
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Thu Jul 07 2022 09:16:54 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson.com>; Customer Service: South <customerserviceso@crestnicholson.com>; Helen Morley <helen.morley@crestnicholson.com>;
+Subject: Fwd: [EXTERNAL] ID:0...
+
+---
+
+## 2022-07-07 08:43: Re: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden -
+ carpenter unable to complete work due to injury
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for confirming
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Thu Jul 07 2022 09:36:04 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson.com>; Customer Service: South <customerserviceso@crestnicholson.com>;
+Subject: Re: Fwd: [EXTERNAL] ID:00803000001712 Visit today for Calfordseaden - car...
+
+---
+
+## 2022-07-08 13:56: 25 Abbots Road
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Sarah Reeve <Sarah.Reeve@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Good afternoon Mr Taylor,
+
+Further to your correspondence below, I can confirm that our Chief Executive is fully aware of your complaint and is kept updated.
+
+All communication will remain with the Crest South Division as we are dealing with your property and involved in the detail, therefore best placed to answer your communications and update you as and when required.
+
+As you are aware we have engaged an independent Chartered Surveyor, Calfordseadon, to review your home’s brickwork and t...
+
+---
+
+## 2022-07-11 07:36: 35 Tangier Gardens, 25 Abbots Road ID:00803000001732
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+------------------- Original Message -------------------
+From: Customer Service: South <CustomerServiceSO@crestnicholson.com>;
+Received: Mon Jul 11 2022 08:35:30 GMT+0100 (British Summer Time)
+To: Jade Taylor <jady@dancepower.org>;
+Subject: 35 Tangier Gardens, 25 Abbots Road ID:00803000001731
+
+Good morning Mr Taylor
+
+I hope that you are well, Just to advise that Abi and I will be with you today from around 10.00 am and do hope that this appointment is still convenient for you.
+
+Kind Re...
+
+---
+
+## 2022-07-11 08:58: RE: [EXTERNAL] Re: 35 Tangier Gardens, 25 Abbots Road
+ ID:00803000001732
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning,
+
+We are writing to advise that unfortunately Donna has been caught up in traffic and a route diversion and is running late, please accept our apologies, her current time of arrival is currently 10.30am.
+
+Kind regards
+
+Catharine
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Mon Jul 11 2022 08:51:38 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerservic...
+
+---
+
 ## 2022-07-12 07:10: 25 Abbots Road - request for response from director/board level
 **From:** Rachael Game <Rachael.Game@crestnicholson.com>
 **To:** Paul Taylor <paulroberttaylor@gmail.com>
@@ -86,6 +4385,325 @@ As previously communicated, your complaint is being dealt with by our Crest Sout
 Adrian Sims wrote to you on 08 July 2022 and he explained we will not be in a position to provide any updates on what Crest agree to, or what is in dispute, until the completion of the surveys have taken place. Calfordseadon will conclude their inspections on 11th and 14th July, whereafter they will issues their report.
 
 All communication will remain with the Crest South Division a...
+
+---
+
+## 2022-07-12 08:54: 35 Tangier Gardens, 25 Abbots Road ID:00803000001734
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+I have booked for our technician to attend this coming Thursday the 14th July to attend and add another coat of paint to the downstairs WC and tidy the areas.  The technician will be with you from around 10.00 am
+
+Kind Regards
+
+Donna
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recruitment purposes in relation to the operation of its business in accordance with its Privacy Policy which can be found here. You can unsubscr...
+
+---
+
+## 2022-07-12 12:35: Automatic reply: [EXTERNAL] Re: 25 Abbots Road
+**From:** Sarah Reeve <Sarah.Reeve@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Thank you for your email.
+
+I am now away from the office returning on 18th July.  If you call is urgent please contact Margaret Geraci or Gillian Ford on 01932 580444.
+
+Regards
+
+Sarah Reeve
+Executive Assistant to the Managing Director
+Crest Nicholson South
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recruitment purposes in relation to the operation of its business in accordance with its Privacy Policy which can be found here. You can unsubsc...
+
+---
+
+## 2022-07-12 16:24: RE: [EXTERNAL] Fwd: ID:00623000000229 Doors and windows / dry lining
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Adrian Sims <Adrian.Sims@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email.
+
+Drylining works are not started in a build until substantially waterproofed.  The drylining for plot 35 would have been attended to once the doors and windows were fitted in place.
+
+For further reference please see the NHBC guidelines, Walls and Ceiling finishes, 9.2.4 Drylining.
+
+Hope that this answers your question
+
+Thank you for your time and enjoy the rest of your evening
+
+Kind Regards
+
+Donna
+
+
+------------------- Original...
+
+---
+
+## 2022-07-13 07:16: 35 Tangier Gardens, 25 Abbots Road ID:00803000001741
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for your email and picture, this is logged onto your plot file for reference
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Tue Jul 12 2022 20:58:52 GMT+0100 (British Summer Time)
+To: Adrian Sims <adrian.sims@crestnicholson.com>; Adrian Sims <adrian.sims@crestnicholson.com>; So customer service CustomerserviceSO@ <customerserviceso@crestnicholson...
+
+---
+
+## 2022-07-13 08:37: 35 Tangier Gardens, 25 Abbots Road ID:00803000001742
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+I have just spoken with Direct Clean and they have advised that this is now booked in for an external clean for 08.30 am tomorrow, Thursday 14th July
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Wed Jul 13 2022 09:09:49 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson.com>; Customer Service: Sout...
+
+---
+
+## 2022-07-13 10:58: 25 Abbots Road
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>
+
+Good morning Mr Taylor,
+
+We will be awaiting the surveyors report and advising you on the actions we are taking in regards to defects to your home.
+
+Your complaint had been acknowledged and you have received updates in line with out procedures. Your entire complaint will be responded to as a whole once the inspections have been completed and report received and reviewed.
+
+As advised we will come back to you within 7 days of receipt of Calfordseadons report.
+
+Regards
+
+
+Adrian Sims
+Man...
+
+---
+
+## 2022-07-14 06:50: 35 Tangier Gardens, 25 Abbots Road ID:00803000001744
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+It is agreed that Abi will attend Friday 15th July as an additional day, discussing further, she does not believe following today and tomorrow she will require any further days, however will be able to update further as the day goes on, For both appointments, she aims to be with you from 10.30 am onwards.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Wed J...
+
+---
+
+## 2022-07-14 09:43: RE: [EXTERNAL] 25 Abbots Road - immediate response needed
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Customer Service SO <customerserviceSO@crestnicholson.com>
+
+Good morning Mr Taylor,
+
+Further to your email below, the presence of mice in your garage is not a defect and therefore we are unable to agree to replacement of anything stored in there becoming damaged.
+
+Sorry we are unable to assist you in this matter.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580
+
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttayl...
+
+---
+
+## 2022-07-14 10:08: RE: [EXTERNAL] 25 Abbots Road - immediate response needed
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+
+The 3 directors CC'd in by yourself are not South.
+
+The only South Director you need to cc in is Adrian Sims.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580
+
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 14 July 2022 11:02
+To: Helen Morley <Helen.Morley@crestnicholson.com>; Customer Service SO <customerserviceSO@crestnicholson....
+
+---
+
+## 2022-07-15 10:27: RE: [EXTERNAL] Fwd: 22/05864 Fwd: 25 Abbots Road - brickwork damage,
+ issue with kitchen floor, Trinity report
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Adrian Sims
+	<Adrian.Sims@crestnicholson.com>
+
+Good morning Mr Taylor,
+
+Abi will be looking at the garage brickwork, but we will not be taking measurements the same as we have on the house as there was no visible distortion noted on Trinity Rose's report.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580
+
+
+
+
+Classified as General
+From: Paul Taylor <paulroberttaylor@gmail.com>
+Sent: 15 July 2022 08:23
+To: Cus...
+
+---
+
+## 2022-07-15 15:57: 22/05864  25 Abbots Road - brickwork
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Good afternoon,
+
+Our independent Chartered Survey is carrying out a full review but not all areas require measurements being taken as a visual view is sometimes all that is required, as per your own surveyors report. Should she believe a further visit to take actual plumb measurements is required this will be undertaken.
+
+Regards
+
+Helen
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444  D: 01932 580...
+
+---
+
+## 2022-07-18 18:36: 35 Tangier Gardens, 25 Abbots Road ID:00803000001779
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good evening Mr Taylor
+
+I are very sorry that the ladder has yet to be collected, this had been arranged to for Friday, however I am unaware at this time why it has not been collected.  I would very much appreciate if this could be kept safe and I will have our technician collect the ladder tomorrow morning around 09.00 am
+
+I do apologies for the inconvenience to you.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <pau...
+
+---
+
+## 2022-07-19 09:38: 35 Tangier Gardens, 25 Abbots Road ID:00803000001789
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Following on from my below email, Our technician has advised that the hire company will be collecting the ladder from your property today, so apologies that this remains at your property.  They will be with you shortly to collect
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: Customer Service: South <CustomerServiceSO@crestnicholson.com>;
+Received: Mon Jul 18 2022 19:36:07 GMT+0100 (British Summer Time)
+To: paulroberttayl...
+
+---
+
+## 2022-07-20 09:17: 35 Tangier Gardens, 25 Abbots Way ID:00803000001794
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor.
+
+I can arrange for our technician to attend today to take down the spacer boards, this can be later today,
+
+Making good of the brick works from the spacer boards and from the ducting, will all be completed at once, a date to follow.
+
+Please confirm if later today is convenient for you to action these works?
+
+Kind Regards
+
+Donna
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: W...
 
 ---
 
@@ -109,6 +4727,27 @@ To: Adrian Sims <adrian.sims@crestnicholson.com>; Adrian Sims <adrian.sims@crest
 
 ---
 
+## 2022-07-20 10:04: RE: [EXTERNAL] Fwd: 22/05864  25 Abbots Road - brickwork
+ ID:00803000001796
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for your email, we will come back to you shortly on the below to provide an update.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Wed Jul 20 2022 08:31:09 GMT+0100 (British Summer Time)
+To: Adrian Sims <adrian.sims@crestnicholson.com>; Adrian Sims <adrian.sims@crestnicholson.com>; So customer service CustomerserviceSO@ <customerserviceso@crestni...
+
+---
+
 ## 2022-07-20 10:43: RE: [EXTERNAL] Re: 35 Tangier Gardens 25 Abbots Road
  ID:00803000001795
 **From:** Customer Service SO <customerserviceSO@crestnicholson.com>
@@ -129,6 +4768,498 @@ To: So customer service Customerse...
 
 ---
 
+## 2022-07-20 13:51: RE: [EXTERNAL] 22/05864  25 Abbots Road - ID:00803000001796 - garage
+ brickwork assessment
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Adrian Sims
+	<Adrian.Sims@crestnicholson.com>
+
+Good afternoon Mr Taylor,
+
+We have carried out a full brickwork survey and in line with comments on your own Trinity Rose report. The garage did not require spacer boards and plumb lines to be taken the same as the house required.
+
+As advised, we will update you on all defects that crest will be undertaking once we are in receipt of Calford Seadons report.
+
+Regards
+
+Helen
+
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey,...
+
+---
+
+## 2022-07-20 14:04: RE: [EXTERNAL] 22/05864  25 Abbots Road - ID:00803000001796 - garage
+ brickwork assessment
+**From:** Helen Morley <Helen.Morley@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, Customer Service SO
+	<customerserviceSO@crestnicholson.com>, Adrian Sims
+	<Adrian.Sims@crestnicholson.com>
+
+Dear Mr Taylor,
+
+We have carried out a full survey as agreed. A full survey does not mean that a plumb measurement needs to be taken. Visual inspection and measurements were taken.
+
+We have not refused to carry out any works at this point and as advised previously, we will provide you a full list of all issues we will be addressing once the surveyors report is received.
+
+Regards
+
+Helen
+
+
+
+Helen Morley
+
+Head of Customer Service
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, C...
+
+---
+
+## 2022-07-22 10:51: 35 Tangier Gardens, 25 Abbots Road ID:00803000001807
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for your email, I can confirm that the issue with the cracked glazing and the functioning of the window have now been sent over the window contractor Munster.
+
+They will make contact with you directly to make a convenient appointment to attend.  We have asked that they make contact with you within five working days.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail...
+
+---
+
+## 2022-07-22 11:49: 35 Tangier Gardens, 25 Abbots Road ID:00803000001808
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+We are currently sourcing an external contractor to attend and complete the painting works following our technician attending Wednesday and re-doing the plaster works, I will come back to you at the beginning of next week to confirm when this can happen, once the painting has been completed, DBD will then be instructed to attend and fit the hood.
+
+In the meantime I thank you for your time
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -----------...
+
+---
+
+## 2022-07-22 12:02: RE: [EXTERNAL] Fwd: 25 Abbots Road - brickwork damage, issue with
+ kitchen floor, Trinity report ID:00803000001809
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email, We are currently sourcing an external contractor to attend and remove the spacer boards following the survey.  I will come back to you at the beginning of next week to advise when they will be able to attend.
+
+Any brickworks repair will be completed at once, the marks from the spacer boards and works from the ducting, again this will be arranged.
+
+In the meantime I thank you for your time while this is being arranged.
+
+Kind Regards
+
+D...
+
+---
+
+## 2022-07-22 12:11: 35 Tangier Gardens, 25 Abbey Road ID:00803000001810
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email.
+
+As per Helen's email sent to you on the 21st July at 14.42, no further brick works survey will be required, Abi will not be attending further following today's visit.
+
+Dear Mr Taylor,
+
+We have carried out a full survey as agreed. A full survey does not mean that a plumb measurement needs to be taken. Visual inspection and measurements were taken.
+
+We have not refused to carry out any works at this point and as advised previously, we ...
+
+---
+
+## 2022-07-22 12:26: Automatic reply: [EXTERNAL] 22/05864  25 Abbots Road -
+ ID:00803000001796 - garage brickwork assessment
+**From:** Duncan Cooper <Duncan.Cooper@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+I will be out of the office until Tuesday 26th July 2022.
+
+I will be checking my emails infrequently during this time but can be contacted on my mobile if urgent.
+
+Otherwise please contact Nikki Hogben on 01932 580 497
+
+Many thanks
+Duncan Cooper
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recruitment purposes in relation to the operation of its business in accordance with its Privacy Policy which can be found here. You can unsubscribe from ou...
+
+---
+
+## 2022-07-22 12:41: 35 Tangier Gardens, 25 Abbots Road ID:00803000001811
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+I can confirm that Abi will be reviewing the tolerance's of the flooring by the Kitchen French doors.
+
+Kind Regards
+
+Donna
+
+From: Paul Taylor <paulroberttaylor@gmail.com<mailto:paulroberttaylor@gmail.com>>
+Sent: 22 July 2022 11:31
+To: Customer Service SO <customerserviceSO@crestnicholson.com<mailto:customerserviceSO@crestnicholson.com>>; Adrian Sims <Adrian.Sims@crestnicholson.com<mailto:Adrian.Sims@crestnicholson.com>>; Helen Morley <Helen.Morley@crestnichols...
+
+---
+
+## 2022-07-27 11:36: 35 Tangier Gardens, 25 Abbots Road ID:00803000001838
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email, I am just awaiting confirmation from a contractor that we have assigned these works to, they are reviewing their diary to attend for next week and have advised that they will come back to me by the close of business tomorrow Wednesday 28th July, I do apologies as I was hoping to be able to have these removed by the end of this week.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@...
+
+---
+
+## 2022-07-28 16:34: 35 Tangier Gardens, 25 Abbots Road ID:00803000001846
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email, we are looking to attend to these works on Tuesday of next week, 2nd August.  I do hope that this is convenient for you.
+
+The painting internally on the kitchen can also be completed on this day, the contractor will be attending am, time to be confirmed.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Thu Jul 28 2022 16:46:42 GM...
+
+---
+
+## 2022-07-28 18:35: 35 Tangier Gardens, 25 Abbots Raod ID:00803000001848
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good evening Mr Taylor
+
+We can complete the painting on Tuesday the 2nd of August, we have booked this in with the contractor that is going to attend to removing the spacer boards, they are multi trade contractors.
+
+Please confirm that this will be convenient for you as per my earlier email reference the spacer boards coming down
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Th...
+
+---
+
+## 2022-07-29 15:31: 35 Tangier Gardens 25 Abbots Road ID:00803000001857
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email, I have just sent an email reference the making good internally, this area will also be attended to, as advised in my email sent a few moments ago, if convenient for you, I am wanting to have a technician with you Monday 1st August, this is to remove the spacer boards and make good internally.
+
+Please confirm if this will be convenient for you.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paul...
+
+---
+
+## 2022-08-01 07:11: 35 Tangier Gardens 25 Abbots Road ID:00803000001860
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for your email.  I will have the technician with you for around 09.00-09.30 am, this will be to take down the boards, the technician can then attend internally and make good the required areas,  DBD will need to then confirm an appointment with you.  Unfortunately the contractors that were going to attend tomorrow are not able to due to unforeseen circumstances.
+
+Thank you for confirming today's appointment
+
+Kind Regards
+
+Donna
+
+
+------------------- O...
+
+---
+
+## 2022-08-01 08:45: 35 Tangier Gardens 25 Abbots Road ID:00803000001865
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for your email, at this time I do not have availability for Wednesday for the making good works, I appreciate that Friday was short notice for today.  I will review further and look to see when these works can be booked in.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Mon Aug 01 2022 09:00:55 GMT+0100 (British Summer Time)
+To: So customer servi...
+
+---
+
+## 2022-08-09 06:31: 35 Tangier Gardens, 25 Abbots Road ID:00803000001942
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Thank you for your email.
+
+We have not received the report from Calfordeaden.  We made contact with Abi yesterday who has advised that we should receive this by close of business Monday 15th August, this will then be reviewed by the team, this will then be sent on to you as per Adrian Sims email within the timeframe advised.
+
+Kind Regards
+
+Donna
+
+
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gm...
+
+---
+
+## 2022-08-10 16:18: 35 Tangier Gardens, 25 Abbots Road ID:00803000001962
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email.  With reference to making good he area to where the kitchen extractor hood will sit, I can have a technician with you this coming Friday 12th August, this would be from around mid-day.  Please confirm if this appointment offered will be convenient for you so I can book this into the diary, also if confirmed for Friday, I can then make contact with the installation contractor to then book the fitting of the hood.  We apologies for the delay in...
+
+---
+
+## 2022-08-11 14:19: 35 Tangier Gardens, 25 Abbots Road ID:00803000001980
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email and for confirming the appointment, this is now booked in.  I will now notify the appliance contractor that this will be ready to be fitted from early next week.
+
+Kind Regards
+
+Donna
+
+
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Thu Aug 11 2022 14:39:01 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@...
+
+---
+
+## 2022-08-15 11:26: 35 Tangier Gardens, 25 Abbots Road ID:00803000001991
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+We have just received an email from Calfordseaden advising that we will not be receiving the report by the close of business today as advised last week.  They do send their apologies for the delay and have confirmed that we will receive this by the close of business Friday 19th August.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: Customer Service: South <CustomerServiceSO@crestnicholson.com>;
+Received: Thu Aug 11 2022 ...
+
+---
+
+## 2022-08-18 07:31: 35 Tangier Gardens, 25 Abbots Road ID:00803000002028
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+I have received a notification from Munster Joinery that they have now completed the issue with the cracked glazing.  I do hope that you are happy with the works completed?  This information is now logged onto your plot file and the case is now closed.
+
+Kind Regards
+
+Donna
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recruitment purposes in relation to the operation of its business in accordance with its Privacy Policy w...
+
+---
+
+## 2022-08-18 12:14: 35 Tangier Gardens, 25 Abbots Road ID:00803000002031
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email and for advising the below information, this will be logged to your plot file for reference.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Thu Aug 18 2022 09:50:02 GMT+0100 (British Summer Time)
+To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson.com>; Customer Service: South <customerserviceso@crestnich...
+
+---
+
+## 2022-08-22 10:55: 35 Tangier Gardens 25 Abbots Road ID:00803000002044
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+Thank you for your email.  As per our previous emails, the report will be sent to you once this has been reviewed by the management team and in the timescale that our MD has advised previusly.
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
+Received: Fri Aug 19 2022 15:02:55 GMT+0100 (British Summer Time)
+To: Adrian Sims <adrian.sims@crestnicholson.com>; Adrian Sim...
+
+---
+
+## 2022-08-22 10:59: 35 Tangier Gardens, 25 Abbots Road ID:00803000002045
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor
+
+I hope that you are well?
+
+Following on from my below email, would you be able to confirm if the fixings for the hood are available, DBD require this information to book the works in.
+
+I thank you for your time
+
+Kind Regards
+
+Donna
+
+
+------------------- Original Message -------------------
+From: Customer Service: South <CustomerServiceSO@crestnicholson.com>;
+Received: Mon Aug 15 2022 11:49:57 GMT+0100 (British Summer Time)
+To: Paul Robert Taylor <paulrob...
+
+---
+
+## 2022-08-26 15:33: Plot 35, Tangier Gardens
+**From:** Leanne Poingdestre <Leanne.Poingdestre@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Customer Service SO <customerserviceSO@crestnicholson.com>
+
+Good afternoon Mr Taylor
+
+In the absence of Helen Morley and Donna Hack, I have been asked to send you the Calfordseaden report as promised by close of business today.
+
+Please see attached report and relevant documents.
+
+Regards
+
+Leanne Poingdestre
+Customer Service Manager
+
+Crest Nicholson South
+Crest House, Pyrcroft Road, Chertsey, Surrey, KT16 9GN
+T: 01932 580444
+www.crestnicholson.com<http://www.crestnicholson.com/>
+
+
+
+
+Classified as General
+Crest Nicholson uses personal d...
+
+---
+
+## 2022-09-01 11:57: Automatic reply: [EXTERNAL] 25 Abbots Road - Front plants dead
+**From:** Kevin Maguire <Kevin.Maguire@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Thank you for your e-mail, which I will respond to when I return from leave on Monday 12th September 2022.
+
+In the meantime if the issue is urgent, please contact my EA Rachael Game rachael.game@crestnicholson.com 01932 580 555.
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recruitment purposes in relation to the operation of its business in accordance with its Privacy Policy which can be found here. You can unsubscribe from our marketing communicat...
+
+---
+
+## 2022-09-02 15:51: 35 Tangier Gardens, 25 Abbots Road ID:00803000002098
+**From:** Customer Service SO <customerserviceSO@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good afternoon Mr Taylor,
+
+Further to your email concerning the dead plants to the front of your property, this is not something that Crest will be addressing.
+The plants would have needed high extent of watering during what has been an unprecedented year for extreme heat and this is the homeowner responsibility.
+
+Although there is concrete haunching within the ground, which is installed to every pavement edge, this would not have stopped the plants from growing with pavement in place.
+
+T...
+
+---
+
 ## 2022-09-02 16:29: 35 Tangier Gardens, 25 Abbots Road ID:00803000002099
 **From:** Customer Service SO <customerserviceSO@crestnicholson.com>
 **To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
@@ -146,6 +5277,23 @@ Donna
 From: paulroberttaylor@gmail.com <paulroberttaylor@gmail.com>;
 Received: Thu Sep 01 2022 12:55:42 GMT+0100 (British Summer Time)
 To: So customer service CustomerserviceSO@ <customerserviceso@crestnicholson.com>; Customer Service: So...
+
+---
+
+## 2022-09-06 17:41: 25 Abbots Road
+**From:** Adrian Sims <Adrian.Sims@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>, "jade.millington@hotmail.co.uk"
+	<jade.millington@hotmail.co.uk>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>, Sarah Reeve
+	<Sarah.Reeve@crestnicholson.com>
+
+Good evening Mr & Mrs Taylor,
+
+Further to Crest issuing you the independent surveyors report undertaken by Calford Seadon and issued to you on 26th August, we have reviewed the report findings. It is clear that there are defects within your home that are outside the NHBC Buildmark technical standards and require rectification.
+
+With reasonable access provided to your home, we evaluate that these works to will take approximately 4 to 5 weeks to complete.
+
+The next step to clarify this, woul...
 
 ---
 
@@ -9657,6 +14805,341 @@ An emergency is defined as:
 
 * Water leaks that cannot be contained and are causing damage or penetrating electrical fittings.
 * Loss of gas, water or electricity ensuring that the loss...
+
+---
+
+## 2025-06-05 17:10: 0034 Albany Wood, 10 Colt View
+**From:** Customer Service SO <CustomerServiceSO@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Customer Service SO <CustomerServiceSO@crestnicholson.com>
+
+Good evening, Mr Taylor
+
+I hope you are well.
+
+I have been asked to get in touch with you from the Managing Director whom you have emailed recently regarding a copy of the surveyor's report.
+
+The Managing Director has advised that she does not currently have a copy of the report, with no access to her emails. She is away on leave now until Tuesday and will follow up on her return.
+
+We have been in communication with the surveyor who has advised that they would like to revisit once the re...
+
+---
+
+## 2025-06-05 19:07: AutoResponse: [EXTERNAL] Re: 0034 Albany Wood, 10 Colt View
+**From:** "Customer Service SO" <customerserviceso@crestnicholson.com>
+**To:** "Paul Taylor" <paulroberttaylor@gmail.com>
+
+Thank you for contacting the Crest Nicholson South Customer Service team.
+
+This automatic response confirms receipt of your email, which we aim to respond to within 5 working days. If you are contacting us regarding an emergency (and you are within your 2-year warranty) please contact us on 0808 168 6171.
+
+An emergency is defined as:
+
+* Water leaks that cannot be contained and are causing damage or penetrating electrical fittings.
+* Loss of gas, water or electricity ensuring that the loss...
+
+---
+
+## 2025-06-09 09:27: AutoResponse: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+**From:** "Customer Service SO" <customerserviceso@crestnicholson.com>
+**To:** "Paul Taylor" <paulroberttaylor@gmail.com>
+
+Thank you for contacting the Crest Nicholson South Customer Service team.
+
+This automatic response confirms receipt of your email, which we aim to respond to within 5 working days. If you are contacting us regarding an emergency (and you are within your 2-year warranty) please contact us on 0808 168 6171.
+
+An emergency is defined as:
+
+* Water leaks that cannot be contained and are causing damage or penetrating electrical fittings.
+* Loss of gas, water or electricity ensuring that the loss...
+
+---
+
+## 2025-06-09 08:27: Automatic reply: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+**From:** Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+I am currently on annual leave returning Tuesday 10th June
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recruitment purposes in relation to the operation of its business in accordance with its Privacy Policy which can be found here. You can unsubscribe from our marketing communications by following the unsubscribe instruction within the communication itself or simply by contacting us. We may monitor email traffic data and content for the purposes of ...
+
+---
+
+## 2025-06-09 10:10: Automatic reply: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View -
+ Case Ref: NHOS-2024-000512
+**From:** Mark Foyle <Mark.Foyle@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+﻿
+﻿
+Thank you for your email.
+
+I am currently out of the office, returning on Monday 16th June 2025. I have limited access to emails and will attend to your email upon my return.
+
+Kind regards
+
+Mark Foyle
+Crest Nicholson uses personal data about its customers, subcontractors, suppliers and for recruitment purposes in relation to the operation of its business in accordance with its Privacy Policy which can be found here. You can unsubscribe from our marketing communications by following ...
+
+---
+
+## 2025-06-09 11:21: 0034 Albany Wood, 10 Colt View
+**From:** Customer Service SO <CustomerServiceSO@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+
+Good morning, Mr Taylor
+
+Thank you for your email, we have requested a copy, however, we can not guarantee when this will be received, so this will possibly delay the start of the works.  If the scaffolding does not start on Wednesday at the latest, we will require to give them a weeks' notice for new date.
+
+We will advise you further.
+
+Kind Regards
+
+
+Donna Hack
+Customer Service Manager
+
+S: 01932 580444 M:07890 892054
+Crest Nicholson South, 500 Dashwood Lang Road, Bourne Business Pa...
+
+---
+
+## 2025-06-09 14:13: AutoResponse: [EXTERNAL] Re: 0034 Albany Wood, 10 Colt View
+**From:** "Customer Service SO" <customerserviceso@crestnicholson.com>
+**To:** "Paul Taylor" <paulroberttaylor@gmail.com>
+
+Thank you for contacting the Crest Nicholson South Customer Service team.
+
+This automatic response confirms receipt of your email, which we aim to respond to within 5 working days. If you are contacting us regarding an emergency (and you are within your 2-year warranty) please contact us on 0808 168 6171.
+
+An emergency is defined as:
+
+* Water leaks that cannot be contained and are causing damage or penetrating electrical fittings.
+* Loss of gas, water or electricity ensuring that the loss...
+
+---
+
+## 2025-06-10 12:45: AutoResponse: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+**From:** "Customer Service SO" <customerserviceso@crestnicholson.com>
+**To:** "Paul Taylor" <paulroberttaylor@gmail.com>
+
+Thank you for contacting the Crest Nicholson South Customer Service team.
+
+This automatic response confirms receipt of your email, which we aim to respond to within 5 working days. If you are contacting us regarding an emergency (and you are within your 2-year warranty) please contact us on 0808 168 6171.
+
+An emergency is defined as:
+
+* Water leaks that cannot be contained and are causing damage or penetrating electrical fittings.
+* Loss of gas, water or electricity ensuring that the loss...
+
+---
+
+## 2025-06-10 12:27: RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+**From:** Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>, Customer
+ Service SO <CustomerServiceSO@crestnicholson.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>
+
+Dear Mr Taylor,
+
+I regret to inform you that I am unable to provide a report at this time. While I have received information from the surveyor, it is not presented in the expected report format. I have requested the necessary report and anticipate receiving it in the coming days. Once obtained, I will promptly share it with you as per your request.
+
+Acknowledging your directive to refrain from commencing any work until you have received the report, Donna will be contacting you shortly to arr...
+
+---
+
+## 2025-06-10 15:05: AutoResponse: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+**From:** "Customer Service SO" <customerserviceso@crestnicholson.com>
+**To:** "Paul Taylor" <paulroberttaylor@gmail.com>
+
+Thank you for contacting the Crest Nicholson South Customer Service team.
+
+This automatic response confirms receipt of your email, which we aim to respond to within 5 working days. If you are contacting us regarding an emergency (and you are within your 2-year warranty) please contact us on 0808 168 6171.
+
+An emergency is defined as:
+
+* Water leaks that cannot be contained and are causing damage or penetrating electrical fittings.
+* Loss of gas, water or electricity ensuring that the loss...
+
+---
+
+## 2025-06-10 15:01: RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+**From:** Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Customer Service SO <CustomerServiceSO@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Dear Mr. Taylor,
+
+Thank you for your response.
+
+The surveyor has indicated that they can only finalise the scope of work once the render has been removed from the property and a subsequent inspection has been conducted. This necessity has prompted us to arrange for the scaffolder and renderer to commence their work in preparation for another inspection.
+
+While I will issue the full report upon receipt, I can share a summary of the key points outlined in the preliminary findings:
+
+
+  *  ...
+
+---
+
+## 2025-06-11 09:25: AutoResponse: Re: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+**From:** "Customer Service SO" <customerserviceso@crestnicholson.com>
+**To:** "Paul Taylor" <paulroberttaylor@gmail.com>
+
+Thank you for contacting the Crest Nicholson South Customer Service team.
+
+This automatic response confirms receipt of your email, which we aim to respond to within 5 working days. If you are contacting us regarding an emergency (and you are within your 2-year warranty) please contact us on 0808 168 6171.
+
+An emergency is defined as:
+
+* Water leaks that cannot be contained and are causing damage or penetrating electrical fittings.
+* Loss of gas, water or electricity ensuring that the loss...
+
+---
+
+## 2025-06-11 09:01: RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+**From:** Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Customer Service SO <CustomerServiceSO@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Dear Mr Taylor,
+
+Thank you for your response.
+
+That is not an issue at all, I will forward the report as soon as it is with me and Donna will arrange a new appropriate start date to suit.
+
+Kind Regards
+
+Charlie
+
+Charlie Joseph
+Managing Director
+
+Crest Nicholson South
+500 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey, KT15 2HJ
+Tel: 0117 923 6600 M: 07771 842013
+www.crestnicholson.com<http://www.crestnicholson.com/>
+
+
+From: Paul Taylor <paulroberttaylor@gmail.com>...
+
+---
+
+## 2025-06-16 11:07: RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+**From:** Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Customer Service SO <CustomerServiceSO@crestnicholson.com>, Helen Morley
+	<Helen.Morley@crestnicholson.com>
+
+Dear Mr Taylor,
+
+I just wanted to update you. Please bear with me whilst I continue to chase for this report – the surveyor was on leave last week and is on leave this week as well. We have requested it be complete by someone else in the office.
+
+Kind Regards
+
+Charlie
+
+Charlie Joseph
+Managing Director
+
+Crest Nicholson South
+500 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey, KT15 2HJ
+Tel: 0117 923 6600 M: 07771 842013
+www.crestnicholson.com<http://www.crestnicholson.c...
+
+---
+
+## 2025-06-17 15:14: 0034 Albany Wood Complaint Interim Update 17-06-25
+**From:** Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Helen Morley <Helen.Morley@crestnicholson.com>, Donna Hack
+	<Donna.Hack@crestnicholson.com>, Abbey Wakeford
+	<Abbey.Wakeford@crestnicholson.com>, Donna Goodger
+	<Donna.Goodger@crestnicholson.com>
+
+Good afternoon Mr Taylor
+
+Please see attachment.
+
+Regards
+
+
+
+Charlie Joseph
+Managing Director
+
+T: 01932 580444
+Crest Nicholson South, 500 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey, KT15 2HJ
+www.crestnicholson.com<http://www.crestnicholson.com/>
+
+A Division of Crest Nicholson Operations Limited
+Reg Office: 500 Dashwood Lang, Road, Bourne Business Park, Addlestone, Surrey, KT15 2HJ
+Reg. Number 1168311 England
+Crest Nicholson uses personal data about its custome...
+
+---
+
+## 2025-06-23 16:23: RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+**From:** Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+**To:** Paul Taylor <paulroberttaylor@gmail.com>
+**CC:** Customer Service SO <CustomerServiceSO@crestnicholson.com>
+
+Dear Mr. Taylor,
+
+I hope this message finds you well.
+
+I wanted to inform you that the report regarding the render has been attached for your review. Kindly take the time to go through the contents of the report.
+
+Once you have had the chance to assess the report, please indicate if you are satisfied with proceeding with the work to erect the scaffold and remove the render. This step is essential to facilitate inviting the surveyor back for a comprehensive assessment of the situation.
+
+I...
+
+---
+
+## 2025-06-25 09:47: RE: [EXTERNAL] Fwd: 0034 Albany Wood, 10 Colt View
+**From:** Nikki Hogben <Nikki.Hogben@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+
+Good morning Mr Taylor
+
+Martyn Clark acknowledges receipt of your emails of Monday 23 June at 18:22 and Tuesday 24 June at 22:35 and has asked that the Managing Director of our South Division, Charlie Joseph, investigates this matter and a full response will be issued to you imminently to ensure this matter is bought to a close.
+
+Kind regards,
+
+
+Nikki Hogben
+Executive Assistant
+
+Supporting:
+Bill Floydd, Group Finance Director | Mark Foyle, Group Managing Director |
+David Marchant, Gr...
+
+---
+
+## 2025-06-25 14:18: Mr Taylor - 0034 Albany Wood
+**From:** Charlie Joseph <Charlie.Joseph@crestnicholson.com>
+**To:** "paulroberttaylor@gmail.com" <paulroberttaylor@gmail.com>
+**CC:** Donna Hack <Donna.Hack@crestnicholson.com>, Abbey Wakeford
+	<Abbey.Wakeford@crestnicholson.com>, Donna Goodger
+	<Donna.Goodger@crestnicholson.com>
+
+Good afternoon Mr Taylor
+
+Please see attachment.
+
+Regards,
+
+Charlie Joseph
+Managing Director
+
+T: 01932 580444
+Crest Nicholson South, 500 Dashwood Lang Road, Bourne Business Park, Addlestone, Surrey, KT15 2HJ
+www.crestnicholson.com<http://www.crestnicholson.com/>
+
+A Division of Crest Nicholson Operations Limited
+Reg Office: 500 Dashwood Lang, Road, Bourne Business Park, Addlestone, Surrey, KT15 2HJ
+Reg. Number 1168311 England
+Crest Nicholson uses personal data about its customers,...
 
 ---
 

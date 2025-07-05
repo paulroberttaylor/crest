@@ -1,0 +1,2386 @@
+{
+  "summary": {
+    "total_crisis_emails": 0,
+    "mortgage_expiry_mentions": 0,
+    "october_date_conflicts": 0,
+    "december_completion_emails": 0,
+    "urgent_situations": 0,
+    "mortgage_expiry_count": 16,
+    "october_25_31_count": 103,
+    "december_18_count": 354,
+    "urgent_10_colt_view_count": 154,
+    "completion_crisis_count": 14,
+    "solicitor_issues_count": 472
+  },
+  "timeline": [
+    {
+      "date": "2023-09-01 09:21",
+      "subject": "RE: [EXTERNAL] Fwd: Plot 34 Albany Road",
+      "from": "Danielle Green",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-09-01 09:43",
+      "subject": "RE: [EXTERNAL] Fwd: Plot 34 Albany Road",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-09-01 09:52",
+      "subject": "RE: [EXTERNAL] Fwd: Plot 34 Albany Road",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-09-01 10:15",
+      "subject": "Fwd: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-09-01 10:31",
+      "subject": "Re: [EXTERNAL] Fwd: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-09-01 10:38",
+      "subject": "Fwd: [EXTERNAL] Fwd: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-09-01 10:49",
+      "subject": "Re: [EXTERNAL] Fwd: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-09-01 11:35",
+      "subject": "RE: [EXTERNAL] Fwd: Plot 34 Albany Road",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-09-01 12:55",
+      "subject": "RE: [EXTERNAL] Fwd: Plot 34 Albany Road",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-09-01 12:58",
+      "subject": "Fwd: [EXTERNAL] Fwd: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-09-04 11:53",
+      "subject": "RE: [EXTERNAL] Fwd: Plot 34 Albany Road",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-09-04 13:09",
+      "subject": "Re: [EXTERNAL] Fwd: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-09-05 11:33",
+      "subject": "Re: [EXTERNAL] Fwd: Plot 34 Albany Road",
+      "from": "Cranbury Removals",
+      "key_points": []
+    },
+    {
+      "date": "2023-09-05 11:35",
+      "subject": "Re: [EXTERNAL] Fwd: Plot 34 Albany Road",
+      "from": "Jade Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-09-07 12:26",
+      "subject": "Fwd: Your new home",
+      "from": "Jade Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-09-07 13:27",
+      "subject": "Fwd: Your new home",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-09-28 04:28",
+      "subject": "Plot 34 Albany Road",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-04 14:17",
+      "subject": "RE: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Danielle Green",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-04 15:12",
+      "subject": "Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-05 08:55",
+      "subject": "RE: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Natalie Haigh",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-05 12:12",
+      "subject": "Re: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-05 12:34",
+      "subject": "RE: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Steve Smith",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-05 14:22",
+      "subject": "Re: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-05 15:07",
+      "subject": "RE: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Natalie Haigh",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-05 16:19",
+      "subject": "Re: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-06 15:08",
+      "subject": "Fwd: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-06 16:47",
+      "subject": "Fwd: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-06 17:58",
+      "subject": "Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-07 09:13",
+      "subject": "Fwd: 34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-07 11:59",
+      "subject": "Fwd: 34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-07 13:39",
+      "subject": "Fwd: 34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-08 09:46",
+      "subject": "RE: [EXTERNAL] Fwd: 34 Albany Wood",
+      "from": "Steve Smith",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-08 18:44",
+      "subject": "RE: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Natalie Haigh",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-08 20:48",
+      "subject": "Fwd: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-08 21:21",
+      "subject": "Fwd: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-09 08:30",
+      "subject": "Urgent: Re: appointment on Wednesday",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-09 08:38",
+      "subject": "Re: Urgent: Re: appointment on Wednesday",
+      "from": "Richard Kirby",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-09 08:40",
+      "subject": "Fwd: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-09 08:40",
+      "subject": "Re: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-09 11:18",
+      "subject": "Fwd: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Property not ready",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-09 12:28",
+      "subject": "Fwd: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-09 15:03",
+      "subject": "Re: Urgent: Re: appointment on Wednesday",
+      "from": "Richard Kirby",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-09 15:31",
+      "subject": "RE: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Natalie Haigh",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-09 15:52",
+      "subject": ":34 Albany Wood",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "October 31st mentioned"
+      ]
+    },
+    {
+      "date": "2023-10-09 21:02",
+      "subject": "Re: [EXTERNAL] Re: Plot 34 Albany Road",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Property not ready",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-10 10:24",
+      "subject": "RE: [EXTERNAL] 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "October 25th date requested"
+      ]
+    },
+    {
+      "date": "2023-10-10 10:53",
+      "subject": "10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-10 16:19",
+      "subject": "RE: [EXTERNAL] Re: 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "October 25th date requested"
+      ]
+    },
+    {
+      "date": "2023-10-10 16:44",
+      "subject": "Re: Urgent: Re: appointment on Wednesday",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-10 16:53",
+      "subject": "Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-10 17:50",
+      "subject": "Re: [EXTERNAL] Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "October 25th date requested"
+      ]
+    },
+    {
+      "date": "2023-10-11 05:48",
+      "subject": "Fwd: [EXTERNAL] Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "October 25th date requested"
+      ]
+    },
+    {
+      "date": "2023-10-11 07:21",
+      "subject": "Re: Urgent: Re: appointment on Wednesday",
+      "from": "Richard Kirby",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-11 08:18",
+      "subject": "Fwd: Urgent: Re: appointment on Wednesday",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-11 11:32",
+      "subject": "RE: Mortgage",
+      "from": "\"Leanne Athill\"",
+      "key_points": [
+        "October 31st mentioned"
+      ]
+    },
+    {
+      "date": "2023-10-11 11:46",
+      "subject": "10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Property not ready"
+      ]
+    },
+    {
+      "date": "2023-10-11 11:47",
+      "subject": "Fwd: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Property not ready"
+      ]
+    },
+    {
+      "date": "2023-10-11 12:33",
+      "subject": "Sale of 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-11 14:42",
+      "subject": "Fwd: Sale of 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-11 15:10",
+      "subject": "RE: [EXTERNAL] Sale of 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-11 15:42",
+      "subject": "RE: Urgent - Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "October 25th date requested",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-11 16:38",
+      "subject": "Urgent - Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "October 25th date requested",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-11 16:48",
+      "subject": "Fwd: Urgent - Colt View",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-11 17:04",
+      "subject": "Re: Urgent - Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "October 25th date requested",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-12 07:55",
+      "subject": "RE: Urgent - Colt View",
+      "from": "Serhan Handani",
+      "key_points": [
+        "October 25th date requested",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-12 09:00",
+      "subject": "RE: Urgent - Colt View",
+      "from": "Serhan Handani",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-12 09:46",
+      "subject": "Re: Urgent - Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "October 25th date requested",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-12 10:07",
+      "subject": "",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-12 10:07",
+      "subject": "Re: Urgent - Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-13 07:29",
+      "subject": "FW: Mr and Mrs Taylor  - 25 Abbots Road/34 Albany Wood - subject to\r\n contract",
+      "from": "Serhan Handani",
+      "key_points": [
+        "October 31st mentioned"
+      ]
+    },
+    {
+      "date": "2023-10-13 12:45",
+      "subject": "Re: FW: Mr and Mrs Taylor  - 25 Abbots Road/34 Albany Wood - subject\r\n to contract",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-13 12:46",
+      "subject": "Fwd: FW: Mr and Mrs Taylor  - 25 Abbots Road/34 Albany Wood - subject\r\n to contract",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-16 08:49",
+      "subject": "RE: FW: Mr and Mrs Taylor - 25 Abbots Road/34 Albany Wood - subject\r\n to contract",
+      "from": "Serhan Handani",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-16 09:33",
+      "subject": "Fwd: :34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-17 08:36",
+      "subject": "RE: :34 Albany Wood",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "October 31st mentioned",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-17 09:18",
+      "subject": "Fwd: :34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-17 09:56",
+      "subject": "Re: :34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-19 11:19",
+      "subject": "Fw: Mr and Mrs Taylor - 25 Abbots Road: Memorandum of Agreement -\r\n privileged and confidential",
+      "from": "Jade Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-20 09:16",
+      "subject": "Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-24 09:47",
+      "subject": "RE: URGENT",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-24 10:43",
+      "subject": "URGENT",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-26 12:34",
+      "subject": "Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-26 15:59",
+      "subject": "RE: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-26 16:36",
+      "subject": "RE: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-26 17:31",
+      "subject": "Re: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-27 08:15",
+      "subject": "RE: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham",
+      "from": "Oliver Culhane",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-10-27 12:32",
+      "subject": "Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-27 15:36",
+      "subject": "RE: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-10-30 06:33",
+      "subject": "Re: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-01 08:18",
+      "subject": "25 Abbots Road - 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-01 10:44",
+      "subject": "Fwd: 25 Abbots Road - 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-01 11:56",
+      "subject": "RE: 25 Abbots Road - 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Mortgage expiry concern"
+      ]
+    },
+    {
+      "date": "2023-11-01 13:02",
+      "subject": "RE: 25 Abbots Road - 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Mortgage expiry concern"
+      ]
+    },
+    {
+      "date": "2023-11-01 16:39",
+      "subject": "Fwd: [EXTERNAL] Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-02 09:02",
+      "subject": "RE: [EXTERNAL] Re: 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "October 25th date requested",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-02 16:42",
+      "subject": "Fwd: [EXTERNAL] Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-03 12:45",
+      "subject": "Fwd: [EXTERNAL] Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-06 09:19",
+      "subject": "Fwd: [EXTERNAL] Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-06 10:49",
+      "subject": "RE: [EXTERNAL] Re: 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "October 25th date requested",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-07 12:15",
+      "subject": "Fwd: 25 Abbots Road - 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Mortgage expiry concern"
+      ]
+    },
+    {
+      "date": "2023-11-07 15:15",
+      "subject": "RE: 25 Abbots Road - 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Mortgage expiry concern"
+      ]
+    },
+    {
+      "date": "2023-11-08 08:49",
+      "subject": "Re: [EXTERNAL] Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-08 15:12",
+      "subject": "Fwd: [EXTERNAL] Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-09 08:12",
+      "subject": "Fwd: [EXTERNAL] Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-09 08:34",
+      "subject": "RE: [EXTERNAL] Re: 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-14 08:19",
+      "subject": "Re: 10 Colt View",
+      "from": "Serhan Handani",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-17 07:31",
+      "subject": "Re: [EXTERNAL] Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-20 09:11",
+      "subject": "RE: [EXTERNAL] Re: 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-22 11:09",
+      "subject": "Re: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-22 11:35",
+      "subject": "Fwd: [EXTERNAL] Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-22 12:16",
+      "subject": "RE: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham",
+      "from": "Oliver Culhane",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-22 12:36",
+      "subject": "Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-22 12:38",
+      "subject": "Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-22 14:48",
+      "subject": "RE: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Serhan Handani",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-23 13:53",
+      "subject": "10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Property not ready",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-27 11:33",
+      "subject": "Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32\r\n 1RE)",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-27 14:29",
+      "subject": "Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-27 14:39",
+      "subject": "Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-27 14:55",
+      "subject": "RE: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-27 15:42",
+      "subject": "Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Property not ready",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-28 09:26",
+      "subject": "Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-28 17:51",
+      "subject": "RE: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham",
+      "from": "Oliver Culhane",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-28 17:55",
+      "subject": "Re: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Jade Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-28 18:38",
+      "subject": "Fwd: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Property not ready",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-29 09:47",
+      "subject": "RE: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-29 13:35",
+      "subject": "Re: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-29 17:14",
+      "subject": "Fwd: Construction Assessment Report - 10 Croft View, Bishops Waltham",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-29 17:56",
+      "subject": "Plot 34 Albany (10 Croft View) ",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-30 11:06",
+      "subject": "Re: Plot 34 Albany (10 Croft View)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-11-30 14:29",
+      "subject": "URGENT:  Trinity Rose",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-30 14:34",
+      "subject": "Fwd: URGENT:  Trinity Rose",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-30 14:44",
+      "subject": "RE: URGENT: Trinity Rose",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-30 14:54",
+      "subject": "Re: URGENT: Trinity Rose",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-30 15:52",
+      "subject": "Fwd: Urgent: Re: appointment on Wednesday",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-11-30 15:54",
+      "subject": "RE: Urgent: Re: appointment on Wednesday",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-01 08:40",
+      "subject": "Exchange for Wednesday 6th",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-05 07:56",
+      "subject": "Exchange for Wednesday 6th",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-05 14:01",
+      "subject": "URGENT:  10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-05 14:51",
+      "subject": "RE: Exchange for Wednesday 6th",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-05 14:59",
+      "subject": "Re: Exchange for Wednesday 6th",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-05 15:25",
+      "subject": "RE: Exchange for Wednesday 6th",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-05 15:28",
+      "subject": "Re: Exchange for Wednesday 6th",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-05 15:30",
+      "subject": "RE: Exchange for Wednesday 6th",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-05 15:32",
+      "subject": "Re: Exchange for Wednesday 6th",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-05 16:18",
+      "subject": "RE: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-05 16:31",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-06 10:35",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-06 10:45",
+      "subject": "Re: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-06 10:52",
+      "subject": "RE: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-06 11:27",
+      "subject": "Re: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-06 11:29",
+      "subject": "RE: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-06 11:38",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-07 09:52",
+      "subject": "Fwd: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-07 12:17",
+      "subject": "Fwd: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-07 14:38",
+      "subject": "RE: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-07 14:50",
+      "subject": "Re: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-07 15:07",
+      "subject": "RE: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-07 15:14",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-07 15:14",
+      "subject": "Automatic reply: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Eileen Guihen",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-07 15:15",
+      "subject": "Re: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-07 16:02",
+      "subject": "Fwd: Fw: Mr and Mrs Taylor - 25 Abbots Road: Memorandum of Agreement\r\n - privileged and confidential",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-07 16:23",
+      "subject": "RE: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-07 16:26",
+      "subject": "Re: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-07 16:28",
+      "subject": "RE: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-07 16:31",
+      "subject": "Re: FW: Construction Assessment Report - 10 Croft View, Bishops\r\n Waltham - Plot 34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-08 09:10",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "Property not ready",
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-08 09:56",
+      "subject": "RE: Mortgage funds release",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-08 10:07",
+      "subject": "Re: Mortgage funds release",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-08 10:09",
+      "subject": "RE: Mortgage funds release",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-08 16:50",
+      "subject": "RE: Removals",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-08 16:53",
+      "subject": "Re: Removals",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-08 16:55",
+      "subject": "RE: Removals",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-08 17:02",
+      "subject": "Re: Removals",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-08 17:05",
+      "subject": "RE: Removals",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-08 17:07",
+      "subject": "Re: Removals",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 09:55",
+      "subject": "RE: Removals & exchange",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 10:16",
+      "subject": "RE: Removals & exchange",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 10:24",
+      "subject": "Re: Removals & exchange",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 12:10",
+      "subject": "RE: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 12:21",
+      "subject": "Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 12:22",
+      "subject": "RE: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 15:03",
+      "subject": "Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 15:13",
+      "subject": "RE: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 15:18",
+      "subject": "Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 15:21",
+      "subject": "RE: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 15:23",
+      "subject": "Fwd: FW: Mr and Mrs Taylor  - 25 Abbots Road/34 Albany Wood - subject\r\n to contract",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 15:26",
+      "subject": "RE: FW: Mr and Mrs Taylor - 25 Abbots Road/34 Albany Wood - subject\r\n to contract",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 15:28",
+      "subject": "Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 16:44",
+      "subject": "Re: FW: Mr and Mrs Taylor  - 25 Abbots Road/34 Albany Wood - subject\r\n to contract",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-11 16:52",
+      "subject": "RE: FW: Mr and Mrs Taylor - 25 Abbots Road/34 Albany Wood - subject\r\n to contract",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-12 10:16",
+      "subject": "Re: Exchange",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-12 10:26",
+      "subject": "Fwd: Exchange",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-12 10:30",
+      "subject": "Re: Exchange",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-12 11:08",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "Property not ready",
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 11:11",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Property not ready",
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 11:19",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "Property not ready",
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 11:27",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 11:29",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 11:33",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "Property not ready",
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 11:37",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 11:42",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "Property not ready",
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 11:46",
+      "subject": "Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32\r\n 1RE)",
+      "from": "Leanna Hill",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-12 11:49",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 12:38",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 12:47",
+      "subject": "Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-12 12:52",
+      "subject": "RE: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Leanna Hill",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-12 12:55",
+      "subject": "RE: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Leanna Hill",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-12 12:56",
+      "subject": "Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-12 13:09",
+      "subject": "RE: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Leanna Hill",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-12 13:19",
+      "subject": "Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-12 13:29",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Property not ready",
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 13:32",
+      "subject": "RE: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Leanna Hill",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-12 13:53",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 14:56",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 15:55",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 15:56",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 16:11",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 16:37",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 16:40",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-12 16:40",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-13 08:58",
+      "subject": "RE: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-13 09:10",
+      "subject": "Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-13 10:05",
+      "subject": "Fwd: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-13 10:22",
+      "subject": "RE: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-13 10:24",
+      "subject": "Fwd: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-13 10:50",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-13 11:14",
+      "subject": "RE: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-13 11:54",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation",
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-13 12:19",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Mortgage expiry concern",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 12:43",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 12:46",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 12:57",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Mortgage expiry concern",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 12:58",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 13:01",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 13:03",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 13:06",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Natalie Haigh",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 13:09",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 13:15",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 13:21",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Eileen Guihen",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 13:24",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 13:28",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 13:30",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 13:31",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 13:36",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 13:40",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 14:15",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 14:20",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 14:23",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 14:27",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 14:52",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 14:55",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 14:57",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 15:02",
+      "subject": "Fwd: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 15:27",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 15:55",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 16:10",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "October 31st mentioned",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 16:17",
+      "subject": "RE: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Eileen Guihen",
+      "key_points": [
+        "October 31st mentioned",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 16:20",
+      "subject": "Re: [EXTERNAL] URGENT: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "October 31st mentioned",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 16:57",
+      "subject": "URGENT - EXCHANGE",
+      "from": "Paul Taylor",
+      "key_points": [
+        "October 31st mentioned",
+        "Urgent situation"
+      ]
+    },
+    {
+      "date": "2023-12-13 17:12",
+      "subject": "RE: Exchange?",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-13 18:18",
+      "subject": "RE: Exchange?",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-13 18:48",
+      "subject": "Re: Exchange?",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-14 10:47",
+      "subject": "Fwd: Exchange?",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-14 10:52",
+      "subject": "RE: Exchange?",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-14 11:02",
+      "subject": "Re: Exchange?",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-14 12:08",
+      "subject": "RE: Exchange?",
+      "from": "Hannah Rafferty",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-14 16:11",
+      "subject": "RE: [EXTERNAL] 10 Colt View - Home Demo",
+      "from": "Lynn Carrington",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-15 17:25",
+      "subject": "Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32\r\n 1RE)",
+      "from": "Maja Janusz",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-15 17:26",
+      "subject": "Purchase (Buy Back): 25 Abbots Road, Bishops Waltham, Southampton,\r\n SO32 1RE",
+      "from": "Maja Janusz",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-18 09:48",
+      "subject": "RE: Expected completion today",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 11:05",
+      "subject": "Re: Expected completion today",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 12:28",
+      "subject": "Re: Expected completion today",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 12:31",
+      "subject": "RE: Expected completion today",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 12:32",
+      "subject": "FW: Plot 34 Albany Wood & buy back 25 Abbots Road",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 12:34",
+      "subject": "Re: FW: Plot 34 Albany Wood & buy back 25 Abbots Road",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 12:36",
+      "subject": "RE: FW: Plot 34 Albany Wood & buy back 25 Abbots Road",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 12:49",
+      "subject": "Re: FW: Plot 34 Albany Wood & buy back 25 Abbots Road",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 12:52",
+      "subject": "Re: FW: Plot 34 Albany Wood & buy back 25 Abbots Road",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 12:55",
+      "subject": "RE: FW: Plot 34 Albany Wood & buy back 25 Abbots Road",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 13:01",
+      "subject": "Purchase (Buy Back): 25 Abbots Road, Bishops Waltham, Southampton,\r\n SO32 1RE",
+      "from": "Maja Janusz",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-18 13:03",
+      "subject": "Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham SO32\r\n 1RE)",
+      "from": "Maja Janusz",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-18 13:05",
+      "subject": "Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-18 13:15",
+      "subject": "Re: Purchase - Plot 34 Albany Wood (10 Colt View, Bishops Waltham\r\n SO32 1RE)",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-18 13:26",
+      "subject": "RE: Mortgage Invoice",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 13:27",
+      "subject": "Re: Mortgage Invoice",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 13:30",
+      "subject": "RE: Mortgage Invoice",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 14:00",
+      "subject": "Fwd: Mortgage Invoice",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 14:16",
+      "subject": "10 Colt View keys",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 14:18",
+      "subject": "RE: 10 Colt View keys",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 14:23",
+      "subject": "RE: [EXTERNAL] 10 Colt View",
+      "from": "Steve Smith",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 14:28",
+      "subject": "RE: [EXTERNAL] 10 Colt View",
+      "from": "Eileen Guihen",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 14:31",
+      "subject": "RE: [EXTERNAL] 10 Colt View",
+      "from": "Steve Smith",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 14:31",
+      "subject": "Re: [EXTERNAL] 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 14:33",
+      "subject": "RE: [EXTERNAL] 10 Colt View",
+      "from": "Eileen Guihen",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 14:40",
+      "subject": "Re: [EXTERNAL] 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 14:47",
+      "subject": "Fwd: [EXTERNAL] 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 14:51",
+      "subject": "Fwd: [EXTERNAL] 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 14:54",
+      "subject": "RE: [EXTERNAL] 10 Colt View",
+      "from": "Eileen Guihen",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 15:27",
+      "subject": "RE: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 15:29",
+      "subject": "Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 15:44",
+      "subject": "Fwd: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 16:06",
+      "subject": "Fwd: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 16:12",
+      "subject": "RE: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 16:24",
+      "subject": "RE: 10 Colt View",
+      "from": "Leanna Hill",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 16:24",
+      "subject": "Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 16:26",
+      "subject": "Re: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 16:27",
+      "subject": "RE: [EXTERNAL] Fwd: 10 Colt View",
+      "from": "Eileen Guihen",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 16:31",
+      "subject": "Fwd: [EXTERNAL] Fwd: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 17:21",
+      "subject": "Re: [EXTERNAL] Fwd: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-18 17:36",
+      "subject": "RE: [EXTERNAL] Fwd: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-19 09:05",
+      "subject": "Re: [EXTERNAL] Fwd: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-19 10:08",
+      "subject": "RE: [EXTERNAL] Fwd: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-19 10:31",
+      "subject": "Re: [EXTERNAL] Fwd: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-19 10:42",
+      "subject": "RE: [EXTERNAL] Fwd: 10 Colt View",
+      "from": "Hannah Rafferty",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-19 12:02",
+      "subject": "Re: [EXTERNAL] Fwd: 10 Colt View",
+      "from": "Paul Taylor",
+      "key_points": [
+        "December 18 completion"
+      ]
+    },
+    {
+      "date": "2023-12-22 15:46",
+      "subject": "Fwd: Memorandum of Agreement",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-23 13:15",
+      "subject": "RE: [EXTERNAL] Re: Plot 34 Albany Wood NHBC Cover Note",
+      "from": "Lynn Carrington",
+      "key_points": []
+    },
+    {
+      "date": "2023-12-23 13:38",
+      "subject": "RE: [EXTERNAL] Re: Plot 34 Albany Wood NHBC Cover Note",
+      "from": "Eileen Guihen",
+      "key_points": []
+    },
+    {
+      "date": "2024-01-05 19:04",
+      "subject": "RE: [EXTERNAL] Fwd: 10 Colt View - DPC and final certification",
+      "from": "Eileen Guihen",
+      "key_points": []
+    },
+    {
+      "date": "2024-01-11 10:25",
+      "subject": "RE: 34 AW complaint pathway to resolution for 05010240-34AW",
+      "from": "Serhan Handani",
+      "key_points": []
+    },
+    {
+      "date": "2024-01-11 10:32",
+      "subject": "Fwd: 34 AW complaint pathway to resolution for 05010240-34AW",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2024-01-17 16:53",
+      "subject": "Fwd: 34 Albany Wood",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2024-01-20 14:57",
+      "subject": "10 Colt View Legal Contract",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2024-01-20 16:27",
+      "subject": "Fwd: 10 Colt View Legal Contract",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2024-01-22 16:51",
+      "subject": "RE: [EXTERNAL] 10 Colt View Legal Contract",
+      "from": "Eileen Guihen",
+      "key_points": []
+    },
+    {
+      "date": "2024-01-22 16:53",
+      "subject": "Fwd: [EXTERNAL] 10 Colt View Legal Contract",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2024-01-23 08:12",
+      "subject": "Re: [EXTERNAL] 10 Colt View Legal Contract",
+      "from": "Paul Taylor",
+      "key_points": []
+    },
+    {
+      "date": "2024-01-24 12:31",
+      "subject": "tree in driveway",
+      "from": "Paul Taylor",
+      "key_points": []
+    }
+  ],
+  "key_issues": [],
+  "mortgage_crisis": {
+    "first_mention": null,
+    "expiry_dates": [],
+    "impact_discussed": []
+  },
+  "october_conflict": {
+    "paul_requested": "25th October",
+    "crest_insisted": "31st October",
+    "reason_given": null
+  }
+}
