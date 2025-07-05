@@ -128,6 +128,10 @@ Create the most detailed complaint possible to NHOS documenting:
 
 ### Current NHOS Complaints
 1. **NHOS-2024-000512**: Render issue (active, with Ombudsman for draft decision)
+   - Accepted: November 18, 2024
+   - Days in progress: 500+ (as of July 5, 2025)
+   - Evidence submitted: MJA report, NHBC standards violation
+   - Probability of success: 85-90% based on evidence
 2. **NHOS-2024-000302**: Path/Bridal Path access issue (escalated to NHOS)
    - Note: While "Path connecting Crest's 2 developments" emails appear from October 2024, the issue may have been raised earlier in other complaints
 
@@ -228,6 +232,11 @@ Create the most detailed complaint possible to NHOS documenting:
 - **Charlie Joseph's Lie**: Called work "unnecessary" when it's literally required by the standards Crest claims to follow
 - **Sent to NHOS**: July 4, 2025 - Proving Crest violated even 2014 standards on a 2023 build
 
+### NHBC Claim Filed (July 4, 2025)
+- **Strategic Purpose**: Additional pressure alongside NHOS case
+- **Key Ask**: Acknowledgment that movement joints are "necessary not goodwill"
+- **Tactic**: Forces Crest to either admit 18 months of lies or fight NHBC
+
 ### Identified Corporate Strategy
 1. **Denial Phase**: Dismiss all concerns as "minor settlement" or "cosmetic" for 18+ months
 2. **Forced Action**: Only act when complaint reaches NHOS or legal threat
@@ -321,3 +330,10 @@ The campaign represents an escalation from documentation to active public pressu
 - **Total cost to Crest**: £155k including resale loss
 - **Confidentiality**: Memorandum of Agreement restricts discussing details with third parties
 - **Key Loophole**: Paul can discuss everything with CEO as he's not a "third party"
+
+### Current Market Position (July 2025)
+- **Crest Market Cap**: £490 million
+- **Annual Profit 2024**: £22.4 million (down 53%)
+- **Share Price**: 187.70p
+- **Financial Vulnerability**: Profit margin only 4.6% of market cap
+- **Settlement Context**: Even £500k = 2.2% of annual profit
