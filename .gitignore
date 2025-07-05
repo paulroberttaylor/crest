@@ -39,3 +39,25 @@ personal_notes.txt
 private/
 chromadb_emails_quick
 mortgage_pdfs/
+# Large Files - Not Tracked in Git
+
+# Analysis files (too large for GitHub)
+complaint_analysis/all_issues_detailed.csv
+complaint_analysis/chronological_timeline.md
+complaint_analysis/issue_categories.md
+
+# Virtual environments
+email_indexer_env/
+
+# ChromaDB databases  
+chromadb_emails/
+chromadb_emails_quick/
+
+# Large PDFs
+pdf_attachments/**/*.pdf
+
+# Large mbox files
+*.mbox
+
+# Mortgage documents
+mortgage_pdfs/
