@@ -144,6 +144,10 @@ Create the most detailed complaint possible to NHOS documenting:
 - `PLOT34_CONTRACT_DELAYS.md` - Comprehensive documentation of contract delays and completion date changes
 - `PLOT34_COMPLETION_TIMELINE.md` - Detailed timeline with specific dates and email evidence
 - `chromadb_emails_quick/` - ChromaDB vector database of all 1,723 emails for semantic search
+- `TRINITY_ROSE_SURVEY_VIOLATIONS.md` - Independent survey findings showing multiple NHBC violations Crest refused to verify
+- `REMOVAL_COMPANY_REBOOKING_EVIDENCE.md` - Documentation of £995.20 costs from lost removal bookings due to delays
+- `BUILD_QUALITY_LIES_AND_MISREPRESENTATIONS.md` - Evidence of false claims about inspections and completed work
+- `PURCHASE_TREATMENT_COMPLAINT_LETTER.md` - Formal complaint to CEO demanding £9,131.07 compensation for purchase treatment
 
 ### Comprehensive Email Catalog Results
 - **853 emails** analyzed from Jan 1, 2023
@@ -167,6 +171,8 @@ Create the most detailed complaint possible to NHOS documenting:
 - **Eileen Guihen** - Sales & Marketing Director/Deputy MD (early complaints, purchase)
 - **Lynn Carrington** - (defects, practical issues)
 - **Andy Cook** - Customer Relations Manager
+- **Natalie Haigh** - Customer Service (made false promises about gutter cleaning)
+- **Donna Hack** - (dismissive attitude: "Well, we fixed it didn't we?" regarding buried air brick)
 
 ### Most Important Email Threads
 1. **NHOS-2024-000512** - Render issue (35+ emails, active)
@@ -182,11 +188,22 @@ Create the most detailed complaint possible to NHOS documenting:
 - **6 documentation issues** (NHBC certificates)
 - **144 communication issues** identified in comprehensive analysis
 - **48 emails** mentioning/involving Jade from 2023 onwards (contain damning evidence)
+- **£8,136.87 financial harm** from mortgage rate increase due to delays
+- **Trinity Rose survey violations**: Garage DPC at 70mm (less than half required), open soil vent pipe, unsealed roof void
+- **No verification of repairs**: Crest refused to fund follow-up survey to confirm Trinity Rose findings were remediated
+- **Proven lies**: 
+  - **Gutter cleaning**: Natalie Haigh PROMISED "Yes, this has been done" on October 4, 2023. Drone photos and independent plumber proved gutters were NEVER cleaned
+  - **"15 checks" claim**: Build manager claimed property checked 15 times yet 45 defects found on completion day
 
 ### Critical Evidence Notes
 - The "URGENT: 10 Colt View" thread has 36 emails with Paul sending 25 emails vs only 10 Crest responses
 - Jade's involvement in emails contains important evidence that needs to be captured
 - Many threads show pattern of customers having to send multiple emails before getting responses
+- **Gutter cleaning lie timeline**:
+  - October 4, 2023: Natalie Haigh promises gutters have been cleaned
+  - January 4, 2024: Defect #41 shows gutters full of debris
+  - January 17, 2024: Paul provides drone photos proving the lie
+  - Independent plumber confirms gutters were NEVER cleaned
 
 ### Key Evidence Threads to Investigate
 1. **"URGENT: 10 Colt View"** thread (Dec 2023) - Multiple urgent chasers
@@ -202,7 +219,11 @@ Create the most detailed complaint possible to NHOS documenting:
    - Clear violation of NHBC standards which state air bricks "should not be blocked or covered by soil or paving"
    - October 2023 Construction Assessment claimed air bricks were compliant
    - July 2023: Paul reported buried air brick to NHBC with photos
-5. **Trinity Rose certification** issues
+5. **Trinity Rose certification** issues - NOW DOCUMENTED in `TRINITY_ROSE_SURVEY_VIOLATIONS.md`
+   - October 2023 survey found garage DPC at only 70mm (NHBC requires 150mm)
+   - Open soil vent pipe in loft creating sewer gas risk
+   - Unsealed roof void with fly infestation
+   - Crest refused to fund verification that issues were fixed
 
 ## Potential Next Steps
 - Extract PDFs from the urgent threads (Dec 2023 - Jan 2024)

@@ -37,8 +37,9 @@ This document details the systematic misrepresentations made by Crest Nicholson 
 
 #### The Timeline
 **October 4, 2023**
-- Paul asks Natalie Haigh: "Guttering - has it been cleared and cleaned?"
-- Natalie Haigh confirms it has been done
+- Paul specifically asks Natalie Haigh: "Guttering - has it been cleared and cleaned?"
+- Natalie Haigh PROMISES: "Yes, this has been done."
+- This was a direct promise from customer service, not hedging or "I think so"
 
 **January 4, 2024**
 - Defect #41: "Guttering - Needs cleaning out all of plot"
@@ -93,11 +94,21 @@ Lynn Carrington claims:
 - **Paul had to identify this himself**
 - Despite "15 checks", Crest's inspections missed this safety issue
 
+#### The Insulting Response
+When Donna Hack visited the property, she had the audacity to say: **"Well, we fixed it didn't we?"**
+
+This perfectly encapsulates Crest's attitude:
+1. Their inspectors failed to spot a basic safety violation
+2. The customer had to identify it
+3. The customer had to report it to get it fixed
+4. Then Crest acts like they deserve credit for fixing THEIR mistake
+
 #### The Significance
 - Air bricks provide essential ventilation to prevent damp
 - Burying them can lead to serious structural issues
 - This is a fundamental building error
 - Shows the "15 checks" were either not done or incompetently performed
+- Crest's response shows complete dismissal of their responsibility
 
 ---
 
