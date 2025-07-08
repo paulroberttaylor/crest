@@ -1,0 +1,12 @@
+Scenario,Item,Amount
+Basic Buyback,Buyback Price,705000
+Basic Buyback,Minus Mortgage,-480000
+Basic Buyback,Cash Received,225000
+Enhanced Buyback,Buyback Price,725000
+Enhanced Buyback,Minus Mortgage,-480000
+Enhanced Buyback,Cash Received,245000
+Dream Settlement,Buyback Price for Plot 34,725000
+Dream Settlement,Minus Mortgage,-480000
+Dream Settlement,Cash from Plot 34,245000
+Dream Settlement,PLUS New House Payment from Crest,625000
+Dream Settlement,Total from Crest,1350000
