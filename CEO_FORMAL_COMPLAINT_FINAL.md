@@ -50,7 +50,6 @@ Based on the promised September/October completion date, we boxed up half of our
 ### Financial Losses
 Due to these delays, I was forced to accept a mortgage rate of 4.72%, compared to the 4.38% we had in principle before interest rates increased. We explicitly warned Crest that their delays were jeopardizing our rate and affordability - they were not interested.
 
-On December 18, 2023, having given ample notice of our arrival time, we were left standing outside our new home with a removal van for 2 hours and 37 minutes, eventually gaining entry at 12:37pm. Eileen Guihen, your Sales & Marketing Director, was personally involved in this completion day failure.
 
 **Calculation:**
 - Rate difference: 0.34%
@@ -86,8 +85,6 @@ The October 6 Stage 12 inspection declared "no further works to be completed" ye
 **Customer-identified issues**:
 - **July 6, 2023**: I found air brick half-buried under driveway - a critical ventilation issue your inspections missed
 - **January 4, 2024**: Lynn Carrington documented 45 defects during snagging
-
-Your own build manager later admitted that I "probably know more about NHBC standards than myself" - a shocking admission from someone responsible for quality control.
 
 Stage 12 missed over 50 defects including critical safety violations, demonstrating complete failure of your quality control process.
 
