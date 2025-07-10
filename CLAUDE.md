@@ -183,7 +183,7 @@ Create the most detailed complaint possible to NHOS documenting:
 
 ### Purchase Treatment Issues Found
 - **42 instances** of having to chase for responses (multiple "URGENT" emails)
-- **13 documented response delays** (including one 163-day delay!)
+- **Multiple documented response delays** requiring repeated chasing
 - **45 defects** identified on completion day (Jan 4, 2024)
 - **6 documentation issues** (NHBC certificates)
 - **144 communication issues** identified in comprehensive analysis

@@ -102,9 +102,9 @@ This report documents extensive evidence of poor customer service, unprofessiona
 
 **Evidence Pattern**: Customers forced to chase repeatedly for basic information and responses.
 
-### 4.2 163-Day Response Delays
+### 4.2 Pattern of Response Delays
 
-**Documented instance**: October 7, 2023 email not responded to for 163 days.
+**Documented pattern**: Multiple instances of having to send repeated emails before receiving responses.
 
 **Pattern**: Systematic delays designed to exhaust customers into giving up on legitimate concerns.
 
