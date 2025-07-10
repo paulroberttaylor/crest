@@ -143,6 +143,8 @@ This complaint represents nearly four years of systematic failures across two pr
 
 This pattern of forcing customers to waste time and energy correcting Crest and fighting for basic accountability is not the behavior expected of a '5-star' builder. Crest's corporate culture hasn't changed one bit following Peter Truscott's retirement. Furthermore, Crest breached the confidentiality agreement regarding 25 Abbots Road by failing to provide a valid reason for refusing consent to discuss the agreement, as required under its terms. This breach prevented me from providing NHOS with complete pattern evidence across both properties.
 
+Despite being intimately aware of the extensive problems at 25 Abbots Road that necessitated a buyback, Crest failed to implement any procedures to ensure Plot 34 would not suffer similar issues. This conscious failure to learn from previous experience demonstrates willful disregard rather than mere incompetence.
+
 When dealing with Crest's failures at 25 Abbots Road, we had no NHOS support yet still achieved a buyback due to the severity of the issues. With 10 Colt View, we do have NHOS support, and our complaint is nearing decision.
 
 ## Requirements for Resolution
