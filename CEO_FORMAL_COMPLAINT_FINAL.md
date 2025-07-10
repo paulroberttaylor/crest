@@ -88,6 +88,8 @@ The October 6 Stage 12 inspection declared "no further works to be completed" ye
 
 Stage 12 missed over 50 defects including critical safety violations, demonstrating complete failure of your quality control process.
 
+The widespread lack of technical knowledge across your organization, requiring customers to fight for basic surveyor checks and identify fundamental issues your staff miss, suggests homes are being built without proper qualified oversight - a systemic risk affecting all Crest properties.
+
 ### Incompetence Causing Further Delays
 The failure of your Stage 12 inspection directly caused additional delays:
 - **October 6**: Stage 12 declares "no further works"
