@@ -43,10 +43,10 @@ After the 25 Abbots Road buyback, senior Crest management explicitly promised us
 **2. Immediate Issues (May-December 2023)**
 **Contract Obstruction**: 
 - 149 days from being promised the contract to exchange
-- They promised it 'next week', and it took a further 45 days to receive the first draft.
+- They promised it 'next week', and it took a further 45 days to receive the first draft
 - Solicitors unable to get responses from Crest
-- Lost our mortgage rate due to delays (costing £8,136.87) then interest rates went up 
-- Constant anxiety about whether purchase would even happen, knowing the mortgage offer ran out in the new year 
+- Constant anxiety about whether purchase would even happen
+- Mortgage offer expiring, adding pressure to an already stressful situation 
 
 **Construction Abandonment**:
 - Around March to May 2023: ZERO progress on property. Not just some, literally none.
