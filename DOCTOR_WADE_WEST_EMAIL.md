@@ -2,7 +2,7 @@
 
 Dear Dr. Wade-West,
 
-Thank you for seeing Jade this afternoon. Following our discussion about the mental health impacts of our situation with Crest Nicholson, I'm providing this detailed background to help structure your letter to their CEO.
+Thank you for seeing Jade yesterday afternoon. Following your discussion about the mental health impacts of our situation with Crest Nicholson, I'm providing this detailed background to help structure your letter to their CEO.
 
 **Our Goal**
 We need to exit this property. The psychological toll of living in another defective Crest home, after being promised it would be different, is unbearable.
@@ -10,25 +10,51 @@ We need to exit this property. The psychological toll of living in another defec
 **Key Message for Your Letter**
 This family cannot continue living in a property they fundamentally cannot trust, built by a company that has systematically deceived them across two properties.
 
-## The Trust Destruction Timeline
+## Current Impact on Our Family
+
+**Charlie (Our Son)**
+- Cannot settle in what should be his home
+- Knows scaffolding is coming again after already experiencing it
+- Doesn't want to be in the area anymore
+- Witnessing his parents' constant stress and worry
+
+**Jade and I**
+- Can't sleep properly - listening for problems, worrying about what's wrong
+- Constant anxiety about undiscovered defects
+- Unable to make this house a home
+- Won't improve the garden - scaffolding will damage it again (they never fixed it last time)
+- Living in limbo - this is temporary accommodation, not our home
+- Marriage dominated by Crest discussions instead of normal family life
+- Both showing physical signs of chronic stress
+- Jade feeling we're reliving the 25 Abbots Road trauma
+
+**Daily Life**
+- Forced to become building experts to protect ourselves
+- Hundreds of hours researching what Crest - a building company - should know
+- Mental capacity consumed by fighting for basics
+- Work and family life suffering
+- Normal life impossible while battling a corporation
+
+## How We Got Here - The Trust Destruction Timeline
 
 **1. False Promises (2023)**
-After the 25 Abbots Road buyback, senior Crest management explicitly promised us: "This won't happen again." We trusted them. We bought Plot 34 based on that assurance.
+After the 25 Abbots Road buyback, senior Crest management explicitly promised us: "There would be no repeat of 25 Abbots Road." We trusted them. We bought Plot 34 based on that assurance.
 
-**2. Immediate Betrayal (May-December 2023)**
+**2. Immediate Issues (May-December 2023)**
 **Contract Obstruction**: 
-- 149 days from promise to exchange
+- 149 days from being promised the contract to exchange
+- They promised it 'next week', and it took a further 45 days to receive the first draft.
 - Solicitors unable to get responses from Crest
-- Lost our mortgage rate due to delays (costing £8,136.87)
-- Constant anxiety about whether purchase would even happen
+- Lost our mortgage rate due to delays (costing £8,136.87) then interest rates went up 
+- Constant anxiety about whether purchase would even happen, knowing the mortgage offer ran out in the new year 
 
 **Construction Abandonment**:
-- May-August 2023: ZERO progress on property
+- Around March to May 2023: ZERO progress on property. Not just some, literally none.
 - Their own sales manager documented we were "extremely unhappy the plot has not progressed since March"
-- Promised June/July completion became December
+- June/July completion date by site manager became a December completion
 - Clear message: We weren't a priority, despite promises
 
-**Completion Chaos**:
+**Completion**:
 - Exchange only 5 days before completion (December 13)
 - Dozens of frantic calls/emails in final weeks
 - Had to personally call Sales Director for keys on completion day
@@ -37,7 +63,7 @@ After the 25 Abbots Road buyback, senior Crest management explicitly promised us
 This was their chance to prove 25 Abbots Road was an anomaly. Instead, they demonstrated identical contempt for our family.
 
 **3. Immediate Trust Erosion (October 2023)**
-Within days of their "Stage 12 passed" claim, Trinity Rose found:
+A 'Stage 12' check is apparently their expert quality check on a building before handover. Within days of their "Stage 12 passed" claim, Trinity Rose found:
 - Garage DPC at less than half required height
 - Open soil vent pipe in loft
 - Unsealed roof void with gaps
@@ -45,57 +71,24 @@ Within days of their "Stage 12 passed" claim, Trinity Rose found:
 
 We lost all confidence in the property's construction quality. What else had they done wrong?
 
-**4. The Render Denial (January 2024 - Present)**
-- 18 months of being told the crack was "minor settlement"
+**4. Render Issue (January 2024 - Present)**
+- Within 4 weeks of moving in, a full height crack appeared in the render
+- When I eventually was able to have someone come to look, it was a customer service manager, who claimed it was settlement
+- 18 months of being told the crack was "minor settlement", it isn't necessary, it's cosmetic, and it's 'goodwill' (the render company told me it's the re-render alone would cost about £10k so how Crest can claim they're spend that kind of money for goodwill it beyond me)
 - Gaslit about our concerns being unreasonable
-- Finally vindicated by MJA report showing structural defects
+- Finally vindicated by MJA report showing structural defects, but only after I fought for approximately 15 months for them to have a professional actually verify their claim of settlement.  Within seconds of the surveyor being on my property, he told me it isn't settlement.
 - But now terrified about what other structural issues exist
 
 **5. The 2014 Standards Revelation (June 2025)**
-Learning they built our 2023 home to 2014 standards destroyed any remaining trust. If they cut corners on standards, where else did they cut corners?
+I started a complaint with the New Homes Ombudsman (NHOS),  the only reason Crest decided to act.  As part of the NHOS's questions, they asked Crest which NHBC standards they used. It's in writing that Crest used 2014 standards. So on top of learning that there are structural issues that they tried to avoid doing by not accepting there's something more than settlement, we now have the knowledge that they didn't use 2023 standards, but almost 10 years out of date standards, which now has us wondering what _else_ may be wrong with the property.  We wouldn't know however, because Crest would just claim it's something else. We consequently can have no trust in anything they tell us.
 
-## Current Mental Health Crisis
-
-**Hypervigilance and Paranoia**
-- Every sound could be another structural issue
-- Every crack might be another missing movement joint
-- Can't sleep properly - listening for problems
-- Checking walls obsessively for new cracks
-
-**Inability to Settle**
-- Can't make the house a home knowing it's fundamentally flawed
-- Won't improve garden - what's the point?
-- Son unsettled - knows something's wrong with our house again
-- Living in limbo - not a home, just temporary accommodation
-
-**Cognitive Overload**
-- Forced to become building experts to protect ourselves
-- Hundreds of hours researching building standards and construction requirements that Crest - a building company - should already know
-- Had to learn about movement joints, NHBC standards, render systems because Crest lacks basic technical knowledge
-- They needed to hire MJA Consulting to tell them what any competent builder should know
-- Mental capacity consumed by filling Crest's knowledge gaps
-- Work and family life suffering because we have to educate a "5-star builder" about building
-
-**Relationship Impact**
-- Constant Crest discussions dominating our marriage
-- Jade feeling we're reliving 25 Abbots trauma
-- Both triggered by any house-related issue
-- Normal life impossible while fighting for basics
-
-**Physical Symptoms**
-- Chronic headaches
-- Disrupted sleep
-- Anxiety symptoms when post arrives
-- Jade experiencing [her specific symptoms]
-- Both showing signs of chronic stress
-
-## The Impossibility of Continuing
+## Why We Cannot Continue
 
 We cannot psychologically invest in a property where:
 - The builder used obsolete standards
 - 50+ defects were missed by their inspections
 - Their own engineer confirms structural problems exist
-- They've lied repeatedly ("gutters cleaned", "build complete")
+- They've lied repeatedly ("gutters cleaned", "build complete") - I used a drone to prove the gutters hadn't been cleared, which could have led to blocked drains
 - We have zero trust in construction quality
 
 ## What We Face Next
@@ -112,17 +105,17 @@ The MJA report was explicit: These are NOT cosmetic issues. Without proper fixes
 
 ## Medical Perspective Needed
 
-Please emphasize in your letter:
+Please could you emphasize in your letter:
 
 1. **Pattern Recognition Trauma**: Having experienced identical issues at 25 Abbots Road, we're now hypervigilant and cannot psychologically settle
 
-2. **Betrayal Trauma**: Explicitly promised different experience, received same treatment - devastating impact on ability to trust
+2. **Betrayal Trauma**: Explicitly promised "no repeat" - the broken promise has destroyed our ability to trust
 
-3. **Ongoing Uncertainty**: Living with constant worry about undiscovered defects is causing chronic stress symptoms
+3. **Chronic Stress**: The physical and mental symptoms we're experiencing from living with constant uncertainty
 
-4. **Child Welfare**: Our son's inability to see his home as stable/safe due to repeated scaffolding and parents' visible stress
+4. **Child Welfare**: Charlie's inability to feel secure in his own home
 
-5. **Impossibility of Resolution**: No amount of repairs can restore psychological safety in this property - trust is irreparably broken
+5. **Impossibility of Resolution**: No repairs can restore psychological safety when trust is completely broken
 
 ## Medical Recommendation
 
@@ -132,13 +125,6 @@ The psychological impact of facing months more disruption for work that should h
 
 The only therapeutic resolution is complete separation from Crest Nicholson through property buyback, allowing the family to start fresh with a different builder where trust hasn't been systematically destroyed.
 
-## Supporting Evidence
-- Previous medical letters regarding 25 Abbots Road
-- 544 days of fighting about render
-- Discovery of 2014 building standards usage
-- Pattern of misrepresentation to regulators
-- CEO ignoring direct evidence
-- MJA report confirming structural defects
 
 Thank you for your continued support. Please let me know if you need any additional information for your letter.
 
