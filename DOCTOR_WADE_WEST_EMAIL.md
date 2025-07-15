@@ -14,12 +14,12 @@ This family cannot continue living in a property they fundamentally cannot trust
 
 **Charlie (Our Son)**
 - Cannot settle in what should be his home
-- Knows scaffolding is coming again after already experiencing it
+- Knows scaffolding is coming again after already experiencing it in this property once
 - Doesn't want to be in the area anymore
 - Witnessing his parents' constant stress and worry
 
 **Jade and I**
-- Can't sleep properly - listening for problems, worrying about what's wrong
+- Can't sleep properly - worrying about what's wrong
 - Constant anxiety about undiscovered defects
 - Unable to make this house a home
 - Won't improve the garden - scaffolding will damage it again (they never fixed it last time)
@@ -74,9 +74,9 @@ We lost all confidence in the property's construction quality. What else had the
 **4. Render Issue (January 2024 - Present)**
 - Within 4 weeks of moving in, a full height crack appeared in the render
 - When I eventually was able to have someone come to look, it was a customer service manager, who claimed it was settlement
-- 18 months of being told the crack was "minor settlement", it isn't necessary, it's cosmetic, and it's 'goodwill' (the render company told me it's the re-render alone would cost about £10k so how Crest can claim they're spend that kind of money for goodwill it beyond me)
+- 18 months of being told the crack was "minor settlement", it isn't necessary, it's cosmetic, and it's 'goodwill' (the render company told me it's the re-render alone would cost about £10k so how Crest can claim they're spend that kind of money for goodwill is beyond me)
 - Gaslit about our concerns being unreasonable
-- Finally vindicated by MJA report showing structural defects, but only after I fought for approximately 15 months for them to have a professional actually verify their claim of settlement.  Within seconds of the surveyor being on my property, he told me it isn't settlement.
+- Finally vindicated by MJA report showing structural defects, but only after I fought for approximately 15 months for them to have a professional actually verify their claim of settlement.  Within seconds of the surveyor being on our property, he told me it isn't settlement.
 - But now terrified about what other structural issues exist
 
 **5. The 2014 Standards Revelation (June 2025)**
@@ -91,11 +91,17 @@ We cannot psychologically invest in a property where:
 - They've lied repeatedly ("gutters cleaned", "build complete") - I used a drone to prove the gutters hadn't been cleared, which could have led to blocked drains
 - We have zero trust in construction quality
 
+**We're Trapped**:
+- Can't sell without the work being done - we'd have to disclose known structural defects
+- Can't sell after the work is done - we'd have to disclose major structural remediation
+- Either way, buyers will run or demand massive price reductions
+- We're stuck in a property that's psychologically destroying us
+
 ## What We Face Next
 
-The family faces the prospect of:
+Our family faces the prospect of:
 - Scaffolding around their entire home AGAIN (after already enduring it once for pointless work)
-- Having render chipped off every wall of their house
+- Having render smashed off every wall of their house
 - Movement joints cut into the walls (structural work Crest calls "unnecessary")
 - Complete re-rendering of the property
 - Unknown additional issues that can only be identified once render is removed
