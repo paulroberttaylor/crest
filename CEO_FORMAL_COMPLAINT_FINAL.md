@@ -48,7 +48,7 @@ The lack of urgency with Plot 34 directly led to the situation where completion 
 Crest sent the reservation agreement to our solicitor on June 12, 2023. For an October 31 completion, the contract should have been ready by early October. Instead, Crest's failure to provide the necessary contract documentation caused significant delays:
 
 - **October 9, 2023**: Natalie Haigh stated "We see no reason why we cannot exchange and complete for the 31st October"
-- **October 13, 2023**: Our solicitor described your contract as "vastly different from standard"
+- **October 13, 2023**: The non-standard nature of the contract linked to the 25 Abbots Road transaction created complexity
 - **October 24, 2023**: Just 7 days before the planned completion date, our solicitor explicitly requested: "We need the updated contract and full replies to the enquiries" and warned "I do not believe we will be ready to complete on 31st October."
 - **November 27, 2023**: Nearly 3 months after contract issuance, our solicitor confirmed the key items still missing: "We still need the amended contract, warranty and consent for the proposed works." The amended contract remained the primary obstacle preventing exchange.
 - **December 13, 2023**: Exchange finally occurred - just 5 days before completion.

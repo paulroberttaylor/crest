@@ -57,8 +57,8 @@ After the 25 Abbots Road buyback, senior Crest management explicitly promised us
 **Completion**:
 - Exchange only 5 days before completion (December 13)
 - Dozens of frantic calls/emails in final weeks
-- Had to personally call Sales Director for keys on completion day
-- Moved into property with 45 defects
+- Had to personally call Sales Director for keys on completion day while trying to keep our son from getting stressed, and keeping the removals company happy, finally getting the keys at about 4:30pm 
+- Moved into property with 45 defects, after Crest having 6 months to make the house _without_ any defects.
 
 This was their chance to prove 25 Abbots Road was an anomaly. Instead, they demonstrated identical contempt for our family.
 
@@ -88,13 +88,13 @@ We cannot psychologically invest in a property where:
 - The builder used obsolete standards
 - 50+ defects were missed by their inspections
 - Their own engineer confirms structural problems exist
-- They've lied repeatedly ("gutters cleaned", "build complete") - I used a drone to prove the gutters hadn't been cleared, which could have led to blocked drains
+- They've repeatedly been disingenuous: ("gutters cleaned", "build complete") - I used a drone to prove the gutters hadn't been cleared, which could have led to blocked drains
 - We have zero trust in construction quality
 
 **We're Trapped**:
 - Can't sell without the work being done - we'd have to disclose known structural defects
 - Can't sell after the work is done - we'd have to disclose major structural remediation
-- Either way, buyers will run or demand massive price reductions
+- Either way, buyers will run or demand massive price reductions, meaning we'll have to lose money because of Crest's inability to build houses correctly
 - We're stuck in a property that's psychologically destroying us
 
 ## What We Face Next
