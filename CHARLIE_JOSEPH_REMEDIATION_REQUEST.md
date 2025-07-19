@@ -2,6 +2,7 @@
 
 **To**: charlie.joseph@crestnicholson.com
 **Subject**: Remediation Plan Required - NHOS Decision NHOS-2024-000512
+**Send**: Monday 9am (same time as CEO/Chairman email)
 
 Dear Mr Joseph,
 

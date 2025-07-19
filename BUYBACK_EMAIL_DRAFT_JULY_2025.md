@@ -1,7 +1,8 @@
 # Buyback Email Draft - July 2025
 
-**To**: martyn.clark@crestnicholson.com, iain.ferguson@crestnicholson.com, charlie.joseph@crestnicholson.com, mark.foyle@crestnicholson.com  
+**To**: martyn.clark@crestnicholson.com, iain.ferguson@crestnicholson.com  
 **Subject**: Resolution Required - 10 Colt View
+**Send**: Monday 9am
 
 Dear Mr Clark and Mr Ferguson,
 
