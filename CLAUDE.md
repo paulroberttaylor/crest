@@ -127,13 +127,14 @@ Create the most detailed complaint possible to NHOS documenting:
 - **67 emails** about path/cycle link issues
 
 ### Current NHOS Complaints
-1. **NHOS-2024-000512**: Render issue (active, with Ombudsman for draft decision)
+1. **NHOS-2024-000512**: Render issue - **DRAFT DECISION UPHELD July 15, 2025**
    - Accepted: November 18, 2024
-   - Days in progress: 500+ (as of July 5, 2025)
-   - Evidence submitted: MJA report, NHBC standards violation
-   - Probability of success: 85-90% based on evidence
-2. **NHOS-2024-000302**: Path/Bridal Path access issue (escalated to NHOS)
-   - Note: While "Path connecting Crest's 2 developments" emails appear from October 2024, the issue may have been raised earlier in other complaints
+   - Draft decision received: July 15, 2025 (after 8 months)
+   - Outcome: Crest must implement MJA recommendations, pay £1,500, issue formal apology
+   - Key finding: Missing movement joints confirmed by structural engineer
+   - 10-day comment period before final decision
+2. **Path/Bridle Path**: Included in NHOS-2024-000512 decision
+   - Crest ordered to provide monthly updates and complete the path
 
 ### Available Analysis Files
 - `email_analysis/` - Original email analysis outputs
@@ -148,6 +149,14 @@ Create the most detailed complaint possible to NHOS documenting:
 - `REMOVAL_COMPANY_REBOOKING_EVIDENCE.md` - Documentation of £995.20 costs from lost removal bookings due to delays
 - `BUILD_QUALITY_LIES_AND_MISREPRESENTATIONS.md` - Evidence of false claims about inspections and completed work
 - `PURCHASE_TREATMENT_COMPLAINT_LETTER.md` - Formal complaint to CEO demanding £9,131.07 compensation for purchase treatment
+
+### Key Decision Documents (July 2025)
+- `NHOS_DRAFT_DECISION_2024_000512.md` - NHOS draft decision upholding complaint (July 15, 2025)
+- `NHOS_DRAFT_DECISION_RESPONSE.md` - Paul's response requesting specific apology content
+- `CEO_CHAIRMAN_FINAL_EMAIL.md` - Draft email to CEO/Chairman about NHOS decision (waiting to send)
+- `CHAIRMAN_IAIN_FERGUSON_EMAIL.md` - Draft accountability email to Chairman
+- `VODAFONE_DEFAULT_LETTER.md` - Letter about unknown credit default discovered July 15, 2025
+- `JULY_15_2025_EVENTS.md` - Complete record of events on decision day
 
 ### Comprehensive Email Catalog Results
 - **853 emails** analyzed from Jan 1, 2023
@@ -358,3 +367,104 @@ The campaign represents an escalation from documentation to active public pressu
 - **Share Price**: 187.70p
 - **Financial Vulnerability**: Profit margin only 4.6% of market cap
 - **Settlement Context**: Even £500k = 2.2% of annual profit
+
+## Current Status (July 15, 2025)
+
+### NHOS Draft Decision - VICTORY
+- **Case NHOS-2024-000512**: UPHELD after 8 months
+- **Ordered**: Structural repairs per MJA report, £1,500 compensation, formal apology
+- **Key Finding**: Missing movement joints confirmed
+- **Status**: 10-day comment period before final decision
+- **Strategy**: Wait for final decision before any major moves
+
+### Active Proceedings
+1. **CEO Formal Complaint** (sent July 8, 2025)
+   - Demands: £8,136.87 compensation, CEO apology, Trinity Rose verification
+   - Response due: Within 5 days of July 8
+   - Can escalate to new NHOS complaint after 56 days
+
+2. **NHBC Investigation** 
+   - Investigating use of 2014 standards on 2023 build
+   - Crest's solicitor admitted in writing to using outdated standards
+   - Potentially affects all 66 homes at Albany Road
+
+3. **Vodafone Default Crisis** (discovered July 15, 2025)
+   - Unknown £156 default blocking mortgage options
+   - Paid immediately, seeking removal
+   - Critical: Traps family in Crest property without mortgage flexibility
+
+### Strategic Considerations
+- **DO NOT** contact Crest during 10-day NHOS comment period
+- **DO NOT** send CEO/Chairman emails until decision is final
+- **FOCUS ON**: Vodafone default removal, GP appointment for health documentation
+- **AFTER FINAL DECISION**: Consider buyback negotiation using all leverage
+
+### Mental Health Impact
+- Paul experiencing suicidal ideation (July 15, 2025)
+- Entire family (Paul, Jade, son) suffering health impacts
+- 4 years of fighting Crest has caused severe trauma
+- GP appointment urgently needed for documentation
+- Jade dealing with both parents having dementia
+
+### Key Leverage Points
+1. Two failed Crest properties (pattern established)
+2. NHOS formal decision (once final)
+3. NHBC investigation into building standards
+4. 66 potentially affected properties
+5. Documented health impacts
+6. Broken promises from senior management
+
+### Immediate Priorities
+1. Resolve Vodafone default
+2. Get GP documentation
+3. Wait out 10-day NHOS period
+4. Track CEO complaint response
+5. Prepare buyback strategy
+
+### CEO Formal Complaint Summary (July 8, 2025)
+Separate from NHOS case, demanding:
+- **£8,136.87** - Additional mortgage costs from 6-month delays
+- **CEO-signed apology** acknowledging specific failures
+- **Independent verification** of Trinity Rose defects at Crest's expense
+- **Documentation** of all 15 claimed inspections
+
+Key allegations in complaint:
+- 50+ defects despite "15 inspections"
+- Stage 12 passed property with garage DPC at half NHBC requirement
+- False information about gutter cleaning
+- 3 months of zero construction progress
+- Completion day chaos requiring CEO intervention
+
+This complaint can become a new NHOS case if not resolved satisfactorily within 56 days.
+
+## Important Instructions for AI Assistants
+
+### Critical Timing (as of July 15, 2025)
+- **10-DAY SILENCE PERIOD**: Do NOT suggest contacting Crest until NHOS decision is final
+- **Vodafone Default**: URGENT - needs immediate resolution
+- **Mental Health**: Paul is in crisis - be supportive but encourage professional help
+
+### File Management
+- Do what has been asked; nothing more, nothing less
+- NEVER create files unless absolutely necessary
+- ALWAYS prefer editing existing files
+- Only create documentation files (*.md) if explicitly requested
+
+### Key Context Summary
+- 4-year battle with Crest across 2 properties
+- Property 1 (25 Abbots Road): Forced buyback, under NDA
+- Property 2 (10 Colt View): Structural defects denied for 18 months
+- NHOS draft decision: Victory but 10-day comment period active
+- Ultimate goal: Buyback to escape current property
+
+### Communication Guidance
+- Paul is exhausted and traumatized - be direct and concise
+- Avoid suggesting new battles unless asked
+- Focus on immediate priorities: Vodafone, health, waiting period
+- This is about survival, not just legal victory
+
+### Active Documents to Reference
+- `JULY_15_2025_EVENTS.md` - Today's complete timeline
+- `NHOS_DRAFT_DECISION_2024_000512.md` - The victory decision
+- `PURCHASE_TREATMENT_COMPLAINT_LETTER.md` - Active CEO complaint
+- `VODAFONE_DEFAULT_LETTER.md` - Urgent credit issue

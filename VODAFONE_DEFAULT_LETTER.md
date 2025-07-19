@@ -28,7 +28,11 @@ I am writing to you in considerable distress after discovering that Vodafone has
 - Your live chat agents have advised I must visit a store, but I need urgent written resolution
 
 **My Current Circumstances:**
-I am currently in an extremely difficult situation with serious issues regarding my home that require financing options. This unexpected default is causing severe problems at the worst possible time. If I have somehow missed correspondence or payments, I sincerely apologize - my family has been under enormous stress dealing with structural defects in our home and I may have overlooked something.
+I am currently in an extremely difficult situation with serious issues regarding my home that require financing options. This unexpected default is causing severe problems at the worst possible time. 
+
+The stress of dealing with structural defects in our home for the past four years has severely impacted my mental health. Yesterday (July 15, 2025), I had an emergency GP appointment where I was prescribed antidepressants (Sertraline 100mg) and sleeping tablets. My doctor is preparing a letter documenting the severe stress my family and I have endured.
+
+If I have somehow missed correspondence or payments during this crisis, I sincerely apologize - but I genuinely have no recollection of any Vodafone account.
 
 **What I Need:**
 1. Confirmation of what this default relates to
