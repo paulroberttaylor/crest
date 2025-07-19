@@ -368,14 +368,20 @@ The campaign represents an escalation from documentation to active public pressu
 - **Financial Vulnerability**: Profit margin only 4.6% of market cap
 - **Settlement Context**: Even £500k = 2.2% of annual profit
 
-## Current Status (July 15, 2025)
+## Current Status (July 19, 2025)
 
 ### NHOS Draft Decision - VICTORY
 - **Case NHOS-2024-000512**: UPHELD after 8 months
 - **Ordered**: Structural repairs per MJA report, £1,500 compensation, formal apology
-- **Key Finding**: Missing movement joints confirmed
-- **Status**: 10-day comment period before final decision
-- **Strategy**: Wait for final decision before any major moves
+- **Key Finding**: Missing movement joints confirmed - "major defect" under Code definition
+- **Status**: Comments submitted July 17, awaiting final decision (~July 25)
+- **Strategy**: Positioned for buyback without explicitly demanding it
+
+### £700k Property Offer (July 18, 2025)
+- **Unexpected leverage**: Buyer ready at £700k
+- **Strategy**: Don't reveal to Crest, use as hidden ace
+- **Disclosure**: MJA report says "superficial" so can disclose minimal facts
+- **Timing**: Need Crest response quickly to secure buyer
 
 ### Active Proceedings
 1. **CEO Formal Complaint** (sent July 8, 2025)
@@ -415,11 +421,12 @@ The campaign represents an escalation from documentation to active public pressu
 6. Broken promises from senior management
 
 ### Immediate Priorities
-1. Resolve Vodafone default
-2. Get GP documentation
-3. Wait out 10-day NHOS period
-4. Track CEO complaint response
-5. Prepare buyback strategy
+1. Send buyback email Monday (July 22) - CRITICAL
+2. Monitor CEO complaint response (due within days)
+3. Wait for NHOS final decision (~July 25)
+4. Get GP documentation of family health impacts
+5. Have remediation impossibility arguments ready
+6. Keep £700k buyer engaged without revealing to Crest
 
 ### CEO Formal Complaint Summary (July 8, 2025)
 Separate from NHOS case, demanding:
@@ -464,7 +471,14 @@ This complaint can become a new NHOS case if not resolved satisfactorily within 
 - This is about survival, not just legal victory
 
 ### Active Documents to Reference
-- `JULY_15_2025_EVENTS.md` - Today's complete timeline
-- `NHOS_DRAFT_DECISION_2024_000512.md` - The victory decision
-- `PURCHASE_TREATMENT_COMPLAINT_LETTER.md` - Active CEO complaint
-- `VODAFONE_DEFAULT_LETTER.md` - Urgent credit issue
+- `JULY_15_2025_EVENTS.md` - Complete timeline of NHOS victory day
+- `NHOS_DRAFT_DECISION_2024_000512.md` - The NHOS draft decision upholding complaint
+- `PURCHASE_TREATMENT_COMPLAINT_LETTER.md` - Active CEO complaint (can become new NHOS case)
+- `VODAFONE_DEFAULT_LETTER.md` - Urgent credit issue blocking mortgage flexibility
+
+### Critical Strategy Documents (July 2025)
+- `BUYBACK_EMAIL_DRAFT_JULY_2025.md` - Email to send Monday leveraging NHOS victory without revealing £700k offer
+- `CREST_REMEDIATION_IMPOSSIBILITY_FACTORS.md` - 15 comprehensive reasons why remediation is impossible
+- `CHAIRMAN_POST_NHOS_EMAIL.md` - Governance failure email to send after requesting remediation details
+- `CHARLIE_JOSEPH_REMEDIATION_REQUEST.md` - Detailed remediation requirements demonstrating practical impossibility
+- `CREST_DECISION_MATHEMATICS.md` - Financial analysis showing buyback only £85-118k more than remediation + relocation
