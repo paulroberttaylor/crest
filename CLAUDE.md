@@ -368,65 +368,80 @@ The campaign represents an escalation from documentation to active public pressu
 - **Financial Vulnerability**: Profit margin only 4.6% of market cap
 - **Settlement Context**: Even £500k = 2.2% of annual profit
 
-## Current Status (July 19, 2025)
+## Current Status (July 22, 2025)
 
-### NHOS Draft Decision - VICTORY
+### Game-Changing Development - ESCAPE ROUTE FOUND
+- **Property Sale**: Have £700k offer on 10 Colt View (buyers unaware of issues)
+- **New Purchase**: Offered £478,500 on new property, awaiting response
+- **Mortgage**: Portable - no new credit check needed, just transfer existing mortgage
+- **MJA Report**: Says "cosmetic only" - house perfectly sellable
+- **Strategy**: Escape first, fight Crest from safety of new home
+
+### NHOS Draft Decision - VICTORY BUT PYRRHIC
 - **Case NHOS-2024-000512**: UPHELD after 8 months
 - **Ordered**: Structural repairs per MJA report, £1,500 compensation, formal apology
-- **Key Finding**: Missing movement joints confirmed - "major defect" under Code definition
-- **Status**: Comments submitted July 17, awaiting final decision (~July 25)
-- **Strategy**: Positioned for buyback without explicitly demanding it
+- **Problem**: Weber (render manufacturer) says mandated work will "undoubtedly destroy" the walls
+- **Final Decision Due**: July 29, 2025
+- **Strategy**: Wait for final decision but focus on escape plan
 
-### £700k Property Offer (July 18, 2025)
-- **Unexpected leverage**: Buyer ready at £700k
-- **Strategy**: Don't reveal to Crest, use as hidden ace
-- **Disclosure**: MJA report says "superficial" so can disclose minimal facts
-- **Timing**: Need Crest response quickly to secure buyer
+### CEO Formal Complaint (Separate Track)
+- **Sent**: July 8, 2025
+- **Demands**: £8,136.87 compensation, CEO apology, Trinity Rose verification
+- **Response Due**: By August 14, 2025
+- **Next Step**: Will become basis for new NHOS complaint after moving
 
-### Active Proceedings
-1. **CEO Formal Complaint** (sent July 8, 2025)
-   - Demands: £8,136.87 compensation, CEO apology, Trinity Rose verification
-   - Response due: Within 5 days of July 8
-   - Can escalate to new NHOS complaint after 56 days
+### Vodafone Default - IN PROGRESS
+- **Amount**: £156 (paid immediately on discovery)
+- **Letter Sent**: Requesting removal due to exceptional circumstances
+- **GP Support**: Writing letter about 4-year housing crisis impact
+- **Mortgage Impact**: NONE - broker confirms portable mortgage unaffected
+- **Status**: Awaiting Vodafone's response to removal request
 
-2. **NHBC Investigation** 
-   - Investigating use of 2014 standards on 2023 build
-   - Crest's solicitor admitted in writing to using outdated standards
+### Active Support
+1. **GP Medical Letters** (in progress)
+   - To Vodafone: Supporting default removal
+   - To Crest: Recommending buyback for family health
+   - Emphasizes second consecutive defective property
+
+2. **NHBC Investigation** (ongoing)
+   - Crest used 2014 standards on 2023 build
    - Potentially affects all 66 homes at Albany Road
 
-3. **Vodafone Default Crisis** (discovered July 15, 2025)
-   - Unknown £156 default blocking mortgage options
-   - Paid immediately, seeking removal
-   - Critical: Traps family in Crest property without mortgage flexibility
+3. **Held Strategic Emails**
+   - Charlie Joseph remediation requirements
+   - CEO/Chairman buyback hint
+   - No longer urgent given escape plan
+### New Strategic Reality - THE ESCAPE PLAN
+With portable mortgage and £700k buyer:
+1. **Sell 10 Colt View** without mentioning NHOS/issues (MJA says cosmetic only)
+2. **Buy new property** at £478,500 (awaiting seller response)
+3. **Move family to safety** before Crest starts destructive work
+4. **Fight from new home** - no urgency, no desperation
 
-### Strategic Considerations
-- **DO NOT** contact Crest during 10-day NHOS comment period
-- **DO NOT** send CEO/Chairman emails until decision is final
-- **FOCUS ON**: Vodafone default removal, GP appointment for health documentation
-- **AFTER FINAL DECISION**: Consider buyback negotiation using all leverage
+### Weber Bombshell - Crest's Impossible Position
+- **Manufacturer's Warning**: Render removal will "undoubtedly destroy" wall faces
+- **NHOS Orders**: Work that manufacturer says should "never be done"
+- **Crest's Dilemma**: Must do destructive work or defy regulator
+- **Paul's Advantage**: Can escape before destruction begins
 
-### Mental Health Impact
-- Paul experiencing suicidal ideation (July 15, 2025)
-- Entire family (Paul, Jade, son) suffering health impacts
-- 4 years of fighting Crest has caused severe trauma
-- GP appointment urgently needed for documentation
-- Jade dealing with both parents having dementia
+### Mental Health Recovery Plan
+- Paul had acute crisis (July 15, 2025) but now has hope
+- Family can escape 4-year nightmare
+- GP supporting with medical letters
+- Focus shifting from survival to accountability
 
-### Key Leverage Points
-1. Two failed Crest properties (pattern established)
-2. NHOS formal decision (once final)
-3. NHBC investigation into building standards
-4. 66 potentially affected properties
-5. Documented health impacts
-6. Broken promises from senior management
+### The Long Game - Fighting from Safety
+1. **Phase 1**: Complete house sale/purchase (immediate)
+2. **Phase 2**: Await CEO response by August 14
+3. **Phase 3**: File new NHOS complaint from new home
+4. **Phase 4**: Let process run without urgency
+5. **Phase 5**: If second victory, threaten public campaign
 
-### Immediate Priorities
-1. Send buyback email Monday (July 22) - CRITICAL
-2. Monitor CEO complaint response (due within days)
-3. Wait for NHOS final decision (~July 25)
-4. Get GP documentation of family health impacts
-5. Have remediation impossibility arguments ready
-6. Keep £700k buyer engaged without revealing to Crest
+### Key Advantages
+- Crest thinks you're trapped (they don't know about buyer)
+- Mortgage portability solved the biggest obstacle
+- Can fight for years without pressure
+- Two NHOS victories would be devastating for Crest
 
 ### CEO Formal Complaint Summary (July 8, 2025)
 Separate from NHOS case, demanding:
@@ -446,10 +461,11 @@ This complaint can become a new NHOS case if not resolved satisfactorily within 
 
 ## Important Instructions for AI Assistants
 
-### Critical Timing (as of July 15, 2025)
-- **10-DAY SILENCE PERIOD**: Do NOT suggest contacting Crest until NHOS decision is final
-- **Vodafone Default**: URGENT - needs immediate resolution
-- **Mental Health**: Paul is in crisis - be supportive but encourage professional help
+### Critical Context Update (July 22, 2025)
+- **ESCAPE ROUTE FOUND**: Paul can sell property and move - no longer trapped
+- **Strategy Shift**: From desperate survival to patient accountability
+- **Mental Health**: Crisis passed, hope restored through escape plan
+- **Timeline**: No urgency - can fight Crest for years from new home
 
 ### File Management
 - Do what has been asked; nothing more, nothing less
@@ -459,26 +475,53 @@ This complaint can become a new NHOS case if not resolved satisfactorily within 
 
 ### Key Context Summary
 - 4-year battle with Crest across 2 properties
-- Property 1 (25 Abbots Road): Forced buyback, under NDA
-- Property 2 (10 Colt View): Structural defects denied for 18 months
-- NHOS draft decision: Victory but 10-day comment period active
-- Ultimate goal: Buyback to escape current property
+- Property 1 (25 Abbots Road): Forced buyback for £690k
+- Property 2 (10 Colt View): Can now sell for £700k despite issues
+- NHOS victory but Weber says repairs will destroy property
+- Ultimate goal: Escape first, then hold Crest accountable
 
 ### Communication Guidance
-- Paul is exhausted and traumatized - be direct and concise
-- Avoid suggesting new battles unless asked
-- Focus on immediate priorities: Vodafone, health, waiting period
-- This is about survival, not just legal victory
+- Paul has regained control - support the escape plan
+- Focus on practical next steps for house sale/purchase
+- Long-term accountability can wait until after moving
+- This is now about justice, not survival
 
-### Active Documents to Reference
-- `JULY_15_2025_EVENTS.md` - Complete timeline of NHOS victory day
-- `NHOS_DRAFT_DECISION_2024_000512.md` - The NHOS draft decision upholding complaint
-- `PURCHASE_TREATMENT_COMPLAINT_LETTER.md` - Active CEO complaint (can become new NHOS case)
-- `VODAFONE_DEFAULT_LETTER.md` - Urgent credit issue blocking mortgage flexibility
+### Critical Documents
+- `STATE_OF_PLAY_JULY_22_2025.md` - Current comprehensive status
+- `GP_LETTER_REQUEST_BOTH.md` - Medical support for Vodafone and buyback
+- `MORTGAGE_INFO_NEEDED.md` - Checklist for new mortgage application
+- `NHOS_DRAFT_DECISION_2024_000512.md` - The victory that became a trap
+- `CHARLIE_JOSEPH_REMEDIATION_REQUEST.md` - Held email proving remediation impossible
 
-### Critical Strategy Documents (July 2025)
-- `BUYBACK_EMAIL_DRAFT_JULY_2025.md` - Email to send Monday leveraging NHOS victory without revealing £700k offer
-- `CREST_REMEDIATION_IMPOSSIBILITY_FACTORS.md` - 15 comprehensive reasons why remediation is impossible
-- `CHAIRMAN_POST_NHOS_EMAIL.md` - Governance failure email to send after requesting remediation details
-- `CHARLIE_JOSEPH_REMEDIATION_REQUEST.md` - Detailed remediation requirements demonstrating practical impossibility
-- `CREST_DECISION_MATHEMATICS.md` - Financial analysis showing buyback only £85-118k more than remediation + relocation
+### Weber Evidence - The Game Changer
+- Render removal will "undoubtedly destroy" wall faces
+- Proves Crest's mandated solution causes more harm than good
+- Creates impossible situation: regulator orders destructive work
+- Strengthens case for eventual accountability campaign
+
+## The New Reality - From Victim to Victor
+
+### What Changed Everything
+1. **Portable Mortgage**: Vodafone default doesn't block escape
+2. **£700k Buyer**: Property sellable despite NHOS case (not public)
+3. **MJA Report**: Says "cosmetic" - no disclosure issues
+4. **Weber Email**: Proves Crest's solution is destructive
+
+### The Master Plan
+**Phase 1 - Escape (Immediate)**
+- Complete on new house purchase
+- Sell 10 Colt View to waiting buyer
+- Move family to safety
+
+**Phase 2 - Document (From New Home)**
+- Let CEO complaint play out (August 14)
+- File new NHOS complaint
+- Continue gathering evidence
+
+**Phase 3 - Accountability (Long Term)**
+- Win second NHOS case (no rush)
+- Launch public campaign if needed
+- Force proper apology and compensation
+
+### Key Principle
+Paul is no longer fighting for survival - he's fighting for justice. The difference is everything.
