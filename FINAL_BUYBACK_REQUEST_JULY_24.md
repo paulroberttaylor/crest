@@ -33,7 +33,20 @@ On June 23, 2025, I emailed you personally with the MJA structural engineer's re
 ### 5. The Precedent and the Medically-Advised Resolution
 - As you know, you previously actioned a buy-back of our former home due to the quantity of issues and the pragmatic decision to keep the matter out of the public eye.
 - Your admission of using outdated NHBC standards suggests this issue may have affected all 66 properties on the Albany Wood development, a fact that would be of significant concern to all homeowners should it become public knowledge.
-- Our GP is preparing formal letters confirming the significant and ongoing negative impact of this four-year ordeal, with a clear recommendation for a resolution that allows our family to move on from this stressful environment.
+
+## Medical Impact and Professional Recommendation
+
+Our family has now endured nearly four years of housing-related stress across two consecutive Crest Nicholson properties. Our son was 10 years old when we first moved into a Crest property. He will be 14 next month. His formative years have been overshadowed by construction defects, broken promises, and the stress of watching his parents fight for basic building standards.
+
+This prolonged ordeal has necessitated ongoing medical intervention and support. Our GP, having observed the cumulative impact of:
+- Fighting for basic building standards to be met across two properties
+- Living with structural defects and uncertainty
+- The repeated pattern of denial and delay
+- The toll on our children during crucial developmental years
+
+Is now preparing formal documentation explicitly recommending that our family be removed from this environment for our wellbeing. The medical advice is clear: this situation must end, and based on the precedent at 25 Abbots Road, a buyback represents the cleanest break for all parties.
+
+The fact that we have been forced to seek medical support simply to have our home built to the correct standards is, in itself, a damning indictment of this process.
 
 ## The Inevitable Trajectory of Public Disclosure
 
