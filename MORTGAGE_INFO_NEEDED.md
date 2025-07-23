@@ -7,6 +7,7 @@
 - [x] Loan payments per month: £0
 - [x] Other debt payments per month: £0
 - [x] Bed contract: £161/month (ends December 2025 - 5 payments remaining = £805 total)
+- [x] Car payment: £250/month
 
 ## Employment Details
 - [x] Employment Status: Limited Company + Umbrella arrangement
@@ -40,9 +41,9 @@
 
 ## Property Details (for new purchase)
 - [x] Is property a new build? No
-- [x] Purchase Price: In negotiation (approx £468k based on deposit/mortgage)
-- [x] Deposit Amount: £134,000 (approx)
-- [x] Mortgage Required: £334,000 (approx)
+- [x] Purchase Price: £483,000 (offer about to be made - seller's lowest price)
+- [x] Deposit Amount: £223,000 (from sale equity)
+- [x] Mortgage Required: £260,000 (porting £477,000 existing mortgage)
 
 ## Notes
 - Current property situation: NHOS upheld complaint, Crest must fix structural defects

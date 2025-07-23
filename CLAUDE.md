@@ -411,6 +411,16 @@ The campaign represents an escalation from documentation to active public pressu
    - Charlie Joseph remediation requirements
    - CEO/Chairman buyback hint
    - No longer urgent given escape plan
+
+### TA6 Form Disclosure Strategy (January 2025)
+**Recommended wording**: "Following the repair of a cosmetic hairline render crack, a procedural disagreement with the developer was resolved and formally concluded via the New Homes Ombudsman."
+
+**Why this works**:
+- Frames crack as cosmetic and repaired
+- NHOS complaint becomes "procedural disagreement" 
+- Suggests matter is closed
+- Completely truthful while minimizing buyer concern
+- See `TA6_DISCLOSURE_OPTION.md` for full analysis
 ### New Strategic Reality - THE ESCAPE PLAN
 With portable mortgage and £700k buyer:
 1. **Sell 10 Colt View** without mentioning NHOS/issues (MJA says cosmetic only)

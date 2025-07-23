@@ -10,8 +10,8 @@
    - House is perfectly sellable
 
 2. **New Property**:
-   - You've offered £478,500 on new house
-   - Awaiting seller's response
+   - You're offering £483,000 on new house (seller's lowest price)
+   - About to submit offer
    - Mortgage is portable (Vodafone default won't affect it)
 
 ### NHOS Case (NHOS-2024-000512)
